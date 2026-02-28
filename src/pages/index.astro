@@ -42,6 +42,13 @@ const totalCount = portfolios.length;
       <p class="mx-auto mt-5 max-w-xl text-lg leading-relaxed text-zinc-400">
         <span class="font-semibold text-white">{totalCount.toLocaleString()}</span> handpicked portfolio sites from the developer community. Find inspiration for your next personal site.
       </p>
+      <button
+        id="random-btn"
+        class="mt-8 inline-flex items-center gap-2 rounded-lg bg-gradient-to-r from-violet-600 to-fuchsia-600 px-5 py-2.5 text-sm font-semibold text-white shadow-lg shadow-violet-500/25 transition-all hover:shadow-violet-500/40 hover:brightness-110 active:scale-95"
+      >
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
+        Random Portfolio
+      </button>
     </div>
   </section>
 
@@ -119,6 +126,13 @@ const totalCount = portfolios.length;
     </div>
   </footer>
 </Layout>
+
+<script is:inline define:vars={{ urls: portfolios.map(p => p.url) }}>
+  document.getElementById('random-btn').addEventListener('click', () => {
+    const url = urls[Math.floor(Math.random() * urls.length)];
+    window.open(url, '_blank');
+  });
+</script>
 
 <script>
   const input = document.getElementById('search') as HTMLInputElement;
