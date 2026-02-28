@@ -1,11 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { fetchPortfolios, groupByLetter } from '../lib/portfolios';
+import { fetchPortfolios, groupByLetter, getTopStacks, getStackColor } from '../lib/portfolios';
 
 const portfolios = await fetchPortfolios();
 const grouped = groupByLetter(portfolios);
 const letters = [...grouped.keys()];
 const totalCount = portfolios.length;
+const topStacks = getTopStacks(portfolios, 15);
 ---
 
 <Layout title={`Dev Portfolios — ${totalCount} Developer Portfolio Sites`}>
@@ -52,7 +53,25 @@ const totalCount = portfolios.length;
     </div>
   </section>
 
-  <!-- Search + Letter Nav -->
+  <!-- Browse by Stack Section -->
+  <section class="border-b border-zinc-800/40 bg-zinc-950">
+    <div class="mx-auto max-w-6xl px-6 py-8">
+      <h2 class="mb-4 text-lg font-bold text-zinc-200">Browse by Technology Stack</h2>
+      <div class="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-5">
+        {topStacks.slice(0, 25).map(({ stack, count }) => (
+          <a
+            href={`/stack/${stack.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '')}`}
+            class="group flex items-center justify-between rounded-lg border border-zinc-800 bg-zinc-900/40 px-4 py-3 transition-all hover:border-violet-500/40 hover:bg-zinc-900/80"
+          >
+            <span class="text-sm font-semibold text-zinc-300 group-hover:text-violet-300">{stack}</span>
+            <span class="text-xs text-zinc-600 group-hover:text-zinc-500">{count}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Search + Stack Filters + Letter Nav -->
   <div class="sticky top-[65px] z-40 border-b border-zinc-800/40 bg-zinc-950/90 backdrop-blur-xl">
     <div class="mx-auto max-w-6xl px-6 py-4">
       <div class="relative">
@@ -65,6 +84,31 @@ const totalCount = portfolios.length;
         />
         <span id="search-count" class="absolute right-3.5 top-1/2 -translate-y-1/2 text-xs font-medium text-zinc-500 hidden"></span>
       </div>
+      
+      <!-- Stack Filter Bar -->
+      <div class="mt-3 flex items-center gap-2">
+        <span class="shrink-0 text-xs font-semibold text-zinc-500">Filter:</span>
+        <div class="flex-1 overflow-x-auto">
+          <div id="stack-filters" class="flex gap-1.5 pb-1">
+            {topStacks.map(({ stack }) => (
+              <button
+                type="button"
+                data-stack={stack.toLowerCase()}
+                class="stack-filter shrink-0 rounded-md border border-zinc-800 bg-zinc-900/60 px-2.5 py-1 text-xs font-medium text-zinc-400 transition-all hover:border-zinc-700 hover:text-zinc-300"
+              >
+                {stack}
+              </button>
+            ))}
+          </div>
+        </div>
+        <button
+          id="clear-filters"
+          class="shrink-0 rounded-md border border-zinc-800 bg-zinc-900/60 px-2.5 py-1 text-xs font-medium text-zinc-500 transition-all hover:border-zinc-700 hover:text-zinc-400 hidden"
+        >
+          Clear
+        </button>
+      </div>
+
       <div class="mt-3 flex flex-wrap gap-1">
         {letters.map((letter) => (
           <a
@@ -87,25 +131,96 @@ const totalCount = portfolios.length;
           <span class="rounded-full bg-zinc-900 px-2 py-0.5 text-xs font-medium text-zinc-500">{items.length}</span>
           <div class="h-px flex-1 bg-zinc-800/60"></div>
         </div>
-        <div class="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3">
+        <div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {items.map((p) => (
-            <a
-              href={p.url}
-              target="_blank"
-              rel="noopener noreferrer"
+            <div
               class="portfolio-card group flex flex-col rounded-lg border border-zinc-800/50 bg-zinc-900/30 p-4 transition-all hover:border-zinc-700 hover:bg-zinc-900/60"
               data-name={p.name.toLowerCase()}
-              data-title={p.title.toLowerCase()}
+              data-title={(p.title || '').toLowerCase()}
+              data-stack={(p.stack || []).map(s => s.toLowerCase()).join(',')}
             >
-              <span class="text-sm font-semibold text-zinc-200 group-hover:text-white">{p.name}</span>
-              {p.title && (
-                <span class="mt-0.5 truncate text-xs text-zinc-500">{p.title}</span>
+              <a
+                href={p.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex-1"
+              >
+                <span class="text-sm font-semibold text-zinc-200 group-hover:text-white">{p.name}</span>
+                {p.title && (
+                  <span class="mt-0.5 block truncate text-xs text-zinc-500">{p.title}</span>
+                )}
+                
+                {/* Tech Stack Pills */}
+                {p.stack && p.stack.length > 0 && (
+                  <div class="mt-2 flex flex-wrap gap-1">
+                    {p.stack.slice(0, 5).map((tech) => (
+                      <span class={`rounded border px-1.5 py-0.5 text-[10px] font-medium ${getStackColor(tech)}`}>
+                        {tech}
+                      </span>
+                    ))}
+                    {p.stack.length > 5 && (
+                      <span class="rounded border border-zinc-800 bg-zinc-800/40 px-1.5 py-0.5 text-[10px] font-medium text-zinc-500">
+                        +{p.stack.length - 5}
+                      </span>
+                    )}
+                  </div>
+                )}
+
+                {/* Location & Experience Row */}
+                <div class="mt-2 flex flex-wrap items-center gap-2 text-[11px] text-zinc-600">
+                  {p.location && (
+                    <span class="flex items-center gap-1">
+                      <svg class="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                      {p.location}
+                    </span>
+                  )}
+                  {p.experience && (
+                    <span class="rounded bg-violet-500/10 px-1.5 py-0.5 text-[10px] font-medium text-violet-400">
+                      {p.experience}
+                    </span>
+                  )}
+                </div>
+              </a>
+
+              {/* Social Icons Row */}
+              {(p.github.length > 0 || p.linkedin || p.twitter) && (
+                <div class="mt-3 flex items-center gap-2 border-t border-zinc-800/50 pt-3">
+                  {p.github.length > 0 && (
+                    <a
+                      href={p.github[0].startsWith('http') ? p.github[0] : `https://github.com/${p.github[0]}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="flex h-6 w-6 items-center justify-center rounded text-zinc-500 transition-colors hover:bg-zinc-800 hover:text-white"
+                      title="GitHub"
+                    >
+                      <svg class="h-3.5 w-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+                    </a>
+                  )}
+                  {p.linkedin && (
+                    <a
+                      href={p.linkedin.startsWith('http') ? p.linkedin : `https://linkedin.com/in/${p.linkedin}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="flex h-6 w-6 items-center justify-center rounded text-zinc-500 transition-colors hover:bg-zinc-800 hover:text-white"
+                      title="LinkedIn"
+                    >
+                      <svg class="h-3.5 w-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                    </a>
+                  )}
+                  {p.twitter && (
+                    <a
+                      href={p.twitter.startsWith('http') ? p.twitter : `https://twitter.com/${p.twitter}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="flex h-6 w-6 items-center justify-center rounded text-zinc-500 transition-colors hover:bg-zinc-800 hover:text-white"
+                      title="Twitter/X"
+                    >
+                      <svg class="h-3.5 w-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                    </a>
+                  )}
+                </div>
               )}
-              <span class="mt-1.5 flex items-center gap-1 truncate text-[11px] text-zinc-600">
-                <svg class="h-3 w-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"/></svg>
-                {p.url.replace(/^https?:\/\//, '').replace(/\/$/, '')}
-              </span>
-            </a>
+            </div>
           ))}
         </div>
       </section>
@@ -139,15 +254,29 @@ const totalCount = portfolios.length;
   const countEl = document.getElementById('search-count') as HTMLSpanElement;
   const cards = document.querySelectorAll('.portfolio-card') as NodeListOf<HTMLElement>;
   const sections = document.querySelectorAll('.letter-section') as NodeListOf<HTMLElement>;
+  const stackFilters = document.querySelectorAll('.stack-filter') as NodeListOf<HTMLButtonElement>;
+  const clearBtn = document.getElementById('clear-filters') as HTMLButtonElement;
+  
+  let activeStacks = new Set<string>();
 
-  input.addEventListener('input', () => {
+  // Search functionality
+  function updateDisplay() {
     const q = input.value.toLowerCase().trim();
     let visible = 0;
 
     cards.forEach((card) => {
       const name = card.dataset.name || '';
       const title = card.dataset.title || '';
-      const match = !q || name.includes(q) || title.includes(q);
+      const cardStacks = (card.dataset.stack || '').split(',').filter(Boolean);
+      
+      // Match search query
+      const matchesSearch = !q || name.includes(q) || title.includes(q);
+      
+      // Match stack filters (AND logic)
+      const matchesStacks = activeStacks.size === 0 || 
+        [...activeStacks].every(stack => cardStacks.includes(stack));
+      
+      const match = matchesSearch && matchesStacks;
       card.style.display = match ? '' : 'none';
       if (match) visible++;
     });
@@ -157,11 +286,45 @@ const totalCount = portfolios.length;
       section.style.display = vis.length ? '' : 'none';
     });
 
-    if (q) {
+    if (q || activeStacks.size > 0) {
       countEl.textContent = `${visible} found`;
       countEl.classList.remove('hidden');
     } else {
       countEl.classList.add('hidden');
     }
+    
+    // Show/hide clear button
+    if (activeStacks.size > 0) {
+      clearBtn.classList.remove('hidden');
+    } else {
+      clearBtn.classList.add('hidden');
+    }
+  }
+
+  input.addEventListener('input', updateDisplay);
+
+  // Stack filter functionality
+  stackFilters.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const stack = btn.dataset.stack!;
+      
+      if (activeStacks.has(stack)) {
+        activeStacks.delete(stack);
+        btn.classList.remove('!border-violet-500', '!bg-violet-500/20', '!text-violet-300');
+      } else {
+        activeStacks.add(stack);
+        btn.classList.add('!border-violet-500', '!bg-violet-500/20', '!text-violet-300');
+      }
+      
+      updateDisplay();
+    });
+  });
+
+  clearBtn.addEventListener('click', () => {
+    activeStacks.clear();
+    stackFilters.forEach(btn => {
+      btn.classList.remove('!border-violet-500', '!bg-violet-500/20', '!text-violet-300');
+    });
+    updateDisplay();
   });
 </script>
