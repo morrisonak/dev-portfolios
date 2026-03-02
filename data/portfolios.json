@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-02-28T21:53:34.966Z",
-    "total": 1519,
-    "successful": 1170,
-    "failed": 349,
-    "withEmail": 507,
-    "withGithub": 755,
-    "withStack": 961,
-    "withLinkedin": 668,
-    "withTwitter": 358
+    "scrapedAt": "2026-03-02T17:18:38.475Z",
+    "total": 1518,
+    "successful": 1173,
+    "failed": 345,
+    "withEmail": 509,
+    "withGithub": 757,
+    "withStack": 964,
+    "withLinkedin": 670,
+    "withTwitter": 359
   },
   "portfolios": [
     {
@@ -6861,13 +6861,6 @@
       "status": "ok"
     },
     {
-      "name": "Books Of World",
-      "url": "https://books.themukesh.com",
-      "listedTitle": "",
-      "status": "error",
-      "error": "HTTP 404"
-    },
-    {
       "name": "Boris Edison",
       "url": "https://borisedison.in",
       "listedTitle": "",
@@ -11086,13 +11079,6 @@
       "title": "Esteban Mansart | Portfolio",
       "location": null,
       "status": "ok"
-    },
-    {
-      "name": "Eswar Sai Korrapati",
-      "url": "https://eswarsaiportfolio.org",
-      "listedTitle": "Ai/Ml Engineer",
-      "status": "error",
-      "error": "HTTP 404"
     },
     {
       "name": "Eyad Ahmed",
@@ -16894,13 +16880,6 @@
       "status": "ok"
     },
     {
-      "name": "Krutarth Parmar",
-      "url": "https://kayparmar.com",
-      "listedTitle": "",
-      "status": "error",
-      "error": "HTTP 525"
-    },
-    {
       "name": "Ksv Muralidhar",
       "url": "https://ksvmuralidhar.in",
       "listedTitle": "",
@@ -21975,13 +21954,6 @@
       "title": "Nidal Dev",
       "location": "brainstorming ideas to sketching examples to executing a visually appealing and fully functional web",
       "status": "ok"
-    },
-    {
-      "name": "Nihal Ahmed Nariyam",
-      "url": "https://nihalahmed.in",
-      "listedTitle": "",
-      "status": "error",
-      "error": "This operation was aborted"
     },
     {
       "name": "Nihar Das",
@@ -29535,6 +29507,70 @@
       "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
+    },
+    {
+      "name": "Elon Feng",
+      "url": "https://dinq.me/elonfeng",
+      "listedTitle": "AI Engineer",
+      "emails": [
+        "elonf@dinqlabs.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "TypeScript"
+      ],
+      "experience": null,
+      "title": "Elon Feng | dinq.me",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Joop Munguia",
+      "url": "https://my-portfolio1-nine-sage.vercel.app",
+      "listedTitle": "Full Stack Developer | cybersecurity Enthusiast",
+      "emails": [],
+      "github": [
+        "https://github.com/Alexander2514"
+      ],
+      "linkedin": "https://www.linkedin.com/in/joop-munguia-29924a350",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Flask"
+      ],
+      "experience": null,
+      "title": "Portfolio | Alex",
+      "location": "deployment to production, every detail matters",
+      "status": "ok"
+    },
+    {
+      "name": "Vishal Bhosle",
+      "url": "https://vishalb.dev",
+      "listedTitle": "Expert Full Stack Software Developer",
+      "emails": [
+        "contact@vishalb.dev"
+      ],
+      "github": [
+        "https://github.com/zerocoolvishal"
+      ],
+      "linkedin": "https://www.linkedin.com/in/vishal-bhosle",
+      "twitter": "https://twitter.com/vishalvbhosle",
+      "stack": [
+        "Go",
+        "PHP",
+        "Firebase",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Vishal Bhosle - Fullstack Developer",
+      "location": "responsive web applications to",
+      "status": "ok"
     }
   ]
 }

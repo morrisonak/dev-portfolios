@@ -3,7 +3,6 @@ name: Build & Deploy
 on:
   push:
     branches: [master]
-  # Check upstream every 6 hours for new merged PRs
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
@@ -11,6 +10,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -20,9 +21,21 @@ jobs:
 
       - run: npm ci
 
+      # Delta scrape — only fetch new/removed sites
+      - name: Scrape new portfolios
+        run: node scripts/scrape-delta.mjs
+
+      # Commit updated data if changed
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/portfolios.json
+          git diff --staged --quiet && echo "No data changes" || git commit -m "data: auto-update portfolio data [skip ci]" && git push
+
       - run: npm run build
 
-      - name: Deploy to Cloudflare Workers
+      - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
