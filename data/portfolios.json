@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-02T17:18:38.475Z",
-    "total": 1518,
-    "successful": 1173,
+    "scrapedAt": "2026-03-03T12:13:17.021Z",
+    "total": 1520,
+    "successful": 1175,
     "failed": 345,
     "withEmail": 509,
-    "withGithub": 757,
-    "withStack": 964,
-    "withLinkedin": 670,
-    "withTwitter": 359
+    "withGithub": 758,
+    "withStack": 966,
+    "withLinkedin": 671,
+    "withTwitter": 360
   },
   "portfolios": [
     {
@@ -29570,6 +29570,62 @@
       "experience": null,
       "title": "Vishal Bhosle - Fullstack Developer",
       "location": "responsive web applications to",
+      "status": "ok"
+    },
+    {
+      "name": "Abbas Raza",
+      "url": "https://abbasraza.dev",
+      "listedTitle": "Software Engineer | Freelancer | AI & Blockchain Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Abbas Raza | Full Stack Developer &amp; Blockchain Enthusiast",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tushar Kanti Dey",
+      "url": "https://www.tushardevx01.tech/",
+      "listedTitle": "Full Stack Developer and DevOps Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/tusharxhub",
+        "https://github.com/Tusharxhub"
+      ],
+      "linkedin": "https://linkedin.com/in/tushar-kanti-dey",
+      "twitter": "https://twitter.com/tushardevX01",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Tushar Kanti Dey | Full Stack Developer &amp; DevOps Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
