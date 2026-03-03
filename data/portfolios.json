@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-03T12:13:17.021Z",
+    "scrapedAt": "2026-03-03T18:17:05.433Z",
     "total": 1520,
     "successful": 1175,
     "failed": 345,
-    "withEmail": 509,
-    "withGithub": 758,
+    "withEmail": 510,
+    "withGithub": 757,
     "withStack": 966,
-    "withLinkedin": 671,
-    "withTwitter": 360
+    "withLinkedin": 670,
+    "withTwitter": 359
   },
   "portfolios": [
     {
@@ -29603,28 +29603,24 @@
       "status": "ok"
     },
     {
-      "name": "Tushar Kanti Dey",
-      "url": "https://www.tushardevx01.tech/",
-      "listedTitle": "Full Stack Developer and DevOps Engineer",
-      "emails": [],
-      "github": [
-        "https://github.com/tusharxhub",
-        "https://github.com/Tusharxhub"
+      "name": "Eric Zhu",
+      "url": "https://eric4048.framer.website",
+      "listedTitle": "",
+      "emails": [
+        "zbaoliang4048@gmail.com",
+        "your@email.com"
       ],
-      "linkedin": "https://linkedin.com/in/tushar-kanti-dey",
-      "twitter": "https://twitter.com/tushardevX01",
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
       "stack": [
         "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Docker",
-        "Kubernetes"
+        "Spring",
+        "MySQL",
+        "WordPress"
       ],
       "experience": null,
-      "title": "Tushar Kanti Dey | Full Stack Developer &amp; DevOps Engineer",
+      "title": "Eric4048 | Homepage",
       "location": null,
       "status": "ok"
     }
