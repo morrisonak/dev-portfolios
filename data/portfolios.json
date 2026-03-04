@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-03T18:17:05.433Z",
-    "total": 1520,
-    "successful": 1175,
+    "scrapedAt": "2026-03-04T12:12:53.484Z",
+    "total": 1522,
+    "successful": 1177,
     "failed": 345,
-    "withEmail": 510,
-    "withGithub": 757,
-    "withStack": 966,
-    "withLinkedin": 670,
+    "withEmail": 511,
+    "withGithub": 758,
+    "withStack": 967,
+    "withLinkedin": 671,
     "withTwitter": 359
   },
   "portfolios": [
@@ -29621,6 +29621,52 @@
       ],
       "experience": null,
       "title": "Eric4048 | Homepage",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abdullah Warraich",
+      "url": "https://abdullah-warraich-ch.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Abdullah",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Valentin Lefrançois",
+      "url": "https://valentinlefrancois.dev",
+      "listedTitle": "Senior Full Stack Engineer",
+      "emails": [
+        "contact@valentin-lefrancois.dev"
+      ],
+      "github": [
+        "https://github.com/valentinlefrancois"
+      ],
+      "linkedin": "https://www.linkedin.com/in/valentin-lefrancois",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Valentin Lefrançois - Software Engineer",
       "location": null,
       "status": "ok"
     }
