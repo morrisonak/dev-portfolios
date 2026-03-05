@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-05T12:14:01.889Z",
-    "total": 1528,
-    "successful": 1185,
-    "failed": 343,
-    "withEmail": 513,
-    "withGithub": 762,
-    "withStack": 971,
-    "withLinkedin": 674,
+    "scrapedAt": "2026-03-05T18:38:36.280Z",
+    "total": 1531,
+    "successful": 1187,
+    "failed": 344,
+    "withEmail": 515,
+    "withGithub": 764,
+    "withStack": 973,
+    "withLinkedin": 675,
     "withTwitter": 361
   },
   "portfolios": [
@@ -29812,6 +29812,60 @@
       "title": "Sohanuzzaman Soad's Portfolio",
       "location": null,
       "status": "ok"
+    },
+    {
+      "name": "Befikir Shimelis",
+      "url": "https://squidwardcodes.web.app/",
+      "listedTitle": "Full Stack Developer | Software Engineering Student",
+      "emails": [
+        "befikirshimelis20@gmail.com"
+      ],
+      "github": [
+        "https://github.com/squidward404"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Firebase",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Befikir Shimelis | Building Digital Experiences",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Paul Henry Atienza",
+      "url": "https://www.paulatienza.dev",
+      "listedTitle": "Software Engineer | Enterprise Java Developer",
+      "emails": [
+        "atienzapaulhenry@gmail.com"
+      ],
+      "github": [
+        "https://github.com/phatienza"
+      ],
+      "linkedin": "https://linkedin.com/in/paul-henry-atienza",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "experience": null,
+      "title": "Paul Henry Atienza | Backend Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Souilah Moncef",
+      "url": "https://moncef37i.github.io/portfolio/",
+      "listedTitle": "Full Stack Web Developer | Algeria",
+      "status": "error",
+      "error": "HTTP 404"
     }
   ]
 }
