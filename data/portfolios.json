@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-04T20:47:52.441Z",
-    "total": 1523,
-    "successful": 1178,
-    "failed": 345,
-    "withEmail": 511,
-    "withGithub": 759,
-    "withStack": 967,
-    "withLinkedin": 671,
-    "withTwitter": 359
+    "scrapedAt": "2026-03-05T12:14:01.889Z",
+    "total": 1528,
+    "successful": 1185,
+    "failed": 343,
+    "withEmail": 513,
+    "withGithub": 762,
+    "withStack": 971,
+    "withLinkedin": 674,
+    "withTwitter": 361
   },
   "portfolios": [
     {
@@ -28025,20 +28025,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Soham Sarkar",
-      "url": "https://sohamsarkar.com",
-      "listedTitle": "Builder | Tech | Product",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Sohanuzzaman Soad",
-      "url": "https://ssoad.github.io",
-      "listedTitle": "Software Engineer | Mobile App Developer | Ai Engineer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Sonu Hansda",
       "url": "https://sonu-hansda.netlify.app",
       "listedTitle": "Full Stack Developer",
@@ -29683,6 +29669,147 @@
       "stack": [],
       "experience": null,
       "title": "Luca Félix",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aahana Bobade",
+      "url": "https://aahanabobade-portfolio.vercel.app/",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Aahana Bobade | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ayush Pradhan",
+      "url": "https://ayushpradhan29.netlify.app/",
+      "listedTitle": "Full Stack Developer | AI-ML Engineer",
+      "emails": [
+        "ayushpradhan2949@gmail.com"
+      ],
+      "github": [
+        "https://github.com/AyushPrad2907"
+      ],
+      "linkedin": "https://linkedin.com/in/ayush-pradhan-a8a7b91ab",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Ayush Pradhan — Developer & AI Engineer",
+      "location": "reloading, submits via",
+      "status": "ok"
+    },
+    {
+      "name": "Lamine Neggazi",
+      "url": "https://lamine.cc",
+      "listedTitle": "Full Stack Developer | Algiers",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Lamine",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Soham Mondal",
+      "url": "https://sohammondal.com",
+      "listedTitle": "",
+      "emails": [
+        "contact@sohammondal.com"
+      ],
+      "github": [
+        "https://github.com/sohammondal"
+      ],
+      "linkedin": "https://www.linkedin.com/in/soham-sm-mondal",
+      "twitter": "https://twitter.com/sohammondal_",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Express",
+        "Django",
+        "AWS",
+        "Docker",
+        "React Native"
+      ],
+      "experience": "7+ years",
+      "title": "Soham Mondal | sohammondal | Senior Frontend Engineer",
+      "location": "pixels to pipelines, I",
+      "status": "ok"
+    },
+    {
+      "name": "Soham Penshanwar",
+      "url": "https://thesoham2203.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Soham Penshanwar — AI · Privacy · Innovation",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Soham Sarkar",
+      "url": "https://sohamsarkar.com/",
+      "listedTitle": "Builder | Tech | Product",
+      "emails": [],
+      "github": [
+        "https://github.com/sohhamm"
+      ],
+      "linkedin": "https://linkedin.com/in/sohhamm",
+      "twitter": "https://twitter.com/sohamsarkartech",
+      "stack": [
+        "React",
+        "Svelte",
+        "Astro",
+        "TypeScript",
+        "Go",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Soham Sarkar - Builder | Tech | Product | Software Engineer",
+      "location": "BLR, IN",
+      "status": "ok"
+    },
+    {
+      "name": "Sohanuzzaman Soad",
+      "url": "https://ssoad.github.io/",
+      "listedTitle": "Software Engineer | Mobile App Developer | AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Sohanuzzaman Soad's Portfolio",
       "location": null,
       "status": "ok"
     }
