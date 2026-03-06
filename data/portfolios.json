@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-06T12:12:23.023Z",
-    "total": 1532,
-    "successful": 1188,
+    "scrapedAt": "2026-03-06T18:13:37.984Z",
+    "total": 1534,
+    "successful": 1190,
     "failed": 344,
-    "withEmail": 515,
-    "withGithub": 764,
-    "withStack": 973,
-    "withLinkedin": 675,
-    "withTwitter": 361
+    "withEmail": 516,
+    "withGithub": 766,
+    "withStack": 975,
+    "withLinkedin": 677,
+    "withTwitter": 363
   },
   "portfolios": [
     {
@@ -29878,6 +29878,71 @@
       "stack": [],
       "experience": null,
       "title": "Katey Philip - Frontend Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rameshwar Bhagwat",
+      "url": "https://www.rameshwarbhagwat.me",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "rameshwarbhagwat019@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Rameshwar-bhagwat10",
+        "https://github.com/yourusername"
+      ],
+      "linkedin": "https://linkedin.com/in/rameshwar-bhagwat",
+      "twitter": "https://twitter.com/Rameshwarbhagwat",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": "5+ years",
+      "title": "Rameshwar Bhagwat | Full Stack &amp; AI Developer",
+      "location": "Yeola, Maharashtra, India",
+      "status": "ok"
+    },
+    {
+      "name": "Stuart Blackler",
+      "url": "https://codewithstu.tv",
+      "listedTitle": "Principal Software Engineer | AWS | .NET",
+      "emails": [],
+      "github": [
+        "https://github.com/Im5tu"
+      ],
+      "linkedin": "https://www.linkedin.com/in/codewithstu",
+      "twitter": "https://x.com/CodeWithStu",
+      "stack": [
+        "Go",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Stuart Blackler | Principal Engineer - .NET, AWS &amp; Cloud Architecture",
       "location": null,
       "status": "ok"
     }
