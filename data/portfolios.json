@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-05T18:38:36.280Z",
-    "total": 1531,
-    "successful": 1187,
+    "scrapedAt": "2026-03-06T12:12:23.023Z",
+    "total": 1532,
+    "successful": 1188,
     "failed": 344,
     "withEmail": 515,
     "withGithub": 764,
@@ -29866,6 +29866,20 @@
       "listedTitle": "Full Stack Web Developer | Algeria",
       "status": "error",
       "error": "HTTP 404"
+    },
+    {
+      "name": "Katey Philip",
+      "url": "https://portfolio-katey.vercel.app/",
+      "listedTitle": "@KateyKwesi",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Katey Philip - Frontend Developer",
+      "location": null,
+      "status": "ok"
     }
   ]
 }
