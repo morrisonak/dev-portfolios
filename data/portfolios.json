@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-06T18:13:37.984Z",
-    "total": 1534,
-    "successful": 1190,
+    "scrapedAt": "2026-03-09T00:26:07.391Z",
+    "total": 1535,
+    "successful": 1191,
     "failed": 344,
-    "withEmail": 516,
+    "withEmail": 517,
     "withGithub": 766,
-    "withStack": 975,
-    "withLinkedin": 677,
+    "withStack": 976,
+    "withLinkedin": 678,
     "withTwitter": 363
   },
   "portfolios": [
@@ -29944,6 +29944,33 @@
       "experience": null,
       "title": "Stuart Blackler | Principal Engineer - .NET, AWS &amp; Cloud Architecture",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Syed Abdul Aman",
+      "url": "https://p-r-e-m-i-u-m.github.io/AmanGenAI/",
+      "listedTitle": "Generative AI Developer | LLMs | Python",
+      "emails": [
+        "amanbaba9404522@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/syedabdul-aman-genai-developer",
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Flask",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "ꜱʏᴇᴅ ᴀʙᴅᴜʟ ᴀᴍᴀɴ | Data Analyst & Generative AI Developer",
+      "location": "raw sources to clean, trusted tables",
       "status": "ok"
     }
   ]
