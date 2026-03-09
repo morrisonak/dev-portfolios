@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-09T00:26:07.391Z",
-    "total": 1535,
-    "successful": 1191,
-    "failed": 344,
-    "withEmail": 517,
-    "withGithub": 766,
-    "withStack": 976,
-    "withLinkedin": 678,
-    "withTwitter": 363
+    "scrapedAt": "2026-03-09T18:18:42.166Z",
+    "total": 1532,
+    "successful": 1189,
+    "failed": 343,
+    "withEmail": 515,
+    "withGithub": 764,
+    "withStack": 974,
+    "withLinkedin": 676,
+    "withTwitter": 361
   },
   "portfolios": [
     {
@@ -9511,31 +9511,6 @@
       "status": "ok"
     },
     {
-      "name": "Deval Daki",
-      "url": "https://deval-portfolio.netlify.app",
-      "listedTitle": "AI/ML Engineer",
-      "emails": [
-        "devaldaki@gmail.com"
-      ],
-      "github": [
-        "https://github.com/devaldaki3"
-      ],
-      "linkedin": "https://www.linkedin.com/in/devaldaki",
-      "twitter": "https://twitter.com/deval_daki",
-      "stack": [
-        "Python",
-        "Flask",
-        "Docker",
-        "MySQL",
-        "Tailwind",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "DEVAL | AI/ML Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Devansh Baghel",
       "url": "https://baghel.dev",
       "listedTitle": "Full Stack Developer",
@@ -10343,45 +10318,6 @@
       "experience": "5+ years",
       "title": "Durgesh Chaudhary - SDE 2 @ Konrad Group | Full Stack Developer",
       "location": "scratch in Figma",
-      "status": "ok"
-    },
-    {
-      "name": "Dushmanta Behera",
-      "url": "https://dushmanta.dev",
-      "listedTitle": "",
-      "emails": [
-        "your@email.com"
-      ],
-      "github": [
-        "https://github.com/dushmanta05",
-        "https://github.com/stalniy",
-        "https://github.com/stanfordnlp",
-        "https://github.com/langchain-ai"
-      ],
-      "linkedin": "https://www.linkedin.com/in/dushmanta05",
-      "twitter": "https://x.com/dushmanta05",
-      "stack": [
-        "React",
-        "Next.js",
-        "Astro",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Tailwind",
-        "GraphQL"
-      ],
-      "experience": null,
-      "title": "Dushmanta | Full-Stack Developer Portfolio",
-      "location": "languages to",
       "status": "ok"
     },
     {
@@ -17656,13 +17592,6 @@
       "title": "Lisa Blunt | ENTER",
       "location": null,
       "status": "ok"
-    },
-    {
-      "name": "Lisa Savoie",
-      "url": "http://lscodes.com",
-      "listedTitle": "",
-      "status": "error",
-      "error": "HTTP 404"
     },
     {
       "name": "Liz Lam",
@@ -29673,51 +29602,6 @@
       "status": "ok"
     },
     {
-      "name": "Aahana Bobade",
-      "url": "https://aahanabobade-portfolio.vercel.app/",
-      "listedTitle": "Software Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Aahana Bobade | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Ayush Pradhan",
-      "url": "https://ayushpradhan29.netlify.app/",
-      "listedTitle": "Full Stack Developer | AI-ML Engineer",
-      "emails": [
-        "ayushpradhan2949@gmail.com"
-      ],
-      "github": [
-        "https://github.com/AyushPrad2907"
-      ],
-      "linkedin": "https://linkedin.com/in/ayush-pradhan-a8a7b91ab",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "Flask",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Firebase"
-      ],
-      "experience": null,
-      "title": "Ayush Pradhan — Developer & AI Engineer",
-      "location": "reloading, submits via",
-      "status": "ok"
-    },
-    {
       "name": "Lamine Neggazi",
       "url": "https://lamine.cc",
       "listedTitle": "Full Stack Developer | Algiers",
@@ -29774,71 +29658,6 @@
       "status": "ok"
     },
     {
-      "name": "Soham Sarkar",
-      "url": "https://sohamsarkar.com/",
-      "listedTitle": "Builder | Tech | Product",
-      "emails": [],
-      "github": [
-        "https://github.com/sohhamm"
-      ],
-      "linkedin": "https://linkedin.com/in/sohhamm",
-      "twitter": "https://twitter.com/sohamsarkartech",
-      "stack": [
-        "React",
-        "Svelte",
-        "Astro",
-        "TypeScript",
-        "Go",
-        "PostgreSQL"
-      ],
-      "experience": null,
-      "title": "Soham Sarkar - Builder | Tech | Product | Software Engineer",
-      "location": "BLR, IN",
-      "status": "ok"
-    },
-    {
-      "name": "Sohanuzzaman Soad",
-      "url": "https://ssoad.github.io/",
-      "listedTitle": "Software Engineer | Mobile App Developer | AI Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Sohanuzzaman Soad's Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Befikir Shimelis",
-      "url": "https://squidwardcodes.web.app/",
-      "listedTitle": "Full Stack Developer | Software Engineering Student",
-      "emails": [
-        "befikirshimelis20@gmail.com"
-      ],
-      "github": [
-        "https://github.com/squidward404"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Firebase",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Befikir Shimelis | Building Digital Experiences",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Paul Henry Atienza",
       "url": "https://www.paulatienza.dev",
       "listedTitle": "Software Engineer | Enterprise Java Developer",
@@ -29866,20 +29685,6 @@
       "listedTitle": "Full Stack Web Developer | Algeria",
       "status": "error",
       "error": "HTTP 404"
-    },
-    {
-      "name": "Katey Philip",
-      "url": "https://portfolio-katey.vercel.app/",
-      "listedTitle": "@KateyKwesi",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Katey Philip - Frontend Developer",
-      "location": null,
-      "status": "ok"
     },
     {
       "name": "Rameshwar Bhagwat",
@@ -29971,6 +29776,131 @@
       "experience": null,
       "title": "ꜱʏᴇᴅ ᴀʙᴅᴜʟ ᴀᴍᴀɴ | Data Analyst & Generative AI Developer",
       "location": "raw sources to clean, trusted tables",
+      "status": "ok"
+    },
+    {
+      "name": "Aahana Bobade",
+      "url": "https://aahanabobade-portfolio.vercel.app",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Aahana Bobade | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ayush Pradhan",
+      "url": "https://ayushpradhan29.netlify.app",
+      "listedTitle": "Full Stack Developer | AI-ML Engineer",
+      "emails": [
+        "ayushpradhan2949@gmail.com"
+      ],
+      "github": [
+        "https://github.com/AyushPrad2907"
+      ],
+      "linkedin": "https://linkedin.com/in/ayush-pradhan-a8a7b91ab",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Ayush Pradhan — Developer & AI Engineer",
+      "location": "reloading, submits via",
+      "status": "ok"
+    },
+    {
+      "name": "Befikir Shimelis",
+      "url": "https://squidwardcodes.web.app",
+      "listedTitle": "Full Stack Developer | Software Engineering Student",
+      "emails": [
+        "befikirshimelis20@gmail.com"
+      ],
+      "github": [
+        "https://github.com/squidward404"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Firebase",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Befikir Shimelis | Building Digital Experiences",
+      "location": "any device",
+      "status": "ok"
+    },
+    {
+      "name": "Katey Philip",
+      "url": "https://portfolio-katey.vercel.app",
+      "listedTitle": "Frontend Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Katey Philip - Frontend Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Soham Sarkar",
+      "url": "https://sohamsarkar.com",
+      "listedTitle": "Builder | Tech | Product",
+      "emails": [],
+      "github": [
+        "https://github.com/sohhamm"
+      ],
+      "linkedin": "https://linkedin.com/in/sohhamm",
+      "twitter": "https://twitter.com/sohamsarkartech",
+      "stack": [
+        "React",
+        "Svelte",
+        "Astro",
+        "TypeScript",
+        "Go",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Soham Sarkar - Builder | Tech | Product | Software Engineer",
+      "location": "BLR, IN",
+      "status": "ok"
+    },
+    {
+      "name": "Sohanuzzaman Soad",
+      "url": "https://ssoad.github.io",
+      "listedTitle": "Software Engineer | Mobile App Developer | AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Sohanuzzaman Soad's Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
