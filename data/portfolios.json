@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-10T00:23:08.241Z",
-    "total": 1533,
-    "successful": 1190,
+    "scrapedAt": "2026-03-10T18:18:08.409Z",
+    "total": 1536,
+    "successful": 1193,
     "failed": 343,
-    "withEmail": 515,
-    "withGithub": 764,
-    "withStack": 975,
-    "withLinkedin": 676,
-    "withTwitter": 361
+    "withEmail": 517,
+    "withGithub": 766,
+    "withStack": 977,
+    "withLinkedin": 678,
+    "withTwitter": 362
   },
   "portfolios": [
     {
@@ -29916,6 +29916,79 @@
       ],
       "experience": null,
       "title": "Moin Sheikh | AI Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Bhushan Zade",
+      "url": "https://bhushanz.netlify.app/",
+      "listedTitle": "Senior Fullstack Developer (Angular, React, NodeJS)",
+      "emails": [
+        "bhushanzade50@gmail.com"
+      ],
+      "github": [
+        "https://github.com/bhushanzade"
+      ],
+      "linkedin": "https://linkedin.com/in/bhushanzade",
+      "twitter": "https://twitter.com/bhushanzade",
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "Astro",
+        "Node.js",
+        "GCP",
+        "Docker",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Open Source Next.js Profile Portfolio - Reusable and Customizable",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Glen Elric Fernandes",
+      "url": "https://www.glenelric.space/",
+      "listedTitle": "Full stack SDE| Data Science Researcher| Student",
+      "emails": [
+        "glenelricfernandes@gmail.com"
+      ],
+      "github": [
+        "https://github.com/GlenElric",
+        "https://github.com/0x5h31d0n",
+        "https://github.com/jeswin2003lobo"
+      ],
+      "linkedin": "https://linkedin.com/in/glen-elric-fernandes",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Flask",
+        "GCP",
+        "Docker",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Glen Elric — Data Science Engineer",
+      "location": "Mangaluru, India",
+      "status": "ok"
+    },
+    {
+      "name": "Gokul",
+      "url": "https://gokul.ink",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Gokul's Digital Canvas",
       "location": null,
       "status": "ok"
     }
