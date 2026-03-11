@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-10T18:18:08.409Z",
-    "total": 1536,
-    "successful": 1193,
+    "scrapedAt": "2026-03-11T12:13:49.395Z",
+    "total": 1538,
+    "successful": 1195,
     "failed": 343,
-    "withEmail": 517,
-    "withGithub": 766,
-    "withStack": 977,
-    "withLinkedin": 678,
+    "withEmail": 518,
+    "withGithub": 767,
+    "withStack": 979,
+    "withLinkedin": 679,
     "withTwitter": 362
   },
   "portfolios": [
@@ -29989,6 +29989,66 @@
       "stack": [],
       "experience": null,
       "title": "Gokul's Digital Canvas",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Chandradithya Janaswami",
+      "url": "https://chandradithya.dev",
+      "listedTitle": "Undergrad, SWE and OSC",
+      "emails": [
+        "adithya.jvsc@gmail.com"
+      ],
+      "github": [
+        "https://github.com/JVSCHANDRADITHYA",
+        "https://github.com/NationalGalleryOfArt",
+        "https://github.com/aden-hive",
+        "https://github.com/omkar-334"
+      ],
+      "linkedin": "https://linkedin.com/in/adithya-jvsc",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Svelte",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Java",
+        "Express",
+        "Spring",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "GraphQL",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Chandradithya Janaswami",
+      "location": "a side experiment to an institutionally funded research project",
+      "status": "ok"
+    },
+    {
+      "name": "Rohit Solanki",
+      "url": "https://rohitsolanki.me",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Rohit Solanki | Full Stack Developer",
       "location": null,
       "status": "ok"
     }
