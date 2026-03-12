@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-11T12:13:49.395Z",
-    "total": 1538,
-    "successful": 1195,
+    "scrapedAt": "2026-03-12T18:19:12.486Z",
+    "total": 1539,
+    "successful": 1196,
     "failed": 343,
     "withEmail": 518,
     "withGithub": 767,
-    "withStack": 979,
+    "withStack": 980,
     "withLinkedin": 679,
     "withTwitter": 362
   },
@@ -30049,6 +30049,22 @@
       ],
       "experience": null,
       "title": "Rohit Solanki | Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ishaan Ray",
+      "url": "https://galaxir.vercel.app",
+      "listedTitle": "Full Stack Developer | AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "Ishaan Ray | GALAXIR",
       "location": null,
       "status": "ok"
     }
