@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-12T18:19:12.486Z",
-    "total": 1539,
-    "successful": 1196,
+    "scrapedAt": "2026-03-13T12:13:39.726Z",
+    "total": 1543,
+    "successful": 1200,
     "failed": 343,
-    "withEmail": 518,
-    "withGithub": 767,
-    "withStack": 980,
-    "withLinkedin": 679,
+    "withEmail": 520,
+    "withGithub": 769,
+    "withStack": 983,
+    "withLinkedin": 681,
     "withTwitter": 362
   },
   "portfolios": [
@@ -30065,6 +30065,100 @@
       ],
       "experience": null,
       "title": "Ishaan Ray | GALAXIR",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Om Takale",
+      "url": "https://omtakale.vercel.app/",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Om Takale",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Subhajit Kar",
+      "url": "https://next-portfolio-tan-ten.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Next.js"
+      ],
+      "experience": null,
+      "title": "Subhajit | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tejas Gupta",
+      "url": "https://www.tejas-gupta.com/",
+      "listedTitle": "",
+      "emails": [
+        "tejas.gupta291@gmail.com"
+      ],
+      "github": [
+        "https://github.com/tejasgupta-dev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/tejasgupta-dev",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "Java",
+        "AWS",
+        "Docker",
+        "MySQL",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Tejas Gupta — Software Engineer",
+      "location": "Pwn College and solve LeetCode problems as a hobby and as a way to sharpen analytical thinking, debu",
+      "status": "ok"
+    },
+    {
+      "name": "Viraj Mavani",
+      "url": "https://virajmavani.dev/",
+      "listedTitle": "",
+      "emails": [
+        "vmavani2@uwo.ca"
+      ],
+      "github": [
+        "https://github.com/Viraj-Mavani"
+      ],
+      "linkedin": "https://linkedin.com/in/viraj-mavani",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Viraj Mavani",
       "location": null,
       "status": "ok"
     }
