@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-13T12:13:39.726Z",
-    "total": 1543,
-    "successful": 1200,
+    "scrapedAt": "2026-03-13T18:12:59.958Z",
+    "total": 1544,
+    "successful": 1201,
     "failed": 343,
     "withEmail": 520,
-    "withGithub": 769,
-    "withStack": 983,
-    "withLinkedin": 681,
-    "withTwitter": 362
+    "withGithub": 770,
+    "withStack": 984,
+    "withLinkedin": 682,
+    "withTwitter": 363
   },
   "portfolios": [
     {
@@ -30159,6 +30159,28 @@
       ],
       "experience": null,
       "title": "Viraj Mavani",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ankur Bag",
+      "url": "https://www.ankurbag.tech/",
+      "listedTitle": "Full Stack Dev with GenAI",
+      "emails": [],
+      "github": [
+        "https://github.com/ankur-bag"
+      ],
+      "linkedin": "https://linkedin.com/in/ankur-bag",
+      "twitter": "https://twitter.com/ankur_bag",
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Ankur Bag | Full Stack Developer &amp; GenAI Builder",
       "location": null,
       "status": "ok"
     }
