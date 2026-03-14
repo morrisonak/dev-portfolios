@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-13T18:12:59.958Z",
-    "total": 1544,
-    "successful": 1201,
+    "scrapedAt": "2026-03-14T12:10:19.100Z",
+    "total": 1546,
+    "successful": 1203,
     "failed": 343,
     "withEmail": 520,
     "withGithub": 770,
-    "withStack": 984,
+    "withStack": 986,
     "withLinkedin": 682,
     "withTwitter": 363
   },
@@ -30181,6 +30181,46 @@
       ],
       "experience": null,
       "title": "Ankur Bag | Full Stack Developer &amp; GenAI Builder",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anup Pradhan",
+      "url": "https://www.anuppradhan.in",
+      "listedTitle": "Full Stack Developer | Terminal Portfolio",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Anup Pradhan | Software Developer &amp; Machine Learning Enthusiast",
+      "location": "Bhubaneswar, Odisha, India",
+      "status": "ok"
+    },
+    {
+      "name": "Sagar Gupta",
+      "url": "https://sagargupta.online/portfolio-react/",
+      "listedTitle": "Cloud Consultant at AWS | Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Sagar Gupta | DevOps & Cloud Consultant at AWS",
       "location": null,
       "status": "ok"
     }
