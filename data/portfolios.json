@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-14T12:10:19.100Z",
-    "total": 1546,
-    "successful": 1203,
+    "scrapedAt": "2026-03-15T12:11:15.209Z",
+    "total": 1547,
+    "successful": 1204,
     "failed": 343,
     "withEmail": 520,
     "withGithub": 770,
@@ -30221,6 +30221,20 @@
       ],
       "experience": null,
       "title": "Sagar Gupta | DevOps & Cloud Consultant at AWS",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ujjwal Soni",
+      "url": "https://ujjwalsoni-portfolio.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Your Portfolio | MERN Stack Developer",
       "location": null,
       "status": "ok"
     }
