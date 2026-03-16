@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-15T18:10:14.075Z",
-    "total": 1537,
-    "successful": 1200,
+    "scrapedAt": "2026-03-16T00:30:05.659Z",
+    "total": 1538,
+    "successful": 1201,
     "failed": 337,
     "withEmail": 518,
     "withGithub": 768,
-    "withStack": 983,
+    "withStack": 984,
     "withLinkedin": 680,
     "withTwitter": 363
   },
@@ -30127,6 +30127,22 @@
       ],
       "experience": null,
       "title": "Viraj Mavani",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Crisbelo Neto",
+      "url": "https://crisbeloneto.github.io",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "CN Devfolio",
       "location": null,
       "status": "ok"
     }
