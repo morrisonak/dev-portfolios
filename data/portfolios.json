@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-16T00:30:05.659Z",
-    "total": 1538,
-    "successful": 1201,
+    "scrapedAt": "2026-03-17T00:26:39.156Z",
+    "total": 1539,
+    "successful": 1202,
     "failed": 337,
     "withEmail": 518,
     "withGithub": 768,
@@ -30143,6 +30143,20 @@
       ],
       "experience": null,
       "title": "CN Devfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Subrat Dwivedi",
+      "url": "https://subratdwivedi.dev",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "ShubOS – Subrat Dwivedi",
       "location": null,
       "status": "ok"
     }
