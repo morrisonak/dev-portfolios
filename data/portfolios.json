@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-17T00:26:39.156Z",
-    "total": 1539,
-    "successful": 1202,
+    "scrapedAt": "2026-03-17T12:18:57.494Z",
+    "total": 1541,
+    "successful": 1204,
     "failed": 337,
-    "withEmail": 518,
-    "withGithub": 768,
-    "withStack": 984,
-    "withLinkedin": 680,
-    "withTwitter": 363
+    "withEmail": 520,
+    "withGithub": 769,
+    "withStack": 986,
+    "withLinkedin": 681,
+    "withTwitter": 364
   },
   "portfolios": [
     {
@@ -30158,6 +30158,64 @@
       "experience": null,
       "title": "ShubOS – Subrat Dwivedi",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Akli Massinissa Sadek",
+      "url": "https://sadoukas.com",
+      "listedTitle": "Full Stack Developer | Freelance Services",
+      "emails": [
+        "votre@email.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Django",
+        "Flask",
+        "Tailwind",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sadoukas — Développeur Full Stack",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aman Rawat",
+      "url": "https://amanrwt.com",
+      "listedTitle": "AI-Native Software Engineer | Frontend Developer",
+      "emails": [
+        "amanrawat4060@gmail.com",
+        "aman@amanrwt.com"
+      ],
+      "github": [
+        "https://github.com/amvn-rwt"
+      ],
+      "linkedin": "https://linkedin.com/in/aman-rwt",
+      "twitter": "https://x.com/amvn_rwt",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Aman Rawat — Software Engineer",
+      "location": "designing distributed backends in Go and Python to building interactive React frontends that feel al",
       "status": "ok"
     }
   ]
