@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-18T12:19:30.652Z",
-    "total": 1544,
-    "successful": 1207,
+    "scrapedAt": "2026-03-18T18:22:46.538Z",
+    "total": 1546,
+    "successful": 1209,
     "failed": 337,
-    "withEmail": 523,
-    "withGithub": 771,
-    "withStack": 989,
-    "withLinkedin": 683,
+    "withEmail": 524,
+    "withGithub": 772,
+    "withStack": 990,
+    "withLinkedin": 684,
     "withTwitter": 364
   },
   "portfolios": [
@@ -30294,6 +30294,41 @@
       ],
       "experience": null,
       "title": "Vishal Sharma | iOS Engineer — FinTech & POS",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Chris Ryczke",
+      "url": "https://www.chrisryczke.com",
+      "listedTitle": "",
+      "emails": [
+        "contact@chrisryczke.com"
+      ],
+      "github": [
+        "https://github.com/SnowmanSixtyFour"
+      ],
+      "linkedin": "https://www.linkedin.com/in/chris-ryczke",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Java"
+      ],
+      "experience": null,
+      "title": "Chris Ryczke",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mwaki Denis",
+      "url": "https://mwakidenis.pages.dev",
+      "listedTitle": "Prompt AI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Mwaki Denis | UI/UX Designer & Software Developer",
       "location": null,
       "status": "ok"
     }
