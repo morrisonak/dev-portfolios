@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-17T12:18:57.494Z",
-    "total": 1541,
-    "successful": 1204,
+    "scrapedAt": "2026-03-18T12:19:30.652Z",
+    "total": 1544,
+    "successful": 1207,
     "failed": 337,
-    "withEmail": 520,
-    "withGithub": 769,
-    "withStack": 986,
-    "withLinkedin": 681,
+    "withEmail": 523,
+    "withGithub": 771,
+    "withStack": 989,
+    "withLinkedin": 683,
     "withTwitter": 364
   },
   "portfolios": [
@@ -30216,6 +30216,85 @@
       "experience": null,
       "title": "Aman Rawat — Software Engineer",
       "location": "designing distributed backends in Go and Python to building interactive React frontends that feel al",
+      "status": "ok"
+    },
+    {
+      "name": "Fernando Morenilla",
+      "url": "https://fmorenil.dev",
+      "listedTitle": "Front End Developer",
+      "emails": [
+        "fmorenilla23@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Fernandomr23"
+      ],
+      "linkedin": "https://www.linkedin.com/in/fernando-morenilla",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Fernando Morenilla - Frontend Developer | React &amp; TypeScript",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Johnson Siziba",
+      "url": "https://www.johnsonsiziba.com/",
+      "listedTitle": "",
+      "emails": [
+        "jsiziba.flux@gmail.com"
+      ],
+      "github": [
+        "https://github.com/JSiziba"
+      ],
+      "linkedin": "https://www.linkedin.com/in/johnson-siziba-804a091a3",
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Johnson Siziba",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vishal Sharma",
+      "url": "https://snick0128.github.io/snick0128/",
+      "listedTitle": "Vishal",
+      "emails": [
+        "snick0128@gmail.com",
+        "you@company.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Go",
+        "Swift",
+        "Kotlin",
+        "Node.js",
+        "MongoDB",
+        "Firebase",
+        "GraphQL",
+        "Flutter",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Vishal Sharma | iOS Engineer — FinTech & POS",
+      "location": null,
       "status": "ok"
     }
   ]
