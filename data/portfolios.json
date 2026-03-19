@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-18T18:22:46.538Z",
-    "total": 1546,
-    "successful": 1209,
+    "scrapedAt": "2026-03-19T00:28:06.632Z",
+    "total": 1547,
+    "successful": 1210,
     "failed": 337,
-    "withEmail": 524,
-    "withGithub": 772,
-    "withStack": 990,
-    "withLinkedin": 684,
-    "withTwitter": 364
+    "withEmail": 525,
+    "withGithub": 773,
+    "withStack": 991,
+    "withLinkedin": 685,
+    "withTwitter": 365
   },
   "portfolios": [
     {
@@ -30330,6 +30330,29 @@
       "experience": null,
       "title": "Mwaki Denis | UI/UX Designer & Software Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Melvin Biju",
+      "url": "https://melvinbiju.vercel.app",
+      "listedTitle": "Full Stack Dev | Graphic Designer",
+      "emails": [
+        "mlvinbiju@gmail.com"
+      ],
+      "github": [
+        "https://github.com/roohiiiit",
+        "https://github.com/mlvinb"
+      ],
+      "linkedin": "https://www.linkedin.com/in/melvin-biju-6593a7351",
+      "twitter": "https://x.com/mlvinbc",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Melvin Biju | Creative Dev",
+      "location": "Kollam, Kerala",
       "status": "ok"
     }
   ]
