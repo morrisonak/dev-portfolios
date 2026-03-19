@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-19T00:28:06.632Z",
-    "total": 1547,
-    "successful": 1210,
-    "failed": 337,
-    "withEmail": 525,
-    "withGithub": 773,
-    "withStack": 991,
-    "withLinkedin": 685,
-    "withTwitter": 365
+    "scrapedAt": "2026-03-19T12:14:24.540Z",
+    "total": 1550,
+    "successful": 1212,
+    "failed": 338,
+    "withEmail": 526,
+    "withGithub": 774,
+    "withStack": 992,
+    "withLinkedin": 686,
+    "withTwitter": 366
   },
   "portfolios": [
     {
@@ -30353,6 +30353,61 @@
       "experience": null,
       "title": "Melvin Biju | Creative Dev",
       "location": "Kollam, Kerala",
+      "status": "ok"
+    },
+    {
+      "name": "Basil Suhail",
+      "url": "https://basilsuhail.com",
+      "listedTitle": "AI Driven Developer | Apps, Data & Finance",
+      "status": "error",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Mamoon Siddiqui",
+      "url": "https://mamoon-siddiqui.vercel.app/",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Mamoon Siddiqui",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Yash Nandvana",
+      "url": "https://yashnandvana.in",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [
+        "contact@yashnandvana.in"
+      ],
+      "github": [
+        "https://github.com/yash-nandvana"
+      ],
+      "linkedin": "https://linkedin.com/in/yash-nandvana",
+      "twitter": "https://x.com/NandvanaYash",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "GraphQL",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Yash Nandvana — Full Stack Developer | MERN, React, Shopify",
+      "location": "Surat, India",
       "status": "ok"
     }
   ]
