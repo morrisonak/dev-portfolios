@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-19T12:14:24.540Z",
+    "scrapedAt": "2026-03-19T18:19:24.854Z",
     "total": 1550,
-    "successful": 1212,
-    "failed": 338,
+    "successful": 1213,
+    "failed": 337,
     "withEmail": 526,
-    "withGithub": 774,
+    "withGithub": 775,
     "withStack": 992,
-    "withLinkedin": 686,
+    "withLinkedin": 687,
     "withTwitter": 366
   },
   "portfolios": [
@@ -27634,13 +27634,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Shaurya Chandhoke",
-      "url": "https://shauryachandhoke.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=portfolio",
-      "listedTitle": "Software Engineer | Machine Learning Engineer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Shefali",
       "url": "https://shefali.dev",
       "listedTitle": "",
@@ -30408,6 +30401,22 @@
       "experience": null,
       "title": "Yash Nandvana — Full Stack Developer | MERN, React, Shopify",
       "location": "Surat, India",
+      "status": "ok"
+    },
+    {
+      "name": "Shaurya Chandhoke",
+      "url": "https://shauryachandhoke.com/?utm_source=github&utm_medium=social&utm_campaign=portfolio",
+      "listedTitle": "Software Engineer | Machine Learning Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/shaurya-chandhoke"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shaurya-chandhoke",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Shaurya Chandhoke",
+      "location": null,
       "status": "ok"
     }
   ]
