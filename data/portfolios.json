@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-20T00:26:42.792Z",
-    "total": 1551,
-    "successful": 1214,
+    "scrapedAt": "2026-03-20T12:13:18.926Z",
+    "total": 1555,
+    "successful": 1218,
     "failed": 337,
-    "withEmail": 526,
-    "withGithub": 775,
-    "withStack": 992,
-    "withLinkedin": 687,
-    "withTwitter": 366
+    "withEmail": 529,
+    "withGithub": 778,
+    "withStack": 995,
+    "withLinkedin": 689,
+    "withTwitter": 367
   },
   "portfolios": [
     {
@@ -30430,6 +30430,107 @@
       "stack": [],
       "experience": null,
       "title": "Vaibhav Raj | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ankit Jha",
+      "url": "https://ankitjha.vercel.app",
+      "listedTitle": "MERN stack developer",
+      "emails": [
+        "ankitjhamca@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ankitjhagithub21"
+      ],
+      "linkedin": "https://linkedin.com/in/ankitjha3731",
+      "twitter": "https://twitter.com/ankitjha3731",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Ankit Jha — Full-Stack Developer &amp; Creative Technologist",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aryan Rajguru",
+      "url": "https://aryan-r-pfp.netlify.app/",
+      "listedTitle": "Full Stack Developer (Python + MERN)",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Aryan Rajguru - Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Barnav Mitra (Jos)",
+      "url": "https://jos.gg/",
+      "listedTitle": "Software, Devops, & UGC Engineer",
+      "emails": [
+        "me@jos.gg",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/JosTheDude"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "Rust",
+        "Java",
+        "Kotlin",
+        "Docker",
+        "Kubernetes",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "jos.gg - game developer & ugc engineer",
+      "location": "scratch as well",
+      "status": "ok"
+    },
+    {
+      "name": "Guyon Emeric",
+      "url": "https://emericguyon.com/",
+      "listedTitle": "Freelance Fullstack Developer",
+      "emails": [
+        "hello@emericguyon.com"
+      ],
+      "github": [
+        "https://github.com/emricooo"
+      ],
+      "linkedin": "https://www.linkedin.com/in/emeric-guyon",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        "GraphQL",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Emeric Guyon — Développeur Fullstack Freelance",
       "location": null,
       "status": "ok"
     }
