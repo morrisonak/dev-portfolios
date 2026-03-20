@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-19T18:19:24.854Z",
-    "total": 1550,
-    "successful": 1213,
+    "scrapedAt": "2026-03-20T00:26:42.792Z",
+    "total": 1551,
+    "successful": 1214,
     "failed": 337,
     "withEmail": 526,
     "withGithub": 775,
@@ -30416,6 +30416,20 @@
       "stack": [],
       "experience": null,
       "title": "Shaurya Chandhoke",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vaibhav Raj",
+      "url": "https://vaibhav5860.vercel.app",
+      "listedTitle": "Full Stack Developer | MERN",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Vaibhav Raj | Portfolio",
       "location": null,
       "status": "ok"
     }
