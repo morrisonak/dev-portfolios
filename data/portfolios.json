@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-20T12:13:18.926Z",
-    "total": 1555,
-    "successful": 1218,
+    "scrapedAt": "2026-03-21T12:09:45.362Z",
+    "total": 1557,
+    "successful": 1220,
     "failed": 337,
-    "withEmail": 529,
-    "withGithub": 778,
-    "withStack": 995,
-    "withLinkedin": 689,
+    "withEmail": 531,
+    "withGithub": 780,
+    "withStack": 997,
+    "withLinkedin": 691,
     "withTwitter": 367
   },
   "portfolios": [
@@ -30531,6 +30531,50 @@
       ],
       "experience": null,
       "title": "Emeric Guyon — Développeur Fullstack Freelance",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Cassiane Nascimento",
+      "url": "https://cassymari.github.io/Portfolio-profissional/",
+      "listedTitle": "",
+      "emails": [
+        "cassynascimento28@gmail.com"
+      ],
+      "github": [
+        "https://github.com/cassymari"
+      ],
+      "linkedin": "https://www.linkedin.com/in/cassiane-m-nascimento",
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Portfólio | Cassiane Nascimento",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shanto Joseph",
+      "url": "https://shantojoseph.com",
+      "listedTitle": "Full Stack | Developer",
+      "emails": [
+        "shantojoseph23@gmail.com"
+      ],
+      "github": [
+        "https://github.com/shanto-joseph"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shanto-joseph",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Shanto Joseph | Full-Stack Developer",
       "location": null,
       "status": "ok"
     }
