@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-21T12:09:45.362Z",
-    "total": 1557,
-    "successful": 1220,
+    "scrapedAt": "2026-03-22T00:28:00.692Z",
+    "total": 1560,
+    "successful": 1223,
     "failed": 337,
-    "withEmail": 531,
-    "withGithub": 780,
-    "withStack": 997,
-    "withLinkedin": 691,
+    "withEmail": 532,
+    "withGithub": 782,
+    "withStack": 999,
+    "withLinkedin": 693,
     "withTwitter": 367
   },
   "portfolios": [
@@ -30575,6 +30575,82 @@
       ],
       "experience": null,
       "title": "Shanto Joseph | Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aswin",
+      "url": "https://www.aswincloud.com",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/Aswin-coder"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aswin4122001",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Aswin - Software Developer Engineer",
+      "location": "Pondicherry, India",
+      "status": "ok"
+    },
+    {
+      "name": "Kajendran Alagaratnam",
+      "url": "https://kajendran.dev",
+      "listedTitle": "Senior Engineer | Developer Experience & Tooling",
+      "emails": [
+        "a.kajendran@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/kaje94",
+        "https://github.com/wso2"
+      ],
+      "linkedin": "https://www.linkedin.com/in/kajendran-alagaratnam",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "React Native"
+      ],
+      "experience": "8+ years",
+      "title": "Kajendran Alagaratnam - Senior Engineer, TypeScript &amp; Go",
+      "location": "Sri Lanka, passionate about creating amazing digital products and experiences",
+      "status": "ok"
+    },
+    {
+      "name": "Kaic Salomão",
+      "url": "https://kaicsm.dev",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Kaic Salomão | Software Developer",
       "location": null,
       "status": "ok"
     }
