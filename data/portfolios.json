@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-22T12:10:01.689Z",
-    "total": 1568,
-    "successful": 1231,
+    "scrapedAt": "2026-03-22T18:09:09.078Z",
+    "total": 1570,
+    "successful": 1233,
     "failed": 337,
-    "withEmail": 536,
-    "withGithub": 788,
-    "withStack": 1004,
-    "withLinkedin": 699,
+    "withEmail": 537,
+    "withGithub": 789,
+    "withStack": 1006,
+    "withLinkedin": 700,
     "withTwitter": 368
   },
   "portfolios": [
@@ -30834,6 +30834,51 @@
       "experience": null,
       "title": "Trisha Darure | Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Suvojit Konar",
+      "url": "https://portfolio-ten-olive-gldao60wxb.vercel.app/",
+      "listedTitle": "Senior Software Engineer | Backend Developer | AI Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/suvojit-konar-5168a6161",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Suvojit — Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Syed Zain Ul Abideen",
+      "url": "https://www.szain.co",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "contact@szain.co"
+      ],
+      "github": [
+        "https://github.com/syedzain08"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Home",
+      "location": "the ground up",
       "status": "ok"
     }
   ]
