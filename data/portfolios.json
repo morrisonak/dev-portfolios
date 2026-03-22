@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-22T00:28:00.692Z",
-    "total": 1560,
-    "successful": 1223,
+    "scrapedAt": "2026-03-22T12:10:01.689Z",
+    "total": 1568,
+    "successful": 1231,
     "failed": 337,
-    "withEmail": 532,
-    "withGithub": 782,
-    "withStack": 999,
-    "withLinkedin": 693,
-    "withTwitter": 367
+    "withEmail": 536,
+    "withGithub": 788,
+    "withStack": 1004,
+    "withLinkedin": 699,
+    "withTwitter": 368
   },
   "portfolios": [
     {
@@ -30651,6 +30651,188 @@
       "stack": [],
       "experience": null,
       "title": "Kaic Salomão | Software Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Carlos Rojas",
+      "url": "https://carlos-rojas-portfolio.vercel.app",
+      "listedTitle": "Full-Stack Developer | Aspiring Software Engineer",
+      "emails": [
+        "rojasdamiancarlos@gmail.com"
+      ],
+      "github": [
+        "https://github.com/carlosdrojas",
+        "https://github.com/emig23"
+      ],
+      "linkedin": "https://linkedin.com/in/carlosdrojas",
+      "twitter": "https://x.com/carlosroja5_",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Docker",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Carlos Rojas Portfolio",
+      "location": "you",
+      "status": "ok"
+    },
+    {
+      "name": "Ethan Lanting",
+      "url": "https://ethanlanting.dev/#home",
+      "listedTitle": "Developer, Designer, And Creator",
+      "emails": [
+        "ethanclanting@gmail.com"
+      ],
+      "github": [
+        "https://github.com/EthanL06",
+        "https://github.com/Longhorn-Developers",
+        "https://github.com/arjohnsonn"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ethanlanting",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ethan Lanting",
+      "location": "images and matches them with local charities",
+      "status": "ok"
+    },
+    {
+      "name": "Kevin Oliveira",
+      "url": "https://kevinoliveira.com.br/",
+      "listedTitle": "Front-end | UI Designer",
+      "emails": [],
+      "github": [
+        "https://github.com/kvnol"
+      ],
+      "linkedin": "https://linkedin.com/in/kvnol",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Kevin Oliveira | Front-end &amp; UI Designer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ryan Ma",
+      "url": "https://yutengma.me/work-experience",
+      "listedTitle": "SoC Power Engineer At Apple",
+      "emails": [],
+      "github": [
+        "https://github.com/goblinrum"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ryan-ma-30",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Django",
+        "AWS",
+        "MySQL",
+        "GraphQL",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Work Experience",
+      "location": "localStorage",
+      "status": "ok"
+    },
+    {
+      "name": "Sameer Agarwal",
+      "url": "https://www.elite-lord.com/",
+      "listedTitle": "Computer Science Student | Software Intern",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Docker",
+        "MongoDB",
+        "React Native",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sameer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shahan Arshad",
+      "url": "https://shahan-arshad.github.io",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Shahan Arshad Khan | CV",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shrestha Mishra",
+      "url": "https://shresthamishra.vercel.app/",
+      "listedTitle": "Software Engineer | CS @ University Of Texas At Austin",
+      "emails": [
+        "shresthamishra76@gmail.com"
+      ],
+      "github": [
+        "https://github.com/shresthamishra76"
+      ],
+      "linkedin": "https://linkedin.com/in/shrestha-mishra07",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Shrestha Mishra",
+      "location": "idea to deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Trisha Darure",
+      "url": "https://trishadar.github.io/Portfolio/#about",
+      "listedTitle": "Full-Stack Engineer",
+      "emails": [
+        "tpd568@my.utexas.edu"
+      ],
+      "github": [
+        "https://github.com/trishadar"
+      ],
+      "linkedin": "https://www.linkedin.com/in/trisha-darure-14ab97237",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Flask",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Trisha Darure | Portfolio",
       "location": null,
       "status": "ok"
     }
