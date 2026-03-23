@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-23T00:29:47.497Z",
-    "total": 1571,
-    "successful": 1234,
+    "scrapedAt": "2026-03-23T12:18:35.595Z",
+    "total": 1572,
+    "successful": 1235,
     "failed": 337,
     "withEmail": 538,
     "withGithub": 790,
-    "withStack": 1007,
+    "withStack": 1008,
     "withLinkedin": 701,
     "withTwitter": 369
   },
@@ -30915,6 +30915,24 @@
       "experience": null,
       "title": "Ashutosh Dhakre | Best Creative Developer in India | The Code Head",
       "location": "India",
+      "status": "ok"
+    },
+    {
+      "name": "Naveen Kumar",
+      "url": "https://naveenweb.site",
+      "listedTitle": "Full Stack Developer | MERN Stack",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Naveen Kumar | Elite Full Stack Developer & MERN Expert | New Delhi, India",
+      "location": "New Delhi, India",
       "status": "ok"
     }
   ]
