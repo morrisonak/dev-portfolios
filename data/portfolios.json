@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-22T18:09:09.078Z",
-    "total": 1570,
-    "successful": 1233,
+    "scrapedAt": "2026-03-23T00:29:47.497Z",
+    "total": 1571,
+    "successful": 1234,
     "failed": 337,
-    "withEmail": 537,
-    "withGithub": 789,
-    "withStack": 1006,
-    "withLinkedin": 700,
-    "withTwitter": 368
+    "withEmail": 538,
+    "withGithub": 790,
+    "withStack": 1007,
+    "withLinkedin": 701,
+    "withTwitter": 369
   },
   "portfolios": [
     {
@@ -30879,6 +30879,42 @@
       "experience": null,
       "title": "Home",
       "location": "the ground up",
+      "status": "ok"
+    },
+    {
+      "name": "Ashutosh Dhakre",
+      "url": "https://thecodehead.com",
+      "listedTitle": "Senior Software Engineer | Full Stack Developer",
+      "emails": [
+        "iashutoshdhakre@gmail.com"
+      ],
+      "github": [
+        "https://github.com/thecoderhead"
+      ],
+      "linkedin": "https://linkedin.com/in/ashutosh-dhakre",
+      "twitter": "https://twitter.com/thecoderhead",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Ashutosh Dhakre | Best Creative Developer in India | The Code Head",
+      "location": "India",
       "status": "ok"
     }
   ]
