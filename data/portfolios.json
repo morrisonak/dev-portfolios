@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-23T12:18:35.595Z",
-    "total": 1572,
-    "successful": 1235,
+    "scrapedAt": "2026-03-23T18:18:51.412Z",
+    "total": 1573,
+    "successful": 1236,
     "failed": 337,
-    "withEmail": 538,
-    "withGithub": 790,
-    "withStack": 1008,
-    "withLinkedin": 701,
+    "withEmail": 539,
+    "withGithub": 791,
+    "withStack": 1009,
+    "withLinkedin": 702,
     "withTwitter": 369
   },
   "portfolios": [
@@ -30933,6 +30933,46 @@
       "experience": null,
       "title": "Naveen Kumar | Elite Full Stack Developer & MERN Expert | New Delhi, India",
       "location": "New Delhi, India",
+      "status": "ok"
+    },
+    {
+      "name": "Nikunj Khitha",
+      "url": "https://nikunj.codenex.dev",
+      "listedTitle": "Full Stack Gen AI Developer",
+      "emails": [
+        "njkhitha2003@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/Nikunj2003"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nikunj-khitha",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Nikunj Khitha — GenAI Platform Engineer",
+      "location": "prototype to production at enterprise scale",
       "status": "ok"
     }
   ]
