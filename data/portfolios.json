@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-23T18:18:51.412Z",
-    "total": 1573,
+    "scrapedAt": "2026-03-25T12:18:34.490Z",
+    "total": 1572,
     "successful": 1236,
-    "failed": 337,
-    "withEmail": 539,
-    "withGithub": 791,
-    "withStack": 1009,
-    "withLinkedin": 702,
+    "failed": 336,
+    "withEmail": 540,
+    "withGithub": 793,
+    "withStack": 1011,
+    "withLinkedin": 704,
     "withTwitter": 369
   },
   "portfolios": [
@@ -5021,44 +5021,6 @@
       "experience": null,
       "title": "Ashish Namdeo | Software Engineer",
       "location": "building dashboards and CMS platforms at",
-      "status": "ok"
-    },
-    {
-      "name": "Ashish Narnoli",
-      "url": "https://ashishnarnoli.com",
-      "listedTitle": "",
-      "emails": [
-        "ashish.narnoli@gmail.com"
-      ],
-      "github": [
-        "https://github.com/anarnoli"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ashishnarnoli",
-      "twitter": null,
-      "stack": [
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "Java",
-        "Azure"
-      ],
-      "experience": "17+ years",
-      "title": "Ashish Narnoli | Solution Architect | Technology Enthusiast | Technology Leader",
-      "location": "You",
-      "status": "ok"
-    },
-    {
-      "name": "Ashish Tomar",
-      "url": "https://ashish-porfolio.vercel.app",
-      "listedTitle": "Frontend Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Ashish Tomar",
-      "location": null,
       "status": "ok"
     },
     {
@@ -20799,29 +20761,6 @@
       "status": "ok"
     },
     {
-      "name": "Muhammad Naeem Tahir",
-      "url": "https://muhammadnaeemtahir.github.io",
-      "listedTitle": "",
-      "emails": [
-        "m.naeemtahir@hotmail.com"
-      ],
-      "github": [
-        "https://github.com/muhammadnaeemtahir"
-      ],
-      "linkedin": "https://www.linkedin.com/in/muhammadnaeemtahir",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Tailwind",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Muhammad Naeem Tahir",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Muhammad Rashid",
       "url": "https://iamrashy.netlify.app",
       "listedTitle": "",
@@ -24479,20 +24418,6 @@
       ],
       "experience": null,
       "title": "Ragav's Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Rahul Gope",
-      "url": "https://portfolio-2-two-ebon.vercel.app",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "protfolio-02",
       "location": null,
       "status": "ok"
     },
@@ -28733,13 +28658,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Vinay Patle",
-      "url": "https://vinaypatle.netlify.app",
-      "listedTitle": "FrontEnd Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Vinay Somawat",
       "url": "https://vinaysomawat.github.io",
       "listedTitle": "",
@@ -28889,13 +28807,6 @@
     {
       "name": "Vm",
       "url": "https://vmthedev.web.app",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Vu Nguyen",
-      "url": "https://vunguyenit.site",
       "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
@@ -30243,27 +30154,6 @@
       "status": "ok"
     },
     {
-      "name": "Johnson Siziba",
-      "url": "https://www.johnsonsiziba.com/",
-      "listedTitle": "",
-      "emails": [
-        "jsiziba.flux@gmail.com"
-      ],
-      "github": [
-        "https://github.com/JSiziba"
-      ],
-      "linkedin": "https://www.linkedin.com/in/johnson-siziba-804a091a3",
-      "twitter": null,
-      "stack": [
-        "TypeScript",
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Johnson Siziba",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Vishal Sharma",
       "url": "https://snick0128.github.io/snick0128/",
       "listedTitle": "Vishal",
@@ -30356,20 +30246,6 @@
       "error": "HTTP 403"
     },
     {
-      "name": "Mamoon Siddiqui",
-      "url": "https://mamoon-siddiqui.vercel.app/",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Mamoon Siddiqui",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Yash Nandvana",
       "url": "https://yashnandvana.in",
       "listedTitle": "Full Stack Developer | Software Engineer",
@@ -30456,81 +30332,6 @@
       ],
       "experience": null,
       "title": "Ankit Jha — Full-Stack Developer &amp; Creative Technologist",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Aryan Rajguru",
-      "url": "https://aryan-r-pfp.netlify.app/",
-      "listedTitle": "Full Stack Developer (Python + MERN)",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Aryan Rajguru - Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Barnav Mitra (Jos)",
-      "url": "https://jos.gg/",
-      "listedTitle": "Software, Devops, & UGC Engineer",
-      "emails": [
-        "me@jos.gg",
-        "your@email.com"
-      ],
-      "github": [
-        "https://github.com/JosTheDude"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "TypeScript",
-        "Rust",
-        "Java",
-        "Kotlin",
-        "Docker",
-        "Kubernetes",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "jos.gg - game developer & ugc engineer",
-      "location": "scratch as well",
-      "status": "ok"
-    },
-    {
-      "name": "Guyon Emeric",
-      "url": "https://emericguyon.com/",
-      "listedTitle": "Freelance Fullstack Developer",
-      "emails": [
-        "hello@emericguyon.com"
-      ],
-      "github": [
-        "https://github.com/emricooo"
-      ],
-      "linkedin": "https://www.linkedin.com/in/emeric-guyon",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Next.js",
-        "Nuxt",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "PHP",
-        "Node.js",
-        "Docker",
-        "PostgreSQL",
-        "Tailwind",
-        "GraphQL",
-        "Figma",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Emeric Guyon — Développeur Fullstack Freelance",
       "location": null,
       "status": "ok"
     },
@@ -30706,22 +30507,6 @@
       "status": "ok"
     },
     {
-      "name": "Kevin Oliveira",
-      "url": "https://kevinoliveira.com.br/",
-      "listedTitle": "Front-end | UI Designer",
-      "emails": [],
-      "github": [
-        "https://github.com/kvnol"
-      ],
-      "linkedin": "https://linkedin.com/in/kvnol",
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Kevin Oliveira | Front-end &amp; UI Designer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Ryan Ma",
       "url": "https://yutengma.me/work-experience",
       "listedTitle": "SoC Power Engineer At Apple",
@@ -30746,34 +30531,6 @@
       "status": "ok"
     },
     {
-      "name": "Sameer Agarwal",
-      "url": "https://www.elite-lord.com/",
-      "listedTitle": "Computer Science Student | Software Intern",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "Flask",
-        "Docker",
-        "MongoDB",
-        "React Native",
-        ".NET",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Sameer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Shahan Arshad",
       "url": "https://shahan-arshad.github.io",
       "listedTitle": "Full Stack Developer",
@@ -30785,29 +30542,6 @@
       "experience": null,
       "title": "Shahan Arshad Khan | CV",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Shrestha Mishra",
-      "url": "https://shresthamishra.vercel.app/",
-      "listedTitle": "Software Engineer | CS @ University Of Texas At Austin",
-      "emails": [
-        "shresthamishra76@gmail.com"
-      ],
-      "github": [
-        "https://github.com/shresthamishra76"
-      ],
-      "linkedin": "https://linkedin.com/in/shrestha-mishra07",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Python",
-        "AWS"
-      ],
-      "experience": null,
-      "title": "Shrestha Mishra",
-      "location": "idea to deployment",
       "status": "ok"
     },
     {
@@ -30833,26 +30567,6 @@
       ],
       "experience": null,
       "title": "Trisha Darure | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Suvojit Konar",
-      "url": "https://portfolio-ten-olive-gldao60wxb.vercel.app/",
-      "listedTitle": "Senior Software Engineer | Backend Developer | AI Enthusiast",
-      "emails": [],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/suvojit-konar-5168a6161",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Suvojit — Portfolio",
       "location": null,
       "status": "ok"
     },
@@ -30973,6 +30687,322 @@
       "experience": null,
       "title": "Nikunj Khitha — GenAI Platform Engineer",
       "location": "prototype to production at enterprise scale",
+      "status": "ok"
+    },
+    {
+      "name": "Aryan Rajguru",
+      "url": "https://aryan-r-pfp.netlify.app",
+      "listedTitle": "Full Stack Developer (Python + MERN)",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Barnav Mitra Jos",
+      "url": "https://jos.gg",
+      "listedTitle": "Software, Devops, & UGC Engineer",
+      "emails": [
+        "me@jos.gg",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/JosTheDude"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "Java",
+        "Kotlin",
+        "Docker",
+        "Kubernetes",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "jos.gg - game developer & ugc engineer",
+      "location": "scratch as well",
+      "status": "ok"
+    },
+    {
+      "name": "Guyon Emeric",
+      "url": "https://emericguyon.com",
+      "listedTitle": "Freelance Full Stack Developer",
+      "emails": [
+        "hello@emericguyon.com"
+      ],
+      "github": [
+        "https://github.com/emricooo"
+      ],
+      "linkedin": "https://www.linkedin.com/in/emeric-guyon",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        "GraphQL",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Emeric Guyon — Développeur Fullstack Freelance",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Johnson Siziba",
+      "url": "https://www.johnsonsiziba.com",
+      "listedTitle": "",
+      "emails": [
+        "jsiziba.flux@gmail.com"
+      ],
+      "github": [
+        "https://github.com/JSiziba"
+      ],
+      "linkedin": "https://www.linkedin.com/in/johnson-siziba-804a091a3",
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Johnson Siziba",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kevin Oliveira",
+      "url": "https://kevinoliveira.com.br",
+      "listedTitle": "Front-end | UI Designer",
+      "emails": [],
+      "github": [
+        "https://github.com/kvnol"
+      ],
+      "linkedin": "https://linkedin.com/in/kvnol",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Kevin Oliveira | Front-end &amp; UI Designer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mamoon Siddiqui",
+      "url": "https://mamoon-siddiqui.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Mamoon Siddiqui",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mann Patel",
+      "url": "https://patelmann.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/Mann275"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mann-patel-ba084625a",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Patel Mann | Full Stack Developer | Portfolio",
+      "location": "Gujarat, India",
+      "status": "ok"
+    },
+    {
+      "name": "NaveenKumar",
+      "url": "https://naveenkumarm.space",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "naveenkmayilsamy@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/naveenkumar-rm"
+      ],
+      "linkedin": "https://linkedin.com/in/naveenkumar-rm",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Java",
+        "MySQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "NAVEENKUMAR M",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rajveer Singh",
+      "url": "https://rajveersingh24.vercel.app",
+      "listedTitle": "AI/ML Engineer",
+      "emails": [
+        "rajveer.work24@gmail.com"
+      ],
+      "github": [
+        "https://github.com/RajveerSingh-24"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rajveer-singh01",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "AWS",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Rajveer Singh",
+      "location": "textual prompts",
+      "status": "ok"
+    },
+    {
+      "name": "Sameer Agarwal",
+      "url": "https://www.elite-lord.com",
+      "listedTitle": "Computer Science Student | Software Intern",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Docker",
+        "MongoDB",
+        "React Native",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sameer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shrestha Mishra",
+      "url": "https://shresthamishra.vercel.app",
+      "listedTitle": "Software Engineer | CS @ University Of Texas At Austin",
+      "emails": [
+        "shresthamishra76@gmail.com"
+      ],
+      "github": [
+        "https://github.com/shresthamishra76"
+      ],
+      "linkedin": "https://linkedin.com/in/shrestha-mishra07",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Shrestha Mishra",
+      "location": "idea to deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Simon Fereshetyan",
+      "url": "https://fereshetyan.space",
+      "listedTitle": "Software Engineer / DevOps",
+      "emails": [
+        "fereshetyansimon@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sim2003on"
+      ],
+      "linkedin": "https://www.linkedin.com/in/simon-fereshetyan",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Simon Fereshetyan",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Suraj Savle",
+      "url": "https://surajsavle.in",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Suraj&#x27;s Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Suvojit Konar",
+      "url": "https://portfolio-ten-olive-gldao60wxb.vercel.app",
+      "listedTitle": "Senior Software Engineer | Backend Developer | AI Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/suvojit-konar-5168a6161",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Suvojit — Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
