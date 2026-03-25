@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-25T12:18:34.490Z",
-    "total": 1572,
-    "successful": 1236,
+    "scrapedAt": "2026-03-25T18:21:52.433Z",
+    "total": 1573,
+    "successful": 1237,
     "failed": 336,
     "withEmail": 540,
     "withGithub": 793,
@@ -31002,6 +31002,20 @@
       ],
       "experience": null,
       "title": "Suvojit — Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jooeun Lee",
+      "url": "https://jooeunlee.com/",
+      "listedTitle": "Web Developer | UI/UX Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "jooeun-portfolio",
       "location": null,
       "status": "ok"
     }
