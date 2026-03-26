@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-25T18:21:52.433Z",
-    "total": 1573,
-    "successful": 1237,
+    "scrapedAt": "2026-03-26T12:22:02.300Z",
+    "total": 1574,
+    "successful": 1238,
     "failed": 336,
     "withEmail": 540,
     "withGithub": 793,
@@ -31006,8 +31006,22 @@
       "status": "ok"
     },
     {
+      "name": "Arsh Mishra",
+      "url": "https://windows-xp-portfolio-tau.vercel.app",
+      "listedTitle": "Full Stack Engineer | Systems Builder | Event-Driven System Design | Full Stack Application Architecture | AI-Integrated Data Processing Pipelines",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Windows XP Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
       "name": "Jooeun Lee",
-      "url": "https://jooeunlee.com/",
+      "url": "https://jooeunlee.com",
       "listedTitle": "Web Developer | UI/UX Designer",
       "emails": [],
       "github": [],
