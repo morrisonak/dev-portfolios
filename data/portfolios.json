@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-26T12:22:02.300Z",
-    "total": 1574,
-    "successful": 1238,
+    "scrapedAt": "2026-03-27T00:29:47.506Z",
+    "total": 1575,
+    "successful": 1239,
     "failed": 336,
-    "withEmail": 540,
-    "withGithub": 793,
-    "withStack": 1011,
-    "withLinkedin": 704,
-    "withTwitter": 369
+    "withEmail": 541,
+    "withGithub": 794,
+    "withStack": 1012,
+    "withLinkedin": 705,
+    "withTwitter": 370
   },
   "portfolios": [
     {
@@ -31031,6 +31031,35 @@
       "experience": null,
       "title": "jooeun-portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Camil Bradea",
+      "url": "https://bradeac.dev",
+      "listedTitle": "Senior Full-stack Engineer | TypeScript, React, Laravel, Docker, AWS",
+      "emails": [
+        "_@astro.x2ezbyxl.css"
+      ],
+      "github": [
+        "https://github.com/bradeac"
+      ],
+      "linkedin": "https://www.linkedin.com/in/bradeac",
+      "twitter": "https://x.com/bradeacamil",
+      "stack": [
+        "React",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Laravel",
+        "AWS",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Camil Bradea",
+      "location": "your videos",
       "status": "ok"
     }
   ]
