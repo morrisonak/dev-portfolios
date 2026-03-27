@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-27T12:17:23.775Z",
-    "total": 1575,
-    "successful": 1239,
+    "scrapedAt": "2026-03-27T18:20:37.515Z",
+    "total": 1578,
+    "successful": 1242,
     "failed": 336,
-    "withEmail": 541,
-    "withGithub": 794,
-    "withStack": 1012,
-    "withLinkedin": 705,
+    "withEmail": 542,
+    "withGithub": 795,
+    "withStack": 1014,
+    "withLinkedin": 706,
     "withTwitter": 370
   },
   "portfolios": [
@@ -31060,6 +31060,76 @@
       "experience": null,
       "title": "Manikanta Portfolio ♡ 爪ㄒ",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kaligotla Sri Datta Sai Vithal",
+      "url": "https://sridattasai18.github.io/Neo-folio/",
+      "listedTitle": "Full Stack Developer / Gen AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Neo-folio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Omar Ashraf",
+      "url": "https://portfollio-five-nu.vercel.app/",
+      "listedTitle": "Frontend Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript"
+      ],
+      "experience": null,
+      "title": "Omar Ashraf — Frontend Developer",
+      "location": "Egypt building clean web apps and CLI tools with React and TypeScript",
+      "status": "ok"
+    },
+    {
+      "name": "Whilmar Bitoco",
+      "url": "https://whilmarbitoco.vercel.app",
+      "listedTitle": "Software Developer | Web & Cloud",
+      "emails": [
+        "hello@whilmarbitoco.qzz.io"
+      ],
+      "github": [
+        "https://github.com/whilmarbitoco"
+      ],
+      "linkedin": "https://linkedin.com/in/whilmarbitoco",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Svelte",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Laravel",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Whilmar Bitoco | Full Stack Developer | AI/ML Engineer | Cloud Developer | Blockchain Developer",
+      "location": "first principles for optimal performance",
       "status": "ok"
     }
   ]
