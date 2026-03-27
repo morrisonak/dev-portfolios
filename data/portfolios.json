@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-27T00:29:47.506Z",
+    "scrapedAt": "2026-03-27T12:17:23.775Z",
     "total": 1575,
     "successful": 1239,
     "failed": 336,
@@ -18213,22 +18213,6 @@
       "status": "ok"
     },
     {
-      "name": "Manikanta Darapureddy",
-      "url": "https://dmanikanta.site",
-      "listedTitle": "Ai Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Manikanta Portfolio ♡ 爪ㄒ",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Manish Kumar Dholpuriya",
       "url": "https://manish-dholpuriya.netlify.app",
       "listedTitle": "",
@@ -31060,6 +31044,22 @@
       "experience": null,
       "title": "Camil Bradea",
       "location": "your videos",
+      "status": "ok"
+    },
+    {
+      "name": "Manikanta Darapureddy",
+      "url": "https://manikantadarapureddy.in",
+      "listedTitle": "AI Engineer | Full Stack Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Manikanta Portfolio ♡ 爪ㄒ",
+      "location": null,
       "status": "ok"
     }
   ]
