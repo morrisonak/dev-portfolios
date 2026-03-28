@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-28T00:27:13.512Z",
-    "total": 1580,
-    "successful": 1244,
+    "scrapedAt": "2026-03-28T12:12:41.682Z",
+    "total": 1582,
+    "successful": 1246,
     "failed": 336,
-    "withEmail": 542,
-    "withGithub": 795,
-    "withStack": 1015,
-    "withLinkedin": 706,
-    "withTwitter": 370
+    "withEmail": 543,
+    "withGithub": 797,
+    "withStack": 1017,
+    "withLinkedin": 708,
+    "withTwitter": 372
   },
   "portfolios": [
     {
@@ -31160,6 +31160,56 @@
       "experience": null,
       "title": "Victor Vento | Software Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Bechir Lahoueg",
+      "url": "https://www.bechirlahoueg.tech/",
+      "listedTitle": "Full-Stack Developer | React & Node.js",
+      "emails": [],
+      "github": [
+        "https://github.com/Bechir-Lahoueg"
+      ],
+      "linkedin": "https://www.linkedin.com/in/bechirlahoueg",
+      "twitter": "https://x.com/BechirLahoueg",
+      "stack": [
+        "React",
+        "JavaScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Bechir Lahoueg | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sahil Bajaj",
+      "url": "https://sahilbajajportfolio.vercel.app",
+      "listedTitle": "",
+      "emails": [
+        "sahilbajaj2004@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sahilbajaj2004"
+      ],
+      "linkedin": "https://linkedin.com/in/sahilbajaj2004",
+      "twitter": "https://x.com/SahilBajaj2004",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Flask",
+        "MongoDB",
+        "Firebase"
+      ],
+      "experience": "1+ years",
+      "title": "Sahil Bajaj | Full-Stack Developer Portfolio",
+      "location": "simple websites to",
       "status": "ok"
     }
   ]
