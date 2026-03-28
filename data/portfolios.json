@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-27T18:20:37.515Z",
-    "total": 1578,
-    "successful": 1242,
+    "scrapedAt": "2026-03-28T00:27:13.512Z",
+    "total": 1580,
+    "successful": 1244,
     "failed": 336,
     "withEmail": 542,
     "withGithub": 795,
-    "withStack": 1014,
+    "withStack": 1015,
     "withLinkedin": 706,
     "withTwitter": 370
   },
@@ -31130,6 +31130,36 @@
       "experience": null,
       "title": "Whilmar Bitoco | Full Stack Developer | AI/ML Engineer | Cloud Developer | Blockchain Developer",
       "location": "first principles for optimal performance",
+      "status": "ok"
+    },
+    {
+      "name": "Venkat Nurukurthi",
+      "url": "https://venkatnurukurthi.info",
+      "listedTitle": "Microsoft Endpoint Administrator | Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Venkat Nurukurthi | Microsoft Endpoint Administrator",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Victor Vento",
+      "url": "https://victorvento.net",
+      "listedTitle": "Software Developer | .NET and JavaScript",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Victor Vento | Software Developer",
+      "location": null,
       "status": "ok"
     }
   ]
