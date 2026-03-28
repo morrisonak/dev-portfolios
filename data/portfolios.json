@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-28T12:12:41.682Z",
-    "total": 1582,
-    "successful": 1246,
+    "scrapedAt": "2026-03-28T18:10:04.299Z",
+    "total": 1584,
+    "successful": 1248,
     "failed": 336,
-    "withEmail": 543,
+    "withEmail": 544,
     "withGithub": 797,
-    "withStack": 1017,
-    "withLinkedin": 708,
+    "withStack": 1018,
+    "withLinkedin": 709,
     "withTwitter": 372
   },
   "portfolios": [
@@ -31210,6 +31210,39 @@
       "experience": "1+ years",
       "title": "Sahil Bajaj | Full-Stack Developer Portfolio",
       "location": "simple websites to",
+      "status": "ok"
+    },
+    {
+      "name": "Krushna Rathod",
+      "url": "https://krushna.gridly.xyz",
+      "listedTitle": "UI/UX Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Krushna Rathod",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shourov Paul",
+      "url": "https://shourov-paul.github.io",
+      "listedTitle": "Electronics Engineer | Embedded Systems",
+      "emails": [
+        "shourovpal32@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/shourov-paul-b052a7259",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "Shourov Paul&#x27;s Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
