@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-28T18:10:04.299Z",
-    "total": 1584,
-    "successful": 1248,
+    "scrapedAt": "2026-03-29T18:11:16.624Z",
+    "total": 1586,
+    "successful": 1250,
     "failed": 336,
-    "withEmail": 544,
-    "withGithub": 797,
-    "withStack": 1018,
-    "withLinkedin": 709,
-    "withTwitter": 372
+    "withEmail": 545,
+    "withGithub": 798,
+    "withStack": 1020,
+    "withLinkedin": 710,
+    "withTwitter": 373
   },
   "portfolios": [
     {
@@ -31243,6 +31243,53 @@
       "experience": null,
       "title": "Shourov Paul&#x27;s Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Emre Akçadağ",
+      "url": "https://akcadag.dev",
+      "listedTitle": "Mobile Developer | Android & Flutter",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Go"
+      ],
+      "experience": null,
+      "title": "Emre Akçadağ",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mahatab Hossen Sudip",
+      "url": "https://sudipmhx.pro.bd",
+      "listedTitle": "MERN Stack Developer",
+      "emails": [
+        "sudipmhx@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SudipMHX"
+      ],
+      "linkedin": "https://www.linkedin.com/in/SudipMHX",
+      "twitter": "https://twitter.com/SudipMHX",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": "4+ years",
+      "title": "MahaTab Hossen Sudip | Full Stack MERN Developer",
+      "location": "product browsing to secure checkout with Stripe integration and an advanced admin dashboard",
       "status": "ok"
     }
   ]
