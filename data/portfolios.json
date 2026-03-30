@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-29T18:11:16.624Z",
-    "total": 1586,
+    "scrapedAt": "2026-03-30T12:21:48.004Z",
+    "total": 1587,
     "successful": 1250,
-    "failed": 336,
-    "withEmail": 545,
-    "withGithub": 798,
-    "withStack": 1020,
-    "withLinkedin": 710,
-    "withTwitter": 373
+    "failed": 337,
+    "withEmail": 544,
+    "withGithub": 797,
+    "withStack": 1019,
+    "withLinkedin": 709,
+    "withTwitter": 371
   },
   "portfolios": [
     {
@@ -9399,34 +9399,6 @@
       "experience": null,
       "title": "Dev Jadiya - Software Engineer",
       "location": "Madhya Pradesh",
-      "status": "ok"
-    },
-    {
-      "name": "Dev Mir",
-      "url": "https://www.mrwajahatalimir.com",
-      "listedTitle": "App Developer | Python Programmer | Android Enthusiast",
-      "emails": [
-        "mrwajahatalimir@gmail.com"
-      ],
-      "github": [
-        "https://github.com/WajahatAliMirPro",
-        "https://github.com/wajaht-ali"
-      ],
-      "linkedin": "https://linkedin.com/in/wajahatalimirpro",
-      "twitter": "https://twitter.com/mrwajahatalimir",
-      "stack": [
-        "React",
-        "JavaScript",
-        "Python",
-        "PHP",
-        "Kotlin",
-        "Django",
-        "Firebase",
-        "React Native"
-      ],
-      "experience": null,
-      "title": "Home | mrwajahatalimir | Wajahat Ali Mir: App Developer",
-      "location": null,
       "status": "ok"
     },
     {
@@ -21347,36 +21319,6 @@
       "status": "ok"
     },
     {
-      "name": "Nayan Radadiya",
-      "url": "https://nayan-raddiya.netlify.app",
-      "listedTitle": "Front-End Developer | Front-End Focus Full Stack",
-      "emails": [
-        "nayanrdeveloper@gmail.com"
-      ],
-      "github": [
-        "https://github.com/nayanrdeveloper"
-      ],
-      "linkedin": "https://www.linkedin.com/in/nayanradadiya",
-      "twitter": "https://x.com/nayan_radadiya6",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "PostgreSQL",
-        "React Native"
-      ],
-      "experience": "5+ years",
-      "title": "Nayan Radadiya | Frontend Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Nazia Shehnaz Joynab",
       "url": "https://geek-a-byte.github.io",
       "listedTitle": "",
@@ -31077,23 +31019,6 @@
       "status": "ok"
     },
     {
-      "name": "Omar Ashraf",
-      "url": "https://portfollio-five-nu.vercel.app/",
-      "listedTitle": "Frontend Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript"
-      ],
-      "experience": null,
-      "title": "Omar Ashraf — Frontend Developer",
-      "location": "Egypt building clean web apps and CLI tools with React and TypeScript",
-      "status": "ok"
-    },
-    {
       "name": "Whilmar Bitoco",
       "url": "https://whilmarbitoco.vercel.app",
       "listedTitle": "Software Developer | Web & Cloud",
@@ -31159,26 +31084,6 @@
       ],
       "experience": null,
       "title": "Victor Vento | Software Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Bechir Lahoueg",
-      "url": "https://www.bechirlahoueg.tech/",
-      "listedTitle": "Full-Stack Developer | React & Node.js",
-      "emails": [],
-      "github": [
-        "https://github.com/Bechir-Lahoueg"
-      ],
-      "linkedin": "https://www.linkedin.com/in/bechirlahoueg",
-      "twitter": "https://x.com/BechirLahoueg",
-      "stack": [
-        "React",
-        "JavaScript",
-        "Node.js"
-      ],
-      "experience": null,
-      "title": "Bechir Lahoueg | Portfolio",
       "location": null,
       "status": "ok"
     },
@@ -31290,6 +31195,98 @@
       "experience": "4+ years",
       "title": "MahaTab Hossen Sudip | Full Stack MERN Developer",
       "location": "product browsing to secure checkout with Stripe integration and an advanced admin dashboard",
+      "status": "ok"
+    },
+    {
+      "name": "Alexandre Fernandes",
+      "url": "https://alexandrefernandes.dev",
+      "listedTitle": "Software Engineer | AI/ML & Full Stack",
+      "status": "error",
+      "error": "HTTP 429"
+    },
+    {
+      "name": "Bechir Lahoueg",
+      "url": "https://www.bechirlahoueg.tech",
+      "listedTitle": "Full Stack Developer | React & Node.js",
+      "emails": [],
+      "github": [
+        "https://github.com/Bechir-Lahoueg"
+      ],
+      "linkedin": "https://www.linkedin.com/in/bechirlahoueg",
+      "twitter": "https://x.com/BechirLahoueg",
+      "stack": [
+        "React",
+        "JavaScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Bechir Lahoueg | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Derek Chen",
+      "url": "https://www.derekchen.dev",
+      "listedTitle": "",
+      "emails": [
+        "derexh2so4@utexas.edu"
+      ],
+      "github": [
+        "https://github.com/Longhorn-Developers",
+        "https://github.com/DereC4",
+        "https://github.com/Derec-Mods",
+        "https://github.com/pear-devs"
+      ],
+      "linkedin": "https://www.linkedin.com/in/derekyujirchen",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "GCP",
+        "MongoDB",
+        "Tailwind",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Derek Chen",
+      "location": "my early days developing",
+      "status": "ok"
+    },
+    {
+      "name": "Omar Ashraf",
+      "url": "https://portfollio-five-nu.vercel.app",
+      "listedTitle": "Frontend Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript"
+      ],
+      "experience": null,
+      "title": "Omar Ashraf — Frontend Developer",
+      "location": "Egypt building clean web apps and CLI tools with React and TypeScript",
+      "status": "ok"
+    },
+    {
+      "name": "Rajesh Pal",
+      "url": "https://rajs.app",
+      "listedTitle": "Full Stack Developer | AI Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Rajesh Pal - Full Stack Developer",
+      "location": null,
       "status": "ok"
     }
   ]
