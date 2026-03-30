@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-30T12:21:48.004Z",
-    "total": 1587,
-    "successful": 1250,
+    "scrapedAt": "2026-03-30T18:21:58.289Z",
+    "total": 1589,
+    "successful": 1252,
     "failed": 337,
-    "withEmail": 544,
-    "withGithub": 797,
-    "withStack": 1019,
-    "withLinkedin": 709,
+    "withEmail": 545,
+    "withGithub": 798,
+    "withStack": 1021,
+    "withLinkedin": 710,
     "withTwitter": 371
   },
   "portfolios": [
@@ -31286,6 +31286,53 @@
       "stack": [],
       "experience": null,
       "title": "Rajesh Pal - Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kashif Ali",
+      "url": "https://kashifalirajper.vercel.app",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [
+        "kashif.zzy@gmail.com",
+        "kashifrajperali@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Kashifalirajper",
+        "https://github.com/kashifalirajper"
+      ],
+      "linkedin": "https://www.linkedin.com/in/kashifalirajper",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "MongoDB",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": "4+ years",
+      "title": "Kashif Ali",
+      "location": "simple websites to complex web applications",
+      "status": "ok"
+    },
+    {
+      "name": "Purnendu Samanta",
+      "url": "https://purnendusamanta.github.io/MyPortfolio/",
+      "listedTitle": "Android Application Developer | Flutter Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Portfolio | Android Launcher Experience",
       "location": null,
       "status": "ok"
     }
