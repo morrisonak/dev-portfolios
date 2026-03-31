@@ -1,9 +1,9 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-31T12:22:03.458Z",
-    "total": 1591,
+    "scrapedAt": "2026-03-31T18:21:29.187Z",
+    "total": 1590,
     "successful": 1254,
-    "failed": 337,
+    "failed": 336,
     "withEmail": 545,
     "withGithub": 800,
     "withStack": 1023,
@@ -28321,13 +28321,6 @@
       "name": "Umesh Nagare",
       "url": "https://umeshnagare.com",
       "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Ushan Chamod",
-      "url": "https://ushan.me",
-      "listedTitle": "Full Stack Developer / Gen Ai Engineer",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
