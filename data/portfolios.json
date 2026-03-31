@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-30T18:21:58.289Z",
-    "total": 1589,
-    "successful": 1252,
+    "scrapedAt": "2026-03-31T12:22:03.458Z",
+    "total": 1591,
+    "successful": 1254,
     "failed": 337,
     "withEmail": 545,
-    "withGithub": 798,
-    "withStack": 1021,
-    "withLinkedin": 710,
-    "withTwitter": 371
+    "withGithub": 800,
+    "withStack": 1023,
+    "withLinkedin": 712,
+    "withTwitter": 373
   },
   "portfolios": [
     {
@@ -31333,6 +31333,48 @@
       ],
       "experience": null,
       "title": "Portfolio | Android Launcher Experience",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aadeb",
+      "url": "https://devdebpriyo.vercel.app/",
+      "listedTitle": "Web & App developer & designer",
+      "emails": [],
+      "github": [
+        "https://github.com/devDebpriyo"
+      ],
+      "linkedin": "https://www.linkedin.com/in/debpriyo-ghosal-0759a92a6",
+      "twitter": "https://x.com/deb_isadev",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Debpriyo Ghosal | Web Designer &amp; Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aadebpriyo Ghosal",
+      "url": "https://devdebpriyo.vercel.app/",
+      "listedTitle": "Web Developer & Designer",
+      "emails": [],
+      "github": [
+        "https://github.com/devDebpriyo"
+      ],
+      "linkedin": "https://www.linkedin.com/in/debpriyo-ghosal-0759a92a6",
+      "twitter": "https://x.com/deb_isadev",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Debpriyo Ghosal | Web Designer &amp; Developer",
       "location": null,
       "status": "ok"
     }
