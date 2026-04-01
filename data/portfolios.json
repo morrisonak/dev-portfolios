@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-03-31T18:21:29.187Z",
-    "total": 1590,
-    "successful": 1254,
+    "scrapedAt": "2026-04-01T12:22:13.603Z",
+    "total": 1593,
+    "successful": 1257,
     "failed": 336,
-    "withEmail": 545,
-    "withGithub": 800,
-    "withStack": 1023,
-    "withLinkedin": 712,
+    "withEmail": 547,
+    "withGithub": 803,
+    "withStack": 1025,
+    "withLinkedin": 715,
     "withTwitter": 373
   },
   "portfolios": [
@@ -31369,6 +31369,81 @@
       "experience": null,
       "title": "Debpriyo Ghosal | Web Designer &amp; Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anil Peter",
+      "url": "https://anilpeter.vercel.app",
+      "listedTitle": "[‍Frontend Developer",
+      "emails": [
+        "anilpeter75@gmail.com"
+      ],
+      "github": [
+        "https://github.com/AnilPeter75"
+      ],
+      "linkedin": "https://www.linkedin.com/in/anil-peter-r-7a0353122",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind",
+        "GraphQL",
+        "React Native",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Anil Peter — Front‑End Developer",
+      "location": "competitors",
+      "status": "ok"
+    },
+    {
+      "name": "Gunasree R",
+      "url": "https://gunasree-portfolio.vercel.app",
+      "listedTitle": "AI Engineer | Technical Expertise",
+      "emails": [],
+      "github": [
+        "https://github.com/rgunasree"
+      ],
+      "linkedin": "https://linkedin.com/in/rgunasree",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "GUNASREE.AI | AI Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Uday Ahire",
+      "url": "https://udayahireexe.vercel.app/",
+      "listedTitle": "Design Engineer | Frontend Developer",
+      "emails": [
+        "auday248@outlook.com"
+      ],
+      "github": [
+        "https://github.com/udayahire2"
+      ],
+      "linkedin": "https://www.linkedin.com/in/uday-ahire-0855b22b4",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Rust",
+        "PHP",
+        "Node.js",
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Developer Dashboard",
+      "location": "last month",
       "status": "ok"
     }
   ]
