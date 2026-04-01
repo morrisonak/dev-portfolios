@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-01T12:22:13.603Z",
-    "total": 1593,
-    "successful": 1257,
+    "scrapedAt": "2026-04-01T18:20:10.732Z",
+    "total": 1595,
+    "successful": 1259,
     "failed": 336,
-    "withEmail": 547,
-    "withGithub": 803,
-    "withStack": 1025,
-    "withLinkedin": 715,
+    "withEmail": 550,
+    "withGithub": 805,
+    "withStack": 1027,
+    "withLinkedin": 717,
     "withTwitter": 373
   },
   "portfolios": [
@@ -31330,48 +31330,6 @@
       "status": "ok"
     },
     {
-      "name": "Aadeb",
-      "url": "https://devdebpriyo.vercel.app/",
-      "listedTitle": "Web & App developer & designer",
-      "emails": [],
-      "github": [
-        "https://github.com/devDebpriyo"
-      ],
-      "linkedin": "https://www.linkedin.com/in/debpriyo-ghosal-0759a92a6",
-      "twitter": "https://x.com/deb_isadev",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js"
-      ],
-      "experience": null,
-      "title": "Debpriyo Ghosal | Web Designer &amp; Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Aadebpriyo Ghosal",
-      "url": "https://devdebpriyo.vercel.app/",
-      "listedTitle": "Web Developer & Designer",
-      "emails": [],
-      "github": [
-        "https://github.com/devDebpriyo"
-      ],
-      "linkedin": "https://www.linkedin.com/in/debpriyo-ghosal-0759a92a6",
-      "twitter": "https://x.com/deb_isadev",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js"
-      ],
-      "experience": null,
-      "title": "Debpriyo Ghosal | Web Designer &amp; Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Anil Peter",
       "url": "https://anilpeter.vercel.app",
       "listedTitle": "[‍Frontend Developer",
@@ -31415,8 +31373,120 @@
       "status": "ok"
     },
     {
+      "name": "Aadeb",
+      "url": "https://devdebpriyo.vercel.app",
+      "listedTitle": "Web & App developer & designer",
+      "emails": [],
+      "github": [
+        "https://github.com/devDebpriyo"
+      ],
+      "linkedin": "https://www.linkedin.com/in/debpriyo-ghosal-0759a92a6",
+      "twitter": "https://x.com/deb_isadev",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Debpriyo Ghosal | Web Designer &amp; Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Meet Prajapati",
+      "url": "https://meetprajapati.com",
+      "listedTitle": "Lead Mobile Engineer | Android, AI, Flutter, React Native",
+      "emails": [
+        "meet30997@gmail.com"
+      ],
+      "github": [
+        "https://github.com/meet30997"
+      ],
+      "linkedin": "https://linkedin.com/in/meet30997",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Java",
+        "Kotlin",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": "7+ years",
+      "title": "Meet Prajapati | Lead Mobile Engineer | Android, AI, Flutter, React Native",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Jahanzeb",
+      "url": "https://jahanzeb.dev",
+      "listedTitle": "Mobile App Developer | React Native | Expo | Kotlin | NodeJS",
+      "emails": [
+        "mjahanzeb.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Jahanzeb009"
+      ],
+      "linkedin": "https://linkedin.com/in/jahanzeb009",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Kotlin",
+        "AWS",
+        "Firebase",
+        "Flutter",
+        "React Native",
+        ".NET",
+        "Figma"
+      ],
+      "experience": "4+ years",
+      "title": "Jahanzeb · Mobile &amp; Web Developer",
+      "location": "the New Testament",
+      "status": "ok"
+    },
+    {
+      "name": "Naseem Khan",
+      "url": "https://naseemkhan.dev",
+      "listedTitle": "Full Stack Developer | SaaS Builder | Freelancer",
+      "emails": [
+        "hello@naseemkhan.dev"
+      ],
+      "github": [
+        "https://github.com/naseemkhandev"
+      ],
+      "linkedin": "https://linkedin.com/in/naseemkhann",
+      "twitter": "https://x.com/naseemkhandev",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Naseem Khan - Developer, Freelancer &amp; Problem Solver",
+      "location": "Pakistan, available globally",
+      "status": "ok"
+    },
+    {
       "name": "Uday Ahire",
-      "url": "https://udayahireexe.vercel.app/",
+      "url": "https://udayahireexe.vercel.app",
       "listedTitle": "Design Engineer | Frontend Developer",
       "emails": [
         "auday248@outlook.com"
