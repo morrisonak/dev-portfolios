@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-01T18:20:10.732Z",
-    "total": 1595,
-    "successful": 1259,
+    "scrapedAt": "2026-04-02T00:27:50.011Z",
+    "total": 1596,
+    "successful": 1260,
     "failed": 336,
-    "withEmail": 550,
-    "withGithub": 805,
-    "withStack": 1027,
-    "withLinkedin": 717,
-    "withTwitter": 373
+    "withEmail": 551,
+    "withGithub": 806,
+    "withStack": 1028,
+    "withLinkedin": 718,
+    "withTwitter": 374
   },
   "portfolios": [
     {
@@ -31514,6 +31514,32 @@
       "experience": null,
       "title": "Developer Dashboard",
       "location": "last month",
+      "status": "ok"
+    },
+    {
+      "name": "Amit Kumar Raj",
+      "url": "https://amitkumarraj.vercel.app",
+      "listedTitle": "Full Stack Developer | MERN",
+      "emails": [
+        "rajamitstm@gmail.com"
+      ],
+      "github": [
+        "https://github.com/amitrajstm"
+      ],
+      "linkedin": "https://www.linkedin.com/in/amitkumarraj-stm",
+      "twitter": "https://x.com/Amit_Raj_Stm",
+      "stack": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Amit kumar Raj- Full Stack Web Developer",
+      "location": "Sitamarhi, Bihar",
       "status": "ok"
     }
   ]
