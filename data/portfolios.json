@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-02T12:21:13.923Z",
-    "total": 1600,
-    "successful": 1264,
+    "scrapedAt": "2026-04-02T18:19:45.883Z",
+    "total": 1598,
+    "successful": 1262,
     "failed": 336,
-    "withEmail": 554,
-    "withGithub": 809,
-    "withStack": 1031,
-    "withLinkedin": 721,
-    "withTwitter": 374
+    "withEmail": 552,
+    "withGithub": 807,
+    "withStack": 1029,
+    "withLinkedin": 719,
+    "withTwitter": 372
   },
   "portfolios": [
     {
@@ -234,37 +234,6 @@
     },
     {
       "name": "Aaparth Sharma",
-      "url": "https://parthh.in",
-      "listedTitle": "Full Stack Developer | Founder @Rune",
-      "emails": [
-        "hello@parthh.in"
-      ],
-      "github": [
-        "https://github.com/ksparth12"
-      ],
-      "linkedin": "https://linkedin.com/in/ksparth128",
-      "twitter": "https://x.com/ksparth12",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Ruby",
-        "Node.js",
-        "Express",
-        "Flask",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Parth Sharma - Developer, Freelancer &amp; Founder; Problem Solver",
-      "location": "Noida,",
-      "status": "ok"
-    },
-    {
-      "name": "Aaparth Sharma",
       "url": "https://parthsharma.me",
       "listedTitle": "Full Stack & Ui/Ux Designer • Founder @ Rune",
       "emails": [
@@ -485,43 +454,6 @@
     {
       "name": "Aayush Bharti",
       "url": "https://aaabaa-aayush.vercel.app",
-      "listedTitle": "Developer | Freelancer | Problem Solver",
-      "emails": [
-        "hello@aayushbharti.in"
-      ],
-      "github": [
-        "https://github.com/aayushbharti",
-        "https://github.com/AayushBharti"
-      ],
-      "linkedin": "https://linkedin.com/in/iaayushbharti",
-      "twitter": "https://twitter.com/iaayushbharti",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Node.js",
-        "Express",
-        "Spring",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Firebase",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Aayush Bharti - Developer, Freelancer &amp; Problem Solver",
-      "location": "India, available globally",
-      "status": "ok"
-    },
-    {
-      "name": "Aayush Bharti",
-      "url": "https://aayushbharti.in",
       "listedTitle": "Developer | Freelancer | Problem Solver",
       "emails": [
         "hello@aayushbharti.in"
@@ -31569,50 +31501,6 @@
       "status": "ok"
     },
     {
-      "name": "Arka Mahajan",
-      "url": "https://arkamahajan.in/",
-      "listedTitle": "Robotics Engineer | IOT Enthusiast",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Arka Mahajan | AI & IoT Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Poorvaj Hinge",
-      "url": "https://poorvajhinge.vercel.app/",
-      "listedTitle": "DevOps and AIOps Software Engineer",
-      "emails": [
-        "hingepoorvaj@gmail.com",
-        "you@company.com"
-      ],
-      "github": [
-        "https://github.com/PoorvajHinge"
-      ],
-      "linkedin": "https://linkedin.com/in/poorvaj",
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Java",
-        "AWS",
-        "Azure",
-        "Docker",
-        "Kubernetes"
-      ],
-      "experience": null,
-      "title": "Poorvaj Hinge | DevOps Engineer &amp; Cybersecurity Specialist",
-      "location": "AWS to Azure cloud",
-      "status": "ok"
-    },
-    {
       "name": "Siraj AL Zahran",
       "url": "https://sirajalzahran.com",
       "listedTitle": "Software Engineer | Tech Artisan",
@@ -31649,6 +31537,50 @@
       "experience": null,
       "title": "Siraj AL Zahran | Software Engineer &amp; Tech Artisan",
       "location": "the first idea to the final deploy, I go deep",
+      "status": "ok"
+    },
+    {
+      "name": "Arka Mahajan",
+      "url": "https://arkamahajan.in",
+      "listedTitle": "Robotics Engineer | IOT Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Arka Mahajan | AI & IoT Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Poorvaj Hinge",
+      "url": "https://poorvajhinge.vercel.app",
+      "listedTitle": "DevOps and AIOps Software Engineer",
+      "emails": [
+        "hingepoorvaj@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/PoorvajHinge"
+      ],
+      "linkedin": "https://linkedin.com/in/poorvaj",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Poorvaj Hinge | DevOps Engineer &amp; Cybersecurity Specialist",
+      "location": "AWS to Azure cloud",
       "status": "ok"
     }
   ]
