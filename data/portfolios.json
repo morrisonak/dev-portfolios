@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-02T00:27:50.011Z",
-    "total": 1596,
-    "successful": 1260,
+    "scrapedAt": "2026-04-02T12:21:13.923Z",
+    "total": 1600,
+    "successful": 1264,
     "failed": 336,
-    "withEmail": 551,
-    "withGithub": 806,
-    "withStack": 1028,
-    "withLinkedin": 718,
+    "withEmail": 554,
+    "withGithub": 809,
+    "withStack": 1031,
+    "withLinkedin": 721,
     "withTwitter": 374
   },
   "portfolios": [
@@ -31540,6 +31540,115 @@
       "experience": null,
       "title": "Amit kumar Raj- Full Stack Web Developer",
       "location": "Sitamarhi, Bihar",
+      "status": "ok"
+    },
+    {
+      "name": "Aayush",
+      "url": "https://ayushcmd.me",
+      "listedTitle": "Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer",
+      "emails": [
+        "ayush_24a12res897@iitp.ac.in"
+      ],
+      "github": [
+        "https://github.com/ayushcmd"
+      ],
+      "linkedin": "https://linkedin.com/in/ayush08iitp",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Docker",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Ayush Raj - Developer",
+      "location": "India",
+      "status": "ok"
+    },
+    {
+      "name": "Arka Mahajan",
+      "url": "https://arkamahajan.in/",
+      "listedTitle": "Robotics Engineer | IOT Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Arka Mahajan | AI & IoT Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Poorvaj Hinge",
+      "url": "https://poorvajhinge.vercel.app/",
+      "listedTitle": "DevOps and AIOps Software Engineer",
+      "emails": [
+        "hingepoorvaj@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/PoorvajHinge"
+      ],
+      "linkedin": "https://linkedin.com/in/poorvaj",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Poorvaj Hinge | DevOps Engineer &amp; Cybersecurity Specialist",
+      "location": "AWS to Azure cloud",
+      "status": "ok"
+    },
+    {
+      "name": "Siraj AL Zahran",
+      "url": "https://sirajalzahran.com",
+      "listedTitle": "Software Engineer | Tech Artisan",
+      "emails": [
+        "sirajalzahran@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sirajalzahran"
+      ],
+      "linkedin": "https://linkedin.com/in/sirajalzahran",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Laravel",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Siraj AL Zahran | Software Engineer &amp; Tech Artisan",
+      "location": "the first idea to the final deploy, I go deep",
       "status": "ok"
     }
   ]
