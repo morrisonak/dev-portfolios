@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-03T00:29:40.305Z",
-    "total": 1600,
-    "successful": 1264,
+    "scrapedAt": "2026-04-03T12:15:49.957Z",
+    "total": 1602,
+    "successful": 1266,
     "failed": 336,
-    "withEmail": 553,
-    "withGithub": 808,
-    "withStack": 1031,
-    "withLinkedin": 720,
+    "withEmail": 554,
+    "withGithub": 809,
+    "withStack": 1033,
+    "withLinkedin": 721,
     "withTwitter": 372
   },
   "portfolios": [
@@ -31629,6 +31629,50 @@
       ],
       "experience": null,
       "title": "Dipanshu Singh — React · Full-Stack · AI Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Hassan Nazar",
+      "url": "https://hassannazar72.github.io/portfolio/",
+      "listedTitle": "",
+      "emails": [
+        "hassannazar72@gmail.com"
+      ],
+      "github": [
+        "https://github.com/HassanNazar72"
+      ],
+      "linkedin": "https://www.linkedin.com/in/muhammadhassannazar",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Muhammad Hassan — Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Somenath Sau",
+      "url": "https://somenathsau.github.io",
+      "listedTitle": "Data Analyst | gen AI | Cloud",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "Somenath Sau | Portfolio",
       "location": null,
       "status": "ok"
     }
