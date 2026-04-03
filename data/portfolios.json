@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-02T18:19:45.883Z",
-    "total": 1598,
-    "successful": 1262,
+    "scrapedAt": "2026-04-03T00:29:40.305Z",
+    "total": 1600,
+    "successful": 1264,
     "failed": 336,
-    "withEmail": 552,
-    "withGithub": 807,
-    "withStack": 1029,
-    "withLinkedin": 719,
+    "withEmail": 553,
+    "withGithub": 808,
+    "withStack": 1031,
+    "withLinkedin": 720,
     "withTwitter": 372
   },
   "portfolios": [
@@ -31581,6 +31581,55 @@
       "experience": null,
       "title": "Poorvaj Hinge | DevOps Engineer &amp; Cybersecurity Specialist",
       "location": "AWS to Azure cloud",
+      "status": "ok"
+    },
+    {
+      "name": "Abdullah Ahmed",
+      "url": "https://abdallaahmed.icu",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "info@abdallaahmed.icu",
+        "privacy@abdallaahmed.icu"
+      ],
+      "github": [
+        "https://github.com/abdalla-3077"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abdalla-ahmed-int",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "React Native",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Abdalla Ahmed | Full Stack Developer",
+      "location": "you",
+      "status": "ok"
+    },
+    {
+      "name": "Dipanshu Singh",
+      "url": "https://dipanshusingh.vercel.app",
+      "listedTitle": "Full Stack · AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Dipanshu Singh — React · Full-Stack · AI Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
