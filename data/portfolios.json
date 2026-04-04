@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-03T12:15:49.957Z",
-    "total": 1602,
-    "successful": 1266,
+    "scrapedAt": "2026-04-04T12:12:16.232Z",
+    "total": 1603,
+    "successful": 1267,
     "failed": 336,
     "withEmail": 554,
     "withGithub": 809,
-    "withStack": 1033,
+    "withStack": 1034,
     "withLinkedin": 721,
     "withTwitter": 372
   },
@@ -31674,6 +31674,23 @@
       "experience": null,
       "title": "Somenath Sau | Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mohit Verma",
+      "url": "https://mohitverma.codes",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Mohit Verma — Creative Full-Stack Developer",
+      "location": "India building impactful digital experiences with React, Node",
       "status": "ok"
     }
   ]
