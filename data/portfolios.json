@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-05T12:12:24.581Z",
-    "total": 1605,
-    "successful": 1269,
+    "scrapedAt": "2026-04-05T18:11:38.239Z",
+    "total": 1602,
+    "successful": 1266,
     "failed": 336,
-    "withEmail": 555,
-    "withGithub": 810,
-    "withStack": 1035,
-    "withLinkedin": 722,
-    "withTwitter": 373
+    "withEmail": 554,
+    "withGithub": 809,
+    "withStack": 1033,
+    "withLinkedin": 721,
+    "withTwitter": 372
   },
   "portfolios": [
     {
@@ -10417,23 +10417,6 @@
       "status": "ok"
     },
     {
-      "name": "Eliah Hango",
-      "url": "https://www.elitechwiz.site",
-      "listedTitle": "Full Stack Developer| Cyber Security Expert & Civil Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript"
-      ],
-      "experience": null,
-      "title": "EliTechWiz | Cybersecurity Expert, Software Architect & Creative Designer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Elio Jordan Lopes",
       "url": "https://developer.vercel.app",
       "listedTitle": "",
@@ -13861,20 +13844,6 @@
       "stack": [],
       "experience": null,
       "title": "C:\\Users\\mortimr\\Desktop",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Iya Said Bah",
-      "url": "https://www.iyabahsaid.site",
-      "listedTitle": "Full Stack(Nextjs) | Api Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": null,
       "location": null,
       "status": "ok"
     },
@@ -25736,40 +25705,6 @@
       ],
       "experience": "8+ years",
       "title": "Roshan Kunwar | Senior Software Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Ruhban Abdullah",
-      "url": "https://developerruhban.com",
-      "listedTitle": "",
-      "emails": [
-        "info@developerruhban.com"
-      ],
-      "github": [
-        "https://github.com/shahruhban01",
-        "https://github.com/Shahruhban01"
-      ],
-      "linkedin": "https://www.linkedin.com/in/shahruhban",
-      "twitter": "https://x.com/shahruhban_01",
-      "stack": [
-        "React",
-        "Nuxt",
-        "JavaScript",
-        "Python",
-        "Go",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "AWS",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Ruhban Abdullah | Software Engineer",
       "location": null,
       "status": "ok"
     },
