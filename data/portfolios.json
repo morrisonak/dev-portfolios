@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-04T12:12:16.232Z",
-    "total": 1603,
-    "successful": 1267,
+    "scrapedAt": "2026-04-05T12:12:24.581Z",
+    "total": 1605,
+    "successful": 1269,
     "failed": 336,
-    "withEmail": 554,
-    "withGithub": 809,
-    "withStack": 1034,
-    "withLinkedin": 721,
-    "withTwitter": 372
+    "withEmail": 555,
+    "withGithub": 810,
+    "withStack": 1035,
+    "withLinkedin": 722,
+    "withTwitter": 373
   },
   "portfolios": [
     {
@@ -31691,6 +31691,43 @@
       "experience": null,
       "title": "Mohit Verma — Creative Full-Stack Developer",
       "location": "India building impactful digital experiences with React, Node",
+      "status": "ok"
+    },
+    {
+      "name": "Kuei Poch Kuei",
+      "url": "http://kueiyiee-portfolio.vercel.app",
+      "listedTitle": "Full Stack Dev and Creative Thinker",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Kuei Poch Kuei | Full-Stack Developer & Security Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sourav Dey",
+      "url": "https://souravdey.space",
+      "listedTitle": "",
+      "emails": [
+        "souravdey.space@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Souravdey777"
+      ],
+      "linkedin": "https://www.linkedin.com/in/souravdey777",
+      "twitter": "https://twitter.com/Souravdey777",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Sourav Dey / Digital Space",
+      "location": "ideation to production",
       "status": "ok"
     }
   ]
