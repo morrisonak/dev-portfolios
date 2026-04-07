@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-07T06:33:56.167Z",
-    "total": 1603,
-    "successful": 1266,
+    "scrapedAt": "2026-04-07T18:21:30.280Z",
+    "total": 1604,
+    "successful": 1267,
     "failed": 337,
-    "withEmail": 554,
-    "withGithub": 809,
-    "withStack": 1033,
-    "withLinkedin": 720,
+    "withEmail": 555,
+    "withGithub": 810,
+    "withStack": 1034,
+    "withLinkedin": 721,
     "withTwitter": 372
   },
   "portfolios": [
@@ -31671,6 +31671,45 @@
       "experience": null,
       "title": "Parth Sharma - Developer, Freelancer &amp; Founder; Problem Solver",
       "location": "Noida,",
+      "status": "ok"
+    },
+    {
+      "name": "Raj Sharma",
+      "url": "https://www.rajsh.in",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "rjsharmase@gmail.com",
+        "u003erjsharmase@gmail.com"
+      ],
+      "github": [
+        "https://github.com/softenrj",
+        "https://github.com/DhruvGodambe",
+        "https://github.com/sushantmahajan85",
+        "https://github.com/Raihan115219",
+        "https://github.com/Imranh21"
+      ],
+      "linkedin": "https://www.linkedin.com/in/raj-sharma-23447527b",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Home",
+      "location": "backend APIs",
       "status": "ok"
     }
   ]
