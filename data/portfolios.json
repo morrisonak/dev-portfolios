@@ -1,9 +1,9 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-07T00:31:18.279Z",
-    "total": 1602,
+    "scrapedAt": "2026-04-07T06:33:56.167Z",
+    "total": 1603,
     "successful": 1266,
-    "failed": 336,
+    "failed": 337,
     "withEmail": 554,
     "withGithub": 809,
     "withStack": 1033,
@@ -230,30 +230,6 @@
       "experience": "4+ years",
       "title": "Muhammad Aamir Malik | Full Stack Developer",
       "location": "various cultures",
-      "status": "ok"
-    },
-    {
-      "name": "Aaparth Sharma",
-      "url": "https://parthsharma.me",
-      "listedTitle": "Full Stack & Ui/Ux Designer • Founder @ Rune",
-      "emails": [
-        "hello@parthh.in"
-      ],
-      "github": [
-        "https://github.com/ksparth12"
-      ],
-      "linkedin": "https://linkedin.com/in/ksparth128",
-      "twitter": "https://x.com/ksparth12",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Docker",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Parth Sharma - Developer, Freelancer &amp; Founder; Problem Solver",
-      "location": "the album",
       "status": "ok"
     },
     {
@@ -31658,6 +31634,43 @@
       "experience": null,
       "title": "Diana Martine Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jinki Jung",
+      "url": "https://jinkijung.github.io",
+      "listedTitle": "",
+      "status": "error",
+      "error": "HTTP 404"
+    },
+    {
+      "name": "Parth Sharma",
+      "url": "https://parthh.in",
+      "listedTitle": "Full Stack & Ui/Ux Designer • Founder @ Rune",
+      "emails": [
+        "hello@parthh.in"
+      ],
+      "github": [
+        "https://github.com/ksparth12"
+      ],
+      "linkedin": "https://linkedin.com/in/ksparth128",
+      "twitter": "https://x.com/ksparth12",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Parth Sharma - Developer, Freelancer &amp; Founder; Problem Solver",
+      "location": "Noida,",
       "status": "ok"
     }
   ]
