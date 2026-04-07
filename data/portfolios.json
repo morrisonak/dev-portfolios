@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-05T18:11:38.239Z",
+    "scrapedAt": "2026-04-07T00:31:18.279Z",
     "total": 1602,
     "successful": 1266,
     "failed": 336,
     "withEmail": 554,
     "withGithub": 809,
     "withStack": 1033,
-    "withLinkedin": 721,
+    "withLinkedin": 720,
     "withTwitter": 372
   },
   "portfolios": [
@@ -6564,38 +6564,6 @@
       "status": "ok"
     },
     {
-      "name": "Bishnu Pokhrel",
-      "url": "https://bishnupokhrel.netlify.app",
-      "listedTitle": "Full Stack Laravel Vue Developer",
-      "emails": [
-        "bishnupokhrel.se@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Bishnupkl"
-      ],
-      "linkedin": "https://linkedin.com/in/20nupokhrel",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "Java",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "AWS",
-        "MongoDB",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Bishnu Pokhrel|senior Web Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Bjorn Melin",
       "url": "https://bjornmelin.io",
       "listedTitle": "Data Scientist",
@@ -6800,37 +6768,6 @@
       "experience": null,
       "title": "bouwe.io, a blog by Bouwe Westerdijk",
       "location": "other developers",
-      "status": "ok"
-    },
-    {
-      "name": "Bparth Sharma",
-      "url": "https://www.parthh.in",
-      "listedTitle": "Full Stack | UI/UX | Founder @Rune",
-      "emails": [
-        "hello@parthh.in"
-      ],
-      "github": [
-        "https://github.com/ksparth12"
-      ],
-      "linkedin": "https://linkedin.com/in/ksparth128",
-      "twitter": "https://x.com/ksparth12",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Ruby",
-        "Node.js",
-        "Express",
-        "Flask",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Parth Sharma - Developer, Freelancer &amp; Founder; Problem Solver",
-      "location": "Noida,",
       "status": "ok"
     },
     {
@@ -31663,6 +31600,64 @@
       "experience": null,
       "title": "Sourav Dey / Digital Space",
       "location": "ideation to production",
+      "status": "ok"
+    },
+    {
+      "name": "Aaabad touk",
+      "url": "https://aaabadcode.com",
+      "listedTitle": "AI Engineer",
+      "emails": [
+        "hello@aaabadcode.dev"
+      ],
+      "github": [
+        "https://github.com/aaaby-code"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/aaabadcode",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Aaabad Touk — AI Engineer",
+      "location": "LLMs to computer vision",
+      "status": "ok"
+    },
+    {
+      "name": "Diana Pontes",
+      "url": "https://martineoficial-portfolio.vercel.app/",
+      "listedTitle": "Software Engineering Analyst | Full Stack Developer",
+      "emails": [
+        "martinecoding@gmail.com"
+      ],
+      "github": [
+        "https://github.com/martineoficial"
+      ],
+      "linkedin": "https://www.linkedin.com/in/martineoficial",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Spring",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Diana Martine Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
