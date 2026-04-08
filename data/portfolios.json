@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-08T12:22:17.113Z",
-    "total": 1608,
-    "successful": 1271,
+    "scrapedAt": "2026-04-08T18:29:02.319Z",
+    "total": 1609,
+    "successful": 1272,
     "failed": 337,
-    "withEmail": 556,
-    "withGithub": 812,
-    "withStack": 1036,
-    "withLinkedin": 723,
+    "withEmail": 557,
+    "withGithub": 813,
+    "withStack": 1037,
+    "withLinkedin": 724,
     "withTwitter": 373
   },
   "portfolios": [
@@ -31787,6 +31787,29 @@
       "experience": null,
       "title": "Truong Thanh Long Portfolio",
       "location": "initial UI concepts in Figma to backend integration and physical device testing",
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Furqan",
+      "url": "https://iammuhammadfurqan.github.io/portfolio/",
+      "listedTitle": "Full-Stack AI Engineer | RAG & Voice AI Specialist",
+      "emails": [
+        "muhammadfurqan0100@gmail.com"
+      ],
+      "github": [
+        "https://github.com/iammuhammadfurqan",
+        "https://github.com/furqan899"
+      ],
+      "linkedin": "https://www.linkedin.com/in/immuhammadfurqan",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "AWS",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Muhammad Furqan - AI Engineer Portfolio",
+      "location": "developing chatbots and recommendation systems to implementing computer vision solutions for object ",
       "status": "ok"
     }
   ]
