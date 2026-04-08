@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-08T00:31:21.262Z",
-    "total": 1607,
-    "successful": 1270,
+    "scrapedAt": "2026-04-08T12:22:17.113Z",
+    "total": 1608,
+    "successful": 1271,
     "failed": 337,
-    "withEmail": 555,
-    "withGithub": 811,
-    "withStack": 1035,
-    "withLinkedin": 722,
+    "withEmail": 556,
+    "withGithub": 812,
+    "withStack": 1036,
+    "withLinkedin": 723,
     "withTwitter": 373
   },
   "portfolios": [
@@ -31757,6 +31757,36 @@
       "experience": null,
       "title": "Yassine Erradouani | BI Analyst + Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Truong Thanh Long",
+      "url": "https://portfolio-thanhlong.vercel.app/en",
+      "listedTitle": "Frontend Developer",
+      "emails": [
+        "your-email@gmail.com"
+      ],
+      "github": [
+        "https://github.com/thanhlongtruong"
+      ],
+      "linkedin": "https://www.linkedin.com/in/truongthanhlong",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind",
+        "Flutter",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Truong Thanh Long Portfolio",
+      "location": "initial UI concepts in Figma to backend integration and physical device testing",
       "status": "ok"
     }
   ]
