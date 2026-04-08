@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-07T18:21:30.280Z",
-    "total": 1604,
-    "successful": 1267,
+    "scrapedAt": "2026-04-08T00:31:21.262Z",
+    "total": 1607,
+    "successful": 1270,
     "failed": 337,
     "withEmail": 555,
-    "withGithub": 810,
-    "withStack": 1034,
-    "withLinkedin": 721,
-    "withTwitter": 372
+    "withGithub": 811,
+    "withStack": 1035,
+    "withLinkedin": 722,
+    "withTwitter": 373
   },
   "portfolios": [
     {
@@ -31710,6 +31710,53 @@
       "experience": null,
       "title": "Home",
       "location": "backend APIs",
+      "status": "ok"
+    },
+    {
+      "name": "Angkon Kar",
+      "url": "https://angkonkar.netlify.app/",
+      "listedTitle": "‍Frontend Engineer | 👨🏽‍💻 Computer Engineering Student",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Home - Angkon Kar",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anurag Zete",
+      "url": "https://portfolio-anuragzete.web.app",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Anurag Zete",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Yassine Erradouani",
+      "url": "https://yerradouani.me",
+      "listedTitle": "Data Engineer | Data Analyst | BI Consultant",
+      "emails": [],
+      "github": [
+        "https://github.com/yassnemo"
+      ],
+      "linkedin": "https://www.linkedin.com/in/yassine-erradouani",
+      "twitter": "https://x.com/erradouanii",
+      "stack": [
+        "JavaScript",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "Yassine Erradouani | BI Analyst + Developer",
+      "location": null,
       "status": "ok"
     }
   ]
