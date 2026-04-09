@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-08T18:29:02.319Z",
-    "total": 1609,
-    "successful": 1272,
+    "scrapedAt": "2026-04-09T00:25:52.648Z",
+    "total": 1610,
+    "successful": 1273,
     "failed": 337,
-    "withEmail": 557,
-    "withGithub": 813,
-    "withStack": 1037,
-    "withLinkedin": 724,
-    "withTwitter": 373
+    "withEmail": 558,
+    "withGithub": 814,
+    "withStack": 1038,
+    "withLinkedin": 725,
+    "withTwitter": 374
   },
   "portfolios": [
     {
@@ -31810,6 +31810,45 @@
       "experience": null,
       "title": "Muhammad Furqan - AI Engineer Portfolio",
       "location": "developing chatbots and recommendation systems to implementing computer vision solutions for object ",
+      "status": "ok"
+    },
+    {
+      "name": "Ashim Rudra Paul",
+      "url": "https://ashimrudrapaul.com/",
+      "listedTitle": "Software Engineer | Gen AI Engineer & Cloud Architect",
+      "emails": [
+        "codewithashim@gmail.com"
+      ],
+      "github": [
+        "https://github.com/codewithashim"
+      ],
+      "linkedin": "https://linkedin.com/in/codewithashim",
+      "twitter": "https://twitter.com/codewithashim",
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Ashim Rudra Paul | Software Engineer | Full Stack Developer",
+      "location": "the",
       "status": "ok"
     }
   ]
