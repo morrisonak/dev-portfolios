@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-09T00:25:52.648Z",
-    "total": 1610,
-    "successful": 1273,
+    "scrapedAt": "2026-04-09T18:23:27.832Z",
+    "total": 1614,
+    "successful": 1277,
     "failed": 337,
-    "withEmail": 558,
-    "withGithub": 814,
-    "withStack": 1038,
+    "withEmail": 559,
+    "withGithub": 815,
+    "withStack": 1039,
     "withLinkedin": 725,
     "withTwitter": 374
   },
@@ -31849,6 +31849,73 @@
       "experience": null,
       "title": "Ashim Rudra Paul | Software Engineer | Full Stack Developer",
       "location": "the",
+      "status": "ok"
+    },
+    {
+      "name": "Mydhily M R",
+      "url": "https://mydhily-mr.github.io/portfolio/",
+      "listedTitle": "Embedded Developer | Electronics",
+      "emails": [
+        "mydhilymrofficial@gmail.com"
+      ],
+      "github": [
+        "https://github.com/mydhily-mr"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Mydhily M R | Embedded Systems Engineer",
+      "location": "a custom embedded system",
+      "status": "ok"
+    },
+    {
+      "name": "Newton Yuan",
+      "url": "https://newtonyuan.com",
+      "listedTitle": "Software Engineer | Full Stack Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Newton Yuan",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Peter Kyale",
+      "url": "https://studio44.is-a.dev/",
+      "listedTitle": "Blockchain Developer | Web3",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "studio-44",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ramzi Bouzaiene",
+      "url": "https://ramzibouzaiene.vercel.app/",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "Java",
+        "Node.js",
+        "Spring"
+      ],
+      "experience": "4+ years",
+      "title": "Ramzi Bouzaiene | Full Stack Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
