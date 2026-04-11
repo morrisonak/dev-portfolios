@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-11T00:29:02.308Z",
-    "total": 1615,
-    "successful": 1278,
+    "scrapedAt": "2026-04-11T06:25:20.321Z",
+    "total": 1616,
+    "successful": 1279,
     "failed": 337,
-    "withEmail": 559,
+    "withEmail": 560,
     "withGithub": 816,
-    "withStack": 1040,
-    "withLinkedin": 726,
-    "withTwitter": 374
+    "withStack": 1041,
+    "withLinkedin": 727,
+    "withTwitter": 375
   },
   "portfolios": [
     {
@@ -31934,6 +31934,25 @@
       ],
       "experience": null,
       "title": "althruist:portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Debbie Chen",
+      "url": "https://debbiechen.me/",
+      "listedTitle": "Designer at UT Austin",
+      "emails": [
+        "yuhsindchen@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/ydebbiechen",
+      "twitter": "https://x.com/ydebbiechen",
+      "stack": [
+        "React",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "Debbie Chen",
       "location": null,
       "status": "ok"
     }
