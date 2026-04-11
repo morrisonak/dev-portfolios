@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-09T18:23:27.832Z",
-    "total": 1614,
-    "successful": 1277,
+    "scrapedAt": "2026-04-11T00:29:02.308Z",
+    "total": 1615,
+    "successful": 1278,
     "failed": 337,
     "withEmail": 559,
-    "withGithub": 815,
-    "withStack": 1039,
-    "withLinkedin": 725,
+    "withGithub": 816,
+    "withStack": 1040,
+    "withLinkedin": 726,
     "withTwitter": 374
   },
   "portfolios": [
@@ -31915,6 +31915,25 @@
       ],
       "experience": "4+ years",
       "title": "Ramzi Bouzaiene | Full Stack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Althruist",
+      "url": "https://althruist.fyi",
+      "listedTitle": "Game Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/althruist"
+      ],
+      "linkedin": "https://www.linkedin.com/in/althruist",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Svelte"
+      ],
+      "experience": null,
+      "title": "althruist:portfolio",
       "location": null,
       "status": "ok"
     }
