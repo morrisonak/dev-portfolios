@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-11T12:13:29.729Z",
-    "total": 1618,
-    "successful": 1281,
+    "scrapedAt": "2026-04-11T18:11:27.080Z",
+    "total": 1619,
+    "successful": 1282,
     "failed": 337,
-    "withEmail": 561,
-    "withGithub": 818,
-    "withStack": 1042,
-    "withLinkedin": 729,
-    "withTwitter": 375
+    "withEmail": 562,
+    "withGithub": 819,
+    "withStack": 1043,
+    "withLinkedin": 730,
+    "withTwitter": 376
   },
   "portfolios": [
     {
@@ -31992,6 +31992,30 @@
       "experience": null,
       "title": null,
       "location": "Athens, Greece",
+      "status": "ok"
+    },
+    {
+      "name": "Gaurav Saxena",
+      "url": "https://www.gauravsaxena.site/",
+      "listedTitle": "Full Stack Engineer | AI Engineer",
+      "emails": [
+        "gauravsaxena.jaipur@gmail.com"
+      ],
+      "github": [
+        "https://github.com/gauravsaxena1997"
+      ],
+      "linkedin": "https://www.linkedin.com/in/gauravsaxena1997",
+      "twitter": "https://twitter.com/gauravsaxena",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Gaurav Saxena | Creative Technologist &amp; Full Stack Architect",
+      "location": null,
       "status": "ok"
     }
   ]
