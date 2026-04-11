@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-11T06:25:20.321Z",
-    "total": 1616,
-    "successful": 1279,
+    "scrapedAt": "2026-04-11T12:13:29.729Z",
+    "total": 1618,
+    "successful": 1281,
     "failed": 337,
-    "withEmail": 560,
-    "withGithub": 816,
-    "withStack": 1041,
-    "withLinkedin": 727,
+    "withEmail": 561,
+    "withGithub": 818,
+    "withStack": 1042,
+    "withLinkedin": 729,
     "withTwitter": 375
   },
   "portfolios": [
@@ -31954,6 +31954,44 @@
       "experience": null,
       "title": "Debbie Chen",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Pep Alonso",
+      "url": "https://pepalonso.com",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "pepalonsocosta@gmail.com"
+      ],
+      "github": [
+        "https://github.com/pepalonsocosta"
+      ],
+      "linkedin": "https://www.linkedin.com/in/pep-alonso-costa-463431304",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Pep Alonso Costa — Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Petros Dhespollari",
+      "url": "https://peterdsp.dev",
+      "listedTitle": "iOS Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/peterdsp"
+      ],
+      "linkedin": "https://www.linkedin.com/in/peterdsp",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "TypeScript",
+        "Swift"
+      ],
+      "experience": null,
+      "title": null,
+      "location": "Athens, Greece",
       "status": "ok"
     }
   ]
