@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-11T18:11:27.080Z",
-    "total": 1619,
-    "successful": 1282,
+    "scrapedAt": "2026-04-12T12:14:30.139Z",
+    "total": 1624,
+    "successful": 1287,
     "failed": 337,
-    "withEmail": 562,
-    "withGithub": 819,
-    "withStack": 1043,
-    "withLinkedin": 730,
-    "withTwitter": 376
+    "withEmail": 563,
+    "withGithub": 821,
+    "withStack": 1047,
+    "withLinkedin": 732,
+    "withTwitter": 378
   },
   "portfolios": [
     {
@@ -32016,6 +32016,117 @@
       "experience": null,
       "title": "Gaurav Saxena | Creative Technologist &amp; Full Stack Architect",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aditya Poojary",
+      "url": "https://adityapoojary.dev/",
+      "listedTitle": "Software Developer",
+      "emails": [
+        "adityapoojary07@gmail.com"
+      ],
+      "github": [
+        "https://github.com/aditya-poojary",
+        "https://github.com/kavin-cmd"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aditya-poojary-",
+      "twitter": "https://x.com/adityapoojaryO7",
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Java",
+        "Ruby",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Aditya Poojary | Full Stack Developer &amp; Software Engineer",
+      "location": "Mumbai, India",
+      "status": "ok"
+    },
+    {
+      "name": "Anish Navalgund",
+      "url": "https://anishknavalgund.vercel.app",
+      "listedTitle": "AI, Robotics and Automation",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Anish K. Navalgund - Software Engineer in AI/ML & Computer Vision",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mohammad Ahmad",
+      "url": "https://ahmad-netflix-portfolio-ujir.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Ahmad&#x27;s Netflix-style Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mohammad Ahmad",
+      "url": "https://3d-portfolio-orpin-one.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Mohammad Ahmad - Backend Developer | Full Stack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Remco Stoeten",
+      "url": "https://remcostoeten.nl",
+      "listedTitle": "Frontend Engineer | Graphic Design Degree",
+      "emails": [],
+      "github": [
+        "https://github.com/remcostoeten"
+      ],
+      "linkedin": "https://www.linkedin.com/in/remco-stoeten",
+      "twitter": "https://x.com/remcostoeten",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Node.js",
+        "Django",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": "8+ years",
+      "title": "Remco Stoeten - Frontend Engineer | Remco Stoeten | Remco Stoeten",
+      "location": "the Netherlands",
       "status": "ok"
     }
   ]
