@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-12T12:14:30.139Z",
-    "total": 1624,
+    "scrapedAt": "2026-04-12T18:14:42.387Z",
+    "total": 1625,
     "successful": 1287,
-    "failed": 337,
-    "withEmail": 563,
-    "withGithub": 821,
-    "withStack": 1047,
-    "withLinkedin": 732,
-    "withTwitter": 378
+    "failed": 338,
+    "withEmail": 564,
+    "withGithub": 822,
+    "withStack": 1048,
+    "withLinkedin": 733,
+    "withTwitter": 379
   },
   "portfolios": [
     {
@@ -31609,34 +31609,6 @@
       "status": "ok"
     },
     {
-      "name": "Diana Pontes",
-      "url": "https://martineoficial-portfolio.vercel.app/",
-      "listedTitle": "Software Engineering Analyst | Full Stack Developer",
-      "emails": [
-        "martinecoding@gmail.com"
-      ],
-      "github": [
-        "https://github.com/martineoficial"
-      ],
-      "linkedin": "https://www.linkedin.com/in/martineoficial",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Angular",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Java",
-        "Spring",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Diana Martine Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Jinki Jung",
       "url": "https://jinkijung.github.io",
       "listedTitle": "",
@@ -31710,20 +31682,6 @@
       "experience": null,
       "title": "Home",
       "location": "backend APIs",
-      "status": "ok"
-    },
-    {
-      "name": "Angkon Kar",
-      "url": "https://angkonkar.netlify.app/",
-      "listedTitle": "‍Frontend Engineer | 👨🏽‍💻 Computer Engineering Student",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Home - Angkon Kar",
-      "location": null,
       "status": "ok"
     },
     {
@@ -31813,45 +31771,6 @@
       "status": "ok"
     },
     {
-      "name": "Ashim Rudra Paul",
-      "url": "https://ashimrudrapaul.com/",
-      "listedTitle": "Software Engineer | Gen AI Engineer & Cloud Architect",
-      "emails": [
-        "codewithashim@gmail.com"
-      ],
-      "github": [
-        "https://github.com/codewithashim"
-      ],
-      "linkedin": "https://linkedin.com/in/codewithashim",
-      "twitter": "https://twitter.com/codewithashim",
-      "stack": [
-        "React",
-        "Angular",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Rust",
-        "Go",
-        "Java",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "MongoDB"
-      ],
-      "experience": null,
-      "title": "Ashim Rudra Paul | Software Engineer | Full Stack Developer",
-      "location": "the",
-      "status": "ok"
-    },
-    {
       "name": "Mydhily M R",
       "url": "https://mydhily-mr.github.io/portfolio/",
       "listedTitle": "Embedded Developer | Electronics",
@@ -31884,41 +31803,6 @@
       "status": "ok"
     },
     {
-      "name": "Peter Kyale",
-      "url": "https://studio44.is-a.dev/",
-      "listedTitle": "Blockchain Developer | Web3",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "studio-44",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Ramzi Bouzaiene",
-      "url": "https://ramzibouzaiene.vercel.app/",
-      "listedTitle": "Software Engineer | Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Angular",
-        "TypeScript",
-        "Java",
-        "Node.js",
-        "Spring"
-      ],
-      "experience": "4+ years",
-      "title": "Ramzi Bouzaiene | Full Stack Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Althruist",
       "url": "https://althruist.fyi",
       "listedTitle": "Game Developer",
@@ -31934,25 +31818,6 @@
       ],
       "experience": null,
       "title": "althruist:portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Debbie Chen",
-      "url": "https://debbiechen.me/",
-      "listedTitle": "Designer at UT Austin",
-      "emails": [
-        "yuhsindchen@gmail.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/ydebbiechen",
-      "twitter": "https://x.com/ydebbiechen",
-      "stack": [
-        "React",
-        "Spring"
-      ],
-      "experience": null,
-      "title": "Debbie Chen",
       "location": null,
       "status": "ok"
     },
@@ -31995,32 +31860,54 @@
       "status": "ok"
     },
     {
-      "name": "Gaurav Saxena",
-      "url": "https://www.gauravsaxena.site/",
-      "listedTitle": "Full Stack Engineer | AI Engineer",
-      "emails": [
-        "gauravsaxena.jaipur@gmail.com"
-      ],
-      "github": [
-        "https://github.com/gauravsaxena1997"
-      ],
-      "linkedin": "https://www.linkedin.com/in/gauravsaxena1997",
-      "twitter": "https://twitter.com/gauravsaxena",
+      "name": "Anish Navalgund",
+      "url": "https://anishknavalgund.vercel.app",
+      "listedTitle": "AI, Robotics and Automation",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
       "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "Tailwind"
+        "JavaScript"
       ],
       "experience": null,
-      "title": "Gaurav Saxena | Creative Technologist &amp; Full Stack Architect",
+      "title": "Anish K. Navalgund - Software Engineer in AI/ML & Computer Vision",
       "location": null,
       "status": "ok"
     },
     {
+      "name": "Remco Stoeten",
+      "url": "https://remcostoeten.nl",
+      "listedTitle": "Frontend Engineer | Graphic Design Degree",
+      "emails": [],
+      "github": [
+        "https://github.com/remcostoeten"
+      ],
+      "linkedin": "https://www.linkedin.com/in/remco-stoeten",
+      "twitter": "https://x.com/remcostoeten",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Node.js",
+        "Django",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": "8+ years",
+      "title": "Remco Stoeten - Frontend Engineer | Remco Stoeten | Remco Stoeten",
+      "location": "the Netherlands",
+      "status": "ok"
+    },
+    {
       "name": "Aditya Poojary",
-      "url": "https://adityapoojary.dev/",
+      "url": "https://adityapoojary.dev",
       "listedTitle": "Software Developer",
       "emails": [
         "adityapoojary07@gmail.com"
@@ -32053,24 +31940,178 @@
       "status": "ok"
     },
     {
-      "name": "Anish Navalgund",
-      "url": "https://anishknavalgund.vercel.app",
-      "listedTitle": "AI, Robotics and Automation",
+      "name": "Angkon Kar",
+      "url": "https://angkonkar.netlify.app",
+      "listedTitle": "‍Frontend Engineer | 👨🏽‍💻 Computer Engineering Student",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Ashim Rudra Paul",
+      "url": "https://ashimrudrapaul.com",
+      "listedTitle": "Software Engineer | Gen AI Engineer & Cloud Architect",
+      "emails": [
+        "codewithashim@gmail.com"
+      ],
+      "github": [
+        "https://github.com/codewithashim"
+      ],
+      "linkedin": "https://linkedin.com/in/codewithashim",
+      "twitter": "https://twitter.com/codewithashim",
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Ashim Rudra Paul | Software Engineer | Full Stack Developer",
+      "location": "the",
+      "status": "ok"
+    },
+    {
+      "name": "Debbie Chen",
+      "url": "https://debbiechen.me",
+      "listedTitle": "Designer at UT Austin",
+      "emails": [
+        "yuhsindchen@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/ydebbiechen",
+      "twitter": "https://x.com/ydebbiechen",
+      "stack": [
+        "React",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "Debbie Chen",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Diana Pontes",
+      "url": "https://martineoficial-portfolio.vercel.app",
+      "listedTitle": "Software Engineering Analyst | Full Stack Developer",
+      "emails": [
+        "martinecoding@gmail.com"
+      ],
+      "github": [
+        "https://github.com/martineoficial"
+      ],
+      "linkedin": "https://www.linkedin.com/in/martineoficial",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Spring",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Diana Martine Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Gaurav Saxena",
+      "url": "https://www.gauravsaxena.site",
+      "listedTitle": "Full Stack Engineer | AI Engineer",
+      "emails": [
+        "gauravsaxena.jaipur@gmail.com"
+      ],
+      "github": [
+        "https://github.com/gauravsaxena1997"
+      ],
+      "linkedin": "https://www.linkedin.com/in/gauravsaxena1997",
+      "twitter": "https://twitter.com/gauravsaxena",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Gaurav Saxena | Creative Technologist &amp; Full Stack Architect",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hafeez Mohamad",
+      "url": "https://haffee.vercel.app",
+      "listedTitle": "Software Engineer | Full Stack Developer | AI Engineer",
+      "emails": [
+        "haffeecareer@gmail.com"
+      ],
+      "github": [
+        "https://github.com/haffee31",
+        "https://github.com/Haffee31",
+        "https://github.com/yourusername"
+      ],
+      "linkedin": "https://linkedin.com/in/hafeez-mohamad",
+      "twitter": "https://x.com/Hafeez_31",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Flutter",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Hafeez Mohamad | Software Engineer",
+      "location": "Stripe",
+      "status": "ok"
+    },
+    {
+      "name": "Mohammad Ahmad",
+      "url": "https://3d-portfolio-orpin-one.vercel.app",
+      "listedTitle": "Full Stack Developer",
       "emails": [],
       "github": [],
       "linkedin": null,
       "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
+      "stack": [],
       "experience": null,
-      "title": "Anish K. Navalgund - Software Engineer in AI/ML & Computer Vision",
+      "title": "Mohammad Ahmad - Backend Developer | Full Stack Engineer",
       "location": null,
       "status": "ok"
     },
     {
       "name": "Mohammad Ahmad",
-      "url": "https://ahmad-netflix-portfolio-ujir.vercel.app/",
+      "url": "https://ahmad-netflix-portfolio-ujir.vercel.app",
       "listedTitle": "Full Stack Developer",
       "emails": [],
       "github": [],
@@ -32086,47 +32127,38 @@
       "status": "ok"
     },
     {
-      "name": "Mohammad Ahmad",
-      "url": "https://3d-portfolio-orpin-one.vercel.app/",
-      "listedTitle": "Full Stack Developer",
+      "name": "Peter Kyale",
+      "url": "https://studio44.is-a.dev",
+      "listedTitle": "Blockchain Developer | Web3",
       "emails": [],
       "github": [],
       "linkedin": null,
       "twitter": null,
       "stack": [],
       "experience": null,
-      "title": "Mohammad Ahmad - Backend Developer | Full Stack Engineer",
+      "title": "studio-44",
       "location": null,
       "status": "ok"
     },
     {
-      "name": "Remco Stoeten",
-      "url": "https://remcostoeten.nl",
-      "listedTitle": "Frontend Engineer | Graphic Design Degree",
+      "name": "Ramzi Bouzaiene",
+      "url": "https://ramzibouzaiene.vercel.app",
+      "listedTitle": "Software Engineer | Full Stack Developer",
       "emails": [],
-      "github": [
-        "https://github.com/remcostoeten"
-      ],
-      "linkedin": "https://www.linkedin.com/in/remco-stoeten",
-      "twitter": "https://x.com/remcostoeten",
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
       "stack": [
         "React",
-        "Next.js",
+        "Angular",
         "TypeScript",
-        "JavaScript",
-        "Python",
-        "Rust",
-        "Go",
+        "Java",
         "Node.js",
-        "Django",
-        "Docker",
-        "PostgreSQL",
-        "Tailwind",
-        "GraphQL"
+        "Spring"
       ],
-      "experience": "8+ years",
-      "title": "Remco Stoeten - Frontend Engineer | Remco Stoeten | Remco Stoeten",
-      "location": "the Netherlands",
+      "experience": "4+ years",
+      "title": "Ramzi Bouzaiene | Full Stack Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
