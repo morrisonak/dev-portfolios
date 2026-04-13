@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-13T12:26:13.311Z",
-    "total": 1627,
-    "successful": 1289,
+    "scrapedAt": "2026-04-13T18:28:49.532Z",
+    "total": 1629,
+    "successful": 1291,
     "failed": 338,
-    "withEmail": 565,
-    "withGithub": 823,
-    "withStack": 1049,
-    "withLinkedin": 734,
+    "withEmail": 566,
+    "withGithub": 824,
+    "withStack": 1051,
+    "withLinkedin": 735,
     "withTwitter": 380
   },
   "portfolios": [
@@ -32206,6 +32206,54 @@
       "experience": null,
       "title": "Vignesh Devendran",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mansha Qarib",
+      "url": "https://manshaqarib.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Mansha Qarib - Next.js Developer | React.js | Full Stack JavaScript",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Zahid Mushtaq",
+      "url": "https://devzahid.in",
+      "listedTitle": "Full Stack AI Developer",
+      "emails": [
+        "mushtaqzahid888@gmail.com",
+        "developer.zahidmushtaq@gmail.com"
+      ],
+      "github": [
+        "https://github.com/izahid19"
+      ],
+      "linkedin": "https://www.linkedin.com/in/zahid-mushtaq-219804150",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Redis",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Zahid Mushtaq - AI-Powered Full Stack Developer",
+      "location": "India",
       "status": "ok"
     }
   ]
