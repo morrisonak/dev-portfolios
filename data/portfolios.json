@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-12T18:14:42.387Z",
-    "total": 1625,
-    "successful": 1287,
+    "scrapedAt": "2026-04-13T12:26:13.311Z",
+    "total": 1627,
+    "successful": 1289,
     "failed": 338,
-    "withEmail": 564,
-    "withGithub": 822,
-    "withStack": 1048,
-    "withLinkedin": 733,
-    "withTwitter": 379
+    "withEmail": 565,
+    "withGithub": 823,
+    "withStack": 1049,
+    "withLinkedin": 734,
+    "withTwitter": 380
   },
   "portfolios": [
     {
@@ -32158,6 +32158,53 @@
       ],
       "experience": "4+ years",
       "title": "Ramzi Bouzaiene | Full Stack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tanish Rai",
+      "url": "https://tanishrai.dev/",
+      "listedTitle": "Software Developer",
+      "emails": [
+        "tanishrai@gmail.com"
+      ],
+      "github": [
+        "https://github.com/tanish435"
+      ],
+      "linkedin": "https://www.linkedin.com/in/tanishrai28",
+      "twitter": "https://x.com/tanishrai28",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Tanish Rai | Portfolio",
+      "location": "development to deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Vignesh Devendran",
+      "url": "https://vigneshdevendran.pages.dev",
+      "listedTitle": "Software Developer | Python, Full-Stack JavaScript/TypeSript, Ruby on Rails | FLOSS Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Vignesh Devendran",
       "location": null,
       "status": "ok"
     }
