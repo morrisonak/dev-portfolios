@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-14T12:24:20.895Z",
-    "total": 1632,
-    "successful": 1294,
+    "scrapedAt": "2026-04-14T18:28:00.885Z",
+    "total": 1634,
+    "successful": 1296,
     "failed": 338,
-    "withEmail": 568,
-    "withGithub": 826,
-    "withStack": 1054,
-    "withLinkedin": 737,
-    "withTwitter": 381
+    "withEmail": 570,
+    "withGithub": 828,
+    "withStack": 1056,
+    "withLinkedin": 738,
+    "withTwitter": 382
   },
   "portfolios": [
     {
@@ -32336,6 +32336,56 @@
       "experience": null,
       "title": "Shubhanshu Singh - Platform Engineer &amp; Architect",
       "location": "scratch, scaling them to serve millions of users",
+      "status": "ok"
+    },
+    {
+      "name": "Abhijit Mondal",
+      "url": "https://abhijitmondal.info",
+      "listedTitle": "Full Stack Web Developer | React, Next.js, Python",
+      "emails": [
+        "hello@portfolio.design",
+        "abhijitmondal012@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Quantabhi"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/abhijitmondal22",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Portfolio - 🤔Abhijit",
+      "location": "Kolkata, IN",
+      "status": "ok"
+    },
+    {
+      "name": "Ritesh Goswami",
+      "url": "https://ritesh-portfolio-2026.vercel.app/",
+      "listedTitle": "Full Stack Developer | MERN + TypeScript",
+      "emails": [
+        "mneshk480@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ritesh637"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ritesh-kumar-goswami-b56a5b208",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Ritesh Kumar | Freelance MERN Stack Developer in India | React & Node.js Developer",
+      "location": null,
       "status": "ok"
     }
   ]
