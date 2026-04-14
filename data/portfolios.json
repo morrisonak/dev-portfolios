@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-13T18:28:49.532Z",
-    "total": 1629,
-    "successful": 1291,
+    "scrapedAt": "2026-04-14T12:24:20.895Z",
+    "total": 1632,
+    "successful": 1294,
     "failed": 338,
-    "withEmail": 566,
-    "withGithub": 824,
-    "withStack": 1051,
-    "withLinkedin": 735,
-    "withTwitter": 380
+    "withEmail": 568,
+    "withGithub": 826,
+    "withStack": 1054,
+    "withLinkedin": 737,
+    "withTwitter": 381
   },
   "portfolios": [
     {
@@ -32254,6 +32254,88 @@
       "experience": null,
       "title": "Zahid Mushtaq - AI-Powered Full Stack Developer",
       "location": "India",
+      "status": "ok"
+    },
+    {
+      "name": "ChickyHuynh",
+      "url": "https://chickyhuynhprojects.xo.je",
+      "listedTitle": "Junior Flutter Dev",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": null,
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jatin Jadon",
+      "url": "https://portfolio-jatin-two.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "jatinjadonjj@gmail.com"
+      ],
+      "github": [
+        "https://github.com/abhiobourne"
+      ],
+      "linkedin": "https://www.linkedin.com/in/jatin-j-8a54b8207",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Jatin Jadon | Resume",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shubhanshu Singh",
+      "url": "https://shubhanshusingh.com/",
+      "listedTitle": "Platform Engineer, Enterprise Architect, Founder @ exemplar.dev",
+      "emails": [
+        "shubhanshu.singhk@gmail.com",
+        "shubhanshu@exemplar.dev"
+      ],
+      "github": [
+        "https://github.com/shubhanshusingh"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shubhanshusingh",
+      "twitter": "https://x.com/sskshubh",
+      "stack": [
+        "React",
+        "Angular",
+        "Python",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Shubhanshu Singh - Platform Engineer &amp; Architect",
+      "location": "scratch, scaling them to serve millions of users",
       "status": "ok"
     }
   ]
