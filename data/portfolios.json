@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-15T12:24:21.093Z",
-    "total": 1635,
-    "successful": 1297,
+    "scrapedAt": "2026-04-15T18:28:00.980Z",
+    "total": 1636,
+    "successful": 1298,
     "failed": 338,
     "withEmail": 570,
-    "withGithub": 828,
-    "withStack": 1057,
-    "withLinkedin": 738,
-    "withTwitter": 382
+    "withGithub": 829,
+    "withStack": 1058,
+    "withLinkedin": 739,
+    "withTwitter": 383
   },
   "portfolios": [
     {
@@ -32401,6 +32401,29 @@
       ],
       "experience": null,
       "title": "Bastian Asmussen",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Poluianov Ivan",
+      "url": "https://poluianov.com",
+      "listedTitle": "Senior Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/ipoluianov"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ivan-poluianov",
+      "twitter": "https://x.com/runderbin",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "PostgreSQL",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Poluianov",
       "location": null,
       "status": "ok"
     }
