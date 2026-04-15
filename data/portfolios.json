@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-14T18:28:00.885Z",
-    "total": 1634,
-    "successful": 1296,
+    "scrapedAt": "2026-04-15T12:24:21.093Z",
+    "total": 1635,
+    "successful": 1297,
     "failed": 338,
     "withEmail": 570,
     "withGithub": 828,
-    "withStack": 1056,
+    "withStack": 1057,
     "withLinkedin": 738,
     "withTwitter": 382
   },
@@ -32385,6 +32385,22 @@
       ],
       "experience": null,
       "title": "Ritesh Kumar | Freelance MERN Stack Developer in India | React & Node.js Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Bastian Asmussen",
+      "url": "https://asmussen.tech/",
+      "listedTitle": "Systems Programmer | Rust, Nix & Linux",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Rust"
+      ],
+      "experience": null,
+      "title": "Bastian Asmussen",
       "location": null,
       "status": "ok"
     }
