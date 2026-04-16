@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-15T18:28:00.980Z",
-    "total": 1636,
-    "successful": 1298,
+    "scrapedAt": "2026-04-16T00:36:21.524Z",
+    "total": 1638,
+    "successful": 1300,
     "failed": 338,
-    "withEmail": 570,
-    "withGithub": 829,
-    "withStack": 1058,
-    "withLinkedin": 739,
-    "withTwitter": 383
+    "withEmail": 571,
+    "withGithub": 830,
+    "withStack": 1060,
+    "withLinkedin": 740,
+    "withTwitter": 384
   },
   "portfolios": [
     {
@@ -32424,6 +32424,62 @@
       ],
       "experience": null,
       "title": "Poluianov",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jithin Vijayan",
+      "url": "https://jithin.dev",
+      "listedTitle": "Lead Software Engineer / Full Stack Developer (React / Node / Angular / Vue)",
+      "emails": [
+        "jithinvijayanofficial@gmail.com",
+        "jane@company.com"
+      ],
+      "github": [
+        "https://github.com/itsjithinv"
+      ],
+      "linkedin": "https://www.linkedin.com/in/iamjithinv",
+      "twitter": "https://twitter.com/its_me_jithinv",
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Kotlin",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Jithin Vijayan | Lead Software Engineer",
+      "location": "a tangled monolith",
+      "status": "ok"
+    },
+    {
+      "name": "Md Sarfaraz Alam",
+      "url": "https://mdsaifedu.eu.cc/3D-portfolio/",
+      "listedTitle": "Full Stack DevOps Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Azure"
+      ],
+      "experience": null,
+      "title": "Md Sarfaraz Alam | Azure Command Portfolio",
       "location": null,
       "status": "ok"
     }
