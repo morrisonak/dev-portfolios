@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-16T00:36:21.524Z",
-    "total": 1638,
-    "successful": 1300,
+    "scrapedAt": "2026-04-17T12:23:02.811Z",
+    "total": 1639,
+    "successful": 1301,
     "failed": 338,
     "withEmail": 571,
     "withGithub": 830,
@@ -32480,6 +32480,20 @@
       ],
       "experience": null,
       "title": "Md Sarfaraz Alam | Azure Command Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vauzher",
+      "url": "https://vauzher.dev",
+      "listedTitle": "Full Stack Developer | AI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Vauzher Khairullah | AI & Web Developer",
       "location": null,
       "status": "ok"
     }
