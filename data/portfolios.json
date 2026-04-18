@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-17T12:23:02.811Z",
-    "total": 1639,
-    "successful": 1301,
+    "scrapedAt": "2026-04-18T18:14:40.292Z",
+    "total": 1640,
+    "successful": 1302,
     "failed": 338,
     "withEmail": 571,
-    "withGithub": 830,
-    "withStack": 1060,
-    "withLinkedin": 740,
-    "withTwitter": 384
+    "withGithub": 831,
+    "withStack": 1061,
+    "withLinkedin": 741,
+    "withTwitter": 385
   },
   "portfolios": [
     {
@@ -32495,6 +32495,34 @@
       "experience": null,
       "title": "Vauzher Khairullah | AI & Web Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Adarsh Singh",
+      "url": "https://adarshsinghh.vercel.app/",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/adarshsinghh13"
+      ],
+      "linkedin": "https://linkedin.com/in/adarshsinghh13",
+      "twitter": "https://twitter.com/adarshsinghh13",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "GraphQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Adarsh Singh - Developer, Freelancer",
+      "location": "Vadodara,",
       "status": "ok"
     }
   ]
