@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-19T00:34:15.073Z",
-    "total": 1641,
-    "successful": 1303,
-    "failed": 338,
-    "withEmail": 571,
-    "withGithub": 832,
-    "withStack": 1062,
-    "withLinkedin": 742,
-    "withTwitter": 385
+    "scrapedAt": "2026-04-19T12:14:16.063Z",
+    "total": 1639,
+    "successful": 1304,
+    "failed": 335,
+    "withEmail": 573,
+    "withGithub": 835,
+    "withStack": 1065,
+    "withLinkedin": 745,
+    "withTwitter": 386
   },
   "portfolios": [
     {
@@ -3447,13 +3447,6 @@
       "title": "Anas's Webpage | Cschad",
       "location": null,
       "status": "ok"
-    },
-    {
-      "name": "Anav Chand",
-      "url": "https://anav.dev",
-      "listedTitle": "Software Engineering Student | Aspiring DevOps Engineer",
-      "status": "error",
-      "error": "This operation was aborted"
     },
     {
       "name": "Anay Paraswani",
@@ -18053,20 +18046,6 @@
       "status": "ok"
     },
     {
-      "name": "Manish Tiwari",
-      "url": "https://www.manishtiwari.dev",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Portfolio - Manish Tiwari",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Manjunath Bhandari",
       "url": "https://manjunathbhandari.vercel.app",
       "listedTitle": "Full Stack Developer | React | Spring Boot",
@@ -19530,20 +19509,6 @@
       "experience": "13+ years",
       "title": "Michelle Brenner - Official Site",
       "location": "the Dominican Republic to Copenhagen",
-      "status": "ok"
-    },
-    {
-      "name": "Miguel Migliorelli",
-      "url": "https://migliorelli.dev",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Redirecting...",
-      "location": null,
       "status": "ok"
     },
     {
@@ -22168,32 +22133,6 @@
       "experience": null,
       "title": "Om Chaudhari",
       "location": "video transcripts",
-      "status": "ok"
-    },
-    {
-      "name": "Omar Emad(Om3X4",
-      "url": "https://om3x4.com",
-      "listedTitle": "Full Stack Developer",
-      "emails": [
-        "om3x4e@gmail.com"
-      ],
-      "github": [
-        "https://github.com/omaremadcc"
-      ],
-      "linkedin": "https://www.linkedin.com/in/omaremadcc",
-      "twitter": "https://x.com/omaremadcc",
-      "stack": [
-        "React",
-        "Next.js",
-        "Python",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Omar Emad | SWE",
-      "location": null,
       "status": "ok"
     },
     {
@@ -28581,13 +28520,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Wilson Toribio",
-      "url": "https://wt-portafolio.vercel.app",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Wilson Tu",
       "url": "https://dumbyoodoodo.github.io/wilsonportfolio.github.io/",
       "listedTitle": "",
@@ -28626,13 +28558,6 @@
       "name": "Yaksh Devani",
       "url": "https://yakshdevani.framer.website",
       "listedTitle": "Full Stack Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Yamin Hossain",
-      "url": "https://yamins-portfolio.vercel.app",
-      "listedTitle": "Fresher Data Scientist",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
@@ -32162,39 +32087,6 @@
       "status": "ok"
     },
     {
-      "name": "Tanish Rai",
-      "url": "https://tanishrai.dev/",
-      "listedTitle": "Software Developer",
-      "emails": [
-        "tanishrai@gmail.com"
-      ],
-      "github": [
-        "https://github.com/tanish435"
-      ],
-      "linkedin": "https://www.linkedin.com/in/tanishrai28",
-      "twitter": "https://x.com/tanishrai28",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Java",
-        "Node.js",
-        "Express",
-        "Spring",
-        "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Tanish Rai | Portfolio",
-      "location": "development to deployment",
-      "status": "ok"
-    },
-    {
       "name": "Vignesh Devendran",
       "url": "https://vigneshdevendran.pages.dev",
       "listedTitle": "Software Developer | Python, Full-Stack JavaScript/TypeSript, Ruby on Rails | FLOSS Enthusiast",
@@ -32301,44 +32193,6 @@
       "status": "ok"
     },
     {
-      "name": "Shubhanshu Singh",
-      "url": "https://shubhanshusingh.com/",
-      "listedTitle": "Platform Engineer, Enterprise Architect, Founder @ exemplar.dev",
-      "emails": [
-        "shubhanshu.singhk@gmail.com",
-        "shubhanshu@exemplar.dev"
-      ],
-      "github": [
-        "https://github.com/shubhanshusingh"
-      ],
-      "linkedin": "https://www.linkedin.com/in/shubhanshusingh",
-      "twitter": "https://x.com/sskshubh",
-      "stack": [
-        "React",
-        "Angular",
-        "Python",
-        "Node.js",
-        "Express",
-        "Django",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Redis",
-        "Firebase",
-        "Flutter",
-        "React Native"
-      ],
-      "experience": null,
-      "title": "Shubhanshu Singh - Platform Engineer &amp; Architect",
-      "location": "scratch, scaling them to serve millions of users",
-      "status": "ok"
-    },
-    {
       "name": "Abhijit Mondal",
       "url": "https://abhijitmondal.info",
       "listedTitle": "Full Stack Web Developer | React, Next.js, Python",
@@ -32361,47 +32215,6 @@
       "experience": null,
       "title": "Portfolio - 🤔Abhijit",
       "location": "Kolkata, IN",
-      "status": "ok"
-    },
-    {
-      "name": "Ritesh Goswami",
-      "url": "https://ritesh-portfolio-2026.vercel.app/",
-      "listedTitle": "Full Stack Developer | MERN + TypeScript",
-      "emails": [
-        "mneshk480@gmail.com"
-      ],
-      "github": [
-        "https://github.com/ritesh637"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ritesh-kumar-goswami-b56a5b208",
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "experience": null,
-      "title": "Ritesh Kumar | Freelance MERN Stack Developer in India | React & Node.js Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Bastian Asmussen",
-      "url": "https://asmussen.tech/",
-      "listedTitle": "Systems Programmer | Rust, Nix & Linux",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "Rust"
-      ],
-      "experience": null,
-      "title": "Bastian Asmussen",
-      "location": null,
       "status": "ok"
     },
     {
@@ -32498,8 +32311,37 @@
       "status": "ok"
     },
     {
+      "name": "Juan Gomes Macario",
+      "url": "https://crashunix.nl",
+      "listedTitle": "Senior Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/crashunix"
+      ],
+      "linkedin": "https://www.linkedin.com/in/juan-mac",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "crashunix",
+      "location": null,
+      "status": "ok"
+    },
+    {
       "name": "Adarsh Singh",
-      "url": "https://adarshsinghh.vercel.app/",
+      "url": "https://adarshsinghh.vercel.app",
       "listedTitle": "Software Engineer",
       "emails": [],
       "github": [
@@ -32526,31 +32368,231 @@
       "status": "ok"
     },
     {
-      "name": "Juan Gomes Macario",
-      "url": "https://crashunix.nl",
-      "listedTitle": "Senior Full Stack Developer",
+      "name": "Anushka Isuranga",
+      "url": "https://anushkaisuranga.github.io",
+      "listedTitle": "Full Stack Developer",
       "emails": [],
       "github": [
-        "https://github.com/crashunix"
+        "https://github.com/AnushkaIsuranga"
       ],
-      "linkedin": "https://www.linkedin.com/in/juan-mac",
+      "linkedin": "https://www.linkedin.com/in/anushka-isuranga",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Java",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "Anushka Isuranga | Full-Stack Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Bastian Asmussen",
+      "url": "https://asmussen.tech",
+      "listedTitle": "Systems Programmer | Rust, Nix & Linux",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Rust"
+      ],
+      "experience": null,
+      "title": "Bastian Asmussen",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Edikan Bassey",
+      "url": "https://edikan-bassey.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "edikan.i.bassey@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Mestareddy"
+      ],
+      "linkedin": "https://www.linkedin.com/in/edikan-bassey",
+      "twitter": "https://x.com/edikanX",
+      "stack": [
+        "React",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": "6+ years",
+      "title": "Edikan Bassey - Full Stack Developer &amp; Software Engineer",
+      "location": "GitHub",
+      "status": "ok"
+    },
+    {
+      "name": "Ritesh Goswami",
+      "url": "https://ritesh-portfolio-2026.vercel.app",
+      "listedTitle": "Full Stack Developer | MERN + TypeScript",
+      "emails": [
+        "mneshk480@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ritesh637"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ritesh-kumar-goswami-b56a5b208",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Ritesh Kumar | Freelance MERN Stack Developer in India | React & Node.js Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shubhanshu Singh",
+      "url": "https://shubhanshusingh.com",
+      "listedTitle": "Platform Engineer, Enterprise Architect, Founder @ exemplar.dev",
+      "emails": [
+        "shubhanshu.singhk@gmail.com",
+        "shubhanshu@exemplar.dev"
+      ],
+      "github": [
+        "https://github.com/shubhanshusingh"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shubhanshusingh",
+      "twitter": "https://x.com/sskshubh",
+      "stack": [
+        "React",
+        "Angular",
+        "Python",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Shubhanshu Singh - Platform Engineer &amp; Architect",
+      "location": "scratch, scaling them to serve millions of users",
+      "status": "ok"
+    },
+    {
+      "name": "Sohayel Mahmud",
+      "url": "https://sohayelmahmud.github.io",
+      "listedTitle": "Computer Science Student| Competitive Programmer",
+      "emails": [
+        "sohayelmahmud1@protonmail.com"
+      ],
+      "github": [
+        "https://github.com/sohayelmahmud"
+      ],
+      "linkedin": "https://linkedin.com/in/sohayelmahmud",
+      "twitter": "https://x.com/MahmudSohayel",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sohayel Mahmud | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tanish Rai",
+      "url": "https://tanishrai.dev",
+      "listedTitle": "Software Developer",
+      "emails": [
+        "tanishrai@gmail.com"
+      ],
+      "github": [
+        "https://github.com/tanish435"
+      ],
+      "linkedin": "https://www.linkedin.com/in/tanishrai28",
+      "twitter": "https://x.com/tanishrai28",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Tanish Rai | Portfolio",
+      "location": "development to deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Yvan Noah",
+      "url": "https://gigalab.tech",
+      "listedTitle": "",
+      "emails": [
+        "yvannandy@gmail.com"
+      ],
+      "github": [
+        "https://github.com/gigasandwich",
+        "https://github.com/NyAinaMickael",
+        "https://github.com/Nathanlovaniaina",
+        "https://github.com/Laurent-create"
+      ],
+      "linkedin": "https://linkedin.com/in/yvan-noah-rabetokotany-3450543aa",
       "twitter": null,
       "stack": [
         "React",
         "Vue",
-        "Angular",
         "Next.js",
-        "Astro",
         "TypeScript",
-        "Laravel",
-        "Docker",
-        "PostgreSQL",
+        "Python",
+        "Go",
+        "Java",
+        "Spring",
         "Tailwind",
-        ".NET",
-        "Figma"
+        "GraphQL"
       ],
       "experience": null,
-      "title": "crashunix",
+      "title": "Yvan Noah RABETOKOTANY - Software Developer",
       "location": null,
       "status": "ok"
     }
