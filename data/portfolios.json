@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-19T12:14:16.063Z",
-    "total": 1639,
-    "successful": 1304,
+    "scrapedAt": "2026-04-19T18:15:00.736Z",
+    "total": 1640,
+    "successful": 1305,
     "failed": 335,
-    "withEmail": 573,
-    "withGithub": 835,
-    "withStack": 1065,
-    "withLinkedin": 745,
+    "withEmail": 574,
+    "withGithub": 836,
+    "withStack": 1066,
+    "withLinkedin": 746,
     "withTwitter": 386
   },
   "portfolios": [
@@ -32594,6 +32594,45 @@
       "experience": null,
       "title": "Yvan Noah RABETOKOTANY - Software Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Valter Negreiros",
+      "url": "https://valternegreiros.com",
+      "listedTitle": "Senior Mobile Software Engineer",
+      "emails": [
+        "valternegreiros@gmail.com"
+      ],
+      "github": [
+        "https://github.com/valterh4ck3r"
+      ],
+      "linkedin": "https://linkedin.com/in/valternegreiros",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Java",
+        "Swift",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "Spring",
+        "AWS",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Flutter"
+      ],
+      "experience": "10+ years",
+      "title": "Valter Negreiros | Mobile Software Engineer &amp; Mobile Software Developer",
+      "location": "Flutter to Native and vice versa, bridging fintech complexity with elite user experiences",
       "status": "ok"
     }
   ]
