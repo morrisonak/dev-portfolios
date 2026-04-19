@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-18T18:14:40.292Z",
-    "total": 1640,
-    "successful": 1302,
+    "scrapedAt": "2026-04-19T00:34:15.073Z",
+    "total": 1641,
+    "successful": 1303,
     "failed": 338,
     "withEmail": 571,
-    "withGithub": 831,
-    "withStack": 1061,
-    "withLinkedin": 741,
+    "withGithub": 832,
+    "withStack": 1062,
+    "withLinkedin": 742,
     "withTwitter": 385
   },
   "portfolios": [
@@ -32523,6 +32523,35 @@
       "experience": null,
       "title": "Adarsh Singh - Developer, Freelancer",
       "location": "Vadodara,",
+      "status": "ok"
+    },
+    {
+      "name": "Juan Gomes Macario",
+      "url": "https://crashunix.nl",
+      "listedTitle": "Senior Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/crashunix"
+      ],
+      "linkedin": "https://www.linkedin.com/in/juan-mac",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "crashunix",
+      "location": null,
       "status": "ok"
     }
   ]
