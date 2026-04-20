@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-19T18:15:00.736Z",
-    "total": 1640,
-    "successful": 1305,
+    "scrapedAt": "2026-04-20T12:28:31.042Z",
+    "total": 1642,
+    "successful": 1307,
     "failed": 335,
-    "withEmail": 574,
-    "withGithub": 836,
-    "withStack": 1066,
-    "withLinkedin": 746,
+    "withEmail": 575,
+    "withGithub": 837,
+    "withStack": 1068,
+    "withLinkedin": 747,
     "withTwitter": 386
   },
   "portfolios": [
@@ -32633,6 +32633,48 @@
       "experience": "10+ years",
       "title": "Valter Negreiros | Mobile Software Engineer &amp; Mobile Software Developer",
       "location": "Flutter to Native and vice versa, bridging fintech complexity with elite user experiences",
+      "status": "ok"
+    },
+    {
+      "name": "Danny Montoya",
+      "url": "https://danny-portfolio-zeta.vercel.app/",
+      "listedTitle": "Full-Stack AI Engineer",
+      "emails": [
+        "dfmreyes02@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Danny Montoya — Full-stack developer, writer, occasional filmmaker",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Manoj Hankare",
+      "url": "https://manojhankare.in",
+      "listedTitle": "Full Stack Developer | AI Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/Manojhankare"
+      ],
+      "linkedin": "https://linkedin.com/in/manojhankare",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Flask",
+        "AWS",
+        "Azure",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Manoj Hankare | Software Engineer - Backend, APIs, Cloud, AI",
+      "location": null,
       "status": "ok"
     }
   ]
