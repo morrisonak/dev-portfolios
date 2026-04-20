@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-20T12:28:31.042Z",
-    "total": 1642,
-    "successful": 1307,
+    "scrapedAt": "2026-04-20T18:23:07.490Z",
+    "total": 1644,
+    "successful": 1309,
     "failed": 335,
-    "withEmail": 575,
-    "withGithub": 837,
-    "withStack": 1068,
-    "withLinkedin": 747,
-    "withTwitter": 386
+    "withEmail": 576,
+    "withGithub": 838,
+    "withStack": 1070,
+    "withLinkedin": 748,
+    "withTwitter": 387
   },
   "portfolios": [
     {
@@ -32674,6 +32674,49 @@
       ],
       "experience": null,
       "title": "Manoj Hankare | Software Engineer - Backend, APIs, Cloud, AI",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Akashkumar Jadav",
+      "url": "https://akash.ac",
+      "listedTitle": "Full Stack Engineer | Cloud Architect",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "Akashkumar Jadav - akash.ac",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Lampard Kipyegon",
+      "url": "https://lampard.netlify.app",
+      "listedTitle": "Data Scientist | AI/ML Engineer | Full Stack Dev | Scikit-learn, Numpy, Pandas, Matplotlib, Django etc. | Kenya",
+      "emails": [
+        "tk654001@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Lampard7crypt"
+      ],
+      "linkedin": "https://www.linkedin.com/in/pyegon-kirui",
+      "twitter": "https://x.com/shad0wlord56",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Django",
+        "Flask",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Lampard Kipyegon — Developer",
       "location": null,
       "status": "ok"
     }
