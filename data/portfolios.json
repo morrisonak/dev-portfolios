@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-20T18:23:07.490Z",
-    "total": 1644,
-    "successful": 1309,
+    "scrapedAt": "2026-04-21T12:25:09.669Z",
+    "total": 1646,
+    "successful": 1311,
     "failed": 335,
-    "withEmail": 576,
-    "withGithub": 838,
-    "withStack": 1070,
-    "withLinkedin": 748,
-    "withTwitter": 387
+    "withEmail": 577,
+    "withGithub": 840,
+    "withStack": 1072,
+    "withLinkedin": 749,
+    "withTwitter": 388
   },
   "portfolios": [
     {
@@ -32718,6 +32718,67 @@
       "experience": null,
       "title": "Lampard Kipyegon — Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Malaka Venugopal Reddy",
+      "url": "https://malakavenu.com",
+      "listedTitle": "AI & Agentic Systems Engineer | Frontend Architect | Design Systems Strategist",
+      "emails": [
+        "venu.malaka@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/malakavenu"
+      ],
+      "linkedin": "https://www.linkedin.com/in/venumalaka",
+      "twitter": "https://x.com/malakavenu",
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "Tailwind",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Malaka Venugopal Reddy — AI &amp; Agentic Systems Engineer · Frontend Architect",
+      "location": "Bangalore",
+      "status": "ok"
+    },
+    {
+      "name": "Thierry Bungaroo",
+      "url": "https://crackedontiti.github.io/",
+      "listedTitle": "Software Developer & Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/CrackedOnTiti",
+        "https://github.com/PernotYlan"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Rust",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Flutter",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "CrackedOnTiti",
+      "location": "scratch over a semester",
       "status": "ok"
     }
   ]
