@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-21T12:25:09.669Z",
-    "total": 1646,
-    "successful": 1311,
+    "scrapedAt": "2026-04-22T12:24:39.920Z",
+    "total": 1649,
+    "successful": 1314,
     "failed": 335,
-    "withEmail": 577,
-    "withGithub": 840,
-    "withStack": 1072,
-    "withLinkedin": 749,
-    "withTwitter": 388
+    "withEmail": 579,
+    "withGithub": 843,
+    "withStack": 1075,
+    "withLinkedin": 752,
+    "withTwitter": 389
   },
   "portfolios": [
     {
@@ -32779,6 +32779,92 @@
       "experience": null,
       "title": "CrackedOnTiti",
       "location": "scratch over a semester",
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Agrawal",
+      "url": "https://abhish0.github.io/My-Portfolio/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "agrawalabhishek2020@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Abhish0"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abhishek-73468206",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Abhishek Agrawal | Full-Stack Software Engineer",
+      "location": "Express in production",
+      "status": "ok"
+    },
+    {
+      "name": "Ayush Acharya",
+      "url": "https://ayushacharya.vercel.app/",
+      "listedTitle": "Passionate - Full Stack Software Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/ig-ayush"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ayush-acharya-65943132b",
+      "twitter": "https://x.com/ig_ayushacharya",
+      "stack": [
+        "React",
+        "Python",
+        "Java",
+        "Node.js",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "ig-ayush | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Tufail Ahmed Khan",
+      "url": "https://tufail.dev",
+      "listedTitle": "Lead Engineer | AI Engineer",
+      "emails": [
+        "khantufail425@gmail.com"
+      ],
+      "github": [
+        "https://github.com/tufailkhan45"
+      ],
+      "linkedin": "https://linkedin.com/in/tufailkhan457",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Django",
+        "Flask",
+        "Laravel",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase"
+      ],
+      "experience": "6+ years",
+      "title": "Tufail Ahmed Khan – Senior Software Engineer | Python, FastAPI, AI",
+      "location": null,
       "status": "ok"
     }
   ]
