@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-22T12:24:39.920Z",
-    "total": 1649,
-    "successful": 1314,
+    "scrapedAt": "2026-04-23T00:37:32.362Z",
+    "total": 1651,
+    "successful": 1316,
     "failed": 335,
-    "withEmail": 579,
-    "withGithub": 843,
-    "withStack": 1075,
-    "withLinkedin": 752,
+    "withEmail": 580,
+    "withGithub": 844,
+    "withStack": 1076,
+    "withLinkedin": 753,
     "withTwitter": 389
   },
   "portfolios": [
@@ -32865,6 +32865,48 @@
       "experience": "6+ years",
       "title": "Tufail Ahmed Khan – Senior Software Engineer | Python, FastAPI, AI",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Joshua Prini",
+      "url": "https://joshuaprini.com",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Joshua",
+      "location": "PARIS",
+      "status": "ok"
+    },
+    {
+      "name": "Laercio Rios",
+      "url": "https://laerciorios.com",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [
+        "contact@laerciorios.com"
+      ],
+      "github": [
+        "https://github.com/laerciorios"
+      ],
+      "linkedin": "https://linkedin.com/in/laerciorios",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Laravel",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Laercio Rios",
+      "location": "CAPES",
       "status": "ok"
     }
   ]
