@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-24T00:36:56.575Z",
-    "total": 1653,
-    "successful": 1318,
+    "scrapedAt": "2026-04-24T06:42:20.498Z",
+    "total": 1654,
+    "successful": 1319,
     "failed": 335,
-    "withEmail": 581,
-    "withGithub": 846,
-    "withStack": 1078,
-    "withLinkedin": 755,
-    "withTwitter": 389
+    "withEmail": 582,
+    "withGithub": 847,
+    "withStack": 1079,
+    "withLinkedin": 756,
+    "withTwitter": 390
   },
   "portfolios": [
     {
@@ -32950,6 +32950,37 @@
       "experience": null,
       "title": "Shrey Varshney | Personal Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Phat Tran Tan",
+      "url": "https://portfolio-ttp.vercel.app/",
+      "listedTitle": "Software Engineer | Frontend Developer",
+      "emails": [
+        "phat@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ttphat2805"
+      ],
+      "linkedin": "https://www.linkedin.com/in/trantanphat",
+      "twitter": "https://x.com/tanphatfe",
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Docker",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "React Native"
+      ],
+      "experience": "3+ years",
+      "title": "Tran Tan Phat - Frontend Developer",
+      "location": "you",
       "status": "ok"
     }
   ]
