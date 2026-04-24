@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-24T06:42:20.498Z",
-    "total": 1654,
-    "successful": 1319,
+    "scrapedAt": "2026-04-24T18:17:01.649Z",
+    "total": 1655,
+    "successful": 1320,
     "failed": 335,
-    "withEmail": 582,
-    "withGithub": 847,
-    "withStack": 1079,
-    "withLinkedin": 756,
-    "withTwitter": 390
+    "withEmail": 583,
+    "withGithub": 848,
+    "withStack": 1080,
+    "withLinkedin": 757,
+    "withTwitter": 391
   },
   "portfolios": [
     {
@@ -32981,6 +32981,28 @@
       "experience": "3+ years",
       "title": "Tran Tan Phat - Frontend Developer",
       "location": "you",
+      "status": "ok"
+    },
+    {
+      "name": "Mahdi Hasan",
+      "url": "https://mahdihasan.space",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "business.mahdi.hasan@gmail.com"
+      ],
+      "github": [
+        "https://github.com/404mahdi"
+      ],
+      "linkedin": "https://linkedin.com/in/mahdi-meem",
+      "twitter": "https://twitter.com/Mahdi_Meem",
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Mahdi Hasan - AI Research, Software Engineering & Writing | Dhaka, Bangladesh",
+      "location": "Bangladesh, focusing on AI Research, Mechanistic Interpretability, Transformer Architectures, and Te",
       "status": "ok"
     }
   ]
