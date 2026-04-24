@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-23T00:37:32.362Z",
-    "total": 1651,
-    "successful": 1316,
+    "scrapedAt": "2026-04-24T00:36:56.575Z",
+    "total": 1653,
+    "successful": 1318,
     "failed": 335,
-    "withEmail": 580,
-    "withGithub": 844,
-    "withStack": 1076,
-    "withLinkedin": 753,
+    "withEmail": 581,
+    "withGithub": 846,
+    "withStack": 1078,
+    "withLinkedin": 755,
     "withTwitter": 389
   },
   "portfolios": [
@@ -32907,6 +32907,49 @@
       "experience": null,
       "title": "Laercio Rios",
       "location": "CAPES",
+      "status": "ok"
+    },
+    {
+      "name": "Maxime Haegeman",
+      "url": "https://www.maximehaegeman.com",
+      "listedTitle": "Data / ML Engineer",
+      "emails": [
+        "contact@maximehaegeman.dev"
+      ],
+      "github": [
+        "https://github.com/mhaegeman"
+      ],
+      "linkedin": "https://linkedin.com/in/maxime-haegeman",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Maxime Haegeman | Data Engineer",
+      "location": "messy data to reliable predictions, at scale",
+      "status": "ok"
+    },
+    {
+      "name": "Shrey Varshney",
+      "url": "https://shreyvarshney.pages.dev",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/shreyvarshney1"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shreyvarshney1",
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "Shrey Varshney | Personal Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
