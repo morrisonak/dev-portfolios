@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-26T00:36:36.905Z",
-    "total": 1658,
-    "successful": 1323,
+    "scrapedAt": "2026-04-26T12:17:38.310Z",
+    "total": 1659,
+    "successful": 1324,
     "failed": 335,
     "withEmail": 585,
-    "withGithub": 850,
-    "withStack": 1083,
-    "withLinkedin": 759,
+    "withGithub": 851,
+    "withStack": 1084,
+    "withLinkedin": 760,
     "withTwitter": 391
   },
   "portfolios": [
@@ -33079,6 +33079,38 @@
       "experience": null,
       "title": "Ruban Gino Singh | AI Engineer &amp; ML Systems Builder",
       "location": "Edmonton, Canada",
+      "status": "ok"
+    },
+    {
+      "name": "Sanjiv Thapa",
+      "url": "https://portfolio.sanjivthapa.com.np/home",
+      "listedTitle": "Backend Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/sanjivthapasvt"
+      ],
+      "linkedin": "https://linkedin.com/in/sanjiv-thapa-361678277",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Svelte",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Django",
+        "Flask",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Sanjiv Thapa — Backend Developer (Django, FastAPI, PostgreSQL) | Nepal | Sanjiv Thapa",
+      "location": "Nepal building scalable APIs with Django, FastAPI, PostgreSQL, and Redis",
       "status": "ok"
     }
   ]
