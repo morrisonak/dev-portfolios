@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-26T12:17:38.310Z",
-    "total": 1659,
-    "successful": 1324,
+    "scrapedAt": "2026-04-27T00:36:51.407Z",
+    "total": 1662,
+    "successful": 1327,
     "failed": 335,
-    "withEmail": 585,
-    "withGithub": 851,
-    "withStack": 1084,
-    "withLinkedin": 760,
-    "withTwitter": 391
+    "withEmail": 586,
+    "withGithub": 852,
+    "withStack": 1086,
+    "withLinkedin": 761,
+    "withTwitter": 392
   },
   "portfolios": [
     {
@@ -33111,6 +33111,68 @@
       "experience": null,
       "title": "Sanjiv Thapa — Backend Developer (Django, FastAPI, PostgreSQL) | Nepal | Sanjiv Thapa",
       "location": "Nepal building scalable APIs with Django, FastAPI, PostgreSQL, and Redis",
+      "status": "ok"
+    },
+    {
+      "name": "Aryan Raj",
+      "url": "https://www.aryanraj.cv/",
+      "listedTitle": "Machine Learning Engineer",
+      "emails": [
+        "aryanraj2713@gmail.com"
+      ],
+      "github": [
+        "https://github.com/aryanraj2713",
+        "https://github.com/langgenius"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aryanraj13",
+      "twitter": "https://x.com/aryanraj2713",
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Flask",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Aryan Raj - Machine Learning Engineer &amp; Backend Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Pranay Bandaru",
+      "url": "https://pranaybandaru.vercel.app/",
+      "listedTitle": "Data Science",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Pranay Bandaru",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "SE Jihad",
+      "url": "https://sejihad.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "SE Jihad - Developer portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
