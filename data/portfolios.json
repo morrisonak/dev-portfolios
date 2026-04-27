@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-27T00:36:51.407Z",
-    "total": 1662,
-    "successful": 1327,
+    "scrapedAt": "2026-04-27T12:35:38.792Z",
+    "total": 1663,
+    "successful": 1328,
     "failed": 335,
     "withEmail": 586,
     "withGithub": 852,
@@ -33172,6 +33172,20 @@
       ],
       "experience": null,
       "title": "SE Jihad - Developer portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Samuel Ezra",
+      "url": "https://www.samuelezranas.codes/",
+      "listedTitle": "Fullstack & Mobile Developer | Tech Student & Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Samuel Ezra | Fullstack & Mobile Developer",
       "location": null,
       "status": "ok"
     }
