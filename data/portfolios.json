@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-28T00:39:31.275Z",
-    "total": 1664,
-    "successful": 1329,
+    "scrapedAt": "2026-04-28T18:34:50.780Z",
+    "total": 1665,
+    "successful": 1330,
     "failed": 335,
-    "withEmail": 586,
-    "withGithub": 852,
-    "withStack": 1087,
-    "withLinkedin": 761,
-    "withTwitter": 392
+    "withEmail": 587,
+    "withGithub": 853,
+    "withStack": 1088,
+    "withLinkedin": 762,
+    "withTwitter": 393
   },
   "portfolios": [
     {
@@ -33203,6 +33203,36 @@
       "experience": null,
       "title": "Priyanshu Chauhan | Design Engineering Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sudeep Ranjan Sahoo",
+      "url": "https://iamsrs.com",
+      "listedTitle": "Business Architecture Analysts | ERP Systems",
+      "emails": [
+        "sudeep160403@gmail.com"
+      ],
+      "github": [
+        "https://github.com/srs-sudeep",
+        "https://github.com/your-repo-link"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sudeep-ranjan-sahoo-b82355232",
+      "twitter": "https://x.com/SUDEEPRANJANSA1",
+      "stack": [
+        "React",
+        "Next.js",
+        "Gatsby",
+        "Python",
+        "Rust",
+        "Node.js",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Sudeep Ranjan Sahoo | iamsrs",
+      "location": "Tokyo",
       "status": "ok"
     }
   ]
