@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-27T12:35:38.792Z",
-    "total": 1663,
-    "successful": 1328,
+    "scrapedAt": "2026-04-28T00:39:31.275Z",
+    "total": 1664,
+    "successful": 1329,
     "failed": 335,
     "withEmail": 586,
     "withGithub": 852,
-    "withStack": 1086,
+    "withStack": 1087,
     "withLinkedin": 761,
     "withTwitter": 392
   },
@@ -33186,6 +33186,22 @@
       "stack": [],
       "experience": null,
       "title": "Samuel Ezra | Fullstack & Mobile Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Priyanshu chauhan",
+      "url": "https://priyanshuportfolioo.netlify.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "Priyanshu Chauhan | Design Engineering Portfolio",
       "location": null,
       "status": "ok"
     }
