@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-28T18:34:50.780Z",
-    "total": 1665,
-    "successful": 1330,
+    "scrapedAt": "2026-04-29T18:33:08.542Z",
+    "total": 1666,
+    "successful": 1331,
     "failed": 335,
     "withEmail": 587,
     "withGithub": 853,
-    "withStack": 1088,
+    "withStack": 1089,
     "withLinkedin": 762,
     "withTwitter": 393
   },
@@ -33233,6 +33233,28 @@
       "experience": null,
       "title": "Sudeep Ranjan Sahoo | iamsrs",
       "location": "Tokyo",
+      "status": "ok"
+    },
+    {
+      "name": "Aleksei Ross",
+      "url": "https://ross.aleksei.digital/98?ref=emmabostian",
+      "listedTitle": "Tech Lead & Sr. Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Aleksei Ross",
+      "location": null,
       "status": "ok"
     }
   ]
