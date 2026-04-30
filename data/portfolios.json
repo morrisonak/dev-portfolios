@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-29T18:33:08.542Z",
-    "total": 1666,
-    "successful": 1331,
+    "scrapedAt": "2026-04-30T00:40:10.906Z",
+    "total": 1667,
+    "successful": 1332,
     "failed": 335,
     "withEmail": 587,
-    "withGithub": 853,
-    "withStack": 1089,
+    "withGithub": 854,
+    "withStack": 1090,
     "withLinkedin": 762,
     "withTwitter": 393
   },
@@ -31078,27 +31078,6 @@
       "status": "ok"
     },
     {
-      "name": "Aadeb",
-      "url": "https://devdebpriyo.vercel.app",
-      "listedTitle": "Web & App developer & designer",
-      "emails": [],
-      "github": [
-        "https://github.com/devDebpriyo"
-      ],
-      "linkedin": "https://www.linkedin.com/in/debpriyo-ghosal-0759a92a6",
-      "twitter": "https://x.com/deb_isadev",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js"
-      ],
-      "experience": null,
-      "title": "Debpriyo Ghosal | Web Designer &amp; Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Meet Prajapati",
       "url": "https://meetprajapati.com",
       "listedTitle": "Lead Mobile Engineer | Android, AI, Flutter, React Native",
@@ -33255,6 +33234,56 @@
       "experience": null,
       "title": "Aleksei Ross",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Debpriyo Ghosal",
+      "url": "https://debpriyo.is-a.dev/",
+      "listedTitle": "Design Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/devDebpriyo"
+      ],
+      "linkedin": "https://www.linkedin.com/in/debpriyo-ghosal-0759a92a6",
+      "twitter": "https://x.com/deb_isadev",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Debpriyo Ghosal | Web Designer &amp; Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Dev Saini",
+      "url": "https://devportfolio001.netlify.app/",
+      "listedTitle": "Full Stack Developer & AI/ML Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/devsaini889"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Express",
+        "Docker",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "GraphQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Dev Saini",
+      "location": "data preprocessing and feature engineering to model training and",
       "status": "ok"
     }
   ]
