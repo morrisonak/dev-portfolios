@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-30T00:40:10.906Z",
-    "total": 1667,
-    "successful": 1332,
-    "failed": 335,
-    "withEmail": 587,
-    "withGithub": 854,
-    "withStack": 1090,
+    "scrapedAt": "2026-04-30T12:35:28.604Z",
+    "total": 1669,
+    "successful": 1333,
+    "failed": 336,
+    "withEmail": 588,
+    "withGithub": 855,
+    "withStack": 1091,
     "withLinkedin": 762,
     "withTwitter": 393
   },
@@ -33285,6 +33285,41 @@
       "title": "Dev Saini",
       "location": "data preprocessing and feature engineering to model training and",
       "status": "ok"
+    },
+    {
+      "name": "Divij Shrivastava",
+      "url": "https://divij.tech",
+      "listedTitle": "Full Stack . Web Developer",
+      "emails": [
+        "you@domain.com"
+      ],
+      "github": [
+        "https://github.com/divijshrivastava"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "Python",
+        "Java",
+        "Node.js",
+        "Spring",
+        "MongoDB",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Divij Shrivastava - Senior Full-Stack Engineer",
+      "location": "trading platforms to ESG analytics and enterprise storage solutions",
+      "status": "ok"
+    },
+    {
+      "name": "Roshan Parajuli",
+      "url": "https://roshanparajuli.com.np",
+      "listedTitle": "Senior Engineer | Technical Project Manager",
+      "status": "error",
+      "error": "HTTP 403"
     }
   ]
 }
