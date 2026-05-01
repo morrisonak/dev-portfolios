@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-01T00:43:03.914Z",
-    "total": 1670,
-    "successful": 1334,
+    "scrapedAt": "2026-05-01T12:23:19.680Z",
+    "total": 1671,
+    "successful": 1335,
     "failed": 336,
     "withEmail": 589,
-    "withGithub": 856,
-    "withStack": 1092,
-    "withLinkedin": 763,
+    "withGithub": 857,
+    "withStack": 1093,
+    "withLinkedin": 764,
     "withTwitter": 393
   },
   "portfolios": [
@@ -33354,6 +33354,31 @@
       ],
       "experience": "4+ years",
       "title": "Sahib Hernández | Full-Stack Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Al Amin",
+      "url": "https://alamin-portfolio-site.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/alamin147"
+      ],
+      "linkedin": "https://www.linkedin.com/in/alamin147",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Al Amin - Full Stack Developer | React & Node.js Expert",
       "location": null,
       "status": "ok"
     }
