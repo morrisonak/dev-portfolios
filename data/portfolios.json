@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-04-30T12:35:28.604Z",
-    "total": 1669,
-    "successful": 1333,
+    "scrapedAt": "2026-05-01T00:43:03.914Z",
+    "total": 1670,
+    "successful": 1334,
     "failed": 336,
-    "withEmail": 588,
-    "withGithub": 855,
-    "withStack": 1091,
-    "withLinkedin": 762,
+    "withEmail": 589,
+    "withGithub": 856,
+    "withStack": 1092,
+    "withLinkedin": 763,
     "withTwitter": 393
   },
   "portfolios": [
@@ -33320,6 +33320,42 @@
       "listedTitle": "Senior Engineer | Technical Project Manager",
       "status": "error",
       "error": "HTTP 403"
+    },
+    {
+      "name": "Sahib Hernández",
+      "url": "https://www.presoftcore.com/",
+      "listedTitle": "Software Engineer & Music Producer",
+      "emails": [
+        "rojeru.san1983@gmail.com"
+      ],
+      "github": [
+        "https://github.com/PressureDraper"
+      ],
+      "linkedin": "https://linkedin.com/in/pressuredraper",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Docker",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        "Figma"
+      ],
+      "experience": "4+ years",
+      "title": "Sahib Hernández | Full-Stack Software Engineer",
+      "location": null,
+      "status": "ok"
     }
   ]
 }
