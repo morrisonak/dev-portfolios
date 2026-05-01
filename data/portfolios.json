@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-01T12:23:19.680Z",
-    "total": 1671,
-    "successful": 1335,
+    "scrapedAt": "2026-05-01T18:26:13.981Z",
+    "total": 1672,
+    "successful": 1336,
     "failed": 336,
     "withEmail": 589,
     "withGithub": 857,
@@ -33379,6 +33379,20 @@
       ],
       "experience": null,
       "title": "Al Amin - Full Stack Developer | React & Node.js Expert",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aditya A",
+      "url": "https://aditya-a-portfolio.vercel.app/",
+      "listedTitle": "Full Stack Developer | MERN Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Portfolio",
       "location": null,
       "status": "ok"
     }
