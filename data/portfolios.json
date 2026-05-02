@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-02T12:20:42.509Z",
-    "total": 1674,
-    "successful": 1338,
+    "scrapedAt": "2026-05-02T18:20:16.692Z",
+    "total": 1675,
+    "successful": 1339,
     "failed": 336,
     "withEmail": 589,
     "withGithub": 857,
@@ -33423,6 +33423,20 @@
       "stack": [],
       "experience": null,
       "title": "Vansh Agarwal | Retro Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ayush Patel",
+      "url": "https://ayushpatel996.github.io/portfolio/",
+      "listedTitle": "Developer | Software Development Engineer II",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": null,
       "location": null,
       "status": "ok"
     }
