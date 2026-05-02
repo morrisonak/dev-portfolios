@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-01T18:26:13.981Z",
-    "total": 1672,
-    "successful": 1336,
+    "scrapedAt": "2026-05-02T12:20:42.509Z",
+    "total": 1674,
+    "successful": 1338,
     "failed": 336,
     "withEmail": 589,
     "withGithub": 857,
-    "withStack": 1093,
+    "withStack": 1094,
     "withLinkedin": 764,
     "withTwitter": 393
   },
@@ -33393,6 +33393,36 @@
       "stack": [],
       "experience": null,
       "title": "Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aaabaad Al Aziz",
+      "url": "https://red1-for-hek.vercel.app",
+      "listedTitle": "Full-Stack Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Aaabaad Al Aziz",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vansh Agarwal",
+      "url": "https://portfolio-2-0-murex-three.vercel.app",
+      "listedTitle": "Full Stack Developer | AI & Agentic Systems",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Vansh Agarwal | Retro Portfolio",
       "location": null,
       "status": "ok"
     }
