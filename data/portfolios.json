@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-03T12:20:01.030Z",
-    "total": 1677,
-    "successful": 1341,
+    "scrapedAt": "2026-05-03T18:20:47.467Z",
+    "total": 1679,
+    "successful": 1343,
     "failed": 336,
     "withEmail": 591,
     "withGithub": 859,
@@ -33492,6 +33492,34 @@
       "experience": "15+ years",
       "title": "Fielding Johnston - Software Engineer",
       "location": "shadow AI usage to documented shared mastery",
+      "status": "ok"
+    },
+    {
+      "name": "Daven Alajid",
+      "url": "https://www.garlicbread.space",
+      "listedTitle": "Web & Mobile Developer | Laravel | React | TypeScript | Flutter",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Dev | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Gabriel Maggioni",
+      "url": "https://maggioni.dev",
+      "listedTitle": "Programmer as a hobby - enjoys Linux, Blender, and GameDev.",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "https://maggioni.dev/pt-br/",
+      "location": null,
       "status": "ok"
     }
   ]
