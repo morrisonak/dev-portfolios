@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-02T18:20:16.692Z",
-    "total": 1675,
-    "successful": 1339,
+    "scrapedAt": "2026-05-03T12:20:01.030Z",
+    "total": 1677,
+    "successful": 1341,
     "failed": 336,
-    "withEmail": 589,
-    "withGithub": 857,
-    "withStack": 1094,
-    "withLinkedin": 764,
+    "withEmail": 591,
+    "withGithub": 859,
+    "withStack": 1096,
+    "withLinkedin": 766,
     "withTwitter": 393
   },
   "portfolios": [
@@ -33438,6 +33438,60 @@
       "experience": null,
       "title": null,
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Dipin Yadav",
+      "url": "https://dipin-yadav.github.io/dipin/",
+      "listedTitle": "Software Engineer | Backend Engineering & Cloud",
+      "emails": [
+        "dipin.yadav18@gmail.com"
+      ],
+      "github": [
+        "https://github.com/dipin-yadav"
+      ],
+      "linkedin": "https://www.linkedin.com/in/dipin-yadav",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "PHP",
+        "Django",
+        "Flask",
+        "Laravel",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": "4+ years",
+      "title": "Dipin Yadav - Software Developer",
+      "location": "scratch using Django and Microservices, creating a new, significant revenue stream for the company",
+      "status": "ok"
+    },
+    {
+      "name": "Fielding Johnston",
+      "url": "https://justfielding.com",
+      "listedTitle": "",
+      "emails": [
+        "hello@justfielding.com"
+      ],
+      "github": [
+        "https://github.com/fielding"
+      ],
+      "linkedin": "https://linkedin.com/in/fieldingjohnston",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Svelte",
+        "PostgreSQL"
+      ],
+      "experience": "15+ years",
+      "title": "Fielding Johnston - Software Engineer",
+      "location": "shadow AI usage to documented shared mastery",
       "status": "ok"
     }
   ]
