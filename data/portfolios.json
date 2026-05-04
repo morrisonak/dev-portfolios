@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-04T12:37:13.157Z",
-    "total": 1683,
-    "successful": 1347,
+    "scrapedAt": "2026-05-04T18:35:08.307Z",
+    "total": 1686,
+    "successful": 1350,
     "failed": 336,
-    "withEmail": 592,
-    "withGithub": 860,
-    "withStack": 1099,
+    "withEmail": 595,
+    "withGithub": 863,
+    "withStack": 1102,
     "withLinkedin": 768,
-    "withTwitter": 394
+    "withTwitter": 395
   },
   "portfolios": [
     {
@@ -33592,6 +33592,75 @@
       "stack": [],
       "experience": null,
       "title": "Prem S Gangadharan (Prem S G) | Software Engineer, AI, RAG & GraphDB Blog",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Cid Kageno",
+      "url": "https://www.mritunjoy.online/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "cidkageno105@gmail.com"
+      ],
+      "github": [
+        "https://github.com/cid-kageno-dev"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Cid Kageno — Full Stack Developer",
+      "location": "AI chatbots to automation scripts",
+      "status": "ok"
+    },
+    {
+      "name": "Donnie Yap",
+      "url": "https://d2yap.github.io/",
+      "listedTitle": "",
+      "emails": [
+        "donnieyapp@gmail.com"
+      ],
+      "github": [
+        "https://github.com/d2yap"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Donnie Yap",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Yocrrz/Aditya",
+      "url": "https://yocrrz224.github.io/YOCRRZ224",
+      "listedTitle": "Js | Cybersecurity | Full stack dev",
+      "emails": [
+        "adityaraj116111209@gmail.com"
+      ],
+      "github": [
+        "https://github.com/YOCRRZ224"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/yocrrz",
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "$ -> portfolio.init()",
       "location": null,
       "status": "ok"
     }
