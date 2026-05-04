@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-04T00:40:03.967Z",
-    "total": 1681,
-    "successful": 1345,
+    "scrapedAt": "2026-05-04T12:37:13.157Z",
+    "total": 1683,
+    "successful": 1347,
     "failed": 336,
-    "withEmail": 591,
-    "withGithub": 859,
-    "withStack": 1098,
-    "withLinkedin": 766,
-    "withTwitter": 393
+    "withEmail": 592,
+    "withGithub": 860,
+    "withStack": 1099,
+    "withLinkedin": 768,
+    "withTwitter": 394
   },
   "portfolios": [
     {
@@ -33552,6 +33552,46 @@
       ],
       "experience": null,
       "title": "Varun Ragunathan — Staff Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "MD Khalid Mahmud",
+      "url": "https://skhalidmahmud.github.io/Portfolio/",
+      "listedTitle": "Full Stack Developer | AI & LLM Enthusiast",
+      "emails": [
+        "khalidfromdhaka@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/skhalidmahmud",
+      "twitter": "https://x.com/khalidfromdhaka",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Kotlin",
+        "Django",
+        "PostgreSQL",
+        "MySQL",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "MD Khalid Mahmud | Portfolio",
+      "location": "planning to deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Prem S Gangadharan",
+      "url": "https://premsg.info",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/premsgdev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/premsg",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Prem S Gangadharan (Prem S G) | Software Engineer, AI, RAG & GraphDB Blog",
       "location": null,
       "status": "ok"
     }
