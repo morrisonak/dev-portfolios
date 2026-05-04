@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-03T18:20:47.467Z",
-    "total": 1679,
-    "successful": 1343,
+    "scrapedAt": "2026-05-04T00:40:03.967Z",
+    "total": 1681,
+    "successful": 1345,
     "failed": 336,
     "withEmail": 591,
     "withGithub": 859,
-    "withStack": 1096,
+    "withStack": 1098,
     "withLinkedin": 766,
     "withTwitter": 393
   },
@@ -33519,6 +33519,39 @@
       "stack": [],
       "experience": null,
       "title": "https://maggioni.dev/pt-br/",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Gii-DE",
+      "url": "https://gii-de.onrender.com",
+      "listedTitle": "Creative Engineer | AI, Web, Security & Custom Design",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Go",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Gii-DE · Personal Website",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Varun Ragunathan",
+      "url": "https://varunr.dev",
+      "listedTitle": "Full Stack Developer | AI Adoption, Velocity & 0-1",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "Varun Ragunathan — Staff Software Engineer",
       "location": null,
       "status": "ok"
     }
