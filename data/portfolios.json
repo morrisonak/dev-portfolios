@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-05T18:33:21.458Z",
-    "total": 1683,
-    "successful": 1348,
+    "scrapedAt": "2026-05-06T12:40:39.537Z",
+    "total": 1685,
+    "successful": 1350,
     "failed": 335,
-    "withEmail": 594,
-    "withGithub": 860,
-    "withStack": 1099,
-    "withLinkedin": 766,
-    "withTwitter": 394
+    "withEmail": 596,
+    "withGithub": 862,
+    "withStack": 1101,
+    "withLinkedin": 768,
+    "withTwitter": 395
   },
   "portfolios": [
     {
@@ -33597,6 +33597,74 @@
       "experience": null,
       "title": "CrackedOnTiti",
       "location": "scratch over a semester",
+      "status": "ok"
+    },
+    {
+      "name": "Aabu Sayed",
+      "url": "https://aabu-sayed-portfolio.vercel.app/",
+      "listedTitle": "Software Engineer & Web Developer",
+      "emails": [
+        "abusaid7388@gmail.com"
+      ],
+      "github": [
+        "https://github.com/said7388"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abu-said-bd",
+      "twitter": "https://twitter.com/said7388",
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Express",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Portfolio of Aabu Sayed - Software Developer",
+      "location": "Google Sheets and generates a PDF term sheet, sent via AWS SES",
+      "status": "ok"
+    },
+    {
+      "name": "Swagata Ganguly",
+      "url": "https://swagata.tech",
+      "listedTitle": "Full Stack Developer with GEN AI",
+      "emails": [
+        "batman@gotham.com",
+        "sagotogdg@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Cyberclutch146"
+      ],
+      "linkedin": "https://www.linkedin.com/in/swagata-ganguly-453aa6327",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Swagata Ganguly — ECE Engineer &amp; Builder",
+      "location": "the ground up",
       "status": "ok"
     }
   ]
