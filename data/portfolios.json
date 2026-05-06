@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-06T12:40:39.537Z",
-    "total": 1685,
-    "successful": 1350,
+    "scrapedAt": "2026-05-06T18:36:46.768Z",
+    "total": 1686,
+    "successful": 1351,
     "failed": 335,
-    "withEmail": 596,
-    "withGithub": 862,
-    "withStack": 1101,
-    "withLinkedin": 768,
+    "withEmail": 597,
+    "withGithub": 863,
+    "withStack": 1102,
+    "withLinkedin": 769,
     "withTwitter": 395
   },
   "portfolios": [
@@ -33665,6 +33665,37 @@
       "experience": null,
       "title": "Swagata Ganguly — ECE Engineer &amp; Builder",
       "location": "the ground up",
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Adnan",
+      "url": "https://portfolio-orpin-nu-27.vercel.app",
+      "listedTitle": "Full Stack Developer | MERN, Nextjs, Nestjs",
+      "emails": [
+        "adnasir607@gmail.com"
+      ],
+      "github": [
+        "https://github.com/EponymousBearer"
+      ],
+      "linkedin": "https://linkedin.com/in/muhammadadnan",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Swift",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Muhammad Adnan | Full Stack Developer",
+      "location": "Karachi, Pakistan",
       "status": "ok"
     }
   ]
