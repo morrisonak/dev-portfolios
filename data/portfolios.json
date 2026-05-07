@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-07T00:39:46.912Z",
-    "total": 1688,
+    "scrapedAt": "2026-05-07T12:41:29.993Z",
+    "total": 1689,
     "successful": 1353,
-    "failed": 335,
-    "withEmail": 597,
-    "withGithub": 864,
-    "withStack": 1103,
-    "withLinkedin": 770,
+    "failed": 336,
+    "withEmail": 598,
+    "withGithub": 865,
+    "withStack": 1104,
+    "withLinkedin": 771,
     "withTwitter": 395
   },
   "portfolios": [
@@ -2246,20 +2246,6 @@
       "experience": null,
       "title": "NEVO | Front-End Developer",
       "location": "Cairo, Egypt",
-      "status": "ok"
-    },
-    {
-      "name": "Ahmed Allali",
-      "url": "https://www.ahallali.duckdns.org",
-      "listedTitle": "Front-End Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Ahmed Allali - Portfolio",
-      "location": null,
       "status": "ok"
     },
     {
@@ -33733,6 +33719,47 @@
       ],
       "experience": "8+ years",
       "title": "Valluru Pavan Srivatsav | Full-Stack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ahmed Allali",
+      "url": "[https://www.ahallali.duckdns.org](https://portfolio-ahmed-allalis-projects.vercel.app/",
+      "listedTitle": "",
+      "status": "error",
+      "error": "Failed to parse URL from [https://www.ahallali.duckdns.org](https://portfolio-ah"
+    },
+    {
+      "name": "Hien Dao",
+      "url": "https://hiendao.dev/",
+      "listedTitle": "Software Engineer | Backend",
+      "emails": [
+        "hienqd@icloud.com"
+      ],
+      "github": [
+        "https://github.com/traproc",
+        "https://github.com/jasonlu2907"
+      ],
+      "linkedin": "https://www.linkedin.com/in/hien-quang-dao",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Flask",
+        "Spring",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Hien Dao | Portfolio",
       "location": null,
       "status": "ok"
     }
