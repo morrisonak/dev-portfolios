@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-06T18:36:46.768Z",
-    "total": 1686,
-    "successful": 1351,
+    "scrapedAt": "2026-05-07T00:39:46.912Z",
+    "total": 1688,
+    "successful": 1353,
     "failed": 335,
     "withEmail": 597,
-    "withGithub": 863,
-    "withStack": 1102,
-    "withLinkedin": 769,
+    "withGithub": 864,
+    "withStack": 1103,
+    "withLinkedin": 770,
     "withTwitter": 395
   },
   "portfolios": [
@@ -33696,6 +33696,44 @@
       "experience": null,
       "title": "Muhammad Adnan | Full Stack Developer",
       "location": "Karachi, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Gazi Anas",
+      "url": "https://gazimdanas.netlify.app/",
+      "listedTitle": "AI-assisted Developer | Problem Solver",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Gazi Md Anas — CS Student · DSA &amp; Systems Thinker",
+      "location": "Dhaka building a foundation in algorithms and systems",
+      "status": "ok"
+    },
+    {
+      "name": "Pavan Srivatsav Valluru",
+      "url": "https://pavansrivatsav.com",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/PavanSrivatsav"
+      ],
+      "linkedin": "https://www.linkedin.com/in/pavansrivatsavvalluru",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "TypeScript",
+        "Java",
+        "Spring",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": "8+ years",
+      "title": "Valluru Pavan Srivatsav | Full-Stack Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
