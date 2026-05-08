@@ -1,9 +1,9 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-07T12:41:29.993Z",
-    "total": 1689,
-    "successful": 1353,
-    "failed": 336,
+    "scrapedAt": "2026-05-08T00:40:13.586Z",
+    "total": 1690,
+    "successful": 1355,
+    "failed": 335,
     "withEmail": 598,
     "withGithub": 865,
     "withStack": 1104,
@@ -33723,13 +33723,6 @@
       "status": "ok"
     },
     {
-      "name": "Ahmed Allali",
-      "url": "[https://www.ahallali.duckdns.org](https://portfolio-ahmed-allalis-projects.vercel.app/",
-      "listedTitle": "",
-      "status": "error",
-      "error": "Failed to parse URL from [https://www.ahallali.duckdns.org](https://portfolio-ah"
-    },
-    {
       "name": "Hien Dao",
       "url": "https://hiendao.dev/",
       "listedTitle": "Software Engineer | Backend",
@@ -33760,6 +33753,34 @@
       ],
       "experience": null,
       "title": "Hien Dao | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ahmed Allali",
+      "url": "https://portfolio-ahmed-allalis-projects.vercel.app/",
+      "listedTitle": "Front-End Developer | ahallali.duckdns.org",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ahmed Allali - Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Alexis De Jesus",
+      "url": "https://www.aalexis.fr",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Alexis De Jesus | Développeur Fullstack Passionné",
       "location": null,
       "status": "ok"
     }
