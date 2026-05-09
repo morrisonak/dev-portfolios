@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-08T00:40:13.586Z",
-    "total": 1690,
-    "successful": 1355,
+    "scrapedAt": "2026-05-09T12:22:05.429Z",
+    "total": 1692,
+    "successful": 1357,
     "failed": 335,
-    "withEmail": 598,
-    "withGithub": 865,
-    "withStack": 1104,
-    "withLinkedin": 771,
+    "withEmail": 600,
+    "withGithub": 867,
+    "withStack": 1106,
+    "withLinkedin": 773,
     "withTwitter": 395
   },
   "portfolios": [
@@ -33782,6 +33782,61 @@
       "experience": null,
       "title": "Alexis De Jesus | Développeur Fullstack Passionné",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aanand Madhav",
+      "url": "https://aanandmadhav.com",
+      "listedTitle": "Senior PM | UX",
+      "emails": [
+        "hello@aanandmadhav.com"
+      ],
+      "github": [
+        "https://github.com/aanandmadhav"
+      ],
+      "linkedin": "https://linkedin.com/in/aanandmadhav",
+      "twitter": null,
+      "stack": [
+        "PHP",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Aanand Madhav - Product Manager, UX Expert and Builder",
+      "location": "brief to final asset",
+      "status": "ok"
+    },
+    {
+      "name": "Tanay Shah",
+      "url": "https://tanayshah.dev",
+      "listedTitle": "AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC",
+      "emails": [
+        "tanayshah2024@gmail.com"
+      ],
+      "github": [
+        "https://github.com/tanayshah11",
+        "https://github.com/pgvector"
+      ],
+      "linkedin": "https://linkedin.com/in/tanayshah11",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Svelte",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Swift",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Tanay Shah — AI Engineer in NYC · Founding-Engineer Reps · Agent Infrastructure",
+      "location": "New York City",
       "status": "ok"
     }
   ]
