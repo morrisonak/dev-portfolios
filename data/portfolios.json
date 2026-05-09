@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-09T12:22:05.429Z",
-    "total": 1692,
-    "successful": 1357,
+    "scrapedAt": "2026-05-09T18:21:47.495Z",
+    "total": 1693,
+    "successful": 1358,
     "failed": 335,
     "withEmail": 600,
     "withGithub": 867,
@@ -33837,6 +33837,20 @@
       "experience": null,
       "title": "Tanay Shah — AI Engineer in NYC · Founding-Engineer Reps · Agent Infrastructure",
       "location": "New York City",
+      "status": "ok"
+    },
+    {
+      "name": "Sayeed Shorif",
+      "url": "https://sayeeed-shorif.vercel.app/",
+      "listedTitle": "FrontEnd Web Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Create Next App",
+      "location": null,
       "status": "ok"
     }
   ]
