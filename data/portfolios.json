@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-09T18:21:47.495Z",
-    "total": 1693,
-    "successful": 1358,
+    "scrapedAt": "2026-05-10T12:21:39.586Z",
+    "total": 1695,
+    "successful": 1360,
     "failed": 335,
     "withEmail": 600,
-    "withGithub": 867,
-    "withStack": 1106,
+    "withGithub": 868,
+    "withStack": 1108,
     "withLinkedin": 773,
     "withTwitter": 395
   },
@@ -33850,6 +33850,47 @@
       "stack": [],
       "experience": null,
       "title": "Create Next App",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ankit Roy",
+      "url": "https://ankit-roy.netlify.app",
+      "listedTitle": "Software | Backend | Bot Developer and AI Automation",
+      "emails": [],
+      "github": [
+        "https://github.com/ankittroy-21"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Flask",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Ankit Roy — Software Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nikhil Madaravena",
+      "url": "https://www.nikhilmadaravena.me",
+      "listedTitle": "Fullstack Developer and Systems Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Rust"
+      ],
+      "experience": null,
+      "title": "Nikhil Madaravena — Full-Stack Developer",
       "location": null,
       "status": "ok"
     }
