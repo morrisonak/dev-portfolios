@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-10T12:21:39.586Z",
-    "total": 1695,
-    "successful": 1360,
+    "scrapedAt": "2026-05-11T00:42:50.988Z",
+    "total": 1697,
+    "successful": 1362,
     "failed": 335,
     "withEmail": 600,
-    "withGithub": 868,
-    "withStack": 1108,
-    "withLinkedin": 773,
+    "withGithub": 869,
+    "withStack": 1109,
+    "withLinkedin": 774,
     "withTwitter": 395
   },
   "portfolios": [
@@ -33892,6 +33892,48 @@
       "experience": null,
       "title": "Nikhil Madaravena — Full-Stack Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rahul Kushwaha",
+      "url": "https://raahullkushwaha.dev",
+      "listedTitle": "Full Stack Developer | Java | Spring Boot",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Thanh Tran",
+      "url": "https://thanhtran-portfolio.vercel.app",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/TvTTiT"
+      ],
+      "linkedin": "https://www.linkedin.com/in/thanh-tran-09075b28b",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Laravel",
+        "Docker",
+        "MongoDB",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Thanh Tran — Software Engineer · Live Lab",
+      "location": "anywhere",
       "status": "ok"
     }
   ]
