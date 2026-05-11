@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-11T00:42:50.988Z",
-    "total": 1697,
+    "scrapedAt": "2026-05-11T13:02:22.939Z",
+    "total": 1698,
     "successful": 1362,
-    "failed": 335,
+    "failed": 336,
     "withEmail": 600,
-    "withGithub": 869,
+    "withGithub": 870,
     "withStack": 1109,
-    "withLinkedin": 774,
-    "withTwitter": 395
+    "withLinkedin": 775,
+    "withTwitter": 396
   },
   "portfolios": [
     {
@@ -32545,22 +32545,6 @@
       "status": "ok"
     },
     {
-      "name": "Akashkumar Jadav",
-      "url": "https://akash.ac",
-      "listedTitle": "Full Stack Engineer | Cloud Architect",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React"
-      ],
-      "experience": null,
-      "title": "Akashkumar Jadav - akash.ac",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Lampard Kipyegon",
       "url": "https://lampard.netlify.app",
       "listedTitle": "Data Scientist | AI/ML Engineer | Full Stack Dev | Scikit-learn, Numpy, Pandas, Matplotlib, Django etc. | Kenya",
@@ -33934,6 +33918,42 @@
       "experience": null,
       "title": "Thanh Tran — Software Engineer · Live Lab",
       "location": "anywhere",
+      "status": "ok"
+    },
+    {
+      "name": "Akashkumar Jadav",
+      "url": "https://akashjadav.com",
+      "listedTitle": "Founder & Senior Full Stack Engineer",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "name": "Ifaz Md Zahin",
+      "url": "https://ifaz-zahin-protfolio.vercel.app/",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/Ifaz2611",
+        "https://github.com/vercel"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ifaz2611",
+      "twitter": "https://x.com/ifazmdzahin",
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Ifaz Md Zahin - Portfolio",
+      "location": "Dhaka, Bangladesh, building practical tools for students and communities",
       "status": "ok"
     }
   ]
