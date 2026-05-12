@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-11T13:02:22.939Z",
-    "total": 1698,
-    "successful": 1362,
+    "scrapedAt": "2026-05-12T00:39:37.875Z",
+    "total": 1700,
+    "successful": 1364,
     "failed": 336,
-    "withEmail": 600,
-    "withGithub": 870,
-    "withStack": 1109,
-    "withLinkedin": 775,
-    "withTwitter": 396
+    "withEmail": 602,
+    "withGithub": 872,
+    "withStack": 1111,
+    "withLinkedin": 777,
+    "withTwitter": 397
   },
   "portfolios": [
     {
@@ -33954,6 +33954,63 @@
       "experience": null,
       "title": "Ifaz Md Zahin - Portfolio",
       "location": "Dhaka, Bangladesh, building practical tools for students and communities",
+      "status": "ok"
+    },
+    {
+      "name": "Aakash Singh",
+      "url": "https://parth-porto-eta.vercel.app",
+      "listedTitle": "UI/UX Expert",
+      "emails": [
+        "hello@parthh.in"
+      ],
+      "github": [
+        "https://github.com/ksparth12"
+      ],
+      "linkedin": "https://linkedin.com/in/ksparth128",
+      "twitter": "https://x.com/ksparth12",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Parth Sharma - Developer, Freelancer &amp; Founder; Problem Solver",
+      "location": "Noida,",
+      "status": "ok"
+    },
+    {
+      "name": "Tuncay Ölmez",
+      "url": "https://setrathex.com.tr",
+      "listedTitle": "Computer Programming Student | Web Apps & Developer Tools",
+      "emails": [
+        "tuncay123454@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SetraTheXX"
+      ],
+      "linkedin": "https://www.linkedin.com/in/tuncayolmez",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Node.js",
+        "Docker",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Tuncay Ölmez | Yazılım Geliştirici Stajyer Adayı",
+      "location": null,
       "status": "ok"
     }
   ]
