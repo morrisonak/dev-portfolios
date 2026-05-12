@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-12T12:43:57.924Z",
-    "total": 1701,
-    "successful": 1365,
+    "scrapedAt": "2026-05-12T18:39:38.062Z",
+    "total": 1702,
+    "successful": 1366,
     "failed": 336,
     "withEmail": 603,
-    "withGithub": 873,
-    "withStack": 1112,
-    "withLinkedin": 778,
+    "withGithub": 874,
+    "withStack": 1113,
+    "withLinkedin": 779,
     "withTwitter": 397
   },
   "portfolios": [
@@ -34037,6 +34037,32 @@
       "experience": null,
       "title": "Parish Khan | Senior Software Developer - React, TypeScript, Frontend Architecture",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "MasirJafri",
+      "url": "https://www.masirjafri.in",
+      "listedTitle": "Software Engineer | Full-Stack Development | Backend System Design | Generative AI",
+      "emails": [],
+      "github": [
+        "https://github.com/MasirJafri1"
+      ],
+      "linkedin": "https://www.linkedin.com/in/masirjafri",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "MasirJafri | Full Stack &amp; Gen AI Developer",
+      "location": "image loading strategies to code splitting and bundle analysis, ensuring a smooth and instant experi",
       "status": "ok"
     }
   ]
