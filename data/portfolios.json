@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-12T00:39:37.875Z",
-    "total": 1700,
-    "successful": 1364,
+    "scrapedAt": "2026-05-12T12:43:57.924Z",
+    "total": 1701,
+    "successful": 1365,
     "failed": 336,
-    "withEmail": 602,
-    "withGithub": 872,
-    "withStack": 1111,
-    "withLinkedin": 777,
+    "withEmail": 603,
+    "withGithub": 873,
+    "withStack": 1112,
+    "withLinkedin": 778,
     "withTwitter": 397
   },
   "portfolios": [
@@ -34010,6 +34010,32 @@
       ],
       "experience": null,
       "title": "Tuncay Ölmez | Yazılım Geliştirici Stajyer Adayı",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Parish Khan",
+      "url": "https://parish.cv",
+      "listedTitle": "Senior Software Developer | React, TypeScript, Frontend Architecture",
+      "emails": [
+        "parish@artlist.io"
+      ],
+      "github": [
+        "https://github.com/ParishKhan"
+      ],
+      "linkedin": "https://www.linkedin.com/in/parishkhan",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Parish Khan | Senior Software Developer - React, TypeScript, Frontend Architecture",
       "location": null,
       "status": "ok"
     }
