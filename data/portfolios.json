@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-13T12:46:52.340Z",
-    "total": 1706,
-    "successful": 1370,
-    "failed": 336,
-    "withEmail": 605,
-    "withGithub": 877,
-    "withStack": 1117,
-    "withLinkedin": 781,
-    "withTwitter": 399
+    "scrapedAt": "2026-05-13T18:41:01.347Z",
+    "total": 1707,
+    "successful": 1372,
+    "failed": 335,
+    "withEmail": 606,
+    "withGithub": 879,
+    "withStack": 1119,
+    "withLinkedin": 783,
+    "withTwitter": 400
   },
   "portfolios": [
     {
@@ -26775,13 +26775,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Satish Jhanwer",
-      "url": "https://satishjhanwer.github.io",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Satish Vaishnav",
       "url": "http://satishvaishnav.in",
       "listedTitle": "",
@@ -33783,35 +33776,6 @@
       "error": "fetch failed"
     },
     {
-      "name": "Ifaz Md Zahin",
-      "url": "https://ifaz-zahin-protfolio.vercel.app/",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/Ifaz2611",
-        "https://github.com/vercel"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ifaz2611",
-      "twitter": "https://x.com/ifazmdzahin",
-      "stack": [
-        "React",
-        "Vue",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Firebase",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Ifaz Md Zahin - Portfolio",
-      "location": "Dhaka, Bangladesh, building practical tools for students and communities",
-      "status": "ok"
-    },
-    {
       "name": "Aakash Singh",
       "url": "https://parth-porto-eta.vercel.app",
       "listedTitle": "UI/UX Expert",
@@ -33999,67 +33963,6 @@
       "status": "ok"
     },
     {
-      "name": "Ayodele Ayoola",
-      "url": "https://www.ayodeleayoola.com/",
-      "listedTitle": "Software Developer | Frontend Heavy Fullstack",
-      "emails": [
-        "ayodeleayoolaoke4@gmail.com"
-      ],
-      "github": [
-        "https://github.com/creedtech"
-      ],
-      "linkedin": "https://linkedin.com/in/ayodele-ayoola",
-      "twitter": "https://twitter.com/lazy_programma",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "Django",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Firebase",
-        "Tailwind",
-        "GraphQL",
-        "Flutter",
-        "React Native",
-        "Figma",
-        "WordPress"
-      ],
-      "experience": "6+ years",
-      "title": "Ayodele Ayoola - Software Developer, London",
-      "location": "London, UK",
-      "status": "ok"
-    },
-    {
-      "name": "Ayush Acharya",
-      "url": "https://ayushacharya.vercel.app/",
-      "listedTitle": "Passionate - Full Stack Software Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/ig-ayush"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ayush-acharya-65943132b",
-      "twitter": "https://x.com/ig_ayushacharya",
-      "stack": [
-        "React",
-        "Python",
-        "Java",
-        "Node.js",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "ig-ayush | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Gazi Anas",
       "url": "https://gazimdanas.netlify.app",
       "listedTitle": "AI-assisted Developer | Problem Solver",
@@ -34174,6 +34077,141 @@
       "experience": null,
       "title": "Johngech — Full Stack Developer",
       "location": "day one",
+      "status": "ok"
+    },
+    {
+      "name": "Ayodele Ayoola",
+      "url": "https://www.ayodeleayoola.com",
+      "listedTitle": "Software Developer | Frontend Heavy Full Stack",
+      "emails": [
+        "ayodeleayoolaoke4@gmail.com"
+      ],
+      "github": [
+        "https://github.com/creedtech"
+      ],
+      "linkedin": "https://linkedin.com/in/ayodele-ayoola",
+      "twitter": "https://twitter.com/lazy_programma",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "Flutter",
+        "React Native",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": "6+ years",
+      "title": "Ayodele Ayoola - Software Developer, London",
+      "location": "London, UK",
+      "status": "ok"
+    },
+    {
+      "name": "Ayush Acharya",
+      "url": "https://ayushacharya.vercel.app",
+      "listedTitle": "Passionate - Full Stack Software Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/ig-ayush"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ayush-acharya-65943132b",
+      "twitter": "https://x.com/ig_ayushacharya",
+      "stack": [
+        "React",
+        "Python",
+        "Java",
+        "Node.js",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "ig-ayush | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ifaz Md Zahin",
+      "url": "https://ifaz-zahin-protfolio.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/Ifaz2611",
+        "https://github.com/vercel"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ifaz2611",
+      "twitter": "https://x.com/ifazmdzahin",
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Ifaz Md Zahin - Portfolio",
+      "location": "Dhaka, Bangladesh, building practical tools for students and communities",
+      "status": "ok"
+    },
+    {
+      "name": "Satish Jhanwer",
+      "url": "https://satishjhanwer.dev",
+      "listedTitle": "Frontend Architect | AI & ML Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/satishjhanwer"
+      ],
+      "linkedin": "https://linkedin.com/in/satishjhanwer",
+      "twitter": null,
+      "stack": [
+        "React",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Satish Jhanwer - Frontend Architect & M.Tech AI/ML",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Saurabh Patil",
+      "url": "https://saurabhpatil.netlify.app",
+      "listedTitle": "Code Craftsman",
+      "emails": [
+        "patilsaurabh9978@gmail.com"
+      ],
+      "github": [
+        "https://github.com/patilsaurabh83"
+      ],
+      "linkedin": "https://www.linkedin.com/in/patilsaurabh83",
+      "twitter": "https://twitter.com/patil__saurabh",
+      "stack": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Spring",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Saurabh Patil | Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
