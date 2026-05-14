@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-13T18:41:01.347Z",
-    "total": 1707,
-    "successful": 1372,
+    "scrapedAt": "2026-05-14T00:45:32.430Z",
+    "total": 1708,
+    "successful": 1373,
     "failed": 335,
     "withEmail": 606,
     "withGithub": 879,
-    "withStack": 1119,
+    "withStack": 1120,
     "withLinkedin": 783,
     "withTwitter": 400
   },
@@ -34211,6 +34211,27 @@
       ],
       "experience": null,
       "title": "Saurabh Patil | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anav Chand",
+      "url": "https://www.anav.dev",
+      "listedTitle": "Software Engineering Student | DevOps & AI Enthusiast.",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Svelte",
+        "Astro",
+        "TypeScript",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Anav Chand | Software Engineering Student, DevOps &amp; AI Enthusiast.",
       "location": null,
       "status": "ok"
     }
