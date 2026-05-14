@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-14T07:04:04.578Z",
-    "total": 1709,
-    "successful": 1374,
+    "scrapedAt": "2026-05-14T12:40:24.535Z",
+    "total": 1710,
+    "successful": 1375,
     "failed": 335,
     "withEmail": 607,
     "withGithub": 880,
@@ -34269,6 +34269,20 @@
       "experience": null,
       "title": "Anshul Raman · Security-minded builder",
       "location": "outcome data",
+      "status": "ok"
+    },
+    {
+      "name": "Kishor Jeyachandran",
+      "url": "https://kishorrj.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Kishor Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
