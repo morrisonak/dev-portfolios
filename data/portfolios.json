@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-14T18:39:18.595Z",
-    "total": 1711,
-    "successful": 1376,
-    "failed": 335,
-    "withEmail": 607,
-    "withGithub": 881,
-    "withStack": 1122,
-    "withLinkedin": 785,
-    "withTwitter": 400
+    "scrapedAt": "2026-05-15T00:42:42.839Z",
+    "total": 1678,
+    "successful": 1342,
+    "failed": 336,
+    "withEmail": 592,
+    "withGithub": 859,
+    "withStack": 1095,
+    "withLinkedin": 765,
+    "withTwitter": 392
   },
   "portfolios": [
     {
@@ -13705,20 +13705,6 @@
       "status": "ok"
     },
     {
-      "name": "Iulian Rotaru",
-      "url": "https://iulian.rotaru.fr",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "C:\\Users\\mortimr\\Desktop",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Jack Parsons",
       "url": "https://jackparsonss.me",
       "listedTitle": "",
@@ -20531,23 +20517,6 @@
       "status": "ok"
     },
     {
-      "name": "Muhammad Uzair Khan",
-      "url": "https://uzairkhan.tech",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "M.U.K - Website Design & Development | Social Media Marketing",
-      "location": "the USA",
-      "status": "ok"
-    },
-    {
       "name": "Muhammet Fatih Di̇Nç",
       "url": "https://mfatihdinc.com",
       "listedTitle": "",
@@ -20832,33 +20801,6 @@
       "experience": null,
       "title": "Nader Ferjani",
       "location": "Tunisia",
-      "status": "ok"
-    },
-    {
-      "name": "Nafas Ebrahimi",
-      "url": "https://nafasebra.ir",
-      "listedTitle": "",
-      "emails": [
-        "ebranafas@gmail.com"
-      ],
-      "github": [
-        "https://github.com/nafasebra"
-      ],
-      "linkedin": "https://www.linkedin.com/in/nafas-ebrahimi",
-      "twitter": "https://twitter.com/nafasebra_dev",
-      "stack": [
-        "React",
-        "Vue",
-        "Svelte",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": "4+ years",
-      "title": "Nafas Ebrahimi website",
-      "location": "concept to deployment, I deliver complete solutions that meet your business requirements and technic",
       "status": "ok"
     },
     {
@@ -21378,31 +21320,6 @@
       "status": "ok"
     },
     {
-      "name": "Nihar Das",
-      "url": "https://www.nihardaily.com/portfolio",
-      "listedTitle": "Full Stack Developer | Software Engineer",
-      "emails": [
-        "niharranjandasmu@gmail.com",
-        "admin@email.com"
-      ],
-      "github": [
-        "https://github.com/NiharRan"
-      ],
-      "linkedin": "https://linkedin.com/in/nihar-das",
-      "twitter": "https://x.com/niharranjanda",
-      "stack": [
-        "React",
-        "Vue",
-        "Express",
-        "Laravel",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "AI, Tech & Web Development Blog – Learn, Build & Stay Ahead",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Nikhila Koneru",
       "url": "https://nikhilakoneru.com",
       "listedTitle": "Full Stack Developer | DevOps Engineer",
@@ -21487,22 +21404,6 @@
       "experience": null,
       "title": "Niko: Hello!",
       "location": "the Philippines, Europe, and the United States",
-      "status": "ok"
-    },
-    {
-      "name": "Nilambar Sonu",
-      "url": "https://nilambarsonu-portfolio.vercel.app",
-      "listedTitle": "Data Scientist | Founder And Developer Of Mitti-Ai(Saathiai.org)",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "Python"
-      ],
-      "experience": null,
-      "title": "Nilambar Behera - Portfolio | BCA Student & Aspiring Data Scientist",
-      "location": "Odisha, India specializing in web development, data science, and Python",
       "status": "ok"
     },
     {
@@ -24650,22 +24551,6 @@
       "status": "ok"
     },
     {
-      "name": "Razin Rayees",
-      "url": "https://www.razinrayees.com",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Razin Rayees",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Reagan Hsu",
       "url": "https://reaganhsu.com",
       "listedTitle": "Full Stack Developer",
@@ -27048,13 +26933,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Shaon An Nafi",
-      "url": "https://shaonannafi.me",
-      "listedTitle": "Software Engineer | Daffodil International University Bangladesh",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Sharif Rahat",
       "url": "https://sharifrahat.com",
       "listedTitle": "Full Stack Developer",
@@ -27846,13 +27724,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Tushar Ahuja",
-      "url": "https://tusharahuja.me",
-      "listedTitle": "Full Stack Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Tushar Kanjariya",
       "url": "https://tusharkanjariya.me",
       "listedTitle": "Full Stack Developer",
@@ -28640,13 +28511,6 @@
       "name": "Zaid Rakhange",
       "url": "https://zaid.impiclabs.com",
       "listedTitle": "Gen AI Engineer | Founder @ImpicLabs",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Zander Lewis",
-      "url": "https://zanderlewis.dev",
-      "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
@@ -33527,598 +33391,6 @@
       "status": "ok"
     },
     {
-      "name": "Swagata Ganguly",
-      "url": "https://swagata.tech",
-      "listedTitle": "Full Stack Developer with GEN AI",
-      "emails": [
-        "batman@gotham.com",
-        "sagotogdg@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Cyberclutch146"
-      ],
-      "linkedin": "https://www.linkedin.com/in/swagata-ganguly-453aa6327",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Java",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Swagata Ganguly — ECE Engineer &amp; Builder",
-      "location": "the ground up",
-      "status": "ok"
-    },
-    {
-      "name": "Muhammad Adnan",
-      "url": "https://portfolio-orpin-nu-27.vercel.app",
-      "listedTitle": "Full Stack Developer | MERN, Nextjs, Nestjs",
-      "emails": [
-        "adnasir607@gmail.com"
-      ],
-      "github": [
-        "https://github.com/EponymousBearer"
-      ],
-      "linkedin": "https://linkedin.com/in/muhammadadnan",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Swift",
-        "Node.js",
-        "Express",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Tailwind",
-        "GraphQL"
-      ],
-      "experience": null,
-      "title": "Muhammad Adnan | Full Stack Developer",
-      "location": "Karachi, Pakistan",
-      "status": "ok"
-    },
-    {
-      "name": "Pavan Srivatsav Valluru",
-      "url": "https://pavansrivatsav.com",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/PavanSrivatsav"
-      ],
-      "linkedin": "https://www.linkedin.com/in/pavansrivatsavvalluru",
-      "twitter": null,
-      "stack": [
-        "Angular",
-        "TypeScript",
-        "Java",
-        "Spring",
-        "AWS",
-        "Docker",
-        "Kubernetes"
-      ],
-      "experience": "8+ years",
-      "title": "Valluru Pavan Srivatsav | Full-Stack Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Alexis De Jesus",
-      "url": "https://www.aalexis.fr",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Alexis De Jesus | Développeur Fullstack Passionné",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Aanand Madhav",
-      "url": "https://aanandmadhav.com",
-      "listedTitle": "Senior PM | UX",
-      "emails": [
-        "hello@aanandmadhav.com"
-      ],
-      "github": [
-        "https://github.com/aanandmadhav"
-      ],
-      "linkedin": "https://linkedin.com/in/aanandmadhav",
-      "twitter": null,
-      "stack": [
-        "PHP",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Aanand Madhav - Product Manager, UX Expert and Builder",
-      "location": "brief to final asset",
-      "status": "ok"
-    },
-    {
-      "name": "Tanay Shah",
-      "url": "https://tanayshah.dev",
-      "listedTitle": "AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC",
-      "emails": [
-        "tanayshah2024@gmail.com"
-      ],
-      "github": [
-        "https://github.com/tanayshah11",
-        "https://github.com/pgvector"
-      ],
-      "linkedin": "https://linkedin.com/in/tanayshah11",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Svelte",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Swift",
-        "AWS",
-        "Azure",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Tailwind",
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Tanay Shah — AI Engineer in NYC · Founding-Engineer Reps · Agent Infrastructure",
-      "location": "New York City",
-      "status": "ok"
-    },
-    {
-      "name": "Ankit Roy",
-      "url": "https://ankit-roy.netlify.app",
-      "listedTitle": "Software | Backend | Bot Developer and AI Automation",
-      "emails": [],
-      "github": [
-        "https://github.com/ankittroy-21"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Flask",
-        "MongoDB"
-      ],
-      "experience": null,
-      "title": "Ankit Roy — Software Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Nikhil Madaravena",
-      "url": "https://www.nikhilmadaravena.me",
-      "listedTitle": "Fullstack Developer and Systems Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Rust"
-      ],
-      "experience": null,
-      "title": "Nikhil Madaravena — Full-Stack Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Rahul Kushwaha",
-      "url": "https://raahullkushwaha.dev",
-      "listedTitle": "Full Stack Developer | Java | Spring Boot",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Thanh Tran",
-      "url": "https://thanhtran-portfolio.vercel.app",
-      "listedTitle": "Software Engineer",
-      "emails": [],
-      "github": [
-        "https://github.com/TvTTiT"
-      ],
-      "linkedin": "https://www.linkedin.com/in/thanh-tran-09075b28b",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Nuxt",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "Node.js",
-        "Laravel",
-        "Docker",
-        "MongoDB",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Thanh Tran — Software Engineer · Live Lab",
-      "location": "anywhere",
-      "status": "ok"
-    },
-    {
-      "name": "Akashkumar Jadav",
-      "url": "https://akashjadav.com",
-      "listedTitle": "Founder & Senior Full Stack Engineer",
-      "status": "error",
-      "error": "fetch failed"
-    },
-    {
-      "name": "Aakash Singh",
-      "url": "https://parth-porto-eta.vercel.app",
-      "listedTitle": "UI/UX Expert",
-      "emails": [
-        "hello@parthh.in"
-      ],
-      "github": [
-        "https://github.com/ksparth12"
-      ],
-      "linkedin": "https://linkedin.com/in/ksparth128",
-      "twitter": "https://x.com/ksparth12",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "Express",
-        "Flask",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Parth Sharma - Developer, Freelancer &amp; Founder; Problem Solver",
-      "location": "Noida,",
-      "status": "ok"
-    },
-    {
-      "name": "Tuncay Ölmez",
-      "url": "https://setrathex.com.tr",
-      "listedTitle": "Computer Programming Student | Web Apps & Developer Tools",
-      "emails": [
-        "tuncay123454@gmail.com"
-      ],
-      "github": [
-        "https://github.com/SetraTheXX"
-      ],
-      "linkedin": "https://www.linkedin.com/in/tuncayolmez",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Rust",
-        "Node.js",
-        "Docker",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Tuncay Ölmez | Yazılım Geliştirici Stajyer Adayı",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Parish Khan",
-      "url": "https://parish.cv",
-      "listedTitle": "Senior Software Developer | React, TypeScript, Frontend Architecture",
-      "emails": [
-        "parish@artlist.io"
-      ],
-      "github": [
-        "https://github.com/ParishKhan"
-      ],
-      "linkedin": "https://www.linkedin.com/in/parishkhan",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Tailwind",
-        "GraphQL"
-      ],
-      "experience": null,
-      "title": "Parish Khan | Senior Software Developer - React, TypeScript, Frontend Architecture",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "MasirJafri",
-      "url": "https://www.masirjafri.in",
-      "listedTitle": "Software Engineer | Full-Stack Development | Backend System Design | Generative AI",
-      "emails": [],
-      "github": [
-        "https://github.com/MasirJafri1"
-      ],
-      "linkedin": "https://www.linkedin.com/in/masirjafri",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "MasirJafri | Full Stack &amp; Gen AI Developer",
-      "location": "image loading strategies to code splitting and bundle analysis, ensuring a smooth and instant experi",
-      "status": "ok"
-    },
-    {
-      "name": "Aabu Sayed",
-      "url": "https://aabu-sayed-portfolio.vercel.app",
-      "listedTitle": "Software Engineer & Web Developer",
-      "emails": [
-        "abusaid7388@gmail.com"
-      ],
-      "github": [
-        "https://github.com/said7388"
-      ],
-      "linkedin": "https://www.linkedin.com/in/abu-said-bd",
-      "twitter": "https://twitter.com/said7388",
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "Express",
-        "AWS",
-        "Azure",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Portfolio of Aabu Sayed - Software Developer",
-      "location": "Google Sheets and generates a PDF term sheet, sent via AWS SES",
-      "status": "ok"
-    },
-    {
-      "name": "Aahana Bobade",
-      "url": "https://aahanabobade.com",
-      "listedTitle": "Software Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Aahana Bobade | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Ahmed Allali",
-      "url": "https://portfolio-ahmed-allalis-projects.vercel.app",
-      "listedTitle": "Front-End Developer | ahallali.duckdns.org",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Ahmed Allali - Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Arne Jacob",
-      "url": "https://dudeldups.dev",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript"
-      ],
-      "experience": null,
-      "title": "Arne Jacob | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Gazi Anas",
-      "url": "https://gazimdanas.netlify.app",
-      "listedTitle": "AI-assisted Developer | Problem Solver",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Gazi Md Anas — CS Student · DSA &amp; Systems Thinker",
-      "location": "Dhaka building a foundation in algorithms and systems",
-      "status": "ok"
-    },
-    {
-      "name": "Hien Dao",
-      "url": "https://hiendao.dev",
-      "listedTitle": "Software Engineer | Backend",
-      "emails": [
-        "hienqd@icloud.com"
-      ],
-      "github": [
-        "https://github.com/traproc",
-        "https://github.com/jasonlu2907"
-      ],
-      "linkedin": "https://www.linkedin.com/in/hien-quang-dao",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Flask",
-        "Spring",
-        "AWS",
-        "GCP",
-        "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "MongoDB"
-      ],
-      "experience": null,
-      "title": "Hien Dao | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Jay",
-      "url": "https://jay-65.netlify.app",
-      "listedTitle": "Frontend Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/Dev-JAY-lab"
-      ],
-      "linkedin": null,
-      "twitter": "https://x.com/thenameisjay101",
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Mr. JAY - Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Sayeed Shorif",
-      "url": "https://sayeeed-shorif.vercel.app",
-      "listedTitle": "FrontEnd Web Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Create Next App",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Yohannes Getachew",
-      "url": "https://johngech.netlify.app",
-      "listedTitle": "Full Stack Developer | Software Engineer",
-      "emails": [
-        "demisgech@gmail.com"
-      ],
-      "github": [
-        "https://github.com/johngech"
-      ],
-      "linkedin": "https://linkedin.com/in/yohannes-gech",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Java",
-        "Express",
-        "Django",
-        "Spring",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "Redis",
-        "GraphQL",
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Johngech — Full Stack Developer",
-      "location": "day one",
-      "status": "ok"
-    },
-    {
-      "name": "Ayodele Ayoola",
-      "url": "https://www.ayodeleayoola.com",
-      "listedTitle": "Software Developer | Frontend Heavy Full Stack",
-      "emails": [
-        "ayodeleayoolaoke4@gmail.com"
-      ],
-      "github": [
-        "https://github.com/creedtech"
-      ],
-      "linkedin": "https://linkedin.com/in/ayodele-ayoola",
-      "twitter": "https://twitter.com/lazy_programma",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "Django",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Firebase",
-        "Tailwind",
-        "GraphQL",
-        "Flutter",
-        "React Native",
-        "Figma",
-        "WordPress"
-      ],
-      "experience": "6+ years",
-      "title": "Ayodele Ayoola - Software Developer, London",
-      "location": "London, UK",
-      "status": "ok"
-    },
-    {
       "name": "Ayush Acharya",
       "url": "https://ayushacharya.vercel.app",
       "listedTitle": "Passionate - Full Stack Software Developer",
@@ -34141,38 +33413,68 @@
       "status": "ok"
     },
     {
-      "name": "Ifaz Md Zahin",
-      "url": "https://ifaz-zahin-protfolio.vercel.app",
-      "listedTitle": "",
+      "name": "Aahana Bobade",
+      "url": "https://aahanabobade-portfolio.vercel.app",
+      "listedTitle": "Software Developer",
       "emails": [],
-      "github": [
-        "https://github.com/Ifaz2611",
-        "https://github.com/vercel"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ifaz2611",
-      "twitter": "https://x.com/ifazmdzahin",
-      "stack": [
-        "React",
-        "Vue",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Firebase",
-        "Tailwind"
-      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
       "experience": null,
-      "title": "Ifaz Md Zahin - Portfolio",
-      "location": "Dhaka, Bangladesh, building practical tools for students and communities",
+      "title": "Aahana Bobade | Portfolio",
+      "location": null,
       "status": "ok"
     },
     {
+      "name": "Ahmed Allali",
+      "url": "https://www.ahallali.duckdns.org",
+      "listedTitle": "Front-End Developer",
+      "status": "error",
+      "error": "HTTP 404"
+    },
+    {
+      "name": "Akashkumar Jadav",
+      "url": "https://akash.ac",
+      "listedTitle": "Full Stack Engineer | Cloud Architect",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "name": "David Nguyen",
+      "url": "https://davidnguyen.codes",
+      "listedTitle": "Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "PHP"
+      ],
+      "experience": null,
+      "title": "davidnguyen.codes&nbsp;-&nbsp;davidnguyen Resources and Information.",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nhlanhla Hasane",
+      "url": "https://nhlanhlahasane.netlify.app",
+      "listedTitle": "",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Pavan Srivatsav Valluru",
+      "url": "https://pavansrivatsav-portfolio.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "status": "error",
+      "error": "HTTP 401"
+    },
+    {
       "name": "Satish Jhanwer",
-      "url": "https://satishjhanwer.dev",
-      "listedTitle": "Frontend Architect | AI & ML Engineer",
+      "url": "https://satishjhanwer.github.io",
+      "listedTitle": "",
       "emails": [],
       "github": [
         "https://github.com/satishjhanwer"
@@ -34189,120 +33491,11 @@
       "status": "ok"
     },
     {
-      "name": "Saurabh Patil",
-      "url": "https://saurabhpatil.netlify.app",
-      "listedTitle": "Code Craftsman",
-      "emails": [
-        "patilsaurabh9978@gmail.com"
-      ],
-      "github": [
-        "https://github.com/patilsaurabh83"
-      ],
-      "linkedin": "https://www.linkedin.com/in/patilsaurabh83",
-      "twitter": "https://twitter.com/patil__saurabh",
-      "stack": [
-        "React",
-        "Angular",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Spring",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Saurabh Patil | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Anav Chand",
-      "url": "https://www.anav.dev",
-      "listedTitle": "Software Engineering Student | DevOps & AI Enthusiast.",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Svelte",
-        "Astro",
-        "TypeScript",
-        "Docker",
-        "PostgreSQL"
-      ],
-      "experience": null,
-      "title": "Anav Chand | Software Engineering Student, DevOps &amp; AI Enthusiast.",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Anshul Raman",
-      "url": "https://www.anshulraman.com",
+      "name": "Tek Raj Joshi",
+      "url": "https://t3kraj.netlify.app",
       "listedTitle": "",
-      "emails": [
-        "ramanal@mail.uc.edu"
-      ],
-      "github": [
-        "https://github.com/itsramananshul"
-      ],
-      "linkedin": "https://www.linkedin.com/in/anshulraman06",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Rust",
-        "Go",
-        "Java",
-        "Ruby",
-        "PHP",
-        "Swift",
-        "Kotlin",
-        "Node.js",
-        "Flask",
-        "PostgreSQL",
-        "Tailwind",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Anshul Raman · Security-minded builder",
-      "location": "outcome data",
-      "status": "ok"
-    },
-    {
-      "name": "Kishor Jeyachandran",
-      "url": "https://kishorrj.vercel.app",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Kishor Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Shawn K. Lewis",
-      "url": "https://shawnklewis.com",
-      "listedTitle": "Software Engineer",
-      "emails": [],
-      "github": [
-        "https://github.com/kurtnelle"
-      ],
-      "linkedin": "https://www.linkedin.com/in/kurtnelle",
-      "twitter": null,
-      "stack": [
-        "React",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Shawn Kurtnelle Lewis — Software Engineer · KBlazor",
-      "location": "Trinidad",
-      "status": "ok"
+      "status": "error",
+      "error": "HTTP 404"
     }
   ]
 }
