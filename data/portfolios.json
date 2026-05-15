@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-15T00:42:42.839Z",
-    "total": 1678,
-    "successful": 1342,
+    "scrapedAt": "2026-05-15T12:40:14.318Z",
+    "total": 1680,
+    "successful": 1344,
     "failed": 336,
     "withEmail": 592,
-    "withGithub": 859,
-    "withStack": 1095,
-    "withLinkedin": 765,
+    "withGithub": 861,
+    "withStack": 1096,
+    "withLinkedin": 766,
     "withTwitter": 392
   },
   "portfolios": [
@@ -33496,6 +33496,43 @@
       "listedTitle": "",
       "status": "error",
       "error": "HTTP 404"
+    },
+    {
+      "name": "Francisco Salido",
+      "url": "https://paco.fyi?utm_source=gh",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/beakman"
+      ],
+      "linkedin": "https://linkedin.com/in/fsalido",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Astro",
+        "Go",
+        "Django"
+      ],
+      "experience": "12+ years",
+      "title": "Francisco Salido — Full-Stack Engineer &amp; Architect",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shankumar Pitta",
+      "url": "http://shankumar.is-a.dev",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/shankumar7"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Shankumar | Portfolio",
+      "location": null,
+      "status": "ok"
     }
   ]
 }
