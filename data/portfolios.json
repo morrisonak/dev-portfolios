@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-15T12:40:14.318Z",
-    "total": 1680,
-    "successful": 1344,
+    "scrapedAt": "2026-05-16T12:23:55.320Z",
+    "total": 1682,
+    "successful": 1346,
     "failed": 336,
-    "withEmail": 592,
-    "withGithub": 861,
-    "withStack": 1096,
-    "withLinkedin": 766,
+    "withEmail": 593,
+    "withGithub": 863,
+    "withStack": 1098,
+    "withLinkedin": 767,
     "withTwitter": 392
   },
   "portfolios": [
@@ -33532,6 +33532,64 @@
       "experience": null,
       "title": "Shankumar | Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Bhavesh Gudlani",
+      "url": "https://bhaveshgudlani.me",
+      "listedTitle": "AI/ML Engineer | Fullstack Development-Android-AI/ML",
+      "emails": [
+        "bhaveshgudlani716@gmail.com"
+      ],
+      "github": [
+        "https://github.com/bhaveshgudlani",
+        "https://github.com/Bhavesh716"
+      ],
+      "linkedin": "https://linkedin.com/in/bhaveshgudlani",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "Django",
+        "Spring",
+        "AWS",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Bhavesh Gudlani – Full-Stack Developer & AI/ML Engineer | India",
+      "location": "Solapur, India",
+      "status": "ok"
+    },
+    {
+      "name": "Gary Doman / GareBear99 / GareBearProductionz / TizWildin",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/",
+      "listedTitle": "Software Developer | Audio DSP | AI Infrastructure | Music Tech",
+      "emails": [],
+      "github": [
+        "https://github.com/GareBear99"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "TizWildin Entertainment HUB — Free Plugins, Sample Packs, Audio Lists & ARC Source Spine",
+      "location": "one branded hub",
       "status": "ok"
     }
   ]
