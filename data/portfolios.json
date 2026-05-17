@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-16T12:23:55.320Z",
-    "total": 1682,
-    "successful": 1346,
+    "scrapedAt": "2026-05-17T00:44:06.369Z",
+    "total": 1684,
+    "successful": 1348,
     "failed": 336,
-    "withEmail": 593,
-    "withGithub": 863,
-    "withStack": 1098,
-    "withLinkedin": 767,
+    "withEmail": 595,
+    "withGithub": 865,
+    "withStack": 1100,
+    "withLinkedin": 769,
     "withTwitter": 392
   },
   "portfolios": [
@@ -33590,6 +33590,70 @@
       "experience": null,
       "title": "TizWildin Entertainment HUB — Free Plugins, Sample Packs, Audio Lists & ARC Source Spine",
       "location": "one branded hub",
+      "status": "ok"
+    },
+    {
+      "name": "Rohit Singh",
+      "url": "https://rohitsinghworks.vercel.app",
+      "listedTitle": "Software & Web Developer | Next.js, MERN & Full Stack",
+      "emails": [
+        "rs3274357@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Rohit0072"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rohit-singh-b74377239",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Rohit Singh | Software &amp; Web Developer — Next.js, MERN &amp; Full-Stack (Jaipur)",
+      "location": "Jaipur, Rajasthan, and a BCA student at Sri Balaji College of Engineering and Technology",
+      "status": "ok"
+    },
+    {
+      "name": "Rohit Singh",
+      "url": "https://rohitwork.vercel.app",
+      "listedTitle": "Software Engineer | Next.js, MERN",
+      "emails": [
+        "rs3274357@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/Rohit0072"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rohit-singh-b74377239",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Rohit Singh — Software Engineer | Next.js, MERN, Jaipur",
+      "location": null,
       "status": "ok"
     }
   ]
