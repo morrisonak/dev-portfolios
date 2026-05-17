@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-17T00:44:06.369Z",
-    "total": 1684,
+    "scrapedAt": "2026-05-17T18:24:33.609Z",
+    "total": 1679,
     "successful": 1348,
-    "failed": 336,
-    "withEmail": 595,
-    "withGithub": 865,
-    "withStack": 1100,
-    "withLinkedin": 769,
+    "failed": 331,
+    "withEmail": 596,
+    "withGithub": 867,
+    "withStack": 1101,
+    "withLinkedin": 770,
     "withTwitter": 392
   },
   "portfolios": [
@@ -17543,20 +17543,6 @@
       "status": "ok"
     },
     {
-      "name": "Madhuravas",
-      "url": "https://www.madhuravas.online",
-      "listedTitle": "Mern Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": "9+ years",
-      "title": "Madhuravas Reddy - MERN Stack Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Madhurima Rawat",
       "url": "https://madhurimarawat.github.io/Portfolio-Website",
       "listedTitle": "Data Scientist & Frontend Developer",
@@ -25813,28 +25799,6 @@
       "status": "ok"
     },
     {
-      "name": "Safoor Safdar",
-      "url": "https://safoorsafdar.com",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/safoorsafdar",
-      "twitter": null,
-      "stack": [
-        "Go",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Kubernetes",
-        "MySQL",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Safoor Safdar - AWS Certified Solution Architect &amp; DevOps Expert",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Sagar Adulkar",
       "url": "https://sagar-adulkar.vercel.app",
       "listedTitle": "",
@@ -26992,13 +26956,6 @@
       "name": "Shefali",
       "url": "https://shefali.dev",
       "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Sheljin",
-      "url": "https://shelj.in",
-      "listedTitle": "Full Stack Developer",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
@@ -30506,20 +30463,6 @@
       "status": "ok"
     },
     {
-      "name": "Venkat Nurukurthi",
-      "url": "https://venkatnurukurthi.info",
-      "listedTitle": "Microsoft Endpoint Administrator | Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Venkat Nurukurthi | Microsoft Endpoint Administrator",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Victor Vento",
       "url": "https://victorvento.net",
       "listedTitle": "Software Developer | .NET and JavaScript",
@@ -32667,35 +32610,6 @@
       "status": "ok"
     },
     {
-      "name": "Ruban Gino Singh",
-      "url": "https://www.rubangino.ca",
-      "listedTitle": "AI Engineer | AI Systems Builder | Full-Stack AI Developer",
-      "emails": [
-        "connect@rubangino.ca"
-      ],
-      "github": [
-        "https://github.com/Ruban2205"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ruban-gino-singh",
-      "twitter": null,
-      "stack": [
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "AWS",
-        "Azure",
-        "Docker",
-        "MongoDB",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Ruban Gino Singh | AI Engineer &amp; ML Systems Builder",
-      "location": "Edmonton, Canada",
-      "status": "ok"
-    },
-    {
       "name": "Sanjiv Thapa",
       "url": "https://portfolio.sanjivthapa.com.np/home",
       "listedTitle": "Backend Developer",
@@ -33427,20 +33341,6 @@
       "status": "ok"
     },
     {
-      "name": "Ahmed Allali",
-      "url": "https://www.ahallali.duckdns.org",
-      "listedTitle": "Front-End Developer",
-      "status": "error",
-      "error": "HTTP 404"
-    },
-    {
-      "name": "Akashkumar Jadav",
-      "url": "https://akash.ac",
-      "listedTitle": "Full Stack Engineer | Cloud Architect",
-      "status": "error",
-      "error": "fetch failed"
-    },
-    {
       "name": "David Nguyen",
       "url": "https://davidnguyen.codes",
       "listedTitle": "Developer",
@@ -33456,13 +33356,6 @@
       "title": "davidnguyen.codes&nbsp;-&nbsp;davidnguyen Resources and Information.",
       "location": null,
       "status": "ok"
-    },
-    {
-      "name": "Nhlanhla Hasane",
-      "url": "https://nhlanhlahasane.netlify.app",
-      "listedTitle": "",
-      "status": "error",
-      "error": "The operation was aborted due to timeout"
     },
     {
       "name": "Pavan Srivatsav Valluru",
@@ -33489,13 +33382,6 @@
       "title": "Satish Jhanwer - Frontend Architect & M.Tech AI/ML",
       "location": null,
       "status": "ok"
-    },
-    {
-      "name": "Tek Raj Joshi",
-      "url": "https://t3kraj.netlify.app",
-      "listedTitle": "",
-      "status": "error",
-      "error": "HTTP 404"
     },
     {
       "name": "Francisco Salido",
@@ -33653,6 +33539,91 @@
       ],
       "experience": null,
       "title": "Rohit Singh — Software Engineer | Next.js, MERN, Jaipur",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Akhileswar Kamale",
+      "url": "https://akhileswar6.github.io/Portfolio/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "akhilkamale@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Akhileswar6"
+      ],
+      "linkedin": "https://www.linkedin.com/in/akhileswar-kamale",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Docker",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Portfolio | Creative Developer",
+      "location": "Tirupati, India, passionate about turning complex problems into simple, beautiful and intuitive desi",
+      "status": "ok"
+    },
+    {
+      "name": "Gokul suresh s v",
+      "url": "https://gokulsuresh.vercel.app/",
+      "listedTitle": "Project Lead",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Gokul Suresh S.V — Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shawn Kurtnelle Lewis",
+      "url": "https://shawnklewis.com",
+      "listedTitle": "Augmented Software Engineer | Systems Architect",
+      "emails": [],
+      "github": [
+        "https://github.com/kurtnelle"
+      ],
+      "linkedin": "https://www.linkedin.com/in/kurtnelle",
+      "twitter": null,
+      "stack": [
+        "React",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Shawn Kurtnelle Lewis — Augmented Software Engineer · KBlazor",
+      "location": "Trinidad",
+      "status": "ok"
+    },
+    {
+      "name": "Shubham 404",
+      "url": "https://shubham-404.vercel.app",
+      "listedTitle": "Crafting Code with Purpose | Student",
+      "emails": [
+        "shubh.shubhamkrsingh@gmail.com"
+      ],
+      "github": [
+        "https://github.com/shubham-404"
+      ],
+      "linkedin": "https://linkedin.com/in/shubham-404-",
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "Shubham | Portfolio",
       "location": null,
       "status": "ok"
     }
