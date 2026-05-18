@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-17T18:24:33.609Z",
-    "total": 1679,
-    "successful": 1348,
+    "scrapedAt": "2026-05-18T00:45:13.729Z",
+    "total": 1680,
+    "successful": 1349,
     "failed": 331,
     "withEmail": 596,
     "withGithub": 867,
-    "withStack": 1101,
-    "withLinkedin": 770,
+    "withStack": 1102,
+    "withLinkedin": 771,
     "withTwitter": 392
   },
   "portfolios": [
@@ -33625,6 +33625,27 @@
       "experience": null,
       "title": "Shubham | Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Manikandan Ramar",
+      "url": "https://manikandanramar.com",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/manikandanramar",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "React Native",
+        ".NET"
+      ],
+      "experience": "6+ years",
+      "title": "Manikandan Ramar | Software Engineer (SDE III) at Walmart | React &amp; AI",
+      "location": "Bangalore, India",
       "status": "ok"
     }
   ]
