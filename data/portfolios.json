@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-18T00:45:13.729Z",
-    "total": 1680,
-    "successful": 1349,
+    "scrapedAt": "2026-05-19T13:08:50.105Z",
+    "total": 1681,
+    "successful": 1350,
     "failed": 331,
-    "withEmail": 596,
-    "withGithub": 867,
-    "withStack": 1102,
+    "withEmail": 597,
+    "withGithub": 868,
+    "withStack": 1103,
     "withLinkedin": 771,
     "withTwitter": 392
   },
@@ -33646,6 +33646,27 @@
       "experience": "6+ years",
       "title": "Manikandan Ramar | Software Engineer (SDE III) at Walmart | React &amp; AI",
       "location": "Bangalore, India",
+      "status": "ok"
+    },
+    {
+      "name": "Marcus Sánchez",
+      "url": "https://marcuss.pro",
+      "listedTitle": "Staff Backend Engineer | Distributed Systems | AI",
+      "emails": [
+        "marcus@marcuss.pro",
+        "m4rkuz@gmail.com"
+      ],
+      "github": [
+        "https://github.com/marcuss"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Rails"
+      ],
+      "experience": null,
+      "title": "Marcus Sánchez — Staff Backend Engineer",
+      "location": "overwriting that custom content",
       "status": "ok"
     }
   ]
