@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-21T13:10:47.900Z",
-    "total": 1683,
-    "successful": 1352,
-    "failed": 331,
-    "withEmail": 599,
-    "withGithub": 870,
-    "withStack": 1105,
-    "withLinkedin": 773,
+    "scrapedAt": "2026-05-21T18:40:29.515Z",
+    "total": 1685,
+    "successful": 1353,
+    "failed": 332,
+    "withEmail": 600,
+    "withGithub": 871,
+    "withStack": 1106,
+    "withLinkedin": 774,
     "withTwitter": 394
   },
   "portfolios": [
@@ -33735,6 +33735,51 @@
       "title": "prakharyxdev",
       "location": "core concept to production build",
       "status": "ok"
+    },
+    {
+      "name": "Ifaz Md Zahin",
+      "url": "https://ifazzahin.vercel.app/",
+      "listedTitle": "Full Stack Developer | ML Engineer",
+      "emails": [
+        "zahin26112004@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Ifaz2611"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ifaz2611",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Ifaz Md Zahin — Web Developer &amp; Engineer",
+      "location": "application logic to",
+      "status": "ok"
+    },
+    {
+      "name": "Rahul Kushwaha",
+      "url": "https://raahulllkushwaha.dev",
+      "listedTitle": "Full Stack Developer | Java | Spring Boot",
+      "status": "error",
+      "error": "fetch failed"
     }
   ]
 }
