@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-19T18:40:04.524Z",
-    "total": 1682,
-    "successful": 1351,
+    "scrapedAt": "2026-05-21T13:10:47.900Z",
+    "total": 1683,
+    "successful": 1352,
     "failed": 331,
-    "withEmail": 598,
-    "withGithub": 869,
-    "withStack": 1104,
-    "withLinkedin": 772,
-    "withTwitter": 393
+    "withEmail": 599,
+    "withGithub": 870,
+    "withStack": 1105,
+    "withLinkedin": 773,
+    "withTwitter": 394
   },
   "portfolios": [
     {
@@ -33698,6 +33698,42 @@
       "experience": null,
       "title": "jackphat.dev",
       "location": "Vietnam, I collaborate with clients and teams around the world to create bold, memorable products",
+      "status": "ok"
+    },
+    {
+      "name": "Prakhar Yadav",
+      "url": "https://prakharyxdev.vercel.app/",
+      "listedTitle": "Full Stack Developer | Tech Content Creator",
+      "emails": [
+        "yadavprakhar1034@gmail.com",
+        "guest@prakhar.sys",
+        "yadavxprakhar@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/yadavxprakhar"
+      ],
+      "linkedin": "https://www.linkedin.com/in/prakharyxdev",
+      "twitter": "https://x.com/PrakharYxdev",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Spring",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "prakharyxdev",
+      "location": "core concept to production build",
       "status": "ok"
     }
   ]
