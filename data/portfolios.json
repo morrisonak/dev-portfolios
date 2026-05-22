@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-22T00:46:03.829Z",
-    "total": 1685,
-    "successful": 1354,
+    "scrapedAt": "2026-05-22T12:51:59.708Z",
+    "total": 1686,
+    "successful": 1355,
     "failed": 331,
-    "withEmail": 600,
-    "withGithub": 871,
-    "withStack": 1106,
-    "withLinkedin": 774,
+    "withEmail": 601,
+    "withGithub": 872,
+    "withStack": 1107,
+    "withLinkedin": 775,
     "withTwitter": 394
   },
   "portfolios": [
@@ -33785,6 +33785,37 @@
       "stack": [],
       "experience": null,
       "title": "Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "kenTom",
+      "url": "https://kentom.co.ke",
+      "listedTitle": "Software Developer",
+      "emails": [
+        "me@kentom.co.ke"
+      ],
+      "github": [
+        "https://github.com/Raccoon254"
+      ],
+      "linkedin": "https://www.linkedin.com/in/steve-tom-822a81230",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Svelte",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Kotlin",
+        "Node.js",
+        "Laravel"
+      ],
+      "experience": null,
+      "title": "kenTom · Steve Tom · Full-Stack Developer in Kenya",
       "location": null,
       "status": "ok"
     }
