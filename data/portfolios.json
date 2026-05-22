@@ -1,9 +1,9 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-21T18:40:29.515Z",
+    "scrapedAt": "2026-05-22T00:46:03.829Z",
     "total": 1685,
-    "successful": 1353,
-    "failed": 332,
+    "successful": 1354,
+    "failed": 331,
     "withEmail": 600,
     "withGithub": 871,
     "withStack": 1106,
@@ -33776,10 +33776,17 @@
     },
     {
       "name": "Rahul Kushwaha",
-      "url": "https://raahulllkushwaha.dev",
+      "url": "https://raahullkushwaha.dev",
       "listedTitle": "Full Stack Developer | Java | Spring Boot",
-      "status": "error",
-      "error": "fetch failed"
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Portfolio",
+      "location": null,
+      "status": "ok"
     }
   ]
 }
