@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-22T18:39:02.763Z",
-    "total": 1713,
-    "successful": 1380,
+    "scrapedAt": "2026-05-23T12:23:11.708Z",
+    "total": 1714,
+    "successful": 1381,
     "failed": 333,
     "withEmail": 614,
-    "withGithub": 892,
-    "withStack": 1128,
-    "withLinkedin": 793,
+    "withGithub": 893,
+    "withStack": 1129,
+    "withLinkedin": 794,
     "withTwitter": 397
   },
   "portfolios": [
@@ -34481,6 +34481,24 @@
       "experience": null,
       "title": "Johngech — Full Stack Developer",
       "location": "day one",
+      "status": "ok"
+    },
+    {
+      "name": "Serdar Salim",
+      "url": "https://serdarsalim.com",
+      "listedTitle": "Automation Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/serdarsalim"
+      ],
+      "linkedin": "https://www.linkedin.com/in/serdarsalim",
+      "twitter": null,
+      "stack": [
+        "Next.js"
+      ],
+      "experience": null,
+      "title": "Serdar Salim | Tools and Automations That Eliminate Repetitive Work",
+      "location": "any HubSpot contact page",
       "status": "ok"
     }
   ]
