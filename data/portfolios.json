@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-24T12:25:59.742Z",
-    "total": 1718,
-    "successful": 1385,
+    "scrapedAt": "2026-05-24T18:24:15.710Z",
+    "total": 1719,
+    "successful": 1386,
     "failed": 333,
-    "withEmail": 616,
-    "withGithub": 895,
-    "withStack": 1131,
-    "withLinkedin": 796,
-    "withTwitter": 398
+    "withEmail": 617,
+    "withGithub": 896,
+    "withStack": 1132,
+    "withLinkedin": 797,
+    "withTwitter": 399
   },
   "portfolios": [
     {
@@ -34584,6 +34584,32 @@
       "experience": null,
       "title": "rohitksahoo",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ayman Ismail",
+      "url": "https://aymanismail.com",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [
+        "hi@aymanismail.com"
+      ],
+      "github": [
+        "https://github.com/aymanbismail"
+      ],
+      "linkedin": "https://linkedin.com/in/aymanbismail",
+      "twitter": "https://twitter.com/aymanbismail",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Laravel"
+      ],
+      "experience": "4+ years",
+      "title": "Ayman Ismail | Portfolio",
+      "location": "Gaza",
       "status": "ok"
     }
   ]
