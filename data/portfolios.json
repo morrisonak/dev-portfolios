@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-23T12:23:11.708Z",
-    "total": 1714,
-    "successful": 1381,
+    "scrapedAt": "2026-05-24T12:25:59.742Z",
+    "total": 1718,
+    "successful": 1385,
     "failed": 333,
-    "withEmail": 614,
-    "withGithub": 893,
-    "withStack": 1129,
-    "withLinkedin": 794,
-    "withTwitter": 397
+    "withEmail": 616,
+    "withGithub": 895,
+    "withStack": 1131,
+    "withLinkedin": 796,
+    "withTwitter": 398
   },
   "portfolios": [
     {
@@ -34258,13 +34258,6 @@
       "status": "ok"
     },
     {
-      "name": "Rohit Kumar Sahoo",
-      "url": "https://rohitkumarsahoo.app",
-      "listedTitle": "Systems Architect | Backend Developer",
-      "status": "error",
-      "error": "fetch failed"
-    },
-    {
       "name": "Ruban Gino Singh",
       "url": "https://www.rubangino.ca",
       "listedTitle": "AI Engineer | AI Systems Builder | Full Stack AI Developer",
@@ -34499,6 +34492,98 @@
       "experience": null,
       "title": "Serdar Salim | Tools and Automations That Eliminate Repetitive Work",
       "location": "any HubSpot contact page",
+      "status": "ok"
+    },
+    {
+      "name": "Antonio Ranivoarison",
+      "url": "https://tsioryantonio.vercel.app",
+      "listedTitle": "Full Stack Developer & Aspiring AI / Ml Engineer",
+      "emails": [
+        "antonitsiory@gmail.com"
+      ],
+      "github": [
+        "https://github.com/anthonyRanivoarison"
+      ],
+      "linkedin": "https://www.linkedin.com/in/tsiory-antonio-7ba342344",
+      "twitter": "https://x.com/antonio_rnv",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Antonio Ranivoarison — Fullstack Developer",
+      "location": "components, composing them into complex interfaces",
+      "status": "ok"
+    },
+    {
+      "name": "Mandip Umretiya",
+      "url": "https://mandip-dev-portfolio.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "mandipumretiya1234@gmail.com"
+      ],
+      "github": [
+        "https://github.com/mandip-coder"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mandip-umretiya-0804b8112",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Mandip | Digital Artisan &amp; Performance Engineer",
+      "location": "curiosity to mastery",
+      "status": "ok"
+    },
+    {
+      "name": "Manikanta Darapureddy💛",
+      "url": "https://dmanikanta.site",
+      "listedTitle": "Ai Full-Stack Developer",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "name": "Qihang Feng",
+      "url": "https://qfeng.beaverexp.com",
+      "listedTitle": "Software Engineering Student | Full Stack Development, Machine Learning",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Qihang Feng Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rohit Kumar Sahoo",
+      "url": "https://rohitksahoo.vercel.app/",
+      "listedTitle": "Systems Architect | Backend Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "rohitksahoo",
+      "location": null,
       "status": "ok"
     }
   ]
