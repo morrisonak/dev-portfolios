@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-25T00:47:21.504Z",
-    "total": 1722,
-    "successful": 1389,
-    "failed": 333,
-    "withEmail": 619,
-    "withGithub": 898,
-    "withStack": 1134,
-    "withLinkedin": 799,
+    "scrapedAt": "2026-05-25T13:12:02.653Z",
+    "total": 1723,
+    "successful": 1391,
+    "failed": 332,
+    "withEmail": 620,
+    "withGithub": 899,
+    "withStack": 1135,
+    "withLinkedin": 800,
     "withTwitter": 399
   },
   "portfolios": [
@@ -32985,26 +32985,6 @@
       "status": "ok"
     },
     {
-      "name": "Yocrrz/Aditya",
-      "url": "https://yocrrz224.github.io/YOCRRZ224",
-      "listedTitle": "Js | Cybersecurity | Full stack dev",
-      "emails": [
-        "adityaraj116111209@gmail.com"
-      ],
-      "github": [
-        "https://github.com/YOCRRZ224"
-      ],
-      "linkedin": null,
-      "twitter": "https://x.com/yocrrz",
-      "stack": [
-        ".NET"
-      ],
-      "experience": null,
-      "title": "$ -> portfolio.init()",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Aditya",
       "url": "https://aditya-a-portfolio.vercel.app",
       "listedTitle": "Full Stack Developer | MERN Stack Developer",
@@ -34552,13 +34532,6 @@
       "status": "ok"
     },
     {
-      "name": "Manikanta Darapureddy💛",
-      "url": "https://dmanikanta.site",
-      "listedTitle": "Ai Full-Stack Developer",
-      "status": "error",
-      "error": "fetch failed"
-    },
-    {
       "name": "Qihang Feng",
       "url": "https://qfeng.beaverexp.com",
       "listedTitle": "Software Engineering Student | Full Stack Development, Machine Learning",
@@ -34686,6 +34659,76 @@
       "experience": null,
       "title": "Nigam Prasad Sahoo | Android &amp; Systems Engineer",
       "location": "recent entries",
+      "status": "ok"
+    },
+    {
+      "name": "Nitika",
+      "url": "https://my-portfolio-beryl-xi-81.vercel.app/",
+      "listedTitle": "Graphic designer | Backend developer",
+      "emails": [
+        "nitiwork90@gmail.com"
+      ],
+      "github": [
+        "https://github.com/niti1203"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nitika-0245b6251",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Node.js",
+        "Spring",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Nitika — Full-Stack Developer &amp; Graphic Designer",
+      "location": "microservices to monoliths, I design systems that perform under pressure and stay clean under the ho",
+      "status": "ok"
+    },
+    {
+      "name": "Yocrrz/Aditya",
+      "url": "https://yocrrz.is-a.dev",
+      "listedTitle": "Js | Cybersecurity | Full Stack dev",
+      "emails": [
+        "adityaraj116111209@gmail.com"
+      ],
+      "github": [
+        "https://github.com/YOCRRZ224"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/yocrrz",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Kotlin",
+        "Flask",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "$ -> portfolio.init()",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Zayar Shein",
+      "url": "https://zayarshein.com",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Zayar Shein",
+      "location": null,
       "status": "ok"
     }
   ]
