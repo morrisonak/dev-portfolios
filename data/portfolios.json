@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-24T18:24:15.710Z",
-    "total": 1719,
-    "successful": 1386,
+    "scrapedAt": "2026-05-25T00:47:21.504Z",
+    "total": 1722,
+    "successful": 1389,
     "failed": 333,
-    "withEmail": 617,
-    "withGithub": 896,
-    "withStack": 1132,
-    "withLinkedin": 797,
+    "withEmail": 619,
+    "withGithub": 898,
+    "withStack": 1134,
+    "withLinkedin": 799,
     "withTwitter": 399
   },
   "portfolios": [
@@ -34610,6 +34610,82 @@
       "experience": "4+ years",
       "title": "Ayman Ismail | Portfolio",
       "location": "Gaza",
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Anand",
+      "url": "https://abhishekdev-portfolio.vercel.app",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anukool Patel",
+      "url": "https://anukool.me",
+      "listedTitle": "Full Stack Developer | AI",
+      "emails": [
+        "anukoolpatel05@gmail.com"
+      ],
+      "github": [
+        "https://github.com/anukool23"
+      ],
+      "linkedin": "https://www.linkedin.com/in/anukoolpatel",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Anukool Patel | Full Stack Developer",
+      "location": "Gurugram, specialized in creating modern web applications",
+      "status": "ok"
+    },
+    {
+      "name": "Nigam Prasad Sahoo",
+      "url": "https://nigam-portfolio-2026.web.app/",
+      "listedTitle": "Android & Full-Stack Systems Engineer",
+      "emails": [
+        "nigam.nps@gmail.com"
+      ],
+      "github": [
+        "https://github.com/AsyncNigam"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nigam-prasad-sahoo-b0768034a",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "PHP",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Nigam Prasad Sahoo | Android &amp; Systems Engineer",
+      "location": "recent entries",
       "status": "ok"
     }
   ]
