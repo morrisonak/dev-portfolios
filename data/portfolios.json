@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-25T18:36:08.931Z",
-    "total": 1724,
-    "successful": 1392,
+    "scrapedAt": "2026-05-26T00:45:27.531Z",
+    "total": 1725,
+    "successful": 1393,
     "failed": 332,
     "withEmail": 620,
     "withGithub": 899,
-    "withStack": 1136,
-    "withLinkedin": 800,
+    "withStack": 1137,
+    "withLinkedin": 801,
     "withTwitter": 399
   },
   "portfolios": [
@@ -34744,6 +34744,27 @@
       ],
       "experience": null,
       "title": "Ohk Soe Htet",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Patrick Müller",
+      "url": "https://p-mueller.dev",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/patrick-m",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Astro",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Home Page",
       "location": null,
       "status": "ok"
     }
