@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-26T13:02:25.848Z",
-    "total": 1725,
-    "successful": 1394,
+    "scrapedAt": "2026-05-26T18:50:23.224Z",
+    "total": 1727,
+    "successful": 1396,
     "failed": 331,
-    "withEmail": 621,
-    "withGithub": 900,
-    "withStack": 1138,
-    "withLinkedin": 802,
+    "withEmail": 622,
+    "withGithub": 901,
+    "withStack": 1139,
+    "withLinkedin": 803,
     "withTwitter": 399
   },
   "portfolios": [
@@ -34799,6 +34799,51 @@
       "experience": null,
       "title": "Yog Prajapati — AI/ML Engineer",
       "location": "the humble MLP to the transformer block that ate the world",
+      "status": "ok"
+    },
+    {
+      "name": "Andrianaivo Blaise Ismael",
+      "url": "https://andrianaivo-ismael.vercel.app/admin",
+      "listedTitle": "",
+      "emails": [
+        "ismablaise@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ismaelBlaise"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ismael-blaise-andrianaivo",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Node.js",
+        "Spring",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Admin — Login — ANDRIANAIVO Blaise Ismaël | Dev Full Stack Madagascar",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nikhil Kumar",
+      "url": "https://routesguard.lovable.app/r/portfolio",
+      "listedTitle": "Full Stack Developer | Backend Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Nikhil — Full-stack Engineer & Product Designer",
+      "location": null,
       "status": "ok"
     }
   ]
