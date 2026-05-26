@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-26T00:45:27.531Z",
+    "scrapedAt": "2026-05-26T13:02:25.848Z",
     "total": 1725,
-    "successful": 1393,
-    "failed": 332,
-    "withEmail": 620,
-    "withGithub": 899,
-    "withStack": 1137,
-    "withLinkedin": 801,
+    "successful": 1394,
+    "failed": 331,
+    "withEmail": 621,
+    "withGithub": 900,
+    "withStack": 1138,
+    "withLinkedin": 802,
     "withTwitter": 399
   },
   "portfolios": [
@@ -28381,13 +28381,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Yog Prajapati",
-      "url": "https://yog.zentor.site",
-      "listedTitle": "Ai Developer | Full Stack",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Yogesh Choudhary Paliyal",
       "url": "https://yogeshpaliyal.com",
       "listedTitle": "",
@@ -34766,6 +34759,46 @@
       "experience": null,
       "title": "Home Page",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Yog Prajapati",
+      "url": "https://www.yogprajapati.site",
+      "listedTitle": "AI/ML Engineer | Full Stack",
+      "emails": [
+        "contact@yogprajapati.site",
+        "ada@analytical.org"
+      ],
+      "github": [
+        "https://github.com/yogprajapati"
+      ],
+      "linkedin": "https://linkedin.com/in/yogprajapati",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Yog Prajapati — AI/ML Engineer",
+      "location": "the humble MLP to the transformer block that ate the world",
       "status": "ok"
     }
   ]
