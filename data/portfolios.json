@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-26T18:50:23.224Z",
-    "total": 1727,
-    "successful": 1396,
+    "scrapedAt": "2026-05-27T13:13:11.612Z",
+    "total": 1728,
+    "successful": 1397,
     "failed": 331,
-    "withEmail": 622,
-    "withGithub": 901,
-    "withStack": 1139,
-    "withLinkedin": 803,
+    "withEmail": 623,
+    "withGithub": 902,
+    "withStack": 1140,
+    "withLinkedin": 804,
     "withTwitter": 399
   },
   "portfolios": [
@@ -34843,6 +34843,30 @@
       "stack": [],
       "experience": null,
       "title": "Nikhil — Full-stack Engineer & Product Designer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anuvab Das",
+      "url": "https://anvv.tech/",
+      "listedTitle": "Full Stack App/Web and Embedded Systems Engineer",
+      "emails": [
+        "dasanuvab38@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Stewy8506",
+        "https://github.com/anuvabdas"
+      ],
+      "linkedin": "https://www.linkedin.com/in/anv-dev",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Anuvab Das | Full Stack Developer",
       "location": null,
       "status": "ok"
     }
