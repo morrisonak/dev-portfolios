@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-27T13:13:11.612Z",
-    "total": 1728,
-    "successful": 1397,
+    "scrapedAt": "2026-05-27T18:49:05.151Z",
+    "total": 1729,
+    "successful": 1398,
     "failed": 331,
-    "withEmail": 623,
-    "withGithub": 902,
-    "withStack": 1140,
-    "withLinkedin": 804,
-    "withTwitter": 399
+    "withEmail": 624,
+    "withGithub": 903,
+    "withStack": 1141,
+    "withLinkedin": 805,
+    "withTwitter": 400
   },
   "portfolios": [
     {
@@ -34868,6 +34868,36 @@
       "experience": null,
       "title": "Anuvab Das | Full Stack Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Advait Nair",
+      "url": "https://advaitnair.org",
+      "listedTitle": "Full-Stack Engineer",
+      "emails": [
+        "me@advaitnair.org"
+      ],
+      "github": [
+        "https://github.com/advait-nair",
+        "https://github.com/Advait-Nair"
+      ],
+      "linkedin": "https://linkedin.com/in/profile-anair",
+      "twitter": "https://x.com/advasoftware",
+      "stack": [
+        "Svelte",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Azure",
+        "Docker",
+        "Firebase",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Advait Nair - Personal Portfolio",
+      "location": "the US, UK and India",
       "status": "ok"
     }
   ]
