@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-28T13:17:27.625Z",
-    "total": 1730,
-    "successful": 1399,
+    "scrapedAt": "2026-05-28T18:54:32.355Z",
+    "total": 1731,
+    "successful": 1400,
     "failed": 331,
     "withEmail": 625,
     "withGithub": 904,
@@ -34929,6 +34929,20 @@
       ],
       "experience": "1+ years",
       "title": "Adwitya - Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rakesh Adak",
+      "url": "https://rakesh404.vercel.app/",
+      "listedTitle": "Animated Portfolio | GSAP | Student | Backend Dev",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Rakesh Adak | Portfolio",
       "location": null,
       "status": "ok"
     }
