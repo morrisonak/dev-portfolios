@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-27T18:49:05.151Z",
-    "total": 1729,
-    "successful": 1398,
+    "scrapedAt": "2026-05-28T13:17:27.625Z",
+    "total": 1730,
+    "successful": 1399,
     "failed": 331,
-    "withEmail": 624,
-    "withGithub": 903,
-    "withStack": 1141,
-    "withLinkedin": 805,
+    "withEmail": 625,
+    "withGithub": 904,
+    "withStack": 1142,
+    "withLinkedin": 806,
     "withTwitter": 400
   },
   "portfolios": [
@@ -34898,6 +34898,38 @@
       "experience": null,
       "title": "Advait Nair - Personal Portfolio",
       "location": "the US, UK and India",
+      "status": "ok"
+    },
+    {
+      "name": "Adwitya",
+      "url": "https://adwityac.netlify.app/",
+      "listedTitle": "",
+      "emails": [
+        "adwityachakraborty@hotmail.com",
+        "oak@pallet.edu"
+      ],
+      "github": [
+        "https://github.com/adwityac"
+      ],
+      "linkedin": "https://linkedin.com/in/adwityac",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Docker",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": "1+ years",
+      "title": "Adwitya - Full Stack Developer",
+      "location": null,
       "status": "ok"
     }
   ]
