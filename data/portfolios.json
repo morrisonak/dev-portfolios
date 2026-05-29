@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-28T18:54:32.355Z",
-    "total": 1731,
-    "successful": 1400,
+    "scrapedAt": "2026-05-29T13:08:22.769Z",
+    "total": 1732,
+    "successful": 1401,
     "failed": 331,
     "withEmail": 625,
     "withGithub": 904,
@@ -34943,6 +34943,20 @@
       "stack": [],
       "experience": null,
       "title": "Rakesh Adak | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rohit Kumar Ranjan",
+      "url": "https://rohitkumarranjan.in",
+      "listedTitle": "Cyber Security",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Rohit Kumar Ranjan - Cyber-Sentry Portfolio",
       "location": null,
       "status": "ok"
     }
