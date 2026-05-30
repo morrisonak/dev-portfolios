@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-30T12:28:21.537Z",
-    "total": 1733,
-    "successful": 1402,
+    "scrapedAt": "2026-05-30T18:26:00.194Z",
+    "total": 1735,
+    "successful": 1404,
     "failed": 331,
-    "withEmail": 625,
-    "withGithub": 905,
-    "withStack": 1143,
-    "withLinkedin": 807,
-    "withTwitter": 400
+    "withEmail": 627,
+    "withGithub": 907,
+    "withStack": 1145,
+    "withLinkedin": 809,
+    "withTwitter": 401
   },
   "portfolios": [
     {
@@ -34982,6 +34982,55 @@
       "experience": null,
       "title": "Jozsef Pallagi — Freelance Angular &amp; Java Developer | EU Remote",
       "location": "commit to production",
+      "status": "ok"
+    },
+    {
+      "name": "Aharon Zilberman",
+      "url": "https://ahronsilv.dev/",
+      "listedTitle": "Full-stack & React Native Engineer | Mobile Infrastructure, Native Integrations & AI-assisted Delivery",
+      "emails": [
+        "ahronsilv@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ahronsilv"
+      ],
+      "linkedin": "https://www.linkedin.com/in/meant-to-be-coded",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Swift",
+        "Node.js",
+        "PostgreSQL",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Aharon Zilberman | Full-stack & React Native Engineer",
+      "location": "my public work",
+      "status": "ok"
+    },
+    {
+      "name": "Gambhir.dev",
+      "url": "https://gambhir.dev",
+      "listedTitle": "FullStack | DevOps",
+      "emails": [
+        "hey@gambhir.dev"
+      ],
+      "github": [
+        "https://github.com/gambhirsharma"
+      ],
+      "linkedin": "https://www.linkedin.com/in/gambhir-sharma",
+      "twitter": "https://www.twitter.com/gambhir_sharma",
+      "stack": [
+        "Vue",
+        "Astro",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Gambhir Sharma",
+      "location": null,
       "status": "ok"
     }
   ]
