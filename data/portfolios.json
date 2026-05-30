@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-05-29T13:08:22.769Z",
-    "total": 1732,
-    "successful": 1401,
+    "scrapedAt": "2026-05-30T12:28:21.537Z",
+    "total": 1733,
+    "successful": 1402,
     "failed": 331,
     "withEmail": 625,
-    "withGithub": 904,
-    "withStack": 1142,
-    "withLinkedin": 806,
+    "withGithub": 905,
+    "withStack": 1143,
+    "withLinkedin": 807,
     "withTwitter": 400
   },
   "portfolios": [
@@ -34958,6 +34958,30 @@
       "experience": null,
       "title": "Rohit Kumar Ranjan - Cyber-Sentry Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jozsef Pallagi",
+      "url": "https://jozsefpallagi.com",
+      "listedTitle": "Full Stack Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/PJozeph"
+      ],
+      "linkedin": "https://www.linkedin.com/in/jozsef-pallagi",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Spring",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Jozsef Pallagi — Freelance Angular &amp; Java Developer | EU Remote",
+      "location": "commit to production",
       "status": "ok"
     }
   ]
