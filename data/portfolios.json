@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-02T13:19:25.532Z",
-    "total": 1741,
-    "successful": 1414,
+    "scrapedAt": "2026-06-02T19:17:17.645Z",
+    "total": 1744,
+    "successful": 1417,
     "failed": 327,
-    "withEmail": 635,
-    "withGithub": 917,
-    "withStack": 1155,
-    "withLinkedin": 818,
+    "withEmail": 638,
+    "withGithub": 920,
+    "withStack": 1158,
+    "withLinkedin": 821,
     "withTwitter": 403
   },
   "portfolios": [
@@ -35065,38 +35065,6 @@
       "status": "ok"
     },
     {
-      "name": "Abu Bakar Butt",
-      "url": "https://abu-bakar-portfolio-mauve.vercel.app/",
-      "listedTitle": "Full Stack Web Developer",
-      "emails": [
-        "alex@company.com"
-      ],
-      "github": [
-        "https://github.com/abubakarbutt-developer"
-      ],
-      "linkedin": "https://www.linkedin.com/in/abu-bakar-butt-68a95b318",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Firebase",
-        "Tailwind",
-        "GraphQL",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Abu Bakar Butt | Frontend Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Anh Nguyen",
       "url": "https://anhnq15.github.io",
       "listedTitle": "Software Engineer",
@@ -35202,13 +35170,6 @@
       "status": "ok"
     },
     {
-      "name": "Evangelos Pappas",
-      "url": "https://hyperautomation.substack.com/",
-      "listedTitle": "Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE",
-      "status": "error",
-      "error": "HTTP 403"
-    },
-    {
       "name": "Gowtham Sridhar",
       "url": "https://www.gowthamsridhar.com",
       "listedTitle": "AI engineer, HCI Scientist + robots",
@@ -35274,6 +35235,119 @@
       "experience": null,
       "title": "ALEVOLDON | Software Engineer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abu Bakar Butt",
+      "url": "https://abu-bakar-portfolio-mauve.vercel.app",
+      "listedTitle": "Full Stack Web Developer",
+      "emails": [
+        "alex@company.com"
+      ],
+      "github": [
+        "https://github.com/abubakarbutt-developer"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abu-bakar-butt-68a95b318",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Abu Bakar Butt | Frontend Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Danial Khilji",
+      "url": "https://danialkhilji.github.io/portfolio/",
+      "listedTitle": "Data Scientist | Machine Learning Engineer",
+      "emails": [
+        "danialkhilji@yahoo.com"
+      ],
+      "github": [
+        "https://github.com/danialkhilji"
+      ],
+      "linkedin": "https://www.linkedin.com/in/danialkhilji",
+      "twitter": null,
+      "stack": [
+        "Astro",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Muhammad Danial Khilji - Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Evangelos Pappas",
+      "url": "https://hyperautomation.substack.com",
+      "listedTitle": "Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE",
+      "status": "error",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Sunil Band",
+      "url": "https://www.sunilband.com",
+      "listedTitle": "Frontend Engineer",
+      "emails": [
+        "sunilbandwork@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sunilband"
+      ],
+      "linkedin": "https://linkedin.com/in/sunil-band",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Docker",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sunil Band | Software Developer",
+      "location": "what exists today",
+      "status": "ok"
+    },
+    {
+      "name": "Vinay Katikireddy",
+      "url": "https://vinaykatikireddy.github.io",
+      "listedTitle": "Cybersecurity, Full Stack Developer",
+      "emails": [
+        "vinaykatikireddy116@gmail.com"
+      ],
+      "github": [
+        "https://github.com/vinaykatikireddy"
+      ],
+      "linkedin": "https://www.linkedin.com/in/vinaykatikireddy",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Vinay - Portfolio",
+      "location": "all over the internet",
       "status": "ok"
     }
   ]
