@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-01T14:04:14.399Z",
-    "total": 1734,
-    "successful": 1408,
-    "failed": 326,
-    "withEmail": 632,
-    "withGithub": 912,
-    "withStack": 1149,
-    "withLinkedin": 815,
-    "withTwitter": 402
+    "scrapedAt": "2026-06-02T13:19:25.532Z",
+    "total": 1741,
+    "successful": 1414,
+    "failed": 327,
+    "withEmail": 635,
+    "withGithub": 917,
+    "withStack": 1155,
+    "withLinkedin": 818,
+    "withTwitter": 403
   },
   "portfolios": [
     {
@@ -34980,42 +34980,6 @@
       "status": "ok"
     },
     {
-      "name": "Asif Javed",
-      "url": "https://asifjaved.dev/",
-      "listedTitle": "Software Engineer",
-      "emails": [],
-      "github": [
-        "https://github.com/asifjaved-dev"
-      ],
-      "linkedin": "https://linkedin.com/in/asifjaved-dev",
-      "twitter": null,
-      "stack": [
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Home | Asif Javed | Software Engineer",
-      "location": "Islamabad, Pakistan",
-      "status": "ok"
-    },
-    {
-      "name": "bimql",
-      "url": "https://bimql.link/",
-      "listedTitle": "Indie Developer | Full-Stack & Mobile",
-      "emails": [
-        "bimal.chhetry122@gmail.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/bimql",
-      "twitter": "https://x.com/ghoseyyy",
-      "stack": [
-        "Go"
-      ],
-      "experience": null,
-      "title": "bimql – Indie Developer from Nepal",
-      "location": "Nepal",
-      "status": "ok"
-    },
-    {
       "name": "Brian Kabbo",
       "url": "https://briankabbo.vercel.app",
       "listedTitle": "Software Engineer | Full Stack Developer",
@@ -35027,27 +34991,6 @@
       "experience": null,
       "title": "Brian Kabbo Sarker",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Gowtham Sridhar",
-      "url": "https://www.gowthamsridhar.com/",
-      "listedTitle": "",
-      "emails": [
-        "gowtham.sridher5@gmail.com"
-      ],
-      "github": [
-        "https://github.com/ALIENvsROBOT"
-      ],
-      "linkedin": "https://www.linkedin.com/in/gowtham-sridher",
-      "twitter": null,
-      "stack": [
-        "Python",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Gowtham Sridhar | Applied AI X Human-Computer Interaction (HCI) | Portfolio",
-      "location": "Vienna, Austria, and collaborates internationally with research and industry teams",
       "status": "ok"
     },
     {
@@ -35119,6 +35062,218 @@
       "experience": null,
       "title": "Nandan Sai — CSE @ IIT (ISM) Dhanbad",
       "location": "Hyderabad, Telangana",
+      "status": "ok"
+    },
+    {
+      "name": "Abu Bakar Butt",
+      "url": "https://abu-bakar-portfolio-mauve.vercel.app/",
+      "listedTitle": "Full Stack Web Developer",
+      "emails": [
+        "alex@company.com"
+      ],
+      "github": [
+        "https://github.com/abubakarbutt-developer"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abu-bakar-butt-68a95b318",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Abu Bakar Butt | Frontend Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anh Nguyen",
+      "url": "https://anhnq15.github.io",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "nguyenquocanh41@gmail.com"
+      ],
+      "github": [
+        "https://github.com/anhnq15"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Go",
+        "Java",
+        "Spring",
+        "AWS",
+        "GCP",
+        "Firebase"
+      ],
+      "experience": "10+ years",
+      "title": "Nguyễn Quốc Anh — portfolio.dev",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Asif Javed",
+      "url": "https://asifjaved.dev",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/asifjaved-dev"
+      ],
+      "linkedin": "https://linkedin.com/in/asifjaved-dev",
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Home | Asif Javed | Software Engineer",
+      "location": "Islamabad, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Bimql",
+      "url": "https://bimql.link",
+      "listedTitle": "Indie Developer | Full Stack & Mobile",
+      "emails": [
+        "bimal.chhetry122@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/bimql",
+      "twitter": "https://x.com/ghoseyyy",
+      "stack": [
+        "Go"
+      ],
+      "experience": null,
+      "title": "bimql – Indie Developer from Nepal",
+      "location": "Nepal",
+      "status": "ok"
+    },
+    {
+      "name": "Daniel Peace",
+      "url": "https://concrete.codes",
+      "listedTitle": "Web Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/2concrete"
+      ],
+      "linkedin": "https://www.linkedin.com/in/danielpeace1",
+      "twitter": null,
+      "stack": [
+        "React",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "concrete.codes",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Dax",
+      "url": "https://daolanx.com",
+      "listedTitle": "Front-End Developer | Freelancer",
+      "emails": [
+        "daolanx.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/daolanx"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/daolanx",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Dax | Freelance Frontend Developer",
+      "location": "Hangzhou",
+      "status": "ok"
+    },
+    {
+      "name": "Evangelos Pappas",
+      "url": "https://hyperautomation.substack.com/",
+      "listedTitle": "Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE",
+      "status": "error",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Gowtham Sridhar",
+      "url": "https://www.gowthamsridhar.com",
+      "listedTitle": "AI engineer, HCI Scientist + robots",
+      "emails": [
+        "gowtham.sridher5@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ALIENvsROBOT"
+      ],
+      "linkedin": "https://www.linkedin.com/in/gowtham-sridher",
+      "twitter": null,
+      "stack": [
+        "Python",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Gowtham Sridhar | Applied AI X Human-Computer Interaction (HCI) | Portfolio",
+      "location": "Vienna, Austria, and collaborates internationally with research and industry teams",
+      "status": "ok"
+    },
+    {
+      "name": "Shazeb Khan",
+      "url": "https://shazeb-portfolio.vercel.app",
+      "listedTitle": "Full Stack Developer| AI Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/shazebkhan22"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shazebkhann",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Shazeb Khan - Developer Portfolio",
+      "location": "simple websites to complex web applications",
+      "status": "ok"
+    },
+    {
+      "name": "Vladimir Rybalsky",
+      "url": "https://alevoldon.com",
+      "listedTitle": "AI Builder & Creative Technologist",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "ALEVOLDON | Software Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
