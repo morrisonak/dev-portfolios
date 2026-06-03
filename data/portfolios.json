@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-02T19:17:17.645Z",
-    "total": 1744,
-    "successful": 1417,
-    "failed": 327,
-    "withEmail": 638,
-    "withGithub": 920,
-    "withStack": 1158,
-    "withLinkedin": 821,
-    "withTwitter": 403
+    "scrapedAt": "2026-06-03T13:41:15.171Z",
+    "total": 1755,
+    "successful": 1427,
+    "failed": 328,
+    "withEmail": 643,
+    "withGithub": 928,
+    "withStack": 1166,
+    "withLinkedin": 829,
+    "withTwitter": 405
   },
   "portfolios": [
     {
@@ -35329,8 +35329,231 @@
       "status": "ok"
     },
     {
+      "name": "Aitezaz Sikandar",
+      "url": "https://aitezazdev.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "aitezazsikandar@gmail.com"
+      ],
+      "github": [
+        "https://github.com/aitezazsk",
+        "https://github.com/aitezazdev"
+      ],
+      "linkedin": "https://linkedin.com/in/aitezazsikandar",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Aitezaz Sikandar - Full Stack Developer",
+      "location": "frontend interfaces to backend APIs",
+      "status": "ok"
+    },
+    {
+      "name": "Daniyal Javadia",
+      "url": "https://daniyal-works-portfolio.vercel.app/",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/daniyal-javadia"
+      ],
+      "linkedin": "https://www.linkedin.com/in/daniyal-javadia",
+      "twitter": "https://twitter.com/daniyal_javadia",
+      "stack": [
+        "React",
+        "JavaScript",
+        "PHP",
+        "Node.js",
+        "Laravel",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Daniyal Javadia - Full Stack Web Developer | .NET Developer | Flutter Developer | UI/UX Designer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ganesh Angadi",
+      "url": "https://ganeshangadi.online",
+      "listedTitle": "Devops Engineer | System Thinker",
+      "emails": [
+        "ganeshangadi13012006@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ganeshak11"
+      ],
+      "linkedin": "https://linkedin.com/in/ganeshangadi1301",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Ganesh Angadi | DevOps Engineer Portfolio",
+      "location": "schema design to deployed product",
+      "status": "ok"
+    },
+    {
+      "name": "Juan Benito",
+      "url": "https://juanbenito.vercel.app",
+      "listedTitle": "Full-Stack Web Developer",
+      "status": "error",
+      "error": "HTTP 500"
+    },
+    {
+      "name": "Mohammad Hadi Siavashi",
+      "url": "https://mhsiavashi.com",
+      "listedTitle": "Software Engineer | Backend Developer | .Net, Python, Rest Api",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Mohammad Hadi Siavashi · Senior .NET Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Parinith Mavurapu",
+      "url": "https://parinithmavurapu.vercel.app/",
+      "listedTitle": "Machine Learning & Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Parinith Reddy | Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rakesh kannepelli",
+      "url": "https://portfolio-ruby-tau-62.vercel.app/",
+      "listedTitle": "AI / ML and Full stack Developer",
+      "emails": [
+        "rakeshkannepelli@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rakeshkannepelli"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rakesh-kannepelli-50a456286",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Rakesh Kannepelli | Creative Tech Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rakesh kannepelli",
+      "url": "https://portfolio-ruby-tau-62.vercel.app/",
+      "listedTitle": "AI / ML and Full stack Developer",
+      "emails": [
+        "rakeshkannepelli@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rakeshkannepelli"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rakesh-kannepelli-50a456286",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Rakesh Kannepelli | Creative Tech Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ricky Serrano",
+      "url": "https://rickyserrano.dev/",
+      "listedTitle": "Help Desk Grunt | Next.js, React, SpringBoot, Full Stack",
+      "emails": [],
+      "github": [
+        "https://github.com/RickySerrano904"
+      ],
+      "linkedin": "https://linkedin.com/in/rickyserrano904",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Ricky Serrano | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sayandeep Majumdar",
+      "url": "https://sayandeepmajumdar.github.io/",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "sayandeepmajumdar.official@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sayandeepmajumdar"
+      ],
+      "linkedin": "https://www.linkedin.com/in/connectwithsayandeep",
+      "twitter": "https://twitter.com/mesayandeep",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Laravel",
+        "AWS",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Sayandeep Majumdar",
+      "location": "product architecture to delivery, I focus on practical execution, reliability, and measurable impact",
+      "status": "ok"
+    },
+    {
       "name": "Vinay Katikireddy",
-      "url": "https://vinaykatikireddy.github.io",
+      "url": "https://vinaykatikireddy.is-a.dev",
       "listedTitle": "Cybersecurity, Full Stack Developer",
       "emails": [
         "vinaykatikireddy116@gmail.com"
@@ -35348,6 +35571,31 @@
       "experience": null,
       "title": "Vinay - Portfolio",
       "location": "all over the internet",
+      "status": "ok"
+    },
+    {
+      "name": "Wasib Sattar",
+      "url": "https://wasibsattar.com",
+      "listedTitle": "AI Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/wasib692"
+      ],
+      "linkedin": "https://www.linkedin.com/in/wasib-sattar-319455151",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MySQL",
+        ".NET"
+      ],
+      "experience": "4+ years",
+      "title": "Wasib Sattar | AI Automation Engineer — Lahore, Pakistan",
+      "location": "Lahore, Pakistan",
       "status": "ok"
     }
   ]
