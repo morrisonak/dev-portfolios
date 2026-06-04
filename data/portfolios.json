@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-03T13:41:15.171Z",
-    "total": 1755,
-    "successful": 1427,
+    "scrapedAt": "2026-06-04T13:07:37.216Z",
+    "total": 1758,
+    "successful": 1430,
     "failed": 328,
-    "withEmail": 643,
-    "withGithub": 928,
-    "withStack": 1166,
-    "withLinkedin": 829,
+    "withEmail": 646,
+    "withGithub": 930,
+    "withStack": 1169,
+    "withLinkedin": 831,
     "withTwitter": 405
   },
   "portfolios": [
@@ -35596,6 +35596,80 @@
       "experience": "4+ years",
       "title": "Wasib Sattar | AI Automation Engineer — Lahore, Pakistan",
       "location": "Lahore, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Abdalwahed Aldaghir",
+      "url": "https://awrs.me/en",
+      "listedTitle": "Software Engineer | Flutter Developer | Mobile Developer",
+      "emails": [
+        "abdulwahedaldaghir0@gmail.com"
+      ],
+      "github": [
+        "https://github.com/abdulwahed-s"
+      ],
+      "linkedin": "https://linkedin.com/in/abdulwahed-s",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Swift",
+        "Kotlin",
+        "Express",
+        "Docker",
+        "MySQL",
+        "Firebase",
+        "Flutter",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Abdulwahed | Software Engineer &amp; Full-Stack Mobile Developer",
+      "location": "Oman",
+      "status": "ok"
+    },
+    {
+      "name": "Ankit Raj",
+      "url": "https://neokit.app",
+      "listedTitle": "Full Stack Developer | Web & App | DevOps",
+      "emails": [
+        "ankitpswd@gmail.com"
+      ],
+      "github": [
+        "https://github.com/WhoamiI00"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ankit-raj-8043a32ba",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Ankit Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mejed Alkoutaini",
+      "url": "https://majd-portfolio.framer.website/",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "mejed@templyo.io"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "Majd",
+      "location": "the layout to the smallest interactions",
       "status": "ok"
     }
   ]
