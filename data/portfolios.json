@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-04T13:07:37.216Z",
-    "total": 1758,
-    "successful": 1430,
-    "failed": 328,
-    "withEmail": 646,
-    "withGithub": 930,
-    "withStack": 1169,
-    "withLinkedin": 831,
+    "scrapedAt": "2026-06-04T18:49:19.616Z",
+    "total": 1761,
+    "successful": 1432,
+    "failed": 329,
+    "withEmail": 648,
+    "withGithub": 932,
+    "withStack": 1171,
+    "withLinkedin": 833,
     "withTwitter": 405
   },
   "portfolios": [
@@ -35670,6 +35670,78 @@
       "experience": null,
       "title": "Majd",
       "location": "the layout to the smallest interactions",
+      "status": "ok"
+    },
+    {
+      "name": "Ameya Ramteke",
+      "url": "https://ameyajarvis.qzz.io",
+      "listedTitle": "AI & DS Student",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "name": "Artem Okhten",
+      "url": "https://okhten.com",
+      "listedTitle": "Applied Mathematics | Machine Learning & Software Engineering",
+      "emails": [
+        "artokhten@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Darhaal"
+      ],
+      "linkedin": "https://www.linkedin.com/in/artem-okhten",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Artem Okhten | Applied Mathematics, Machine Learning &amp; Software Engineering",
+      "location": "Lichess PGN games",
+      "status": "ok"
+    },
+    {
+      "name": "Shivy Patel",
+      "url": "https://shivypatel.com",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "shivypat02@gmail.com"
+      ],
+      "github": [
+        "https://github.com/shivy02",
+        "https://github.com/BreadBoxOrg",
+        "https://github.com/SeedPlanterOrg"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shivam-patel-363747214",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Svelte",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Express",
+        "Azure",
+        "MongoDB",
+        "Tailwind",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Shivam Patel - Software Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
