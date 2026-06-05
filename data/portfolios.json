@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-04T18:49:19.616Z",
-    "total": 1761,
-    "successful": 1432,
+    "scrapedAt": "2026-06-05T13:04:10.229Z",
+    "total": 1762,
+    "successful": 1433,
     "failed": 329,
-    "withEmail": 648,
-    "withGithub": 932,
-    "withStack": 1171,
-    "withLinkedin": 833,
-    "withTwitter": 405
+    "withEmail": 649,
+    "withGithub": 933,
+    "withStack": 1172,
+    "withLinkedin": 834,
+    "withTwitter": 406
   },
   "portfolios": [
     {
@@ -35742,6 +35742,38 @@
       "experience": null,
       "title": "Shivam Patel - Software Engineer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nitin Sahu",
+      "url": "https://flawlessnitin.com",
+      "listedTitle": "Full Stack Engineer | Backend | Frontend",
+      "emails": [
+        "sahunitin970@gmail.com",
+        "flawlessnitin@gmail.com"
+      ],
+      "github": [
+        "https://github.com/flawlessnitin"
+      ],
+      "linkedin": "https://linkedin.com/in/flawlessnitin",
+      "twitter": "https://twitter.com/flawlessnitin",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": "2+ years",
+      "title": "Nitin Sahu — Full Stack Developer",
+      "location": "Noida",
       "status": "ok"
     }
   ]
