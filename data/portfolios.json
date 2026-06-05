@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-05T13:04:10.229Z",
-    "total": 1762,
-    "successful": 1433,
+    "scrapedAt": "2026-06-05T18:42:01.341Z",
+    "total": 1764,
+    "successful": 1435,
     "failed": 329,
-    "withEmail": 649,
-    "withGithub": 933,
-    "withStack": 1172,
-    "withLinkedin": 834,
-    "withTwitter": 406
+    "withEmail": 651,
+    "withGithub": 935,
+    "withStack": 1173,
+    "withLinkedin": 836,
+    "withTwitter": 407
   },
   "portfolios": [
     {
@@ -35774,6 +35774,56 @@
       "experience": "2+ years",
       "title": "Nitin Sahu — Full Stack Developer",
       "location": "Noida",
+      "status": "ok"
+    },
+    {
+      "name": "Haroon Khalid",
+      "url": "https://haronkhalid.github.io/Portfolio-Website/",
+      "listedTitle": "Software Engineer & Digital Creator",
+      "emails": [
+        "muhammadharoonkhalid786@gmail.com"
+      ],
+      "github": [
+        "https://github.com/HaronKhalid"
+      ],
+      "linkedin": "https://www.linkedin.com/in/92haroonkhalid",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Haroon Khalid | Web Developer",
+      "location": "Islamabad, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Inamullah Mahar",
+      "url": "https://inamcodes.github.io",
+      "listedTitle": "CS Student | AI Engineer",
+      "emails": [
+        "inam.exe@gmail.com"
+      ],
+      "github": [
+        "https://github.com/inamcodes",
+        "https://github.com/sohayelmahmud"
+      ],
+      "linkedin": "https://linkedin.com/in/inamullah-mahar",
+      "twitter": "https://x.com/enam_exe",
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Inamullah Mahar | Portfolio",
+      "location": "writing and versioning code to navigating the",
       "status": "ok"
     }
   ]
