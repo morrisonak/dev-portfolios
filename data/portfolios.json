@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-05T18:42:01.341Z",
+    "scrapedAt": "2026-06-06T12:30:15.522Z",
     "total": 1764,
     "successful": 1435,
     "failed": 329,
     "withEmail": 651,
-    "withGithub": 935,
+    "withGithub": 936,
     "withStack": 1173,
     "withLinkedin": 836,
-    "withTwitter": 407
+    "withTwitter": 406
   },
   "portfolios": [
     {
@@ -31401,25 +31401,6 @@
       "status": "ok"
     },
     {
-      "name": "Debbie Chen",
-      "url": "https://debbiechen.me",
-      "listedTitle": "Designer at UT Austin",
-      "emails": [
-        "yuhsindchen@gmail.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/ydebbiechen",
-      "twitter": "https://x.com/ydebbiechen",
-      "stack": [
-        "React",
-        "Spring"
-      ],
-      "experience": null,
-      "title": "Debbie Chen",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Diana Pontes",
       "url": "https://martineoficial-portfolio.vercel.app",
       "listedTitle": "Software Engineering Analyst | Full Stack Developer",
@@ -35824,6 +35805,33 @@
       "experience": null,
       "title": "Inamullah Mahar | Portfolio",
       "location": "writing and versioning code to navigating the",
+      "status": "ok"
+    },
+    {
+      "name": "Atal Sairam Kumar Patro",
+      "url": "https://itsairamkumar.github.io/portfolio/",
+      "listedTitle": "Cloud & DevOps Engineer",
+      "emails": [
+        "itsairamkumar@gmail.com"
+      ],
+      "github": [
+        "https://github.com/itsairamkumar"
+      ],
+      "linkedin": "https://www.linkedin.com/in/isairamkumar",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "A Sairam Kumar Patro | AWS DevOps Engineer &amp; Software Developer · Bhubaneswar",
+      "location": "Bhubaneswar, India",
       "status": "ok"
     }
   ]
