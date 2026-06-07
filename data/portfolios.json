@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-07T00:51:12.125Z",
-    "total": 1765,
-    "successful": 1436,
-    "failed": 329,
-    "withEmail": 652,
-    "withGithub": 937,
-    "withStack": 1174,
-    "withLinkedin": 837,
-    "withTwitter": 407
+    "scrapedAt": "2026-06-07T12:35:59.076Z",
+    "total": 1774,
+    "successful": 1443,
+    "failed": 331,
+    "withEmail": 654,
+    "withGithub": 942,
+    "withStack": 1181,
+    "withLinkedin": 842,
+    "withTwitter": 408
   },
   "portfolios": [
     {
@@ -35867,6 +35867,187 @@
       "experience": null,
       "title": "Sayandeep Majumdar",
       "location": "product architecture to delivery, I focus on practical execution, reliability, and measurable impact",
+      "status": "ok"
+    },
+    {
+      "name": "Ike Ofoegbu",
+      "url": "https://iodev.io",
+      "listedTitle": "",
+      "status": "error",
+      "error": "HTTP 999"
+    },
+    {
+      "name": "Ilham Riski Wibowo",
+      "url": "http://ilhamriski.com",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/IlhamriSKY"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ilhamriski",
+      "twitter": null,
+      "stack": [
+        "Vue",
+        "JavaScript",
+        "Python",
+        "Go",
+        "PHP",
+        "Laravel",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Home - Ilham Riski Wibowo",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ilija Korodic",
+      "url": "https://ilijakorodic.com",
+      "listedTitle": "Frontend & Webflow Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/Ilkenza"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ilija-korodic-2078b2241",
+      "twitter": "https://x.com/ilkenza",
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Ilija Korodic | Frontend Developer — React, Tailwind, Webflow",
+      "location": "interactive UIs to full web apps",
+      "status": "ok"
+    },
+    {
+      "name": "Ilke Ozsekerli",
+      "url": "https://ilkeozs.info",
+      "listedTitle": "",
+      "status": "error",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Ilyes Landolsi",
+      "url": "https://ilandols.com",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/il94"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ilyes-landolsi",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript"
+      ],
+      "experience": null,
+      "title": "Ilyes Landolsi | Développeur Full Stack",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Saurabh Talele",
+      "url": "https://saurabhtalele.com",
+      "listedTitle": "Full Stack developer",
+      "emails": [
+        "saurabhatalele@gmail.com",
+        "sunil.band@gamezop.co",
+        "vibindoodle@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SaurabhATalele"
+      ],
+      "linkedin": "https://www.linkedin.com/in/saurabh-talele1122",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Django",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": "2+ years",
+      "title": "SAURABH TALELE | Software Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Triet Thai",
+      "url": "https://katatnt.github.io/portfolio/",
+      "listedTitle": "Senior DevOps Engineer",
+      "emails": [
+        "tnt.kata1894@gmail.com"
+      ],
+      "github": [
+        "https://github.com/KataTNT"
+      ],
+      "linkedin": "https://linkedin.com/in/triettn",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "Spring",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "kata@portfolio:~ | Portfolio",
+      "location": "standalone Docker hosts to Kubernetes cluster, as a foundational step for cloud migration",
+      "status": "ok"
+    },
+    {
+      "name": "Vivek Ghodadra",
+      "url": "https://vivek-ghodadra.web.app",
+      "listedTitle": "React Native, ReactJs, NodeJs Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Node.js",
+        "React Native"
+      ],
+      "experience": "5+ years",
+      "title": "Vivek Ghodadra - Senior React Native Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vivek Ghodadra",
+      "url": "https://vivek-ghodadra.web.app",
+      "listedTitle": "React Native, ReactJs, NodeJs Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Node.js",
+        "React Native"
+      ],
+      "experience": "5+ years",
+      "title": "Vivek Ghodadra - Senior React Native Developer",
+      "location": null,
       "status": "ok"
     }
   ]
