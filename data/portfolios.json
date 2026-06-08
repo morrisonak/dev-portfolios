@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-07T12:35:59.076Z",
-    "total": 1774,
-    "successful": 1443,
-    "failed": 331,
-    "withEmail": 654,
-    "withGithub": 942,
+    "scrapedAt": "2026-06-08T00:52:19.772Z",
+    "total": 1768,
+    "successful": 1440,
+    "failed": 328,
+    "withEmail": 655,
+    "withGithub": 941,
     "withStack": 1181,
     "withLinkedin": 842,
-    "withTwitter": 408
+    "withTwitter": 409
   },
   "portfolios": [
     {
@@ -2206,31 +2206,6 @@
       "status": "ok"
     },
     {
-      "name": "Ahmad Gill",
-      "url": "https://muhammadahmad.me",
-      "listedTitle": "Full Stack Software Engr. | Web 3 / Blockchain",
-      "emails": [],
-      "github": [
-        "https://github.com/yourusername"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ahmadgill",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis"
-      ],
-      "experience": null,
-      "title": "Muhammad Ahmad | Software Engineer | Full-Stack & Web3 Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Ahmed Abdelhafiez",
       "url": "https://nevo.is-a.dev",
       "listedTitle": "Front-End Web Developer",
@@ -3725,20 +3700,6 @@
       ],
       "experience": null,
       "title": "Anil Khatri(@_imkaka)",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Animesh Bhatt",
-      "url": "https://animesh-bhatt.vercel.app",
-      "listedTitle": "Software Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "UEFI Bios Portfolio - Animesh Bhatt",
       "location": null,
       "status": "ok"
     },
@@ -12903,20 +12864,6 @@
       "status": "ok"
     },
     {
-      "name": "Hemsundar Paranthaman",
-      "url": "https://hemdev.vercel.app",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": null,
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Henry Lee",
       "url": "https://dragonwarrior.vercel.app",
       "listedTitle": "",
@@ -19779,31 +19726,6 @@
       "status": "ok"
     },
     {
-      "name": "Mohammed-Yousuf Hamid",
-      "url": "https://mohammedcodes.dev",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/mohammedyh"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Astro",
-        "JavaScript",
-        "Go",
-        "Express",
-        "Laravel",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Mohammed-Yousuf Hamid - Web Developer",
-      "location": "my passion for web and software development, I go to the gym and watch combat",
-      "status": "ok"
-    },
-    {
       "name": "Mohan Reddy",
       "url": "https://mohanreddy0909.github.io/MyPortfolio",
       "listedTitle": "Mobile Developer",
@@ -26386,13 +26308,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Santosh Shrestha",
-      "url": "https://santoshxshrestha.onrender.com",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Santosh Yadav",
       "url": "http://santoshyadav.dev",
       "listedTitle": "",
@@ -27326,13 +27241,6 @@
     {
       "name": "Tejas Jadhav",
       "url": "https://teeejaey.github.io",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Tejas Kumar",
-      "url": "http://tej.as",
       "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
@@ -31022,13 +30930,6 @@
       "title": "Aaabad Touk — AI Engineer",
       "location": "LLMs to computer vision",
       "status": "ok"
-    },
-    {
-      "name": "Jinki Jung",
-      "url": "https://jinkijung.github.io",
-      "listedTitle": "",
-      "status": "error",
-      "error": "HTTP 404"
     },
     {
       "name": "Parth Sharma",
@@ -35597,24 +35498,6 @@
       "status": "ok"
     },
     {
-      "name": "Haroon Khalid",
-      "url": "https://haronkhalid.github.io/Portfolio-Website/",
-      "listedTitle": "Software Engineer & Digital Creator",
-      "emails": [
-        "muhammadharoonkhalid786@gmail.com"
-      ],
-      "github": [
-        "https://github.com/HaronKhalid"
-      ],
-      "linkedin": "https://www.linkedin.com/in/92haroonkhalid",
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Haroon Khalid | Web Developer",
-      "location": "Islamabad, Pakistan",
-      "status": "ok"
-    },
-    {
       "name": "Inamullah Mahar",
       "url": "https://inamcodes.github.io",
       "listedTitle": "CS Student | AI Engineer",
@@ -36048,6 +35931,53 @@
       "experience": "5+ years",
       "title": "Vivek Ghodadra - Senior React Native Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aryan Gupta",
+      "url": "https://aryancodes.tech",
+      "listedTitle": "Backend Developer | Golang | PostgreSQL",
+      "emails": [
+        "aryancodes.tech@gmail.com"
+      ],
+      "github": [
+        "https://github.com/aryancodes-tech"
+      ],
+      "linkedin": "https://linkedin.com/in/aryancodes-tech",
+      "twitter": "https://x.com/aryancodes_tech",
+      "stack": [
+        "React",
+        "Python",
+        "Go",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Aryan Gupta | Backend Developer & Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Haroon Khalid",
+      "url": "https://haronkhalid.github.io/portfolio",
+      "listedTitle": "Software Engineer & Digital Creator",
+      "emails": [
+        "muhammadharoonkhalid786@gmail.com"
+      ],
+      "github": [
+        "https://github.com/HaronKhalid"
+      ],
+      "linkedin": "https://www.linkedin.com/in/92haroonkhalid",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Portfolio — Haroon Khalid",
+      "location": "Islamabad, Pakistan",
       "status": "ok"
     }
   ]
