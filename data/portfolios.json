@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-08T00:52:19.772Z",
-    "total": 1768,
-    "successful": 1440,
+    "scrapedAt": "2026-06-09T00:45:39.177Z",
+    "total": 1771,
+    "successful": 1443,
     "failed": 328,
-    "withEmail": 655,
-    "withGithub": 941,
-    "withStack": 1181,
-    "withLinkedin": 842,
-    "withTwitter": 409
+    "withEmail": 658,
+    "withGithub": 943,
+    "withStack": 1184,
+    "withLinkedin": 844,
+    "withTwitter": 410
   },
   "portfolios": [
     {
@@ -35978,6 +35978,97 @@
       "experience": null,
       "title": "Portfolio — Haroon Khalid",
       "location": "Islamabad, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "John Mutua Musee",
+      "url": "https://spongebobportfolio.framer.website/",
+      "listedTitle": "System Admin",
+      "emails": [
+        "mejed@templyo.io",
+        "popichulojohn@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": "https://x.com/Popichulo3560",
+      "stack": [
+        "React",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "John",
+      "location": "the layout to the smallest interactions",
+      "status": "ok"
+    },
+    {
+      "name": "Prakhar Mittal",
+      "url": "https://stackbyprakhar.vercel.app/",
+      "listedTitle": "Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer",
+      "emails": [
+        "mittalprakhar504@gmail.com"
+      ],
+      "github": [
+        "https://github.com/prakhau143",
+        "https://github.com/kwikster285"
+      ],
+      "linkedin": "https://www.linkedin.com/in/its-prakhar-mittal",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Express",
+        "Django",
+        "Flask",
+        "Spring",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Prakhar Mittal | AI Developer & Full Stack Engineer",
+      "location": "Bhopal, India",
+      "status": "ok"
+    },
+    {
+      "name": "Samuel Alewi",
+      "url": "https://krash-cod3.github.io",
+      "listedTitle": "Backend Engineer and Web Automation Expert",
+      "emails": [
+        "samuelalewi@gmail.com"
+      ],
+      "github": [
+        "https://github.com/KrAsH-CoD3",
+        "https://github.com/Lax3n",
+        "https://github.com/gabrielrih"
+      ],
+      "linkedin": "https://www.linkedin.com/in/samuel-alewi",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Django",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Samuel Alewi | Backend Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
