@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-09T00:45:39.177Z",
-    "total": 1771,
-    "successful": 1443,
+    "scrapedAt": "2026-06-09T13:03:00.140Z",
+    "total": 1773,
+    "successful": 1445,
     "failed": 328,
-    "withEmail": 658,
-    "withGithub": 943,
-    "withStack": 1184,
-    "withLinkedin": 844,
-    "withTwitter": 410
+    "withEmail": 660,
+    "withGithub": 945,
+    "withStack": 1186,
+    "withLinkedin": 846,
+    "withTwitter": 411
   },
   "portfolios": [
     {
@@ -36068,6 +36068,50 @@
       ],
       "experience": null,
       "title": "Samuel Alewi | Backend Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Othmaro Fallas",
+      "url": "https://othmaro.dev",
+      "listedTitle": "Software Architect | Founder of Filaxy Labs, Inc.",
+      "emails": [
+        "othmaro@othmaro.dev",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/othmarodev"
+      ],
+      "linkedin": "https://linkedin.com/in/othmarofallas",
+      "twitter": "https://x.com/Othmaro_dev",
+      "stack": [
+        "React",
+        "Astro",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Othmaro Fallas Rojas — Software Architect from Costa Rica",
+      "location": "Costa Rica",
+      "status": "ok"
+    },
+    {
+      "name": "Walter Veriza",
+      "url": "https://walter-veriza.vercel.app",
+      "listedTitle": "Senior Product Owner | Product Manager & PMO",
+      "emails": [
+        "walterveriza@gmail.com"
+      ],
+      "github": [
+        "https://github.com/WalterVeriza"
+      ],
+      "linkedin": "https://www.linkedin.com/in/verizawalter",
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Walter Veriza — Senior Product Owner · Product Manager · PMO | Madagascar & Remote",
       "location": null,
       "status": "ok"
     }
