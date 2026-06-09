@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-09T13:03:00.140Z",
+    "scrapedAt": "2026-06-09T18:46:09.186Z",
     "total": 1773,
     "successful": 1445,
     "failed": 328,
@@ -32620,30 +32620,6 @@
       "status": "ok"
     },
     {
-      "name": "MD Khalid Mahmud",
-      "url": "https://skhalidmahmud.github.io/Portfolio/",
-      "listedTitle": "Full Stack Developer | AI & LLM Enthusiast",
-      "emails": [
-        "khalidfromdhaka@gmail.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/skhalidmahmud",
-      "twitter": "https://x.com/khalidfromdhaka",
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Kotlin",
-        "Django",
-        "PostgreSQL",
-        "MySQL",
-        "Firebase"
-      ],
-      "experience": null,
-      "title": "MD Khalid Mahmud | Portfolio",
-      "location": "planning to deployment",
-      "status": "ok"
-    },
-    {
       "name": "Prem S Gangadharan",
       "url": "https://premsg.info",
       "listedTitle": "",
@@ -36113,6 +36089,30 @@
       "experience": null,
       "title": "Walter Veriza — Senior Product Owner · Product Manager · PMO | Madagascar & Remote",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Khalid Mahmud",
+      "url": "https://mdkhalidmahmud.com/",
+      "listedTitle": "Full Stack Developer | AI & LLM Enthusiast",
+      "emails": [
+        "khalidfromdhaka@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/skhalidmahmud",
+      "twitter": "https://x.com/khalidfromdhaka",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Kotlin",
+        "Django",
+        "PostgreSQL",
+        "MySQL",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "MD Khalid Mahmud | Portfolio",
+      "location": "planning to deployment",
       "status": "ok"
     }
   ]
