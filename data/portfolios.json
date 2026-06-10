@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-09T18:46:09.186Z",
-    "total": 1773,
-    "successful": 1445,
+    "scrapedAt": "2026-06-10T00:51:51.471Z",
+    "total": 1774,
+    "successful": 1446,
     "failed": 328,
-    "withEmail": 660,
-    "withGithub": 945,
-    "withStack": 1186,
-    "withLinkedin": 846,
+    "withEmail": 661,
+    "withGithub": 946,
+    "withStack": 1187,
+    "withLinkedin": 847,
     "withTwitter": 411
   },
   "portfolios": [
@@ -36113,6 +36113,27 @@
       "experience": null,
       "title": "MD Khalid Mahmud | Portfolio",
       "location": "planning to deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Vanshaj Rawat",
+      "url": "https://portfolio-vanshaj-rawat.onrender.com/",
+      "listedTitle": "",
+      "emails": [
+        "vanshajxrawat@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Vanshajrawat"
+      ],
+      "linkedin": "https://www.linkedin.com/in/vanshaj-rawat-7a5149205",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Vanshaj Rawat — AI/ML Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
