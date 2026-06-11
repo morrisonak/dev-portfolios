@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-11T13:21:32.994Z",
-    "total": 1775,
-    "successful": 1447,
+    "scrapedAt": "2026-06-11T19:01:50.734Z",
+    "total": 1778,
+    "successful": 1450,
     "failed": 328,
-    "withEmail": 662,
-    "withGithub": 947,
-    "withStack": 1188,
-    "withLinkedin": 848,
+    "withEmail": 664,
+    "withGithub": 949,
+    "withStack": 1190,
+    "withLinkedin": 850,
     "withTwitter": 411
   },
   "portfolios": [
@@ -35957,66 +35957,6 @@
       "status": "ok"
     },
     {
-      "name": "John Mutua Musee",
-      "url": "https://spongebobportfolio.framer.website/",
-      "listedTitle": "System Admin",
-      "emails": [
-        "mejed@templyo.io",
-        "popichulojohn@gmail.com"
-      ],
-      "github": [],
-      "linkedin": null,
-      "twitter": "https://x.com/Popichulo3560",
-      "stack": [
-        "React",
-        "Spring"
-      ],
-      "experience": null,
-      "title": "John",
-      "location": "the layout to the smallest interactions",
-      "status": "ok"
-    },
-    {
-      "name": "Prakhar Mittal",
-      "url": "https://stackbyprakhar.vercel.app/",
-      "listedTitle": "Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer",
-      "emails": [
-        "mittalprakhar504@gmail.com"
-      ],
-      "github": [
-        "https://github.com/prakhau143",
-        "https://github.com/kwikster285"
-      ],
-      "linkedin": "https://www.linkedin.com/in/its-prakhar-mittal",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Angular",
-        "Next.js",
-        "Astro",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Java",
-        "Node.js",
-        "Express",
-        "Django",
-        "Flask",
-        "Spring",
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "MongoDB"
-      ],
-      "experience": null,
-      "title": "Prakhar Mittal | AI Developer & Full Stack Engineer",
-      "location": "Bhopal, India",
-      "status": "ok"
-    },
-    {
       "name": "Samuel Alewi",
       "url": "https://krash-cod3.github.io",
       "listedTitle": "Backend Engineer and Web Automation Expert",
@@ -36092,8 +36032,94 @@
       "status": "ok"
     },
     {
+      "name": "Bassam Alaraby",
+      "url": "https://bassamalaraby.me",
+      "listedTitle": "CS Student | Web Dev",
+      "emails": [
+        "elrabyb@gmail.com"
+      ],
+      "github": [
+        "https://github.com/bassam-alaraby"
+      ],
+      "linkedin": "https://www.linkedin.com/in/bsam-alaraby",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Flask",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Bassam Al-Araby — CS Student & Developer",
+      "location": "bassamalaraby",
+      "status": "ok"
+    },
+    {
+      "name": "Aman Bam",
+      "url": "https://my-portfolio-d7jf.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Aman | MERN · AI Automation · SaaS",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anirban Banerjee",
+      "url": "https://anirban-portfolio-delta.vercel.app",
+      "listedTitle": "Data Architect | Data & AI Engineer",
+      "emails": [
+        "helloanirban@gmail.com"
+      ],
+      "github": [
+        "https://github.com/meanirban100"
+      ],
+      "linkedin": "https://linkedin.com/in/abanerjee1985",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Django",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "MongoDB",
+        "MySQL"
+      ],
+      "experience": "15+ years",
+      "title": "Anirban Banerjee — Technical Architect &amp; Data Engineer",
+      "location": "Boomi to Databricks with a reusable migration framework, cutting transition timelines significantly",
+      "status": "ok"
+    },
+    {
+      "name": "John Mutua Musee",
+      "url": "https://spongebobportfolio.framer.website",
+      "listedTitle": "System Admin",
+      "emails": [
+        "mejed@templyo.io",
+        "popichulojohn@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": "https://x.com/Popichulo3560",
+      "stack": [
+        "React",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "John",
+      "location": "the layout to the smallest interactions",
+      "status": "ok"
+    },
+    {
       "name": "Khalid Mahmud",
-      "url": "https://mdkhalidmahmud.com/",
+      "url": "https://mdkhalidmahmud.com",
       "listedTitle": "Full Stack Developer | AI & LLM Enthusiast",
       "emails": [
         "khalidfromdhaka@gmail.com"
@@ -36116,8 +36142,78 @@
       "status": "ok"
     },
     {
+      "name": "Prakhar Mittal",
+      "url": "https://stackbyprakhar.vercel.app",
+      "listedTitle": "Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer",
+      "emails": [
+        "mittalprakhar504@gmail.com"
+      ],
+      "github": [
+        "https://github.com/prakhau143",
+        "https://github.com/kwikster285"
+      ],
+      "linkedin": "https://www.linkedin.com/in/its-prakhar-mittal",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Express",
+        "Django",
+        "Flask",
+        "Spring",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Prakhar Mittal | AI Developer & Full Stack Engineer",
+      "location": "Bhopal, India",
+      "status": "ok"
+    },
+    {
+      "name": "Tariqul Islam",
+      "url": "https://tariqulislamrc.vercel.app",
+      "listedTitle": "Technical Project Manager and Tech Lead | Agile/Scrum delivery | SaaS, ERP and multi-tenant platforms | Cross-functional team leadership | Laravel, Node.js, React | Open to remote",
+      "emails": [
+        "tariqulislamrc@gmail.com"
+      ],
+      "github": [
+        "https://github.com/tariqulislamrc"
+      ],
+      "linkedin": "https://www.linkedin.com/in/tariqulislamrc",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Laravel",
+        "AWS",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Md. Tariqul Islam — Technical Project Manager &amp; Tech Lead",
+      "location": "Bangladesh",
+      "status": "ok"
+    },
+    {
       "name": "Vanshaj Rawat",
-      "url": "https://portfolio-vanshaj-rawat.onrender.com/",
+      "url": "https://portfolio-vanshaj-rawat.onrender.com",
       "listedTitle": "",
       "emails": [
         "vanshajxrawat@gmail.com"
@@ -36134,30 +36230,6 @@
       "experience": null,
       "title": "Vanshaj Rawat — AI/ML Engineer",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Bassam Alaraby",
-      "url": "https://bassamalaraby.me",
-      "listedTitle": "CS Student | Web Dev",
-      "emails": [
-        "elrabyb@gmail.com"
-      ],
-      "github": [
-        "https://github.com/bassam-alaraby"
-      ],
-      "linkedin": "https://www.linkedin.com/in/bsam-alaraby",
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Java",
-        "Flask",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Bassam Al-Araby — CS Student & Developer",
-      "location": "bassamalaraby",
       "status": "ok"
     }
   ]
