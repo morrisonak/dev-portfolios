@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-11T19:01:50.734Z",
+    "scrapedAt": "2026-06-12T13:12:09.681Z",
     "total": 1778,
     "successful": 1450,
     "failed": 328,
-    "withEmail": 664,
+    "withEmail": 663,
     "withGithub": 949,
     "withStack": 1190,
     "withLinkedin": 850,
-    "withTwitter": 411
+    "withTwitter": 410
   },
   "portfolios": [
     {
@@ -14302,36 +14302,6 @@
       "experience": null,
       "title": "Jayant Parashar | aka jparasha | Front-End Developer",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Jayanth Donavalli",
-      "url": "https://jayanth.site",
-      "listedTitle": "Full Stack Developer | Designer | Photographer",
-      "emails": [
-        "jayanthdonavalli0124@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Jayanth0124",
-        "https://github.com/jayanth0124"
-      ],
-      "linkedin": "https://www.linkedin.com/in/jayanth-donavalli",
-      "twitter": "https://twitter.com/jayanth0124",
-      "stack": [
-        "React",
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "PHP",
-        "Node.js",
-        "MySQL",
-        "Firebase",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Jayanth Portfolio | Creative Developer & Designer",
-      "location": "creating RESTful APIs with Node",
       "status": "ok"
     },
     {
@@ -36229,6 +36199,24 @@
       ],
       "experience": null,
       "title": "Vanshaj Rawat — AI/ML Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jayanth Donavalli",
+      "url": "https://djayanth.site/",
+      "listedTitle": "Full Stack Developer | Designer | Photographer",
+      "emails": [],
+      "github": [
+        "https://github.com/Jayanth0124"
+      ],
+      "linkedin": "https://www.linkedin.com/in/jayanth-donavalli",
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Donavalli Jayanth | Official Portfolio | Web Developer &amp; Designer",
       "location": null,
       "status": "ok"
     }
