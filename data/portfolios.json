@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-13T12:39:18.305Z",
-    "total": 1780,
-    "successful": 1452,
+    "scrapedAt": "2026-06-13T18:31:33.018Z",
+    "total": 1781,
+    "successful": 1453,
     "failed": 328,
-    "withEmail": 664,
-    "withGithub": 950,
-    "withStack": 1191,
+    "withEmail": 665,
+    "withGithub": 951,
+    "withStack": 1192,
     "withLinkedin": 851,
-    "withTwitter": 410
+    "withTwitter": 411
   },
   "portfolios": [
     {
@@ -36257,6 +36257,34 @@
       "experience": null,
       "title": "Luke Liukonen - dev",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ivin Titus",
+      "url": "https://ivin.site/",
+      "listedTitle": "Full Stack Engineer",
+      "emails": [
+        "ivintitus@hotmail.com"
+      ],
+      "github": [
+        "https://github.com/ivin-titus"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/ivin_titus_",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Ivin Titus - Full Stack Engineer",
+      "location": "Kerala, India",
       "status": "ok"
     }
   ]
