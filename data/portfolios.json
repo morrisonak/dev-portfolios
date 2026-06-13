@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-12T13:12:09.681Z",
-    "total": 1778,
-    "successful": 1450,
+    "scrapedAt": "2026-06-13T00:53:21.821Z",
+    "total": 1779,
+    "successful": 1451,
     "failed": 328,
-    "withEmail": 663,
-    "withGithub": 949,
-    "withStack": 1190,
-    "withLinkedin": 850,
+    "withEmail": 664,
+    "withGithub": 950,
+    "withStack": 1191,
+    "withLinkedin": 851,
     "withTwitter": 410
   },
   "portfolios": [
@@ -36217,6 +36217,31 @@
       ],
       "experience": null,
       "title": "Donavalli Jayanth | Official Portfolio | Web Developer &amp; Designer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mihir Chauhan",
+      "url": "https://chauhan-mihir.vercel.app",
+      "listedTitle": "ML / AI Engineer | Data Science",
+      "emails": [
+        "mihirchauhan951@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/Mihirchauhan0709"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mihirchauhan10",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "AWS",
+        "Kubernetes",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Mihir Chauhan — ML / AI Engineer",
       "location": null,
       "status": "ok"
     }
