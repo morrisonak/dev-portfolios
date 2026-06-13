@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-13T00:53:21.821Z",
-    "total": 1779,
-    "successful": 1451,
+    "scrapedAt": "2026-06-13T12:39:18.305Z",
+    "total": 1780,
+    "successful": 1452,
     "failed": 328,
     "withEmail": 664,
     "withGithub": 950,
@@ -36242,6 +36242,20 @@
       ],
       "experience": null,
       "title": "Mihir Chauhan — ML / AI Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Luke Liukonen",
+      "url": "https://liukonen.dev",
+      "listedTitle": "Senior Software Engineer | Technical Lead, AI Strategy, Infrastructure",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Luke Liukonen - dev",
       "location": null,
       "status": "ok"
     }
