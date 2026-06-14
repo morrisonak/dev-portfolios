@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-14T00:52:52.457Z",
+    "scrapedAt": "2026-06-14T18:32:23.509Z",
     "total": 1781,
     "successful": 1453,
     "failed": 328,
@@ -35503,36 +35503,6 @@
       "status": "ok"
     },
     {
-      "name": "Abdullah Al Monir",
-      "url": "https://abdullah-al-monir.web.app",
-      "listedTitle": "Full Stack Developer",
-      "emails": [
-        "abdullahalmonir364@gmail.com"
-      ],
-      "github": [
-        "https://github.com/abdullah-al-monir"
-      ],
-      "linkedin": "https://www.linkedin.com/in/aam364",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Go",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB"
-      ],
-      "experience": "2+ years",
-      "title": "Abdullah Al Monir | Full Stack Developer — Chittagong, Bangladesh",
-      "location": "Chittagong, Bangladesh specializing in Next",
-      "status": "ok"
-    },
-    {
       "name": "Daniyal Javadia",
       "url": "https://daniyal-works-portfolio.vercel.app",
       "listedTitle": "Full Stack Developer | Software Engineer",
@@ -36285,6 +36255,36 @@
       "experience": null,
       "title": "Donavalli Jayanth | Official Portfolio | Web Developer &amp; Designer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abdullah Al Monir",
+      "url": "https://abdullahalmonir.com",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "abdullahalmonir364@gmail.com"
+      ],
+      "github": [
+        "https://github.com/abdullah-al-monir"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aam364",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": "2+ years",
+      "title": "Abdullah Al Monir | Full Stack Developer — Chittagong, Bangladesh",
+      "location": "Chittagong, Bangladesh specializing in Next",
       "status": "ok"
     }
   ]
