@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-13T18:31:33.018Z",
+    "scrapedAt": "2026-06-14T00:52:52.457Z",
     "total": 1781,
     "successful": 1453,
     "failed": 328,
@@ -36203,24 +36203,6 @@
       "status": "ok"
     },
     {
-      "name": "Jayanth Donavalli",
-      "url": "https://djayanth.site/",
-      "listedTitle": "Full Stack Developer | Designer | Photographer",
-      "emails": [],
-      "github": [
-        "https://github.com/Jayanth0124"
-      ],
-      "linkedin": "https://www.linkedin.com/in/jayanth-donavalli",
-      "twitter": null,
-      "stack": [
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Donavalli Jayanth | Official Portfolio | Web Developer &amp; Designer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Mihir Chauhan",
       "url": "https://chauhan-mihir.vercel.app",
       "listedTitle": "ML / AI Engineer | Data Science",
@@ -36285,6 +36267,24 @@
       "experience": null,
       "title": "Ivin Titus - Full Stack Engineer",
       "location": "Kerala, India",
+      "status": "ok"
+    },
+    {
+      "name": "Jayanth Donavalli",
+      "url": "https://djayanth.site",
+      "listedTitle": "Full Stack Developer | Designer | Photographer",
+      "emails": [],
+      "github": [
+        "https://github.com/Jayanth0124"
+      ],
+      "linkedin": "https://www.linkedin.com/in/jayanth-donavalli",
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Donavalli Jayanth | Official Portfolio | Web Developer &amp; Designer",
+      "location": null,
       "status": "ok"
     }
   ]
