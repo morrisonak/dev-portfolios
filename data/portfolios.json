@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-14T18:32:23.509Z",
-    "total": 1781,
-    "successful": 1453,
+    "scrapedAt": "2026-06-16T00:59:45.400Z",
+    "total": 1784,
+    "successful": 1456,
     "failed": 328,
-    "withEmail": 665,
-    "withGithub": 951,
-    "withStack": 1192,
-    "withLinkedin": 851,
+    "withEmail": 668,
+    "withGithub": 954,
+    "withStack": 1195,
+    "withLinkedin": 853,
     "withTwitter": 411
   },
   "portfolios": [
@@ -36285,6 +36285,87 @@
       "experience": "2+ years",
       "title": "Abdullah Al Monir | Full Stack Developer — Chittagong, Bangladesh",
       "location": "Chittagong, Bangladesh specializing in Next",
+      "status": "ok"
+    },
+    {
+      "name": "Ashar DevX",
+      "url": "https://ashardevx.com",
+      "listedTitle": "Frontend & CMS Developer | WordPress, Shopify & React, Php, Html, CSS",
+      "emails": [
+        "info@ashardevx.com"
+      ],
+      "github": [
+        "https://github.com/ashar-kamran"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ashar-kamran",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Laravel",
+        "Tailwind",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Ashar Kamran | Experienced Full Stack Developer",
+      "location": "front end design to back end functionality, Ashar delivers scalable, high performance websites and w",
+      "status": "ok"
+    },
+    {
+      "name": "Ashar DevX",
+      "url": "https://ashardevx.com",
+      "listedTitle": "Frontend & CMS Developer | WordPress, Shopify & React, Php, Html, CSS",
+      "emails": [
+        "info@ashardevx.com"
+      ],
+      "github": [
+        "https://github.com/ashar-kamran"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ashar-kamran",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Laravel",
+        "Tailwind",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Ashar Kamran | Experienced Full Stack Developer",
+      "location": "front end design to back end functionality, Ashar delivers scalable, high performance websites and w",
+      "status": "ok"
+    },
+    {
+      "name": "Leonardo Glorioso",
+      "url": "https://crllect.dev",
+      "listedTitle": "Full Stack Developer | React, TS, Astro, Node, UI/UX",
+      "emails": [
+        "crllect@proton.me"
+      ],
+      "github": [
+        "https://github.com/crllect",
+        "https://github.com/Night-N3twork"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "crllect.dev",
+      "location": "a",
       "status": "ok"
     }
   ]
