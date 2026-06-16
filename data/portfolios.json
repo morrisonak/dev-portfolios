@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-16T13:49:58.837Z",
+    "scrapedAt": "2026-06-16T19:15:52.853Z",
     "total": 1774,
-    "successful": 1447,
-    "failed": 327,
-    "withEmail": 666,
-    "withGithub": 952,
-    "withStack": 1187,
-    "withLinkedin": 850,
+    "successful": 1448,
+    "failed": 326,
+    "withEmail": 667,
+    "withGithub": 953,
+    "withStack": 1188,
+    "withLinkedin": 851,
     "withTwitter": 410
   },
   "portfolios": [
@@ -27832,13 +27832,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Yaksh Devani",
-      "url": "https://yakshdevani.framer.website",
-      "listedTitle": "Full Stack Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Yared Tekileselassie",
       "url": "https://yared.vercel.app",
       "listedTitle": "",
@@ -36188,6 +36181,38 @@
       "experience": null,
       "title": "Ivin Titus - Full Stack Engineer",
       "location": "Kerala, India",
+      "status": "ok"
+    },
+    {
+      "name": "Yaksh Bambhroliya",
+      "url": "https://yakshcore.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "yaksh.core@gmail.com"
+      ],
+      "github": [
+        "https://github.com/yakshcore"
+      ],
+      "linkedin": "https://linkedin.com/in/yaksh-bambhroliya",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Rails",
+        "AWS",
+        "GCP",
+        "Docker",
+        "MongoDB",
+        "Redis",
+        "Firebase"
+      ],
+      "experience": "2+ years",
+      "title": "Yaksh Bambhroliya — Systems Architect",
+      "location": "system design to production deployment",
       "status": "ok"
     }
   ]
