@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-16T00:59:45.400Z",
-    "total": 1784,
-    "successful": 1456,
-    "failed": 328,
-    "withEmail": 668,
-    "withGithub": 954,
-    "withStack": 1195,
-    "withLinkedin": 853,
-    "withTwitter": 411
+    "scrapedAt": "2026-06-16T13:49:58.837Z",
+    "total": 1774,
+    "successful": 1447,
+    "failed": 327,
+    "withEmail": 666,
+    "withGithub": 952,
+    "withStack": 1187,
+    "withLinkedin": 850,
+    "withTwitter": 410
   },
   "portfolios": [
     {
@@ -3063,20 +3063,6 @@
       "status": "ok"
     },
     {
-      "name": "Ameed Darawsha",
-      "url": "https://ameed.me",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Ameed Darawsha - Computer Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Ameer Muavia Shah",
       "url": "https://maveeshah.github.io/projects.html",
       "listedTitle": "Frappe | Erpnext | Python",
@@ -4441,22 +4427,6 @@
       "experience": null,
       "title": "Armel Munyaneza-Software Enginner",
       "location": "your current location, and make your dining decisions with confidence",
-      "status": "ok"
-    },
-    {
-      "name": "Arsh Sahzad",
-      "url": "https://www.arsh.dev",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "PHP"
-      ],
-      "experience": null,
-      "title": "Arsh Sahzad - DashPanel",
-      "location": "New Delhi, India",
       "status": "ok"
     },
     {
@@ -7407,24 +7377,6 @@
       ],
       "experience": null,
       "title": "Charles Pustejovsky | Go Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Che Overmeyer",
-      "url": "https://cheovermeyer.com",
-      "listedTitle": "Frontend Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Django"
-      ],
-      "experience": null,
-      "title": "Che Overmeyer | Software Developer",
       "location": null,
       "status": "ok"
     },
@@ -11386,32 +11338,6 @@
       "experience": null,
       "title": "Cloud06 - Frederic Henri - Freelance Fullstack Web Developer portofolio",
       "location": "software developer to project manager or Software Architect",
-      "status": "ok"
-    },
-    {
-      "name": "Furkan Cengiz",
-      "url": "https://furki.vercel.app",
-      "listedTitle": "",
-      "emails": [
-        "muhammedcengiz1@gmail.com"
-      ],
-      "github": [
-        "https://github.com/4Furki4",
-        "https://github.com/4furki4"
-      ],
-      "linkedin": "https://www.linkedin.com/in/4furkancengiz4",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Furkan Cengiz",
-      "location": null,
       "status": "ok"
     },
     {
@@ -18865,43 +18791,6 @@
       "status": "ok"
     },
     {
-      "name": "Mees Verberne",
-      "url": "https://meesverberne.com",
-      "listedTitle": "Creative Frontend Developer & Designer",
-      "emails": [
-        "info@meesverberne.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/meesverberne",
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        "PHP",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Mees Verberne - Creative Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Meet Vipul Gandhi",
-      "url": "https://portfolio-nu-lovat-90.vercel.app/project",
-      "listedTitle": "Software Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Meet | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Mehdi Ali",
       "url": "https://exoo25.github.io",
       "listedTitle": "",
@@ -22470,49 +22359,6 @@
       "experience": null,
       "title": "Senior Frontend Developer | Patrick Obermeier",
       "location": "Vienna, Austria",
-      "status": "ok"
-    },
-    {
-      "name": "Patrick Reid",
-      "url": "http://iamreliq.com",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/reliq"
-      ],
-      "linkedin": "https://www.linkedin.com/in/patrickreid7",
-      "twitter": "https://www.twitter.com/IAmReliq",
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Java",
-        "PHP",
-        "Laravel",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Patrick Reid; Web Designer &amp; Developer - IAmReliq",
-      "location": "their services",
-      "status": "ok"
-    },
-    {
-      "name": "Paul Agbogun",
-      "url": "https://ifeoluwa-portfolio-five.vercel.app",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Ifeoluwa Agbogun | Software Developer Portfolio",
-      "location": null,
       "status": "ok"
     },
     {
@@ -32557,23 +32403,6 @@
       "status": "ok"
     },
     {
-      "name": "Gii-DE",
-      "url": "https://gii-de.onrender.com",
-      "listedTitle": "Creative Engineer | AI, Web, Security & Custom Design",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "Go",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Gii-DE · Personal Website",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Varun Ragunathan",
       "url": "https://varunr.dev",
       "listedTitle": "Full Stack Developer | AI Adoption, Velocity & 0-1",
@@ -35669,13 +35498,6 @@
       "status": "ok"
     },
     {
-      "name": "Ike Ofoegbu",
-      "url": "https://iodev.io",
-      "listedTitle": "",
-      "status": "error",
-      "error": "HTTP 999"
-    },
-    {
       "name": "Ilham Riski Wibowo",
       "url": "http://ilhamriski.com",
       "listedTitle": "Full Stack Developer",
@@ -36212,34 +36034,6 @@
       "status": "ok"
     },
     {
-      "name": "Ivin Titus",
-      "url": "https://ivin.site/",
-      "listedTitle": "Full Stack Engineer",
-      "emails": [
-        "ivintitus@hotmail.com"
-      ],
-      "github": [
-        "https://github.com/ivin-titus"
-      ],
-      "linkedin": null,
-      "twitter": "https://x.com/ivin_titus_",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Go",
-        "Node.js",
-        "Docker",
-        "PostgreSQL",
-        "Redis"
-      ],
-      "experience": null,
-      "title": "Ivin Titus - Full Stack Engineer",
-      "location": "Kerala, India",
-      "status": "ok"
-    },
-    {
       "name": "Jayanth Donavalli",
       "url": "https://djayanth.site",
       "listedTitle": "Full Stack Developer | Designer | Photographer",
@@ -36366,6 +36160,34 @@
       "experience": null,
       "title": "crllect.dev",
       "location": "a",
+      "status": "ok"
+    },
+    {
+      "name": "Ivin Titus",
+      "url": "https://ivin.site",
+      "listedTitle": "Full Stack Engineer",
+      "emails": [
+        "ivintitus@hotmail.com"
+      ],
+      "github": [
+        "https://github.com/ivin-titus"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/ivin_titus_",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Ivin Titus - Full Stack Engineer",
+      "location": "Kerala, India",
       "status": "ok"
     }
   ]
