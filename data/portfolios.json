@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-17T13:18:20.577Z",
-    "total": 1779,
-    "successful": 1453,
+    "scrapedAt": "2026-06-17T18:51:54.029Z",
+    "total": 1781,
+    "successful": 1455,
     "failed": 326,
-    "withEmail": 669,
-    "withGithub": 956,
-    "withStack": 1192,
-    "withLinkedin": 854,
+    "withEmail": 671,
+    "withGithub": 958,
+    "withStack": 1194,
+    "withLinkedin": 856,
     "withTwitter": 410
   },
   "portfolios": [
@@ -36323,6 +36323,70 @@
       "experience": null,
       "title": "Simon Aytes | AI Engineering",
       "location": "rough ideas to working AI systems, then do the engineering needed to make them reliable",
+      "status": "ok"
+    },
+    {
+      "name": "Mahin Hasan",
+      "url": "https://mahin527.vercel.app/",
+      "listedTitle": "Shopify Expert | Full Stack Web Developer",
+      "emails": [
+        "hello@mahin.dev"
+      ],
+      "github": [
+        "https://github.com/mahin527",
+        "https://github.com/mostafizur99"
+      ],
+      "linkedin": "https://linkedin.com/in/mdmahinhassan",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "GraphQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Home | Md Mahin Hasan",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Yatharth Dixit",
+      "url": "https://yath.dev",
+      "listedTitle": "Backend/Full Stack Engineer | AI Products",
+      "emails": [
+        "career@yath.dev",
+        "tech@yath.dev",
+        "hello@yath.dev"
+      ],
+      "github": [
+        "https://github.com/YatharthDixit"
+      ],
+      "linkedin": "https://linkedin.com/in/YatharthDixit",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Flutter"
+      ],
+      "experience": "2+ years",
+      "title": "Yatharth Dixit — Full-Stack Engineer &amp; AI Product Builder",
+      "location": "the approved workspace context",
       "status": "ok"
     }
   ]
