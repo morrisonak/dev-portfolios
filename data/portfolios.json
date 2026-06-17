@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-17T00:54:09.119Z",
-    "total": 1776,
-    "successful": 1450,
+    "scrapedAt": "2026-06-17T13:18:20.577Z",
+    "total": 1779,
+    "successful": 1453,
     "failed": 326,
-    "withEmail": 667,
-    "withGithub": 953,
-    "withStack": 1190,
-    "withLinkedin": 851,
+    "withEmail": 669,
+    "withGithub": 956,
+    "withStack": 1192,
+    "withLinkedin": 854,
     "withTwitter": 410
   },
   "portfolios": [
@@ -36247,6 +36247,82 @@
       "experience": null,
       "title": "Muhammad Taha Nawab — Full-Stack Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Muhammed Ijlan",
+      "url": "https://ijlan.dev",
+      "listedTitle": "",
+      "emails": [
+        "ijlan.dev@gmail.com",
+        "you@email.com"
+      ],
+      "github": [
+        "https://github.com/muhammed-ijlan"
+      ],
+      "linkedin": "https://linkedin.com/in/ijlan",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Muhammed Ijlan — Senior Web Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Philippe Fanaro",
+      "url": "https://aquarifolio.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/psygo"
+      ],
+      "linkedin": "https://www.linkedin.com/in/philippe-fanaro",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Philippe Fanaro&#x27;s Three.js Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Simon Aytes",
+      "url": "https://saytes.io",
+      "listedTitle": "Senior Data Scientist | AI/ML, Software Engineering",
+      "emails": [
+        "simon@aytes.net"
+      ],
+      "github": [
+        "https://github.com/SimonAytes"
+      ],
+      "linkedin": "https://www.linkedin.com/in/simonaytes",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Simon Aytes | AI Engineering",
+      "location": "rough ideas to working AI systems, then do the engineering needed to make them reliable",
       "status": "ok"
     }
   ]
