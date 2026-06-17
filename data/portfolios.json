@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-16T19:15:52.853Z",
-    "total": 1774,
-    "successful": 1448,
+    "scrapedAt": "2026-06-17T00:54:09.119Z",
+    "total": 1776,
+    "successful": 1450,
     "failed": 326,
     "withEmail": 667,
     "withGithub": 953,
-    "withStack": 1188,
+    "withStack": 1190,
     "withLinkedin": 851,
     "withTwitter": 410
   },
@@ -36213,6 +36213,40 @@
       "experience": "2+ years",
       "title": "Yaksh Bambhroliya — Systems Architect",
       "location": "system design to production deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Taha Nawab",
+      "url": "https://taha-nawab-portfolio.vercel.app",
+      "listedTitle": "Full-Stack Developer · AI/ML Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Muhammad Taha Nawab — Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Taha Nawab",
+      "url": "https://taha-nawab-portfolio.vercel.app/",
+      "listedTitle": "Full-Stack Developer · AI/ML Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Muhammad Taha Nawab — Full-Stack Developer",
+      "location": null,
       "status": "ok"
     }
   ]
