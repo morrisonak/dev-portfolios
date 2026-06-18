@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-17T18:51:54.029Z",
-    "total": 1781,
-    "successful": 1455,
+    "scrapedAt": "2026-06-18T13:12:31.483Z",
+    "total": 1784,
+    "successful": 1458,
     "failed": 326,
-    "withEmail": 671,
-    "withGithub": 958,
-    "withStack": 1194,
-    "withLinkedin": 856,
-    "withTwitter": 410
+    "withEmail": 673,
+    "withGithub": 960,
+    "withStack": 1196,
+    "withLinkedin": 858,
+    "withTwitter": 411
   },
   "portfolios": [
     {
@@ -36387,6 +36387,101 @@
       "experience": "2+ years",
       "title": "Yatharth Dixit — Full-Stack Engineer &amp; AI Product Builder",
       "location": "the approved workspace context",
+      "status": "ok"
+    },
+    {
+      "name": "Azwad Fawad Hasan",
+      "url": "https://azwadfawadhasan.github.io/resume/",
+      "listedTitle": "SWE | Researcher | Tech Enthusiast",
+      "emails": [
+        "azwadfawadhasan@gmail.com",
+        "2020222@iub.edu.bd"
+      ],
+      "github": [
+        "https://github.com/AzwadFawadHasan",
+        "https://github.com/ultralytics",
+        "https://github.com/alvarotrigo",
+        "https://github.com/sindresorhus",
+        "https://github.com/aframevr",
+        "https://github.com/soulwire",
+        "https://github.com/wso2",
+        "https://github.com/quirkey",
+        "https://github.com/linnovate",
+        "https://github.com/flatiron"
+      ],
+      "linkedin": "https://www.linkedin.com/in/azwad-fawad-hasan-369170217",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Django",
+        "Flask",
+        "Laravel",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        "Flutter",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Azwad Fawad Hasan - Aspiring Ph.D. Student & Tech Enthusiast",
+      "location": "Images",
+      "status": "ok"
+    },
+    {
+      "name": "Guna Teja S P",
+      "url": "https://tejafolio.dev/",
+      "listedTitle": "AI ML Student",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Guna Teja Sarvan Patnaik",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Manoj Kumar Mandal",
+      "url": "https://manojmandal.com",
+      "listedTitle": "Full Stack Engineer | AI Engineer | Generative AI | SaaS",
+      "emails": [
+        "manojkumarcse432@gmail.com"
+      ],
+      "github": [
+        "https://github.com/techieonvacation"
+      ],
+      "linkedin": "https://www.linkedin.com/in/manojkumarmandal",
+      "twitter": "https://x.com/techieonvacation",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Express",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "React Native",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": "3+ years",
+      "title": "Manoj Mandal – Sr. Full Stack &amp; AI Automation Engineer",
+      "location": "New Delhi, India",
       "status": "ok"
     }
   ]
