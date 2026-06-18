@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-18T13:12:31.483Z",
-    "total": 1784,
-    "successful": 1458,
+    "scrapedAt": "2026-06-18T18:50:14.072Z",
+    "total": 1785,
+    "successful": 1459,
     "failed": 326,
     "withEmail": 673,
-    "withGithub": 960,
-    "withStack": 1196,
-    "withLinkedin": 858,
+    "withGithub": 961,
+    "withStack": 1197,
+    "withLinkedin": 859,
     "withTwitter": 411
   },
   "portfolios": [
@@ -36482,6 +36482,25 @@
       "experience": "3+ years",
       "title": "Manoj Mandal – Sr. Full Stack &amp; AI Automation Engineer",
       "location": "New Delhi, India",
+      "status": "ok"
+    },
+    {
+      "name": "Jason Flatford",
+      "url": "https://jasonflatford.com",
+      "listedTitle": "Product & Engineering Leader",
+      "emails": [],
+      "github": [
+        "https://github.com/Flatts3000"
+      ],
+      "linkedin": "https://www.linkedin.com/in/flatford",
+      "twitter": null,
+      "stack": [
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Jason Flatford — Product &amp; Engineering Executive",
+      "location": "zero to a global esports SaaS used by hundreds of thousands of players",
       "status": "ok"
     }
   ]
