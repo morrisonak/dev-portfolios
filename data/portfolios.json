@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-18T18:50:14.072Z",
-    "total": 1785,
-    "successful": 1459,
+    "scrapedAt": "2026-06-19T00:58:38.600Z",
+    "total": 1786,
+    "successful": 1460,
     "failed": 326,
-    "withEmail": 673,
-    "withGithub": 961,
-    "withStack": 1197,
-    "withLinkedin": 859,
-    "withTwitter": 411
+    "withEmail": 674,
+    "withGithub": 962,
+    "withStack": 1198,
+    "withLinkedin": 860,
+    "withTwitter": 412
   },
   "portfolios": [
     {
@@ -36501,6 +36501,34 @@
       "experience": null,
       "title": "Jason Flatford — Product &amp; Engineering Executive",
       "location": "zero to a global esports SaaS used by hundreds of thousands of players",
+      "status": "ok"
+    },
+    {
+      "name": "Ahmad Faraz",
+      "url": "https://theahmadfaraz.com",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "admin@theahmadfaraz.com"
+      ],
+      "github": [
+        "https://github.com/Shevilll"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ahmadfaraz00710",
+      "twitter": "https://x.com/AhmadFaraz00710",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "AWS",
+        "MongoDB",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Ahmad Faraz - Full Stack Developer Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
