@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-20T07:23:13.275Z",
-    "total": 1787,
-    "successful": 1461,
+    "scrapedAt": "2026-06-20T12:39:14.972Z",
+    "total": 1789,
+    "successful": 1463,
     "failed": 326,
-    "withEmail": 674,
-    "withGithub": 963,
-    "withStack": 1199,
-    "withLinkedin": 861,
-    "withTwitter": 412
+    "withEmail": 675,
+    "withGithub": 965,
+    "withStack": 1201,
+    "withLinkedin": 863,
+    "withTwitter": 413
   },
   "portfolios": [
     {
@@ -36561,6 +36561,62 @@
       "experience": null,
       "title": "Dustin VanKrimpen — Software Engineer",
       "location": "system architecture to robust database design",
+      "status": "ok"
+    },
+    {
+      "name": "Ditom Baroi Antu",
+      "url": "https://xtditom.github.io",
+      "listedTitle": "Web Developer | Open-Source Contributor",
+      "emails": [
+        "hello@ditom.me"
+      ],
+      "github": [
+        "https://github.com/xtditom"
+      ],
+      "linkedin": "https://linkedin.com/in/xtditom",
+      "twitter": "https://x.com/xtditom369",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Tailwind",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Ditom Baroi Antu | xtditom",
+      "location": "Dhaka, Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Hangga Aji Sayekti",
+      "url": "https://hangga.web.id",
+      "listedTitle": "Software Engineer · Security Researcher · Tech Author",
+      "emails": [],
+      "github": [
+        "https://github.com/hangga",
+        "https://github.com/kredibel-id"
+      ],
+      "linkedin": "https://linkedin.com/in/hanggaajisayekti",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Java",
+        "PHP",
+        "Swift",
+        "Kotlin",
+        "Spring",
+        "Azure",
+        "PostgreSQL",
+        "MySQL",
+        "Firebase",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Hangga Aji Sayekti",
+      "location": "Allah and an imminent victory",
       "status": "ok"
     }
   ]
