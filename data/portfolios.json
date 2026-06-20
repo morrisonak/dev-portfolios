@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-19T00:58:38.600Z",
-    "total": 1786,
-    "successful": 1460,
+    "scrapedAt": "2026-06-20T07:23:13.275Z",
+    "total": 1787,
+    "successful": 1461,
     "failed": 326,
     "withEmail": 674,
-    "withGithub": 962,
-    "withStack": 1198,
-    "withLinkedin": 860,
+    "withGithub": 963,
+    "withStack": 1199,
+    "withLinkedin": 861,
     "withTwitter": 412
   },
   "portfolios": [
@@ -36529,6 +36529,38 @@
       "experience": null,
       "title": "Ahmad Faraz - Full Stack Developer Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Dustin VanKrimpen",
+      "url": "https://dustinvk.com",
+      "listedTitle": "Full Stack Web Developer | Platform | Backend",
+      "emails": [],
+      "github": [
+        "https://github.com/dustinvk"
+      ],
+      "linkedin": "https://www.linkedin.com/in/dustin-vankrimpen",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "Go",
+        "Java",
+        "Kotlin",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Dustin VanKrimpen — Software Engineer",
+      "location": "system architecture to robust database design",
       "status": "ok"
     }
   ]
