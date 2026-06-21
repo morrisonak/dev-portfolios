@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-21T00:54:35.439Z",
-    "total": 1790,
-    "successful": 1464,
+    "scrapedAt": "2026-06-21T12:43:02.895Z",
+    "total": 1791,
+    "successful": 1465,
     "failed": 326,
     "withEmail": 676,
     "withGithub": 966,
-    "withStack": 1202,
+    "withStack": 1203,
     "withLinkedin": 864,
     "withTwitter": 413
   },
@@ -36648,6 +36648,23 @@
       "experience": null,
       "title": "Parth Kale — AI Engineer",
       "location": "first principles, pushing models beyond demos, and crafting AI that feels less like software and mor",
+      "status": "ok"
+    },
+    {
+      "name": "Gii-DE",
+      "url": "https://g-dea.com",
+      "listedTitle": "Creative Engineer (AI & Web) | based in Europe",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Go",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Gii-DE · Personal Website",
+      "location": null,
       "status": "ok"
     }
   ]
