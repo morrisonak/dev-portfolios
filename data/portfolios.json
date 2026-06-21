@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-20T12:39:14.972Z",
-    "total": 1789,
-    "successful": 1463,
+    "scrapedAt": "2026-06-21T00:54:35.439Z",
+    "total": 1790,
+    "successful": 1464,
     "failed": 326,
-    "withEmail": 675,
-    "withGithub": 965,
-    "withStack": 1201,
-    "withLinkedin": 863,
+    "withEmail": 676,
+    "withGithub": 966,
+    "withStack": 1202,
+    "withLinkedin": 864,
     "withTwitter": 413
   },
   "portfolios": [
@@ -36617,6 +36617,37 @@
       "experience": null,
       "title": "Hangga Aji Sayekti",
       "location": "Allah and an imminent victory",
+      "status": "ok"
+    },
+    {
+      "name": "Parth Kale",
+      "url": "https://parkky.vercel.app",
+      "listedTitle": "AI Engineer",
+      "emails": [
+        "parth.kale.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/parkky21"
+      ],
+      "linkedin": "https://linkedin.com/in/parkky",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Parth Kale — AI Engineer",
+      "location": "first principles, pushing models beyond demos, and crafting AI that feels less like software and mor",
       "status": "ok"
     }
   ]
