@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-22T00:54:14.742Z",
-    "total": 1790,
-    "successful": 1465,
+    "scrapedAt": "2026-06-22T13:55:30.409Z",
+    "total": 1791,
+    "successful": 1466,
     "failed": 325,
-    "withEmail": 678,
-    "withGithub": 968,
-    "withStack": 1204,
-    "withLinkedin": 866,
+    "withEmail": 679,
+    "withGithub": 969,
+    "withStack": 1205,
+    "withLinkedin": 867,
     "withTwitter": 415
   },
   "portfolios": [
@@ -36668,6 +36668,33 @@
       "experience": "2+ years",
       "title": "Yaksh Bambhroliya - Independent Systems Architect",
       "location": "system design to production deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Rishav",
+      "url": "https://v0idrsh.vercel.app",
+      "listedTitle": "",
+      "emails": [
+        "rishavrajput204@gmail.com"
+      ],
+      "github": [
+        "https://github.com/voidirl"
+      ],
+      "linkedin": "https://linkedin.com/in/rshv11",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Spring",
+        "Docker",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "v0idrsh — Rishavdeep Singh | Full-Stack Developer",
+      "location": "robust REST APIs and relational",
       "status": "ok"
     }
   ]
