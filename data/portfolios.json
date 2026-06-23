@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-22T13:55:30.409Z",
-    "total": 1791,
-    "successful": 1466,
+    "scrapedAt": "2026-06-23T13:00:35.361Z",
+    "total": 1795,
+    "successful": 1470,
     "failed": 325,
-    "withEmail": 679,
-    "withGithub": 969,
-    "withStack": 1205,
-    "withLinkedin": 867,
+    "withEmail": 683,
+    "withGithub": 973,
+    "withStack": 1209,
+    "withLinkedin": 871,
     "withTwitter": 415
   },
   "portfolios": [
@@ -36695,6 +36695,118 @@
       "experience": null,
       "title": "v0idrsh — Rishavdeep Singh | Full-Stack Developer",
       "location": "robust REST APIs and relational",
+      "status": "ok"
+    },
+    {
+      "name": "Aaleksa Janjic",
+      "url": "https://akkila.dev",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "hello@akkila.dev"
+      ],
+      "github": [
+        "https://github.com/akkilaa"
+      ],
+      "linkedin": "https://linkedin.com/in/aleksa-janjic",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "akkila.dev - Aleksa Janjic - Full Stack Developer &amp; AI Engineer",
+      "location": "scratch to live on both the App Store and Google Play",
+      "status": "ok"
+    },
+    {
+      "name": "Brianna Brockington",
+      "url": "https://briannab1997.github.io/BBPortfolio/",
+      "listedTitle": "Software Engineer | QA & Support",
+      "emails": [
+        "briannab1997@gmail.com"
+      ],
+      "github": [
+        "https://github.com/briannab1997"
+      ],
+      "linkedin": "https://linkedin.com/in/brianna-brockington-1b6a59a9",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Kotlin",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Brianna Brockington — Full-Stack &amp; QA Engineering Portfolio",
+      "location": "Jacksonville, FL",
+      "status": "ok"
+    },
+    {
+      "name": "Samrit Mukherjee",
+      "url": "https://samrit.dev/",
+      "listedTitle": "Full Stack Dev | AI Dev | Product Dev",
+      "emails": [
+        "samritmukherjee05@gmail.com"
+      ],
+      "github": [
+        "https://github.com/samritmukherjee"
+      ],
+      "linkedin": "https://www.linkedin.com/in/samrit-mukherjee-412788318",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Flask",
+        "AWS",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Samrit Mukherjee | AI &amp; ML Developer &amp; Hackathon Winner",
+      "location": "natural language prompts",
+      "status": "ok"
+    },
+    {
+      "name": "Vasudev Katariya",
+      "url": "https://vasudev7891.github.io/Portfolio/",
+      "listedTitle": "Software Engineer | Java & DSA | Full Stack (MERN)",
+      "emails": [
+        "vasudevkatariya75668@gmail.com"
+      ],
+      "github": [
+        "https://github.com/vasudev7891"
+      ],
+      "linkedin": "https://www.linkedin.com/in/vasudev-katariya-cse",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Vasudev Katariya — Software Engineer | Java & DSA | Full-Stack (MERN)",
+      "location": null,
       "status": "ok"
     }
   ]
