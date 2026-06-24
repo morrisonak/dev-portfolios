@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-23T13:00:35.361Z",
-    "total": 1795,
-    "successful": 1470,
+    "scrapedAt": "2026-06-24T12:47:52.341Z",
+    "total": 1796,
+    "successful": 1471,
     "failed": 325,
     "withEmail": 683,
-    "withGithub": 973,
-    "withStack": 1209,
-    "withLinkedin": 871,
+    "withGithub": 974,
+    "withStack": 1210,
+    "withLinkedin": 872,
     "withTwitter": 415
   },
   "portfolios": [
@@ -36806,6 +36806,31 @@
       ],
       "experience": null,
       "title": "Vasudev Katariya — Software Engineer | Java & DSA | Full-Stack (MERN)",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Yashwanth Patam",
+      "url": "https://yashwanth-patam-portfolio.vercel.app",
+      "listedTitle": "Backend Developer | Engineer | Freelancer",
+      "emails": [],
+      "github": [
+        "https://github.com/yashuroy08"
+      ],
+      "linkedin": "https://www.linkedin.com/in/yashwanth-patam",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Yashwanth Patam | Java Developer",
       "location": null,
       "status": "ok"
     }
