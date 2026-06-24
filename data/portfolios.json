@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-24T12:47:52.341Z",
-    "total": 1796,
-    "successful": 1471,
+    "scrapedAt": "2026-06-24T18:37:54.460Z",
+    "total": 1799,
+    "successful": 1474,
     "failed": 325,
-    "withEmail": 683,
-    "withGithub": 974,
-    "withStack": 1210,
-    "withLinkedin": 872,
+    "withEmail": 686,
+    "withGithub": 977,
+    "withStack": 1213,
+    "withLinkedin": 875,
     "withTwitter": 415
   },
   "portfolios": [
@@ -36832,6 +36832,99 @@
       "experience": null,
       "title": "Yashwanth Patam | Java Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jachin Samuel",
+      "url": "https://jachin-portfolio.vercel.app",
+      "listedTitle": "Software Developer | Full Stack & AI",
+      "emails": [
+        "jachinsamuel007@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/jachinsamuel"
+      ],
+      "linkedin": "https://linkedin.com/in/jachinsamuel",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Flask",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Jachin Samuel | Software Developer &amp; AI Enthusiast",
+      "location": "experienced developers, and contribute to production systems",
+      "status": "ok"
+    },
+    {
+      "name": "Loic Duong",
+      "url": "https://www.loicduong.dev",
+      "listedTitle": "",
+      "emails": [
+        "locdp.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/loicduong"
+      ],
+      "linkedin": "https://www.linkedin.com/in/loicduong",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Figma"
+      ],
+      "experience": "5+ years",
+      "title": "Loc Duong | Freelance frontend for business websites",
+      "location": "production habits",
+      "status": "ok"
+    },
+    {
+      "name": "Maame Yaa Twumasi",
+      "url": "https://maameyaa.vercel.app",
+      "listedTitle": "FullStack Software Engineer",
+      "emails": [
+        "maameyaamtwumasi@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Maame-Yaa"
+      ],
+      "linkedin": "https://linkedin.com/in/mytwumasi",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Maame Yaa Twumasi — Full Stack Software Engineer",
+      "location": "Virginia",
       "status": "ok"
     }
   ]
