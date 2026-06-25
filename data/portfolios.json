@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-25T12:50:43.850Z",
-    "total": 1801,
-    "successful": 1476,
+    "scrapedAt": "2026-06-25T18:47:02.403Z",
+    "total": 1802,
+    "successful": 1477,
     "failed": 325,
-    "withEmail": 688,
-    "withGithub": 979,
-    "withStack": 1215,
-    "withLinkedin": 876,
+    "withEmail": 689,
+    "withGithub": 980,
+    "withStack": 1216,
+    "withLinkedin": 877,
     "withTwitter": 415
   },
   "portfolios": [
@@ -36995,6 +36995,31 @@
       "experience": null,
       "title": "Igor Clauss - Freiberuflicher Programmierer aus Oldenburg - Webentwicklung, App-Entwicklung, Software-Entwicklung, IT-Dienstleistungen und Beratung",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kishore M",
+      "url": "https://mkishore.is-a.dev/",
+      "listedTitle": "",
+      "emails": [
+        "kishore@mkishore.is-a.dev",
+        "kishoredxd@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/MKishoreDev"
+      ],
+      "linkedin": "https://linkedin.com/in/mkishore-dev",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Flask",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Kishore M — Student Developer",
+      "location": "lockdown curiosity to production code",
       "status": "ok"
     }
   ]
