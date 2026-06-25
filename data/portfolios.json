@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-24T18:37:54.460Z",
-    "total": 1799,
-    "successful": 1474,
+    "scrapedAt": "2026-06-25T00:48:18.929Z",
+    "total": 1800,
+    "successful": 1475,
     "failed": 325,
-    "withEmail": 686,
-    "withGithub": 977,
-    "withStack": 1213,
-    "withLinkedin": 875,
+    "withEmail": 687,
+    "withGithub": 978,
+    "withStack": 1214,
+    "withLinkedin": 876,
     "withTwitter": 415
   },
   "portfolios": [
@@ -36925,6 +36925,45 @@
       "experience": null,
       "title": "Maame Yaa Twumasi — Full Stack Software Engineer",
       "location": "Virginia",
+      "status": "ok"
+    },
+    {
+      "name": "Sakib Mansuri",
+      "url": "https://sakib-m.me/",
+      "listedTitle": "Software engineer/AI developer",
+      "emails": [
+        "sakibmansuri044@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sakib078",
+        "https://github.com/DanielWLiu07",
+        "https://github.com/BlackFuffey"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sakib078",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Django",
+        "Flask",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sakib Mansuri | Portfolio",
+      "location": "prototype to production",
       "status": "ok"
     }
   ]
