@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-25T00:48:18.929Z",
-    "total": 1800,
-    "successful": 1475,
+    "scrapedAt": "2026-06-25T12:50:43.850Z",
+    "total": 1801,
+    "successful": 1476,
     "failed": 325,
-    "withEmail": 687,
-    "withGithub": 978,
-    "withStack": 1214,
+    "withEmail": 688,
+    "withGithub": 979,
+    "withStack": 1215,
     "withLinkedin": 876,
     "withTwitter": 415
   },
@@ -36964,6 +36964,37 @@
       "experience": null,
       "title": "Sakib Mansuri | Portfolio",
       "location": "prototype to production",
+      "status": "ok"
+    },
+    {
+      "name": "Igor Clauss",
+      "url": "https://igorclauss.de",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "kontakt@igorclauss.de"
+      ],
+      "github": [
+        "https://github.com/OccTherapist"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Vue",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Laravel",
+        "AWS",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Igor Clauss - Freiberuflicher Programmierer aus Oldenburg - Webentwicklung, App-Entwicklung, Software-Entwicklung, IT-Dienstleistungen und Beratung",
+      "location": null,
       "status": "ok"
     }
   ]
