@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-25T18:47:02.403Z",
-    "total": 1802,
-    "successful": 1477,
+    "scrapedAt": "2026-06-26T12:46:36.498Z",
+    "total": 1804,
+    "successful": 1479,
     "failed": 325,
     "withEmail": 689,
-    "withGithub": 980,
-    "withStack": 1216,
-    "withLinkedin": 877,
-    "withTwitter": 415
+    "withGithub": 981,
+    "withStack": 1217,
+    "withLinkedin": 878,
+    "withTwitter": 416
   },
   "portfolios": [
     {
@@ -37020,6 +37020,40 @@
       "experience": null,
       "title": "Kishore M — Student Developer",
       "location": "lockdown curiosity to production code",
+      "status": "ok"
+    },
+    {
+      "name": "Evandro Antônio da Costa de Paula",
+      "url": "https://eacp.dev",
+      "listedTitle": "Software Engineer | Fullstack | Applied AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Evandro Antônio da Costa de Paula | Full Stack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sanket Chaudhari",
+      "url": "https://sanketchaudhari.in",
+      "listedTitle": "Full Stack Developer | AI & Data Science Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/sanket1035"
+      ],
+      "linkedin": "https://linkedin.com/in/sanketchaudhari1035",
+      "twitter": "https://twitter.com/sanket_codes",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Sanket Chaudhari | Software Developer & AI Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
