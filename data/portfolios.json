@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-26T12:46:36.498Z",
-    "total": 1804,
-    "successful": 1479,
+    "scrapedAt": "2026-06-26T18:39:05.639Z",
+    "total": 1805,
+    "successful": 1480,
     "failed": 325,
-    "withEmail": 689,
-    "withGithub": 981,
-    "withStack": 1217,
-    "withLinkedin": 878,
-    "withTwitter": 416
+    "withEmail": 690,
+    "withGithub": 982,
+    "withStack": 1218,
+    "withLinkedin": 879,
+    "withTwitter": 417
   },
   "portfolios": [
     {
@@ -37054,6 +37054,35 @@
       "experience": null,
       "title": "Sanket Chaudhari | Software Developer & AI Engineer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mehedi Hasan Janny",
+      "url": "https://mhjanny.com",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "contact@mhjanny.com"
+      ],
+      "github": [
+        "https://github.com/mhjanny"
+      ],
+      "linkedin": "https://linkedin.com/in/mhjanny",
+      "twitter": "https://twitter.com/mhjanny",
+      "stack": [
+        "Vue",
+        "Nuxt",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Laravel",
+        "Docker",
+        "MySQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Mehedi Hasan Janny - Full Stack Web Developer",
+      "location": "Rajshahi, Bangladesh",
       "status": "ok"
     }
   ]
