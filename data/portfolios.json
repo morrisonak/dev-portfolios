@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-26T18:39:05.639Z",
-    "total": 1805,
-    "successful": 1480,
+    "scrapedAt": "2026-06-27T18:27:06.012Z",
+    "total": 1806,
+    "successful": 1481,
     "failed": 325,
-    "withEmail": 690,
-    "withGithub": 982,
-    "withStack": 1218,
-    "withLinkedin": 879,
+    "withEmail": 691,
+    "withGithub": 983,
+    "withStack": 1219,
+    "withLinkedin": 880,
     "withTwitter": 417
   },
   "portfolios": [
@@ -37083,6 +37083,40 @@
       "experience": null,
       "title": "Mehedi Hasan Janny - Full Stack Web Developer",
       "location": "Rajshahi, Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Daniel Andrés Rodríguez",
+      "url": "https://danrodd.dev",
+      "listedTitle": "Software Developer",
+      "emails": [
+        "contacto@danrodd.dev"
+      ],
+      "github": [
+        "https://github.com/danrodd"
+      ],
+      "linkedin": "https://www.linkedin.com/in/danrodd",
+      "twitter": null,
+      "stack": [
+        "Vue",
+        "Next.js",
+        "Nuxt",
+        "Astro",
+        "Go",
+        "Java",
+        "Laravel",
+        "Spring",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Daniel Andrés Rodríguez",
+      "location": null,
       "status": "ok"
     }
   ]
