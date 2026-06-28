@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-27T18:27:06.012Z",
-    "total": 1806,
-    "successful": 1481,
+    "scrapedAt": "2026-06-28T00:48:54.444Z",
+    "total": 1807,
+    "successful": 1482,
     "failed": 325,
     "withEmail": 691,
     "withGithub": 983,
-    "withStack": 1219,
+    "withStack": 1220,
     "withLinkedin": 880,
     "withTwitter": 417
   },
@@ -37116,6 +37116,22 @@
       ],
       "experience": null,
       "title": "Daniel Andrés Rodríguez",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kaveh Taheri",
+      "url": "https://kav3.com",
+      "listedTitle": "🥷 JS Ninja - Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "Kaveh Taheri",
       "location": null,
       "status": "ok"
     }
