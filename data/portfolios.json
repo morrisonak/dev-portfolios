@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-28T00:48:54.444Z",
-    "total": 1807,
-    "successful": 1482,
-    "failed": 325,
-    "withEmail": 691,
-    "withGithub": 983,
-    "withStack": 1220,
-    "withLinkedin": 880,
-    "withTwitter": 417
+    "scrapedAt": "2026-06-28T12:31:12.861Z",
+    "total": 1803,
+    "successful": 1479,
+    "failed": 324,
+    "withEmail": 689,
+    "withGithub": 980,
+    "withStack": 1217,
+    "withLinkedin": 878,
+    "withTwitter": 415
   },
   "portfolios": [
     {
@@ -14073,28 +14073,6 @@
       "status": "ok"
     },
     {
-      "name": "Jay Vegad",
-      "url": "https://jayvegad.vercel.app",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/Vegadjay"
-      ],
-      "linkedin": null,
-      "twitter": "https://x.com/JAY_VEGAD_",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Portfolio | Full Stack Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Jaya Vignesh",
       "url": "https://jayavignesh.dev",
       "listedTitle": "Backend Developer",
@@ -15992,20 +15970,6 @@
       ],
       "experience": null,
       "title": "Khokon M. | Web Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Kidus Bewket",
-      "url": "https://kidus.ca",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "301 - Moved Permanently",
       "location": null,
       "status": "ok"
     },
@@ -24311,31 +24275,6 @@
       "status": "ok"
     },
     {
-      "name": "Ridoy Dey",
-      "url": "https://iamridoydey.com",
-      "listedTitle": "Devops & Cloud Engineer | python, bash, go, Docker, CI/CD, Kubernetes, aws, azure, azure devops",
-      "emails": [
-        "iamridoydey@gmail.com"
-      ],
-      "github": [
-        "https://github.com/yourusername",
-        "https://github.com/iamridoydey"
-      ],
-      "linkedin": "https://linkedin.com/in/iamridoydey",
-      "twitter": "https://x.com/iamridoy_dey",
-      "stack": [
-        "Go",
-        "AWS",
-        "Azure",
-        "Docker",
-        "Kubernetes"
-      ],
-      "experience": null,
-      "title": "Portfolio | Ridoy Dey",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Ridwan Ajanaku",
       "url": "https://olakunle.dev",
       "listedTitle": "Frontend Software Engineer",
@@ -26259,13 +26198,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Sebi",
-      "url": "https://sebilune.dev",
-      "listedTitle": "Full Stack Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Sergei Chestakov",
       "url": "https://sergei.com",
       "listedTitle": "",
@@ -26808,13 +26740,6 @@
       "name": "Sujal Bedre",
       "url": "https://sujal-bedre.vercel.app",
       "listedTitle": "Ai/Ml Dev && Mern-Stack Dev",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Sumeet Haldar",
-      "url": "https://hsumeet.site",
-      "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
@@ -34774,38 +34699,6 @@
       "status": "ok"
     },
     {
-      "name": "Abu Bakar Butt",
-      "url": "https://abu-bakar-portfolio-mauve.vercel.app",
-      "listedTitle": "Full Stack Web Developer",
-      "emails": [
-        "alex@company.com"
-      ],
-      "github": [
-        "https://github.com/abubakarbutt-developer"
-      ],
-      "linkedin": "https://www.linkedin.com/in/abu-bakar-butt-68a95b318",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Firebase",
-        "Tailwind",
-        "GraphQL",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Abu Bakar Butt | Frontend Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Danial Khilji",
       "url": "https://danialkhilji.github.io/portfolio/",
       "listedTitle": "Data Scientist | Machine Learning Engineer",
@@ -36752,36 +36645,6 @@
       "status": "ok"
     },
     {
-      "name": "Samrit Mukherjee",
-      "url": "https://samrit.dev/",
-      "listedTitle": "Full Stack Dev | AI Dev | Product Dev",
-      "emails": [
-        "samritmukherjee05@gmail.com"
-      ],
-      "github": [
-        "https://github.com/samritmukherjee"
-      ],
-      "linkedin": "https://www.linkedin.com/in/samrit-mukherjee-412788318",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Flask",
-        "AWS",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Samrit Mukherjee | AI &amp; ML Developer &amp; Hackathon Winner",
-      "location": "natural language prompts",
-      "status": "ok"
-    },
-    {
       "name": "Vasudev Katariya",
       "url": "https://vasudev7891.github.io/Portfolio/",
       "listedTitle": "Software Engineer | Java & DSA | Full Stack (MERN)",
@@ -36928,45 +36791,6 @@
       "status": "ok"
     },
     {
-      "name": "Sakib Mansuri",
-      "url": "https://sakib-m.me/",
-      "listedTitle": "Software engineer/AI developer",
-      "emails": [
-        "sakibmansuri044@gmail.com"
-      ],
-      "github": [
-        "https://github.com/sakib078",
-        "https://github.com/DanielWLiu07",
-        "https://github.com/BlackFuffey"
-      ],
-      "linkedin": "https://www.linkedin.com/in/sakib078",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "Django",
-        "Flask",
-        "AWS",
-        "Azure",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Sakib Mansuri | Portfolio",
-      "location": "prototype to production",
-      "status": "ok"
-    },
-    {
       "name": "Igor Clauss",
       "url": "https://igorclauss.de",
       "listedTitle": "Full Stack Developer",
@@ -36995,31 +36819,6 @@
       "experience": null,
       "title": "Igor Clauss - Freiberuflicher Programmierer aus Oldenburg - Webentwicklung, App-Entwicklung, Software-Entwicklung, IT-Dienstleistungen und Beratung",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Kishore M",
-      "url": "https://mkishore.is-a.dev/",
-      "listedTitle": "",
-      "emails": [
-        "kishore@mkishore.is-a.dev",
-        "kishoredxd@gmail.com",
-        "your@email.com"
-      ],
-      "github": [
-        "https://github.com/MKishoreDev"
-      ],
-      "linkedin": "https://linkedin.com/in/mkishore-dev",
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Flask",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Kishore M — Student Developer",
-      "location": "lockdown curiosity to production code",
       "status": "ok"
     },
     {
@@ -37133,6 +36932,121 @@
       "experience": null,
       "title": "Kaveh Taheri",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Alucard",
+      "url": "https://dg.aluc.me",
+      "listedTitle": "Full Stack Engineer | AI, Founder",
+      "status": "error",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Kishore",
+      "url": "https://mkishore.is-a.dev",
+      "listedTitle": "",
+      "emails": [
+        "kishore@mkishore.is-a.dev",
+        "kishoredxd@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/MKishoreDev"
+      ],
+      "linkedin": "https://linkedin.com/in/mkishore-dev",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Flask",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Kishore M | Student Developer & Portfolio",
+      "location": "Tamil Nadu, India",
+      "status": "ok"
+    },
+    {
+      "name": "Sakib Mansuri",
+      "url": "https://sakib-m.me",
+      "listedTitle": "Software engineer/AI developer",
+      "emails": [
+        "sakibmansuri044@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sakib078",
+        "https://github.com/DanielWLiu07",
+        "https://github.com/BlackFuffey"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sakib078",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Django",
+        "Flask",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sakib Mansuri | Portfolio",
+      "location": "prototype to production",
+      "status": "ok"
+    },
+    {
+      "name": "Samarth Batra",
+      "url": "https://batrasamarth.com",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Samarth Batra | Windows 7 Resume",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Samrit Mukherjee",
+      "url": "https://samrit.dev",
+      "listedTitle": "Full Stack Dev | AI Dev | Product Dev",
+      "emails": [
+        "samritmukherjee05@gmail.com"
+      ],
+      "github": [
+        "https://github.com/samritmukherjee"
+      ],
+      "linkedin": "https://www.linkedin.com/in/samrit-mukherjee-412788318",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Flask",
+        "AWS",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Samrit Mukherjee | AI &amp; ML Developer &amp; Hackathon Winner",
+      "location": "natural language prompts",
       "status": "ok"
     }
   ]
