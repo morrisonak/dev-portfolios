@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-29T00:50:19.254Z",
-    "total": 1805,
-    "successful": 1481,
+    "scrapedAt": "2026-06-29T13:31:40.453Z",
+    "total": 1807,
+    "successful": 1483,
     "failed": 324,
-    "withEmail": 691,
-    "withGithub": 982,
-    "withStack": 1219,
-    "withLinkedin": 880,
-    "withTwitter": 415
+    "withEmail": 693,
+    "withGithub": 983,
+    "withStack": 1221,
+    "withLinkedin": 882,
+    "withTwitter": 416
   },
   "portfolios": [
     {
@@ -37105,6 +37105,69 @@
       "experience": null,
       "title": "Vishvaas",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aggelos Ladas",
+      "url": "https://aggelosladas.com",
+      "listedTitle": "Spring Boot Backend | Android Developer",
+      "emails": [
+        "aggelosladasofficial@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/aggelos-ladas-9057b1196",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Java",
+        "Kotlin",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "MySQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Aggelos Ladas | Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rito Chabalala",
+      "url": "https://ritochabalala.github.io",
+      "listedTitle": "Software Engineer | Full Stack & AI / GenAI Engineer",
+      "emails": [
+        "ritochabalala@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ritochabalala",
+        "https://github.com/sasol-enterprise"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rito-chabalala-b87240160",
+      "twitter": "https://x.com/rito_chabalala",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Django",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Rito Chabalala — AI / Software Engineer",
+      "location": "architecture to production deployment",
       "status": "ok"
     }
   ]
