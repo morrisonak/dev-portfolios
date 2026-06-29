@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-28T12:31:12.861Z",
-    "total": 1803,
-    "successful": 1479,
+    "scrapedAt": "2026-06-29T00:50:19.254Z",
+    "total": 1805,
+    "successful": 1481,
     "failed": 324,
-    "withEmail": 689,
-    "withGithub": 980,
-    "withStack": 1217,
-    "withLinkedin": 878,
+    "withEmail": 691,
+    "withGithub": 982,
+    "withStack": 1219,
+    "withLinkedin": 880,
     "withTwitter": 415
   },
   "portfolios": [
@@ -37047,6 +37047,64 @@
       "experience": null,
       "title": "Samrit Mukherjee | AI &amp; ML Developer &amp; Hackathon Winner",
       "location": "natural language prompts",
+      "status": "ok"
+    },
+    {
+      "name": "Ashish Madan",
+      "url": "https://ashishmadan.netlify.app",
+      "listedTitle": "Senior Software Engineer | Full Stack Developer",
+      "emails": [
+        "ashishmadan12@gmail.com"
+      ],
+      "github": [
+        "https://github.com/am282000"
+      ],
+      "linkedin": "https://linkedin.com/in/ashish2000",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Ashish Madan | Senior Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vishvaas Kumar",
+      "url": "https://vishvaas.dev",
+      "listedTitle": "Cat | Chomik",
+      "emails": [
+        "vishvaaskr@gmail.com"
+      ],
+      "github": [
+        "https://github.com/VishvaasKr"
+      ],
+      "linkedin": "https://linkedin.com/in/vishvaaskr",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Docker",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Vishvaas",
+      "location": null,
       "status": "ok"
     }
   ]
