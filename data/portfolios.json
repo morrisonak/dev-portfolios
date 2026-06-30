@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-29T18:43:14.665Z",
-    "total": 1809,
-    "successful": 1485,
+    "scrapedAt": "2026-06-30T00:48:12.316Z",
+    "total": 1810,
+    "successful": 1486,
     "failed": 324,
-    "withEmail": 695,
-    "withGithub": 984,
-    "withStack": 1223,
-    "withLinkedin": 884,
-    "withTwitter": 416
+    "withEmail": 696,
+    "withGithub": 985,
+    "withStack": 1224,
+    "withLinkedin": 885,
+    "withTwitter": 417
   },
   "portfolios": [
     {
@@ -37216,6 +37216,36 @@
       "experience": null,
       "title": "Home",
       "location": "the keyboard I",
+      "status": "ok"
+    },
+    {
+      "name": "Karan Chhunchha",
+      "url": "https://karanchhunchha.in",
+      "listedTitle": "Software Developer | AI Automation",
+      "emails": [
+        "karanchhunchha@gmail.com"
+      ],
+      "github": [
+        "https://github.com/karanchhunchha",
+        "https://github.com/Karanchhunchha"
+      ],
+      "linkedin": "https://linkedin.com/in/karanchhunchha",
+      "twitter": "https://x.com/karanchhunchha",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Karan Chhunchha — Creative Engineer",
+      "location": "DEESA,",
       "status": "ok"
     }
   ]
