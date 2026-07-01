@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-06-30T00:48:12.316Z",
-    "total": 1810,
-    "successful": 1486,
+    "scrapedAt": "2026-07-01T00:50:30.134Z",
+    "total": 1811,
+    "successful": 1487,
     "failed": 324,
     "withEmail": 696,
-    "withGithub": 985,
+    "withGithub": 986,
     "withStack": 1224,
-    "withLinkedin": 885,
+    "withLinkedin": 886,
     "withTwitter": 417
   },
   "portfolios": [
@@ -37246,6 +37246,22 @@
       "experience": null,
       "title": "Karan Chhunchha — Creative Engineer",
       "location": "DEESA,",
+      "status": "ok"
+    },
+    {
+      "name": "Ioannis Jone-Magalhaes",
+      "url": "https://ioannisjonemagalhaes.com",
+      "listedTitle": "Sofware Engineer | Cloud & IoT",
+      "emails": [],
+      "github": [
+        "https://github.com/Henri-ix"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ioannis-jone-magalhaes",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ioannis",
+      "location": "London, UK with a, sometimes, overwhelming passion and enthusiasm for technology",
       "status": "ok"
     }
   ]
