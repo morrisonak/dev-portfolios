@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-01T00:50:30.134Z",
-    "total": 1811,
-    "successful": 1487,
+    "scrapedAt": "2026-07-01T12:59:47.963Z",
+    "total": 1812,
+    "successful": 1488,
     "failed": 324,
     "withEmail": 696,
     "withGithub": 986,
-    "withStack": 1224,
+    "withStack": 1225,
     "withLinkedin": 886,
     "withTwitter": 417
   },
@@ -37262,6 +37262,22 @@
       "experience": null,
       "title": "Ioannis",
       "location": "London, UK with a, sometimes, overwhelming passion and enthusiasm for technology",
+      "status": "ok"
+    },
+    {
+      "name": "Sairithik Komuravelly",
+      "url": "https://heysai.dev/",
+      "listedTitle": "Full Stack Engineer | AI Integration & Tooling",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "Sai",
+      "location": null,
       "status": "ok"
     }
   ]
