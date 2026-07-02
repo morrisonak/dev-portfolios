@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-02T13:54:01.798Z",
-    "total": 1813,
-    "successful": 1489,
+    "scrapedAt": "2026-07-02T19:20:36.084Z",
+    "total": 1819,
+    "successful": 1495,
     "failed": 324,
-    "withEmail": 696,
-    "withGithub": 986,
-    "withStack": 1225,
-    "withLinkedin": 886,
+    "withEmail": 701,
+    "withGithub": 991,
+    "withStack": 1231,
+    "withLinkedin": 892,
     "withTwitter": 417
   },
   "portfolios": [
@@ -37291,6 +37291,149 @@
       "stack": [],
       "experience": null,
       "title": "Vamshi Kumar | Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aneeth Kumaar",
+      "url": "https://akwastaken.github.io",
+      "listedTitle": "Graphic Designer | Programmer",
+      "emails": [],
+      "github": [
+        "https://github.com/AKwasTaken"
+      ],
+      "linkedin": "https://linkedin.com/in/aneeth-kumaar",
+      "twitter": null,
+      "stack": [
+        "Python",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "AK | Portfolio",
+      "location": "Scratch",
+      "status": "ok"
+    },
+    {
+      "name": "Forhad_Khan",
+      "url": "https://forhadkhandev.vercel.app",
+      "listedTitle": "Front-End Developer",
+      "emails": [
+        "fk.nafi11@gmail.com"
+      ],
+      "github": [
+        "https://github.com/xnafi"
+      ],
+      "linkedin": "https://www.linkedin.com/in/forhadkhandev",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "FORHAD KHAN DEV",
+      "location": "the dashboard instantly reflect on all connected screens with current and next patient names",
+      "status": "ok"
+    },
+    {
+      "name": "Harsh Prajapati",
+      "url": "https://harsh-prajapati54-github-io.vercel.app/",
+      "listedTitle": "AI|ML Engineer",
+      "emails": [
+        "harshpr674@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Harsh-Prajapati54"
+      ],
+      "linkedin": "https://www.linkedin.com/in/harsh-prajapati-393759296",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "experience": null,
+      "title": "Harsh Prajapati — AI Engineer · LLM & RAG Systems",
+      "location": "scratch",
+      "status": "ok"
+    },
+    {
+      "name": "Paritosh Khubchandani",
+      "url": "https://paritosh-dev.vercel.app",
+      "listedTitle": "Full Stack Developer | React, Next.js, Django, FastAPI",
+      "emails": [
+        "paritoshkhubchandani2@gmail.com"
+      ],
+      "github": [
+        "https://github.com/pk2502"
+      ],
+      "linkedin": "https://www.linkedin.com/in/paritosh-k2502",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Django",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Freelance React &amp; Django Developer | Paritosh Khubchandani",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Swayam Kesarkar",
+      "url": "https://nerd-swayam.vercel.app",
+      "listedTitle": "Nerd | Machine Learning | CyberSecurity",
+      "emails": [
+        "swayamkesarkar625@gmail.com"
+      ],
+      "github": [
+        "https://github.com/NerdSWAYAM"
+      ],
+      "linkedin": "https://www.linkedin.com/in/swayam-kesarkar-b05261272",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Django",
+        "Flask"
+      ],
+      "experience": null,
+      "title": "Swayam | ML Engineer",
+      "location": "text descriptions using GANs",
+      "status": "ok"
+    },
+    {
+      "name": "Vrushali Patil",
+      "url": "https://vrushali.in",
+      "listedTitle": "QA Engineer | Manual, Automation & API Testing",
+      "emails": [
+        "hello@vrushali.in"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/vrushapatil",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Go",
+        "Figma"
+      ],
+      "experience": "3+ years",
+      "title": "Vrushali Patil | Software QA Engineer",
       "location": null,
       "status": "ok"
     }
