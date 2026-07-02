@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-01T12:59:47.963Z",
-    "total": 1812,
-    "successful": 1488,
+    "scrapedAt": "2026-07-02T13:54:01.798Z",
+    "total": 1813,
+    "successful": 1489,
     "failed": 324,
     "withEmail": 696,
     "withGithub": 986,
@@ -37277,6 +37277,20 @@
       ],
       "experience": null,
       "title": "Sai",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vamshi Kumar",
+      "url": "https://thvvamshi-dev.onrender.com",
+      "listedTitle": "Software Engineer | Backend & Full-Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Vamshi Kumar | Software Engineer",
       "location": null,
       "status": "ok"
     }
