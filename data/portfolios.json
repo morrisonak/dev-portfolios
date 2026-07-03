@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-02T19:20:36.084Z",
-    "total": 1819,
-    "successful": 1495,
+    "scrapedAt": "2026-07-03T13:57:49.612Z",
+    "total": 1821,
+    "successful": 1497,
     "failed": 324,
-    "withEmail": 701,
-    "withGithub": 991,
-    "withStack": 1231,
-    "withLinkedin": 892,
-    "withTwitter": 417
+    "withEmail": 703,
+    "withGithub": 993,
+    "withStack": 1233,
+    "withLinkedin": 894,
+    "withTwitter": 418
   },
   "portfolios": [
     {
@@ -37434,6 +37434,66 @@
       ],
       "experience": "3+ years",
       "title": "Vrushali Patil | Software QA Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aakarsh Bibhaw",
+      "url": "https://aakarsh-devhq.vercel.app",
+      "listedTitle": "CS Undergrad | Full-Stack & AI Eng.",
+      "emails": [
+        "cse.arsh@gmail.com"
+      ],
+      "github": [
+        "https://github.com/arshbibhaw"
+      ],
+      "linkedin": "https://linkedin.com/in/aakarsh-bibhaw",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Django",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Aakarsh | DevHQ",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Loren Kamau",
+      "url": "https://lorenkamau.com/",
+      "listedTitle": "Founder of Aptifolio",
+      "emails": [
+        "ndunguloren96@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ndunguloren96"
+      ],
+      "linkedin": "https://www.linkedin.com/in/lorenkamau",
+      "twitter": "https://x.com/loren_kamau",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Django",
+        "AWS",
+        "Azure",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Loren Kamau | Backend Developer",
       "location": null,
       "status": "ok"
     }
