@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-03T13:57:49.612Z",
-    "total": 1821,
-    "successful": 1497,
+    "scrapedAt": "2026-07-03T19:17:16.691Z",
+    "total": 1822,
+    "successful": 1498,
     "failed": 324,
-    "withEmail": 703,
-    "withGithub": 993,
-    "withStack": 1233,
-    "withLinkedin": 894,
+    "withEmail": 704,
+    "withGithub": 994,
+    "withStack": 1234,
+    "withLinkedin": 895,
     "withTwitter": 418
   },
   "portfolios": [
@@ -37495,6 +37495,28 @@
       "experience": null,
       "title": "Loren Kamau | Backend Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Brijesh Chandrakar",
+      "url": "https://brijesh-chandrakar.vercel.app",
+      "listedTitle": "",
+      "emails": [
+        "brijeshchandrakar@hotmail.co.uk"
+      ],
+      "github": [
+        "https://github.com/brijeshc"
+      ],
+      "linkedin": "https://www.linkedin.com/in/brijesh-chandrakar-b3b83957",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Django",
+        "React Native"
+      ],
+      "experience": "5+ years",
+      "title": "Brijesh Chandrakar · योगः कर्मसु कौशलम्",
+      "location": "the",
       "status": "ok"
     }
   ]
