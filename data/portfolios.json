@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-04T02:40:02.075Z",
-    "total": 1822,
-    "successful": 1499,
+    "scrapedAt": "2026-07-04T13:19:09.327Z",
+    "total": 1825,
+    "successful": 1502,
     "failed": 323,
-    "withEmail": 705,
-    "withGithub": 995,
-    "withStack": 1235,
-    "withLinkedin": 896,
-    "withTwitter": 418
+    "withEmail": 707,
+    "withGithub": 997,
+    "withStack": 1238,
+    "withLinkedin": 897,
+    "withTwitter": 419
   },
   "portfolios": [
     {
@@ -37186,32 +37186,6 @@
       "status": "ok"
     },
     {
-      "name": "Stimmie",
-      "url": "https://stimmie.dev",
-      "listedTitle": "Software Engineer | Next.js",
-      "emails": [
-        "semariquit@gmail.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/stimmie",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Astro",
-        "Python",
-        "Go",
-        "Java",
-        "PHP",
-        "Docker",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Home",
-      "location": "the keyboard I",
-      "status": "ok"
-    },
-    {
       "name": "Karan Chhunchha",
       "url": "https://karanchhunchha.in",
       "listedTitle": "Software Developer | AI Automation",
@@ -37539,6 +37513,102 @@
       ],
       "experience": null,
       "title": "Sai",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abdalla Elradi",
+      "url": "https://aelradi.engineer",
+      "listedTitle": "AI Automation Engineer",
+      "emails": [
+        "abdallaelsiddig.m@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Abdalla Elsiddig | AI &amp; Robotics Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anubhav Singh",
+      "url": "https://mylivecv.com/mylivecv/pf-anubhav",
+      "listedTitle": "Fullstack Developer",
+      "emails": [
+        "support@mylivecv.com",
+        "chauhananubhav16@gmail.com"
+      ],
+      "github": [
+        "https://github.com/anuuu16"
+      ],
+      "linkedin": "https://www.linkedin.com/in/anubhav016",
+      "twitter": "https://x.com/AnubhavSingh016",
+      "stack": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Anubhav Singh - Technical Lead at Thales Aerospace",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Stimmie",
+      "url": "https://www.stimmie.dev",
+      "listedTitle": "Software Engineer | Next.js",
+      "emails": [
+        "semariquit@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/stimmie",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Docker",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Home",
+      "location": "the keyboard I",
+      "status": "ok"
+    },
+    {
+      "name": "Stimmie – web portfolio",
+      "url": "https://web.stimmie.dev",
+      "listedTitle": "Freelance Developer | Nuxt",
+      "emails": [],
+      "github": [
+        "https://github.com/smmariquit"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Nuxt",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Work · Simonee Mariquit",
       "location": null,
       "status": "ok"
     }
