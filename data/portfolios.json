@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-03T19:17:16.691Z",
+    "scrapedAt": "2026-07-04T02:40:02.075Z",
     "total": 1822,
-    "successful": 1498,
-    "failed": 324,
-    "withEmail": 704,
-    "withGithub": 994,
-    "withStack": 1234,
-    "withLinkedin": 895,
+    "successful": 1499,
+    "failed": 323,
+    "withEmail": 705,
+    "withGithub": 995,
+    "withStack": 1235,
+    "withLinkedin": 896,
     "withTwitter": 418
   },
   "portfolios": [
@@ -26793,13 +26793,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Syauqi Suhaimi",
-      "url": "https://portfolio-syauqi.vercel.app",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Syed Aashiq Ahamed",
       "url": "https://www.syedahamed.in",
       "listedTitle": "Software Development Engineer | Frontend Engineer",
@@ -37265,22 +37258,6 @@
       "status": "ok"
     },
     {
-      "name": "Sairithik Komuravelly",
-      "url": "https://heysai.dev/",
-      "listedTitle": "Full Stack Engineer | AI Integration & Tooling",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React"
-      ],
-      "experience": null,
-      "title": "Sai",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Vamshi Kumar",
       "url": "https://thvvamshi-dev.onrender.com",
       "listedTitle": "Software Engineer | Backend & Full-Stack Developer",
@@ -37343,29 +37320,6 @@
       "experience": null,
       "title": "FORHAD KHAN DEV",
       "location": "the dashboard instantly reflect on all connected screens with current and next patient names",
-      "status": "ok"
-    },
-    {
-      "name": "Harsh Prajapati",
-      "url": "https://harsh-prajapati54-github-io.vercel.app/",
-      "listedTitle": "AI|ML Engineer",
-      "emails": [
-        "harshpr674@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Harsh-Prajapati54"
-      ],
-      "linkedin": "https://www.linkedin.com/in/harsh-prajapati-393759296",
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Go",
-        "Java"
-      ],
-      "experience": null,
-      "title": "Harsh Prajapati — AI Engineer · LLM & RAG Systems",
-      "location": "scratch",
       "status": "ok"
     },
     {
@@ -37470,8 +37424,83 @@
       "status": "ok"
     },
     {
+      "name": "Brijesh Chandrakar",
+      "url": "https://brijesh-chandrakar.vercel.app",
+      "listedTitle": "",
+      "emails": [
+        "brijeshchandrakar@hotmail.co.uk"
+      ],
+      "github": [
+        "https://github.com/brijeshc"
+      ],
+      "linkedin": "https://www.linkedin.com/in/brijesh-chandrakar-b3b83957",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Django",
+        "React Native"
+      ],
+      "experience": "5+ years",
+      "title": "Brijesh Chandrakar · योगः कर्मसु कौशलम्",
+      "location": "the",
+      "status": "ok"
+    },
+    {
+      "name": "Hanan Bhatti",
+      "url": "https://hanan-bhatti.site",
+      "listedTitle": "Full Stack Developer | Creator",
+      "emails": [
+        "you@domain.com"
+      ],
+      "github": [
+        "https://github.com/hanan-bhatti"
+      ],
+      "linkedin": "https://linkedin.com/in/hanan-bhatti",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Hanan Bhatti — Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Harsh Prajapati",
+      "url": "https://harsh-prajapati54-github-io.vercel.app",
+      "listedTitle": "AI|ML Engineer",
+      "emails": [
+        "harshpr674@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Harsh-Prajapati54"
+      ],
+      "linkedin": "https://www.linkedin.com/in/harsh-prajapati-393759296",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "experience": null,
+      "title": "Harsh Prajapati — AI Engineer · LLM & RAG Systems",
+      "location": "scratch",
+      "status": "ok"
+    },
+    {
       "name": "Loren Kamau",
-      "url": "https://lorenkamau.com/",
+      "url": "https://lorenkamau.com",
       "listedTitle": "Founder of Aptifolio",
       "emails": [
         "ndunguloren96@gmail.com"
@@ -37498,25 +37527,19 @@
       "status": "ok"
     },
     {
-      "name": "Brijesh Chandrakar",
-      "url": "https://brijesh-chandrakar.vercel.app",
-      "listedTitle": "",
-      "emails": [
-        "brijeshchandrakar@hotmail.co.uk"
-      ],
-      "github": [
-        "https://github.com/brijeshc"
-      ],
-      "linkedin": "https://www.linkedin.com/in/brijesh-chandrakar-b3b83957",
+      "name": "Sairithik Komuravelly",
+      "url": "https://heysai.dev",
+      "listedTitle": "Full Stack Engineer | AI Integration & Tooling",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
       "twitter": null,
       "stack": [
-        "React",
-        "Django",
-        "React Native"
+        "React"
       ],
-      "experience": "5+ years",
-      "title": "Brijesh Chandrakar · योगः कर्मसु कौशलम्",
-      "location": "the",
+      "experience": null,
+      "title": "Sai",
+      "location": null,
       "status": "ok"
     }
   ]
