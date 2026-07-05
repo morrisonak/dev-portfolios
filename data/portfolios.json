@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-04T13:19:09.327Z",
-    "total": 1825,
-    "successful": 1502,
+    "scrapedAt": "2026-07-05T02:51:16.077Z",
+    "total": 1828,
+    "successful": 1505,
     "failed": 323,
-    "withEmail": 707,
-    "withGithub": 997,
-    "withStack": 1238,
-    "withLinkedin": 897,
+    "withEmail": 709,
+    "withGithub": 1000,
+    "withStack": 1241,
+    "withLinkedin": 900,
     "withTwitter": 419
   },
   "portfolios": [
@@ -37610,6 +37610,75 @@
       "experience": null,
       "title": "Work · Simonee Mariquit",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sahil Md",
+      "url": "https://macios.vercel.app",
+      "listedTitle": "Full Stack Software Engineer | Specialist in AI Integration & Software Development | Freelancer",
+      "emails": [],
+      "github": [
+        "https://github.com/Sudhanshu-khosla-26"
+      ],
+      "linkedin": "https://linkedin.com/in/sudhanshu-khosla-a05b4a298",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Node.js",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Sahil | Full Stack Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vaishali Purohit",
+      "url": "https://vaishali-portfolio-nine.vercel.app/",
+      "listedTitle": "Senior Full Stack Engineer | React, Next.js, TypeScript, Node.js, Python | AI & Data Science",
+      "emails": [
+        "vaishalipurohit12@gmail.com"
+      ],
+      "github": [
+        "https://github.com/vaishali-purohit"
+      ],
+      "linkedin": "https://linkedin.com/in/vaishali-purohit",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Redis",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Vaishali Purohit | Senior Full-Stack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vishnu Rohith B",
+      "url": "https://vishnurohithb.dev",
+      "listedTitle": "Full-Stack Developer",
+      "emails": [
+        "b.vishnurohith@gmail.com"
+      ],
+      "github": [
+        "https://github.com/VR22124"
+      ],
+      "linkedin": "https://www.linkedin.com/in/vishnurohithb",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Azure"
+      ],
+      "experience": null,
+      "title": "Vishnu Rohith B — Full-Stack Developer | Portfolio",
+      "location": "emails and creates Google Calendar events",
       "status": "ok"
     }
   ]
