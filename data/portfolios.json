@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-05T02:51:16.077Z",
-    "total": 1828,
-    "successful": 1505,
+    "scrapedAt": "2026-07-05T13:25:48.500Z",
+    "total": 1831,
+    "successful": 1508,
     "failed": 323,
-    "withEmail": 709,
-    "withGithub": 1000,
-    "withStack": 1241,
-    "withLinkedin": 900,
-    "withTwitter": 419
+    "withEmail": 710,
+    "withGithub": 1001,
+    "withStack": 1244,
+    "withLinkedin": 901,
+    "withTwitter": 420
   },
   "portfolios": [
     {
@@ -37679,6 +37679,75 @@
       "experience": null,
       "title": "Vishnu Rohith B — Full-Stack Developer | Portfolio",
       "location": "emails and creates Google Calendar events",
+      "status": "ok"
+    },
+    {
+      "name": "Akash Santra",
+      "url": "https://my-portfolio-one-roan-33.vercel.app",
+      "listedTitle": "Full Stack Developer | AI & Open Source Contributor",
+      "emails": [
+        "santraakash@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Akash504-ai"
+      ],
+      "linkedin": "https://www.linkedin.com/in/akash-santra-5823b42a6",
+      "twitter": "https://x.com/akashsantra999",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Akash | Home",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Calzye",
+      "url": "https://calzye.com",
+      "listedTitle": "AI-Powered Calculator Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Astro",
+        "JavaScript",
+        "Express",
+        "Azure"
+      ],
+      "experience": null,
+      "title": "Calzye | Free Online Calculators",
+      "location": "date of birth",
+      "status": "ok"
+    },
+    {
+      "name": "Sammeyak Wankhade",
+      "url": "https://sammeyak-portfolio.netlify.app/",
+      "listedTitle": "Software Engineer | Solution Architect",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "Python",
+        "Java",
+        "Spring",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Sammeyak Wankhade — Software Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
