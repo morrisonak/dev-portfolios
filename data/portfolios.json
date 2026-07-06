@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-06T10:14:22.294Z",
-    "total": 1828,
-    "successful": 1505,
+    "scrapedAt": "2026-07-06T15:26:31.952Z",
+    "total": 1830,
+    "successful": 1507,
     "failed": 323,
-    "withEmail": 707,
-    "withGithub": 997,
-    "withStack": 1240,
-    "withLinkedin": 898,
+    "withEmail": 708,
+    "withGithub": 998,
+    "withStack": 1241,
+    "withLinkedin": 899,
     "withTwitter": 420
   },
   "portfolios": [
@@ -37674,6 +37674,52 @@
       "experience": null,
       "title": "AI Engineer Portfolio | Kunal K",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Chigozie Ghislian",
+      "url": "https://ghislian-ai.netlify.app",
+      "listedTitle": "Junior Machine Learning Engineer | AI & Data Science",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ghislian Chigozie Ibekwe AI Architect & Data Scientist",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Soumyaranjan Rout",
+      "url": "https://soumya-portfolio.pages.dev",
+      "listedTitle": "Full Stack Developer | Agentic AI & Innovation Enthusiast",
+      "emails": [
+        "soumya2k00@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Soumya7681"
+      ],
+      "linkedin": "https://www.linkedin.com/in/soumyaranjan-rout-87086a207",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Java",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Soumyaranjan Rout - Full Stack and AI Engineer",
+      "location": "retrieval systems to the interface",
       "status": "ok"
     }
   ]
