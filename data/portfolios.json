@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-06T15:26:31.952Z",
-    "total": 1830,
-    "successful": 1507,
+    "scrapedAt": "2026-07-06T19:52:19.015Z",
+    "total": 1832,
+    "successful": 1509,
     "failed": 323,
-    "withEmail": 708,
-    "withGithub": 998,
-    "withStack": 1241,
-    "withLinkedin": 899,
+    "withEmail": 710,
+    "withGithub": 1000,
+    "withStack": 1243,
+    "withLinkedin": 901,
     "withTwitter": 420
   },
   "portfolios": [
@@ -37720,6 +37720,62 @@
       "experience": null,
       "title": "Soumyaranjan Rout - Full Stack and AI Engineer",
       "location": "retrieval systems to the interface",
+      "status": "ok"
+    },
+    {
+      "name": "Devanshu Chicholikar",
+      "url": "https://devanshuchicholikar.com",
+      "listedTitle": "Software Engineer | Full-Stack & AI",
+      "emails": [
+        "chicholikar.d@northeastern.edu"
+      ],
+      "github": [
+        "https://github.com/DevanshuNEU",
+        "https://github.com/OpenCodeIntel"
+      ],
+      "linkedin": "https://www.linkedin.com/in/devanshuchicholikar",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Devanshu Chicholikar | AI Engineer, MCP &amp; RAG Dev Tools",
+      "location": "Boston, MA",
+      "status": "ok"
+    },
+    {
+      "name": "Hosama Adem",
+      "url": "https://hosamaadem-portfolio-6ujt.vercel.app/",
+      "listedTitle": "Software Engineering Student | Full-Stack Developer",
+      "emails": [
+        "hosamaadem8@gmail.com"
+      ],
+      "github": [
+        "https://github.com/hosama-adem"
+      ],
+      "linkedin": "https://www.linkedin.com/in/hosama-adem-867878402",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Hosama Adem — Backend &amp; Full-Stack Engineer",
+      "location": "the ground up",
       "status": "ok"
     }
   ]
