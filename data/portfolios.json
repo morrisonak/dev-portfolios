@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-05T13:25:48.500Z",
-    "total": 1831,
-    "successful": 1508,
+    "scrapedAt": "2026-07-06T02:57:35.089Z",
+    "total": 1827,
+    "successful": 1504,
     "failed": 323,
-    "withEmail": 710,
-    "withGithub": 1001,
-    "withStack": 1244,
-    "withLinkedin": 901,
+    "withEmail": 707,
+    "withGithub": 997,
+    "withStack": 1240,
+    "withLinkedin": 898,
     "withTwitter": 420
   },
   "portfolios": [
@@ -264,34 +264,6 @@
       ],
       "experience": null,
       "title": "Aarab Nishchal | Full Stack Developer &amp; AI Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Aarav Gupta",
-      "url": "https://aarus2709.me",
-      "listedTitle": "",
-      "emails": [
-        "tribejustice35@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Aarav2709",
-        "https://github.com/HyPrismTeam",
-        "https://github.com/Nathan5471"
-      ],
-      "linkedin": "https://linkedin.com/in/aarav2709",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Astro",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Docker"
-      ],
-      "experience": null,
-      "title": "AarusPortfolio",
       "location": null,
       "status": "ok"
     },
@@ -9640,27 +9612,6 @@
       "status": "ok"
     },
     {
-      "name": "Dino Gomez",
-      "url": "https://dinogomez.vercel.app",
-      "listedTitle": "",
-      "emails": [
-        "dinogomez.dev@gmail.com"
-      ],
-      "github": [
-        "https://github.com/dinogomez"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "dinogomez",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Dino Kupinic",
       "url": "https://dino-kupinic.dev",
       "listedTitle": "Software Engineer",
@@ -13328,24 +13279,6 @@
       "status": "ok"
     },
     {
-      "name": "Irfan.Dev",
-      "url": "https://irfan-devs.vercel.app",
-      "listedTitle": "Frontend Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/your-github-profile"
-      ],
-      "linkedin": "https://www.linkedin.com/in/irfan-naikwade",
-      "twitter": null,
-      "stack": [
-        "React"
-      ],
-      "experience": null,
-      "title": "Irfan.dev",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Isabella Riquetti",
       "url": "https://isabella-riquetti.netlify.app",
       "listedTitle": "",
@@ -16336,26 +16269,6 @@
       "stack": [],
       "experience": null,
       "title": "Kushwinth Kumar Portfolio | Web Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Kwameh Dhegbo",
-      "url": "https://kwamehdhegbo.com",
-      "listedTitle": "@Kwamsd",
-      "emails": [
-        "kwameh.dhegbo@gmail.com"
-      ],
-      "github": [
-        "https://github.com/kwamsd"
-      ],
-      "linkedin": "https://www.linkedin.com/in/kwameh-dhegbo-9b779420a",
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Portfolio de Kwameh DHEGBO | Étudiant Web & App",
       "location": null,
       "status": "ok"
     },
@@ -34832,28 +34745,6 @@
       "status": "ok"
     },
     {
-      "name": "Vinay Katikireddy",
-      "url": "https://vinaykatikireddy.is-a.dev",
-      "listedTitle": "Cybersecurity, Full Stack Developer",
-      "emails": [
-        "vinaykatikireddy116@gmail.com"
-      ],
-      "github": [
-        "https://github.com/vinaykatikireddy"
-      ],
-      "linkedin": "https://www.linkedin.com/in/vinaykatikireddy",
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        "Python",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Vinay - Portfolio",
-      "location": "all over the internet",
-      "status": "ok"
-    },
-    {
       "name": "Wasib Sattar",
       "url": "https://wasibsattar.com",
       "listedTitle": "AI Engineer",
@@ -37633,32 +37524,6 @@
       "status": "ok"
     },
     {
-      "name": "Vaishali Purohit",
-      "url": "https://vaishali-portfolio-nine.vercel.app/",
-      "listedTitle": "Senior Full Stack Engineer | React, Next.js, TypeScript, Node.js, Python | AI & Data Science",
-      "emails": [
-        "vaishalipurohit12@gmail.com"
-      ],
-      "github": [
-        "https://github.com/vaishali-purohit"
-      ],
-      "linkedin": "https://linkedin.com/in/vaishali-purohit",
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "Python",
-        "Node.js",
-        "Redis",
-        "Figma",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Vaishali Purohit | Senior Full-Stack Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Vishnu Rohith B",
       "url": "https://vishnurohithb.dev",
       "listedTitle": "Full-Stack Developer",
@@ -37731,8 +37596,29 @@
       "status": "ok"
     },
     {
+      "name": "Prem Kumar Rajbhar",
+      "url": "https://premkrrajbhar.github.io/prem_kumar_rajbhar/",
+      "listedTitle": "Software Developer",
+      "emails": [
+        "premkumarrajbhar22@gmail.com"
+      ],
+      "github": [
+        "https://github.com/premkrrajbhar"
+      ],
+      "linkedin": "https://www.linkedin.com/in/premkrrajbhar",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Prem Kumar Rajbhar | Frontend Developer | Portfolio",
+      "location": "you",
+      "status": "ok"
+    },
+    {
       "name": "Sammeyak Wankhade",
-      "url": "https://sammeyak-portfolio.netlify.app/",
+      "url": "https://sammeyak-portfolio.netlify.app",
       "listedTitle": "Software Engineer | Solution Architect",
       "emails": [],
       "github": [],
@@ -37747,6 +37633,32 @@
       ],
       "experience": null,
       "title": "Sammeyak Wankhade — Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vaishali Purohit",
+      "url": "https://vaishali-portfolio-nine.vercel.app",
+      "listedTitle": "Senior Full Stack Engineer | React, Next.js, TypeScript, Node.js, Python | AI & Data Science",
+      "emails": [
+        "vaishalipurohit12@gmail.com"
+      ],
+      "github": [
+        "https://github.com/vaishali-purohit"
+      ],
+      "linkedin": "https://linkedin.com/in/vaishali-purohit",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Redis",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Vaishali Purohit | Senior Full-Stack Engineer",
       "location": null,
       "status": "ok"
     }
