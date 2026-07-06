@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-06T02:57:35.089Z",
-    "total": 1827,
-    "successful": 1504,
+    "scrapedAt": "2026-07-06T10:14:22.294Z",
+    "total": 1828,
+    "successful": 1505,
     "failed": 323,
     "withEmail": 707,
     "withGithub": 997,
@@ -37659,6 +37659,20 @@
       ],
       "experience": null,
       "title": "Vaishali Purohit | Senior Full-Stack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kunal K",
+      "url": "https://kunalx.is-a.dev",
+      "listedTitle": "Data Scientist | AI & Agentic AI Engineer | Backend | DevOps | Voice AI Agents",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "AI Engineer Portfolio | Kunal K",
       "location": null,
       "status": "ok"
     }
