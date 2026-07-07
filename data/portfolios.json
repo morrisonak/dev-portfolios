@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-07T02:51:39.472Z",
-    "total": 1833,
-    "successful": 1510,
+    "scrapedAt": "2026-07-07T19:51:37.572Z",
+    "total": 1836,
+    "successful": 1513,
     "failed": 323,
-    "withEmail": 710,
-    "withGithub": 1000,
-    "withStack": 1244,
-    "withLinkedin": 902,
+    "withEmail": 711,
+    "withGithub": 1001,
+    "withStack": 1246,
+    "withLinkedin": 903,
     "withTwitter": 420
   },
   "portfolios": [
@@ -37795,6 +37795,74 @@
       "experience": "10+ years",
       "title": "Roxana Lafuente | Done-for-You Websites, Funnels &amp; Lead Generation for Coaches and Service Providers",
       "location": "a typical freelancer or agency",
+      "status": "ok"
+    },
+    {
+      "name": "Ferhat Ölmez",
+      "url": "https://ferhatolmez.vercel.app/",
+      "listedTitle": "Full Stack Developer | React & Node",
+      "emails": [
+        "ferology1317@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Laravel",
+        "PostgreSQL",
+        "MongoDB",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Ferhat Ölmez | Junior Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Saurav G.C.",
+      "url": "https://gcsaurav.com.np",
+      "listedTitle": "Full Stack Developer| ML",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Saurav G.C.",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shawn Osborne",
+      "url": "https://shawnosborne.dev",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/ShawnWebDev"
+      ],
+      "linkedin": "https://linkedin.com/in/shawnosbornedev",
+      "twitter": null,
+      "stack": [
+        "Vue",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Express",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Shawn Osborne&#39;s Website",
+      "location": "design to deployment",
       "status": "ok"
     }
   ]
