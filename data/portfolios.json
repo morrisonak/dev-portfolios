@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-06T19:52:19.015Z",
-    "total": 1832,
-    "successful": 1509,
+    "scrapedAt": "2026-07-07T02:51:39.472Z",
+    "total": 1833,
+    "successful": 1510,
     "failed": 323,
     "withEmail": 710,
     "withGithub": 1000,
-    "withStack": 1243,
-    "withLinkedin": 901,
+    "withStack": 1244,
+    "withLinkedin": 902,
     "withTwitter": 420
   },
   "portfolios": [
@@ -37776,6 +37776,25 @@
       "experience": null,
       "title": "Hosama Adem — Backend &amp; Full-Stack Engineer",
       "location": "the ground up",
+      "status": "ok"
+    },
+    {
+      "name": "Roxana Lafuente",
+      "url": "https://www.roxanalafuente.com/en?utm_source=github&utm_content=developer-portfolios",
+      "listedTitle": "Coding Instructor | Full Stack Web Developer | AI",
+      "emails": [],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/lafuenter",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "Go"
+      ],
+      "experience": "10+ years",
+      "title": "Roxana Lafuente | Done-for-You Websites, Funnels &amp; Lead Generation for Coaches and Service Providers",
+      "location": "a typical freelancer or agency",
       "status": "ok"
     }
   ]
