@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-08T13:59:00.753Z",
-    "total": 1841,
-    "successful": 1518,
+    "scrapedAt": "2026-07-08T19:21:03.400Z",
+    "total": 1843,
+    "successful": 1520,
     "failed": 323,
-    "withEmail": 715,
-    "withGithub": 1005,
-    "withStack": 1251,
-    "withLinkedin": 908,
+    "withEmail": 717,
+    "withGithub": 1007,
+    "withStack": 1253,
+    "withLinkedin": 910,
     "withTwitter": 422
   },
   "portfolios": [
@@ -37993,6 +37993,60 @@
       "experience": null,
       "title": "Ezra Desmond Sutanto - AI Engineer &amp; Full-Stack Builder",
       "location": "intention to execution",
+      "status": "ok"
+    },
+    {
+      "name": "Alif Jobaer",
+      "url": "https://alifjobaer12.vercel.app",
+      "listedTitle": "Full-Stack MERN & Next.js Developer | IoT & Algorithmic Problem Solving",
+      "emails": [
+        "alifjobaer12@gmail.com"
+      ],
+      "github": [
+        "https://github.com/alifjobaer12"
+      ],
+      "linkedin": "https://linkedin.com/in/alifjobaer12",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "Docker",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Md Jobaer Islam Alif | Full-Stack MERN Developer in Dhaka",
+      "location": "Dhaka, Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Hariharan Narlakanti",
+      "url": "https://portfolio-harin999s-projects.vercel.app/",
+      "listedTitle": "AI Engineer | Backend Developer",
+      "emails": [
+        "narlakantihariharan@gmail.com"
+      ],
+      "github": [
+        "https://github.com/HariN999"
+      ],
+      "linkedin": "https://www.linkedin.com/in/narlakanti-hariharan",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Hariharan Narlakanti - AI Engineer | Backend & Full-Stack Developer",
+      "location": null,
       "status": "ok"
     }
   ]
