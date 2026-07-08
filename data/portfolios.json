@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-08T02:28:47.827Z",
-    "total": 1839,
-    "successful": 1516,
+    "scrapedAt": "2026-07-08T13:59:00.753Z",
+    "total": 1841,
+    "successful": 1518,
     "failed": 323,
-    "withEmail": 713,
-    "withGithub": 1003,
-    "withStack": 1249,
-    "withLinkedin": 906,
-    "withTwitter": 421
+    "withEmail": 715,
+    "withGithub": 1005,
+    "withStack": 1251,
+    "withLinkedin": 908,
+    "withTwitter": 422
   },
   "portfolios": [
     {
@@ -37936,6 +37936,63 @@
       "experience": null,
       "title": "Joshua Paul — Senior Fullstack &amp; AI Engineer",
       "location": "Malta",
+      "status": "ok"
+    },
+    {
+      "name": "Allen Koch",
+      "url": "https://allenkoch.dev/",
+      "listedTitle": "Full Stack Developer & AI Builder",
+      "emails": [
+        "allen.kch24@gmail.com"
+      ],
+      "github": [
+        "https://github.com/crousty24-bit"
+      ],
+      "linkedin": "https://www.linkedin.com/in/allen-koch-41290417b",
+      "twitter": "https://x.com/crousty24",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Ruby",
+        "Rails"
+      ],
+      "experience": null,
+      "title": "Allen Koch | Développeur Web | Alsace, France",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ezra Desmond Sutanto",
+      "url": "https://www.ezradesmonds.my.id",
+      "listedTitle": "AI Engineer | Full Stack Developer",
+      "emails": [
+        "ezradesmonds@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ezradesmonds"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ezradesmonds",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Ezra Desmond Sutanto - AI Engineer &amp; Full-Stack Builder",
+      "location": "intention to execution",
       "status": "ok"
     }
   ]
