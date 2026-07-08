@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-07T19:51:37.572Z",
-    "total": 1836,
-    "successful": 1513,
+    "scrapedAt": "2026-07-08T02:28:47.827Z",
+    "total": 1839,
+    "successful": 1516,
     "failed": 323,
-    "withEmail": 711,
-    "withGithub": 1001,
-    "withStack": 1246,
-    "withLinkedin": 903,
-    "withTwitter": 420
+    "withEmail": 713,
+    "withGithub": 1003,
+    "withStack": 1249,
+    "withLinkedin": 906,
+    "withTwitter": 421
   },
   "portfolios": [
     {
@@ -37863,6 +37863,79 @@
       "experience": null,
       "title": "Shawn Osborne&#39;s Website",
       "location": "design to deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Aarav Sharma",
+      "url": "https://aarav-sharma-liart.vercel.app",
+      "listedTitle": "Founder at Wensity | Sr. design engineer | UI/UX developer in Rune",
+      "emails": [
+        "hello@parthh.in"
+      ],
+      "github": [
+        "https://github.com/ksparth12"
+      ],
+      "linkedin": "https://linkedin.com/in/ksparth12",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Aarav Sharma - Portfolio",
+      "location": "first impression to revenue, without losing technical quality or visual product polish",
+      "status": "ok"
+    },
+    {
+      "name": "Enea",
+      "url": "https://eneawork.it/",
+      "listedTitle": "Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/eneazani",
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Enea Zani",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Joshua Paul",
+      "url": "https://joshuapaul.me",
+      "listedTitle": "Senior Fullstack & Applied AI Engineer",
+      "emails": [
+        "hi@joshuapaul.me"
+      ],
+      "github": [
+        "https://github.com/cybernerdie"
+      ],
+      "linkedin": "https://linkedin.com/in/cybernerdie",
+      "twitter": "https://x.com/cybernerdie",
+      "stack": [
+        "Astro",
+        "Laravel",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Joshua Paul — Senior Fullstack &amp; AI Engineer",
+      "location": "Malta",
       "status": "ok"
     }
   ]
