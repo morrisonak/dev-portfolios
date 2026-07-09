@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-08T19:21:03.400Z",
-    "total": 1843,
-    "successful": 1520,
+    "scrapedAt": "2026-07-09T02:44:49.016Z",
+    "total": 1844,
+    "successful": 1521,
     "failed": 323,
-    "withEmail": 717,
-    "withGithub": 1007,
-    "withStack": 1253,
-    "withLinkedin": 910,
+    "withEmail": 718,
+    "withGithub": 1008,
+    "withStack": 1254,
+    "withLinkedin": 911,
     "withTwitter": 422
   },
   "portfolios": [
@@ -38047,6 +38047,32 @@
       "experience": null,
       "title": "Hariharan Narlakanti - AI Engineer | Backend & Full-Stack Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abdelrahman Saed",
+      "url": "https://bnsaed.com/",
+      "listedTitle": "Senior Mobile Engineer",
+      "emails": [
+        "me@bnsaed.com"
+      ],
+      "github": [
+        "https://github.com/binSaed",
+        "https://github.com/Hexer10",
+        "https://github.com/rodion-m",
+        "https://github.com/growthbook"
+      ],
+      "linkedin": "https://www.linkedin.com/in/binsaed",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Firebase",
+        "GraphQL",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Abdelrahman Saed | Senior Mobile Engineer (Flutter)",
+      "location": "his guidance",
       "status": "ok"
     }
   ]
