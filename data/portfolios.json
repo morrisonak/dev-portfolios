@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-09T02:44:49.016Z",
-    "total": 1844,
-    "successful": 1521,
+    "scrapedAt": "2026-07-09T14:53:01.814Z",
+    "total": 1847,
+    "successful": 1524,
     "failed": 323,
     "withEmail": 718,
-    "withGithub": 1008,
-    "withStack": 1254,
-    "withLinkedin": 911,
-    "withTwitter": 422
+    "withGithub": 1009,
+    "withStack": 1255,
+    "withLinkedin": 912,
+    "withTwitter": 423
   },
   "portfolios": [
     {
@@ -38073,6 +38073,57 @@
       "experience": null,
       "title": "Abdelrahman Saed | Senior Mobile Engineer (Flutter)",
       "location": "his guidance",
+      "status": "ok"
+    },
+    {
+      "name": "Nikhil Yadav",
+      "url": "https://niksoriginals.in",
+      "listedTitle": "Software Developer & Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": "https://twitter.com/niksoriginals",
+      "stack": [],
+      "experience": null,
+      "title": "Niksoriginals | Nikhil Yadav - Software Developer &amp; Designer",
+      "location": "Greater Noida",
+      "status": "ok"
+    },
+    {
+      "name": "Nishchay Jain",
+      "url": "https://nishchayjain.vercel.app/",
+      "listedTitle": "Senior Software Engineer | Full-Stack, AI Systems & Distributed Architecture",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Nishchay Jain - Senior Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shubham Gupta",
+      "url": "https://www.shubhamgupta.dev/",
+      "listedTitle": "Senior Software Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/10shubham01"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shubhamgupta001",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Shubham Gupta — Software Engineer @ WebMD",
+      "location": null,
       "status": "ok"
     }
   ]
