@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-10T02:47:53.059Z",
-    "total": 1849,
-    "successful": 1526,
+    "scrapedAt": "2026-07-10T14:20:09.873Z",
+    "total": 1851,
+    "successful": 1528,
     "failed": 323,
-    "withEmail": 719,
-    "withGithub": 1010,
-    "withStack": 1257,
-    "withLinkedin": 913,
+    "withEmail": 720,
+    "withGithub": 1011,
+    "withStack": 1259,
+    "withLinkedin": 914,
     "withTwitter": 423
   },
   "portfolios": [
@@ -38168,6 +38168,56 @@
       ],
       "experience": null,
       "title": "Prakhar Patel - Senior Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Atanu Biswas",
+      "url": "https://atanu-portfolio-devsecops-production.up.railway.app",
+      "listedTitle": "DevSecOps Engineer | DevOps Specialist",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Atanu Biswas | DevSecOps Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Pahasara Ridmaka",
+      "url": "https://pahasara.me",
+      "listedTitle": "Aspiring Data Engineer",
+      "emails": [
+        "pridmaka@gmail.com"
+      ],
+      "github": [
+        "https://github.com/pahasara-ridmaka"
+      ],
+      "linkedin": "https://linkedin.com/in/pahasara-ridmaka",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Django",
+        "Flask",
+        "AWS",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Portfolio | Pahasara Ridmaka",
       "location": null,
       "status": "ok"
     }
