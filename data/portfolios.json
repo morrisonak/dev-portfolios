@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-09T14:53:01.814Z",
-    "total": 1847,
-    "successful": 1524,
+    "scrapedAt": "2026-07-10T02:47:53.059Z",
+    "total": 1849,
+    "successful": 1526,
     "failed": 323,
-    "withEmail": 718,
-    "withGithub": 1009,
-    "withStack": 1255,
-    "withLinkedin": 912,
+    "withEmail": 719,
+    "withGithub": 1010,
+    "withStack": 1257,
+    "withLinkedin": 913,
     "withTwitter": 423
   },
   "portfolios": [
@@ -38123,6 +38123,51 @@
       ],
       "experience": null,
       "title": "Shubham Gupta — Software Engineer @ WebMD",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aman kumar Jha",
+      "url": "https://Amanbuilds.me",
+      "listedTitle": "AI Engineer & Full-Stack Developer",
+      "emails": [
+        "amanjhaa.work@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Its-amanjha"
+      ],
+      "linkedin": "https://linkedin.com/in/its-amanjha",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Aman kumar Jha | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Prakhar Patel",
+      "url": "https://prakharpatel.vercel.app",
+      "listedTitle": "Full Stack Developer | Technical Lead",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript"
+      ],
+      "experience": null,
+      "title": "Prakhar Patel - Senior Software Engineer",
       "location": null,
       "status": "ok"
     }
