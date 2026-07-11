@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-11T02:26:22.633Z",
-    "total": 1852,
-    "successful": 1529,
-    "failed": 323,
-    "withEmail": 721,
-    "withGithub": 1012,
-    "withStack": 1260,
-    "withLinkedin": 915,
-    "withTwitter": 423
+    "scrapedAt": "2026-07-11T13:13:06.833Z",
+    "total": 1855,
+    "successful": 1530,
+    "failed": 325,
+    "withEmail": 722,
+    "withGithub": 1013,
+    "withStack": 1261,
+    "withLinkedin": 916,
+    "withTwitter": 425
   },
   "portfolios": [
     {
@@ -37750,35 +37750,6 @@
       "status": "ok"
     },
     {
-      "name": "Hosama Adem",
-      "url": "https://hosamaadem-portfolio-6ujt.vercel.app/",
-      "listedTitle": "Software Engineering Student | Full-Stack Developer",
-      "emails": [
-        "hosamaadem8@gmail.com"
-      ],
-      "github": [
-        "https://github.com/hosama-adem"
-      ],
-      "linkedin": "https://www.linkedin.com/in/hosama-adem-867878402",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Hosama Adem — Backend &amp; Full-Stack Engineer",
-      "location": "the ground up",
-      "status": "ok"
-    },
-    {
       "name": "Roxana Lafuente",
       "url": "https://www.roxanalafuente.com/en?utm_source=github&utm_content=developer-portfolios",
       "listedTitle": "Coding Instructor | Full Stack Web Developer | AI",
@@ -37795,31 +37766,6 @@
       "experience": "10+ years",
       "title": "Roxana Lafuente | Done-for-You Websites, Funnels &amp; Lead Generation for Coaches and Service Providers",
       "location": "a typical freelancer or agency",
-      "status": "ok"
-    },
-    {
-      "name": "Ferhat Ölmez",
-      "url": "https://ferhatolmez.vercel.app/",
-      "listedTitle": "Full Stack Developer | React & Node",
-      "emails": [
-        "ferology1317@gmail.com"
-      ],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "Laravel",
-        "PostgreSQL",
-        "MongoDB",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Ferhat Ölmez | Junior Full Stack Developer",
-      "location": null,
       "status": "ok"
     },
     {
@@ -37901,22 +37847,6 @@
       "status": "ok"
     },
     {
-      "name": "Enea",
-      "url": "https://eneawork.it/",
-      "listedTitle": "Designer",
-      "emails": [],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/eneazani",
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Enea Zani",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Joshua Paul",
       "url": "https://joshuapaul.me",
       "listedTitle": "Senior Fullstack & Applied AI Engineer",
@@ -37936,29 +37866,6 @@
       "experience": null,
       "title": "Joshua Paul — Senior Fullstack &amp; AI Engineer",
       "location": "Malta",
-      "status": "ok"
-    },
-    {
-      "name": "Allen Koch",
-      "url": "https://allenkoch.dev/",
-      "listedTitle": "Full Stack Developer & AI Builder",
-      "emails": [
-        "allen.kch24@gmail.com"
-      ],
-      "github": [
-        "https://github.com/crousty24-bit"
-      ],
-      "linkedin": "https://www.linkedin.com/in/allen-koch-41290417b",
-      "twitter": "https://x.com/crousty24",
-      "stack": [
-        "React",
-        "TypeScript",
-        "Ruby",
-        "Rails"
-      ],
-      "experience": null,
-      "title": "Allen Koch | Développeur Web | Alsace, France",
-      "location": null,
       "status": "ok"
     },
     {
@@ -38029,53 +37936,6 @@
       "status": "ok"
     },
     {
-      "name": "Hariharan Narlakanti",
-      "url": "https://portfolio-harin999s-projects.vercel.app/",
-      "listedTitle": "AI Engineer | Backend Developer",
-      "emails": [
-        "narlakantihariharan@gmail.com"
-      ],
-      "github": [
-        "https://github.com/HariN999"
-      ],
-      "linkedin": "https://www.linkedin.com/in/narlakanti-hariharan",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Python"
-      ],
-      "experience": null,
-      "title": "Hariharan Narlakanti - AI Engineer | Backend & Full-Stack Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Abdelrahman Saed",
-      "url": "https://bnsaed.com/",
-      "listedTitle": "Senior Mobile Engineer",
-      "emails": [
-        "me@bnsaed.com"
-      ],
-      "github": [
-        "https://github.com/binSaed",
-        "https://github.com/Hexer10",
-        "https://github.com/rodion-m",
-        "https://github.com/growthbook"
-      ],
-      "linkedin": "https://www.linkedin.com/in/binsaed",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Firebase",
-        "GraphQL",
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Abdelrahman Saed | Senior Mobile Engineer (Flutter)",
-      "location": "his guidance",
-      "status": "ok"
-    },
-    {
       "name": "Nikhil Yadav",
       "url": "https://niksoriginals.in",
       "listedTitle": "Software Developer & Designer",
@@ -38087,43 +37947,6 @@
       "experience": null,
       "title": "Niksoriginals | Nikhil Yadav - Software Developer &amp; Designer",
       "location": "Greater Noida",
-      "status": "ok"
-    },
-    {
-      "name": "Nishchay Jain",
-      "url": "https://nishchayjain.vercel.app/",
-      "listedTitle": "Senior Software Engineer | Full-Stack, AI Systems & Distributed Architecture",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Nishchay Jain - Senior Software Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Shubham Gupta",
-      "url": "https://www.shubhamgupta.dev/",
-      "listedTitle": "Senior Software Engineer | Full Stack Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/10shubham01"
-      ],
-      "linkedin": "https://www.linkedin.com/in/shubhamgupta001",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Next.js",
-        "TypeScript",
-        "PostgreSQL",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Shubham Gupta — Software Engineer @ WebMD",
-      "location": null,
       "status": "ok"
     },
     {
@@ -38222,8 +38045,84 @@
       "status": "ok"
     },
     {
+      "name": "Abdelrahman Saed",
+      "url": "https://bnsaed.com",
+      "listedTitle": "Senior Mobile Engineer",
+      "emails": [
+        "me@bnsaed.com"
+      ],
+      "github": [
+        "https://github.com/binSaed",
+        "https://github.com/Hexer10",
+        "https://github.com/rodion-m",
+        "https://github.com/growthbook"
+      ],
+      "linkedin": "https://www.linkedin.com/in/binsaed",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Firebase",
+        "GraphQL",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Abdelrahman Saed | Senior Mobile Engineer (Flutter)",
+      "location": "his guidance",
+      "status": "ok"
+    },
+    {
+      "name": "Akhil Pillay",
+      "url": "https://akhil-devs-portfolio.vercel.app",
+      "listedTitle": "Full Stack Dev | Agentic Systems Architect",
+      "emails": [
+        "akhilpillay2.0@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Mr-Akhil12"
+      ],
+      "linkedin": "https://www.linkedin.com/in/akhil-pillay",
+      "twitter": "https://x.com/ThatITDudee",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Swift",
+        "Azure",
+        "Docker",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Akhil Pillay — Full-Stack Dev &amp; Agentic Architect",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Allen Koch",
+      "url": "https://allenkoch.dev",
+      "listedTitle": "Full Stack Developer & AI Builder",
+      "emails": [
+        "allen.kch24@gmail.com"
+      ],
+      "github": [
+        "https://github.com/crousty24-bit"
+      ],
+      "linkedin": "https://www.linkedin.com/in/allen-koch-41290417b",
+      "twitter": "https://x.com/crousty24",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Ruby",
+        "Rails"
+      ],
+      "experience": null,
+      "title": "Allen Koch | Développeur Web | Alsace, France",
+      "location": null,
+      "status": "ok"
+    },
+    {
       "name": "Aref Shalchi",
-      "url": "https://arefshalchi.com/",
+      "url": "https://arefshalchi.com",
       "listedTitle": "iOS Developer | Mobile Developer",
       "emails": [
         "arefshal@gmail.com"
@@ -38239,6 +38138,149 @@
       "experience": null,
       "title": "Aref Shalchi | iOS Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Camel Djoulako",
+      "url": "https://cameldjoulako.com",
+      "listedTitle": "Software Architect | Java, Spring Boot, Angular & Cloud/DevOps",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Enea",
+      "url": "https://eneawork.it",
+      "listedTitle": "Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/eneazani",
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Enea Zani",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ferhat Ölmez",
+      "url": "https://ferhatolmez.vercel.app",
+      "listedTitle": "Full Stack Developer | React & Node",
+      "emails": [
+        "ferology1317@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Laravel",
+        "PostgreSQL",
+        "MongoDB",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Ferhat Ölmez | Junior Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hariharan Narlakanti",
+      "url": "https://portfolio-harin999s-projects.vercel.app",
+      "listedTitle": "AI Engineer | Backend Developer",
+      "emails": [
+        "narlakantihariharan@gmail.com"
+      ],
+      "github": [
+        "https://github.com/HariN999"
+      ],
+      "linkedin": "https://www.linkedin.com/in/narlakanti-hariharan",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Hariharan Narlakanti - AI Engineer | Backend & Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hosama Adem",
+      "url": "https://hosamaadem-portfolio-6ujt.vercel.app",
+      "listedTitle": "Software Engineering Student | Full Stack Developer",
+      "status": "error",
+      "error": "HTTP 404"
+    },
+    {
+      "name": "Mahesh Darapureddy",
+      "url": "https://maheshdarapureddy.in",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "maheshdarapureddy15@gmail.com",
+        "you@domain.com"
+      ],
+      "github": [
+        "https://github.com/maheshdarapureddy15"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mahesh-darapureddy-a976a6321",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Flask",
+        "Azure",
+        "Docker",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Mahesh  — Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nishchay Jain",
+      "url": "https://nishchayjain.vercel.app",
+      "listedTitle": "Senior Software Engineer | Full Stack, AI Systems & Distributed Architecture",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Nishchay Jain - Senior Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shubham Gupta",
+      "url": "https://www.shubhamgupta.dev",
+      "listedTitle": "Senior Software Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/10shubham01"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shubhamgupta001",
+      "twitter": "https://x.com/10shubham01",
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Shubham Gupta — Software Engineer @ WebMD",
+      "location": "Mumbai, India",
       "status": "ok"
     }
   ]
