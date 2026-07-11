@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-10T14:20:09.873Z",
-    "total": 1851,
-    "successful": 1528,
+    "scrapedAt": "2026-07-11T02:26:22.633Z",
+    "total": 1852,
+    "successful": 1529,
     "failed": 323,
-    "withEmail": 720,
-    "withGithub": 1011,
-    "withStack": 1259,
-    "withLinkedin": 914,
+    "withEmail": 721,
+    "withGithub": 1012,
+    "withStack": 1260,
+    "withLinkedin": 915,
     "withTwitter": 423
   },
   "portfolios": [
@@ -38218,6 +38218,26 @@
       ],
       "experience": null,
       "title": "Portfolio | Pahasara Ridmaka",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aref Shalchi",
+      "url": "https://arefshalchi.com/",
+      "listedTitle": "iOS Developer | Mobile Developer",
+      "emails": [
+        "arefshal@gmail.com"
+      ],
+      "github": [
+        "https://github.com/arefshal"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aref-shalchi",
+      "twitter": null,
+      "stack": [
+        "Swift"
+      ],
+      "experience": null,
+      "title": "Aref Shalchi | iOS Developer",
       "location": null,
       "status": "ok"
     }
