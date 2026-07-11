@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-11T13:13:06.833Z",
-    "total": 1855,
-    "successful": 1530,
+    "scrapedAt": "2026-07-11T18:58:35.888Z",
+    "total": 1858,
+    "successful": 1533,
     "failed": 325,
-    "withEmail": 722,
-    "withGithub": 1013,
+    "withEmail": 723,
+    "withGithub": 1014,
     "withStack": 1261,
-    "withLinkedin": 916,
-    "withTwitter": 425
+    "withLinkedin": 917,
+    "withTwitter": 426
   },
   "portfolios": [
     {
@@ -38281,6 +38281,52 @@
       "experience": null,
       "title": "Shubham Gupta — Software Engineer @ WebMD",
       "location": "Mumbai, India",
+      "status": "ok"
+    },
+    {
+      "name": "Ethan Villalovoz",
+      "url": "https://ethanvillalovoz.com",
+      "listedTitle": "Software Engineer | Robotics & AI Researcher",
+      "emails": [
+        "ethan.villalovoz@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ethanvillalovoz"
+      ],
+      "linkedin": "https://www.linkedin.com/in/evillalovoz27",
+      "twitter": "https://x.com/ethanvillalovoz",
+      "stack": [],
+      "experience": null,
+      "title": "Ethan Villalovoz",
+      "location": "imperfect human feedback, reason under uncertainty, and align their behavior with human intent",
+      "status": "ok"
+    },
+    {
+      "name": "Samvesh",
+      "url": "https://portfolio-site-two-virid.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Samvesh Saini | Full Stack Developer & AI Application Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Supreet Mohapatra",
+      "url": "https://supreet-psi.vercel.app",
+      "listedTitle": "Frontend Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Supreet.dev",
+      "location": null,
       "status": "ok"
     }
   ]
