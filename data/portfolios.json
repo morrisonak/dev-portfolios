@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-11T18:58:35.888Z",
-    "total": 1858,
-    "successful": 1533,
+    "scrapedAt": "2026-07-12T02:31:50.419Z",
+    "total": 1860,
+    "successful": 1535,
     "failed": 325,
-    "withEmail": 723,
-    "withGithub": 1014,
-    "withStack": 1261,
-    "withLinkedin": 917,
-    "withTwitter": 426
+    "withEmail": 724,
+    "withGithub": 1016,
+    "withStack": 1263,
+    "withLinkedin": 919,
+    "withTwitter": 427
   },
   "portfolios": [
     {
@@ -38326,6 +38326,50 @@
       "stack": [],
       "experience": null,
       "title": "Supreet.dev",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aditya Namdeo",
+      "url": "https://adityanamdeo.qzz.io/",
+      "listedTitle": "Machine Learning Intern | AI",
+      "emails": [
+        "aditya5namdeo@gmail.com",
+        "user@node.com"
+      ],
+      "github": [
+        "https://github.com/cyberdragon55k"
+      ],
+      "linkedin": "https://www.linkedin.com/in/adityanamdeo",
+      "twitter": "https://x.com/cyberdragon55k",
+      "stack": [
+        "Next.js",
+        "Python",
+        "Kotlin",
+        "MySQL",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Aditya Namdeo | Data &amp; ML Systems Developer",
+      "location": "native Kotlin backend layers to live cloud deployments",
+      "status": "ok"
+    },
+    {
+      "name": "Lina Brihoum",
+      "url": "https://www.linabrihoum.com/",
+      "listedTitle": "Cloud Architect & Manager | Full Stack",
+      "emails": [],
+      "github": [
+        "https://github.com/linabrihoum"
+      ],
+      "linkedin": "https://www.linkedin.com/in/lina-brihoum",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Lina Brihoum Blog",
       "location": null,
       "status": "ok"
     }
