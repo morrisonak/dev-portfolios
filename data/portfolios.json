@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-14T02:12:27.110Z",
-    "total": 1864,
-    "successful": 1538,
+    "scrapedAt": "2026-07-14T13:28:31.513Z",
+    "total": 1867,
+    "successful": 1541,
     "failed": 326,
     "withEmail": 727,
-    "withGithub": 1019,
-    "withStack": 1266,
-    "withLinkedin": 922,
+    "withGithub": 1020,
+    "withStack": 1268,
+    "withLinkedin": 923,
     "withTwitter": 428
   },
   "portfolios": [
@@ -38454,6 +38454,59 @@
       "experience": "8+ years",
       "title": "Samad Talukder — Android &amp; Flutter Developer",
       "location": "digital banking at Hong Leong Bank to Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Patryk Jablonski",
+      "url": "https://patrykjablonski.cloud",
+      "listedTitle": "DevOps, Cloud & Systems Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Azure"
+      ],
+      "experience": null,
+      "title": "Patryk Jabłoński | DevOps, Cloud & Systems Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rishabh Chaturvedi",
+      "url": "https://rishabhchaturvedi.dev",
+      "listedTitle": "Lead Engineer | AI Architect & Backend Systems",
+      "emails": [],
+      "github": [
+        "https://github.com/RC-commit"
+      ],
+      "linkedin": "https://linkedin.com/in/rishabhjchaturvedi",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Ruby",
+        "Django",
+        "Rails",
+        "Azure",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Rishabh Chaturvedi | Lead Engineer &amp; Applied AI Systems",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sajid Alam",
+      "url": "https://sajidalam.pages.dev",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Sajid Alam — Full-Stack Developer & IoT Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
