@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-14T13:28:31.513Z",
-    "total": 1867,
-    "successful": 1541,
+    "scrapedAt": "2026-07-14T19:15:41.908Z",
+    "total": 1871,
+    "successful": 1545,
     "failed": 326,
-    "withEmail": 727,
-    "withGithub": 1020,
-    "withStack": 1268,
-    "withLinkedin": 923,
+    "withEmail": 729,
+    "withGithub": 1022,
+    "withStack": 1271,
+    "withLinkedin": 925,
     "withTwitter": 428
   },
   "portfolios": [
@@ -38506,6 +38506,104 @@
       "stack": [],
       "experience": null,
       "title": "Sajid Alam — Full-Stack Developer & IoT Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Daytime Dev",
+      "url": "https://daytime-dev.uk/",
+      "listedTitle": "Game Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Daytime's Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Omar Mubaidin",
+      "url": "https://mubx.dev",
+      "listedTitle": "Full Stack Developer | AI Engineer | CS Student",
+      "emails": [
+        "omarmubaidincs@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Omarmubx7"
+      ],
+      "linkedin": "https://www.linkedin.com/in/omarmubaidin",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Swift",
+        "Kotlin",
+        "Node.js",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Omar Mubaidin — Web Developer &amp; AI Engineer | mubx.dev",
+      "location": "Amman, Jordan",
+      "status": "ok"
+    },
+    {
+      "name": "Rishav kumar singh",
+      "url": "https://rishavkumar-portfolio.vercel.app/",
+      "listedTitle": "Software Engineer | Full stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "Rishav kumar sing - Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Utsav Gupta",
+      "url": "https://portfolio-84ka.vercel.app/",
+      "listedTitle": "AI & LLM Automation Developer",
+      "emails": [
+        "guptautsav27@gmail.com"
+      ],
+      "github": [
+        "https://github.com/utsavexe"
+      ],
+      "linkedin": "https://www.linkedin.com/in/utsavgupta-exe",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Utsav — Developer Portfolio",
       "location": null,
       "status": "ok"
     }
