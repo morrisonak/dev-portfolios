@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-12T02:31:50.419Z",
-    "total": 1860,
-    "successful": 1535,
-    "failed": 325,
-    "withEmail": 724,
-    "withGithub": 1016,
-    "withStack": 1263,
-    "withLinkedin": 919,
-    "withTwitter": 427
+    "scrapedAt": "2026-07-14T02:12:27.110Z",
+    "total": 1864,
+    "successful": 1538,
+    "failed": 326,
+    "withEmail": 727,
+    "withGithub": 1019,
+    "withStack": 1266,
+    "withLinkedin": 922,
+    "withTwitter": 428
   },
   "portfolios": [
     {
@@ -38371,6 +38371,89 @@
       "experience": null,
       "title": "Lina Brihoum Blog",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Andrew Demarest",
+      "url": "https://portfolio-sweandrew.vercel.app",
+      "listedTitle": "Senior Software Engineer",
+      "emails": [
+        "andrew.swe.30@gmail.com"
+      ],
+      "github": [
+        "https://github.com/gitiikus"
+      ],
+      "linkedin": "https://www.linkedin.com/in/andrew-demarest-5b228a52",
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Docker",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Andrew Demarest — Senior Full-Stack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Khushboo Mundada",
+      "url": "[portfolio-link](https://khushm.netlify.app/",
+      "listedTitle": "",
+      "status": "error",
+      "error": "Failed to parse URL from [portfolio-link](https://khushm.netlify.app/"
+    },
+    {
+      "name": "Kuldeep Rajput",
+      "url": "https://macos-kuldeeprajput.vercel.app",
+      "listedTitle": "Software Engineer | Full Stack Web Developer",
+      "emails": [
+        "contact.kuldeeprajput@gmail.com"
+      ],
+      "github": [
+        "https://github.com/kuldeeprajput-dev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/kuldeepdotcom",
+      "twitter": "https://x.com/kuldeepdotcom",
+      "stack": [
+        "React",
+        "Next.js"
+      ],
+      "experience": null,
+      "title": "Kuldeep Rajput - macOS Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Samad Talukder",
+      "url": "https://samadtalukder.com",
+      "listedTitle": "Full Stack & Mobile Developer | Exploring GenAi & Innovation Enthusiast",
+      "emails": [
+        "samadtalukdar6@gmail.com"
+      ],
+      "github": [
+        "https://github.com/samadtalukder"
+      ],
+      "linkedin": "https://www.linkedin.com/in/samadtalukder",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Swift",
+        "Kotlin",
+        "Firebase",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": "8+ years",
+      "title": "Samad Talukder — Android &amp; Flutter Developer",
+      "location": "digital banking at Hong Leong Bank to Bangladesh",
       "status": "ok"
     }
   ]
