@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-14T19:15:41.908Z",
-    "total": 1871,
-    "successful": 1545,
+    "scrapedAt": "2026-07-15T19:06:20.922Z",
+    "total": 1872,
+    "successful": 1546,
     "failed": 326,
-    "withEmail": 729,
-    "withGithub": 1022,
-    "withStack": 1271,
-    "withLinkedin": 925,
+    "withEmail": 730,
+    "withGithub": 1023,
+    "withStack": 1272,
+    "withLinkedin": 926,
     "withTwitter": 428
   },
   "portfolios": [
@@ -38605,6 +38605,36 @@
       "experience": null,
       "title": "Utsav — Developer Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Fahim Ahmed",
+      "url": "https://fahim-cloud.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "fahim.ahmed.portfolio@gmail.com"
+      ],
+      "github": [
+        "https://github.com/fahimahmed420"
+      ],
+      "linkedin": "https://www.linkedin.com/in/-fahim-ahmed",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Fahim Ahmed — Full-Stack Developer",
+      "location": "China to doorsteps across Bangladesh",
       "status": "ok"
     }
   ]
