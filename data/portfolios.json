@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-16T13:44:39.292Z",
-    "total": 1876,
-    "successful": 1550,
+    "scrapedAt": "2026-07-16T19:05:26.903Z",
+    "total": 1877,
+    "successful": 1551,
     "failed": 326,
-    "withEmail": 733,
-    "withGithub": 1026,
-    "withStack": 1276,
-    "withLinkedin": 930,
+    "withEmail": 734,
+    "withGithub": 1027,
+    "withStack": 1277,
+    "withLinkedin": 931,
     "withTwitter": 428
   },
   "portfolios": [
@@ -38742,6 +38742,36 @@
       "experience": null,
       "title": "Utsav — Developer Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shahmeer Rizwan",
+      "url": "https://shahmeerrizwan.com",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "hello@shahmeerrizwan.com"
+      ],
+      "github": [
+        "https://github.com/shahmeerrizwan"
+      ],
+      "linkedin": "https://www.linkedin.com/in/muhammadshahmeerrizwan",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Full-Stack Web &amp; Mobile App Developer for Startups",
+      "location": "idea validation to launch and beyond, I help you identify the right opportunities, build the right p",
       "status": "ok"
     }
   ]
