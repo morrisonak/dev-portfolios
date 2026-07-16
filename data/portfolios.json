@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-15T19:06:20.922Z",
-    "total": 1872,
-    "successful": 1546,
+    "scrapedAt": "2026-07-16T13:44:39.292Z",
+    "total": 1876,
+    "successful": 1550,
     "failed": 326,
-    "withEmail": 730,
-    "withGithub": 1023,
-    "withStack": 1272,
-    "withLinkedin": 926,
+    "withEmail": 733,
+    "withGithub": 1026,
+    "withStack": 1276,
+    "withLinkedin": 930,
     "withTwitter": 428
   },
   "portfolios": [
@@ -32012,22 +32012,6 @@
       "status": "ok"
     },
     {
-      "name": "Aaabaad Al Aziz",
-      "url": "https://red1-for-hek.vercel.app",
-      "listedTitle": "Full-Stack Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Aaabaad Al Aziz",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Vansh Agarwal",
       "url": "https://portfolio-2-0-murex-three.vercel.app",
       "listedTitle": "Full Stack Developer | AI & Agentic Systems",
@@ -38302,20 +38286,6 @@
       "status": "ok"
     },
     {
-      "name": "Samvesh",
-      "url": "https://portfolio-site-two-virid.vercel.app/",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Samvesh Saini | Full Stack Developer & AI Application Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Supreet Mohapatra",
       "url": "https://supreet-psi.vercel.app",
       "listedTitle": "Frontend Developer",
@@ -38326,50 +38296,6 @@
       "stack": [],
       "experience": null,
       "title": "Supreet.dev",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Aditya Namdeo",
-      "url": "https://adityanamdeo.qzz.io/",
-      "listedTitle": "Machine Learning Intern | AI",
-      "emails": [
-        "aditya5namdeo@gmail.com",
-        "user@node.com"
-      ],
-      "github": [
-        "https://github.com/cyberdragon55k"
-      ],
-      "linkedin": "https://www.linkedin.com/in/adityanamdeo",
-      "twitter": "https://x.com/cyberdragon55k",
-      "stack": [
-        "Next.js",
-        "Python",
-        "Kotlin",
-        "MySQL",
-        "Firebase"
-      ],
-      "experience": null,
-      "title": "Aditya Namdeo | Data &amp; ML Systems Developer",
-      "location": "native Kotlin backend layers to live cloud deployments",
-      "status": "ok"
-    },
-    {
-      "name": "Lina Brihoum",
-      "url": "https://www.linabrihoum.com/",
-      "listedTitle": "Cloud Architect & Manager | Full Stack",
-      "emails": [],
-      "github": [
-        "https://github.com/linabrihoum"
-      ],
-      "linkedin": "https://www.linkedin.com/in/lina-brihoum",
-      "twitter": null,
-      "stack": [
-        "Next.js",
-        "Kubernetes"
-      ],
-      "experience": null,
-      "title": "Lina Brihoum Blog",
       "location": null,
       "status": "ok"
     },
@@ -38399,13 +38325,6 @@
       "title": "Andrew Demarest — Senior Full-Stack Engineer",
       "location": null,
       "status": "ok"
-    },
-    {
-      "name": "Khushboo Mundada",
-      "url": "[portfolio-link](https://khushm.netlify.app/",
-      "listedTitle": "",
-      "status": "error",
-      "error": "Failed to parse URL from [portfolio-link](https://khushm.netlify.app/"
     },
     {
       "name": "Kuldeep Rajput",
@@ -38510,20 +38429,6 @@
       "status": "ok"
     },
     {
-      "name": "Daytime Dev",
-      "url": "https://daytime-dev.uk/",
-      "listedTitle": "Game Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Daytime's Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Omar Mubaidin",
       "url": "https://mubx.dev",
       "listedTitle": "Full Stack Developer | AI Engineer | CS Student",
@@ -38559,9 +38464,207 @@
       "status": "ok"
     },
     {
-      "name": "Rishav kumar singh",
-      "url": "https://rishavkumar-portfolio.vercel.app/",
-      "listedTitle": "Software Engineer | Full stack Developer",
+      "name": "Aditya Namdeo",
+      "url": "https://adityanamdeo.qzz.io",
+      "listedTitle": "Machine Learning Intern | AI",
+      "emails": [
+        "aditya5namdeo@gmail.com",
+        "user@node.com"
+      ],
+      "github": [
+        "https://github.com/cyberdragon55k"
+      ],
+      "linkedin": "https://www.linkedin.com/in/adityanamdeo",
+      "twitter": "https://x.com/cyberdragon55k",
+      "stack": [
+        "Next.js",
+        "Python",
+        "Kotlin",
+        "MySQL",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Aditya Namdeo | Data &amp; ML Systems Developer",
+      "location": "native Kotlin backend layers to live cloud deployments",
+      "status": "ok"
+    },
+    {
+      "name": "Alishba Iqbal",
+      "url": "https://harshendra.web.app",
+      "listedTitle": "Software Engineer & Full-Stack Developer",
+      "emails": [
+        "harshendraprajapati@gmail.com"
+      ],
+      "github": [
+        "https://github.com/harshendra1998"
+      ],
+      "linkedin": "https://www.linkedin.com/in/harshendra-p",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Harshendra | Creative Developer",
+      "location": "Ulhasnagar, Maharashtra, India",
+      "status": "ok"
+    },
+    {
+      "name": "Chalwe Chisela",
+      "url": "https://chalwe.com",
+      "listedTitle": "Senior Software Engineer | Flutter & Go",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Go",
+        "Swift",
+        "Kotlin",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Chalwe Chisela",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Daytime Dev",
+      "url": "https://daytime-dev.uk",
+      "listedTitle": "Game Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Daytime's Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Fahim Ahmed",
+      "url": "https://fahim-cloud.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "fahim.ahmed.portfolio@gmail.com"
+      ],
+      "github": [
+        "https://github.com/fahimahmed420"
+      ],
+      "linkedin": "https://www.linkedin.com/in/-fahim-ahmed",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Fahim Ahmed — Full-Stack Developer",
+      "location": "China to doorsteps across Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Harshendra Prajapati",
+      "url": "https://harshendra.web.app",
+      "listedTitle": "Creative Developer | MERN Stack & React Native",
+      "emails": [
+        "harshendraprajapati@gmail.com"
+      ],
+      "github": [
+        "https://github.com/harshendra1998"
+      ],
+      "linkedin": "https://www.linkedin.com/in/harshendra-p",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Harshendra | Creative Developer",
+      "location": "Ulhasnagar, Maharashtra, India",
+      "status": "ok"
+    },
+    {
+      "name": "Hussam Barqawi",
+      "url": "https://portfolio-kappa-mauve-pfdsqi3ae7.vercel.app",
+      "listedTitle": "AI Engineer | LLM Engineer | AI Agent Developer",
+      "emails": [
+        "hussam2001byb@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/hussam-barqawi-714617264",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Hussam Barqawi | AI Engineer | LLM Engineer | AI Agent Developer",
+      "location": "resume optimization to travel planning and appointment scheduling",
+      "status": "ok"
+    },
+    {
+      "name": "Khushboo Mundada",
+      "url": "[Portfolio-Link](https://khushm.netlify.app",
+      "listedTitle": "",
+      "status": "error",
+      "error": "Failed to parse URL from [Portfolio-Link](https://khushm.netlify.app"
+    },
+    {
+      "name": "Lina Brihoum",
+      "url": "https://www.linabrihoum.com",
+      "listedTitle": "Cloud Architect & Manager | Full Stack",
+      "emails": [],
+      "github": [
+        "https://github.com/linabrihoum"
+      ],
+      "linkedin": "https://www.linkedin.com/in/lina-brihoum",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Lina Brihoum Blog",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rishav Kumar Singh",
+      "url": "https://rishavkumar-portfolio.vercel.app",
+      "listedTitle": "Software Engineer | Full Stack Developer",
       "emails": [],
       "github": [],
       "linkedin": null,
@@ -38575,8 +38678,42 @@
       "status": "ok"
     },
     {
+      "name": "Samvesh",
+      "url": "https://portfolio-site-two-virid.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Samvesh Saini | Full Stack Developer & AI Application Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Soumya Jain",
+      "url": "https://soumyajain.vercel.app",
+      "listedTitle": "Software Developer | AI Exgineering",
+      "emails": [],
+      "github": [
+        "https://github.com/soumya-xy"
+      ],
+      "linkedin": "https://www.linkedin.com/in/soumya-jain-16561b253",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Soumya Jain | Software Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
       "name": "Utsav Gupta",
-      "url": "https://portfolio-84ka.vercel.app/",
+      "url": "https://portfolio-84ka.vercel.app",
       "listedTitle": "AI & LLM Automation Developer",
       "emails": [
         "guptautsav27@gmail.com"
@@ -38605,36 +38742,6 @@
       "experience": null,
       "title": "Utsav — Developer Portfolio",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Fahim Ahmed",
-      "url": "https://fahim-cloud.vercel.app/",
-      "listedTitle": "Full Stack Developer",
-      "emails": [
-        "fahim.ahmed.portfolio@gmail.com"
-      ],
-      "github": [
-        "https://github.com/fahimahmed420"
-      ],
-      "linkedin": "https://www.linkedin.com/in/-fahim-ahmed",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "MongoDB",
-        "Firebase",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Fahim Ahmed — Full-Stack Developer",
-      "location": "China to doorsteps across Bangladesh",
       "status": "ok"
     }
   ]
