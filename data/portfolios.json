@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-17T02:26:20.173Z",
-    "total": 1878,
-    "successful": 1552,
+    "scrapedAt": "2026-07-17T13:22:04.982Z",
+    "total": 1881,
+    "successful": 1555,
     "failed": 326,
-    "withEmail": 735,
-    "withGithub": 1028,
-    "withStack": 1278,
-    "withLinkedin": 932,
+    "withEmail": 736,
+    "withGithub": 1029,
+    "withStack": 1279,
+    "withLinkedin": 933,
     "withTwitter": 428
   },
   "portfolios": [
@@ -38806,6 +38806,57 @@
       "experience": null,
       "title": "Seif Osman — Store Tech &amp; POS Specialist · Full-Stack Builder",
       "location": "scratch on vanilla Node",
+      "status": "ok"
+    },
+    {
+      "name": "Alishba Iqbal",
+      "url": "https://alishbaiqbal123.vercel.app",
+      "listedTitle": "Software Engineer & Full-Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Sovereign Architect | Alishba Iqbal",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Navdeep Singh",
+      "url": "https://navdeep.site",
+      "listedTitle": "Full Stack Dev | Student at NITJ",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "navdeep.site - Navdeep Singh",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Naveen Kumar Pasupuleti",
+      "url": "https://naveens-portfolio-three.vercel.app",
+      "listedTitle": "Salesforce QA",
+      "emails": [
+        "pasupulatink@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sfdcnaveen"
+      ],
+      "linkedin": "https://www.linkedin.com/in/naveenkumarpasupuleti",
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Swift",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Naveen Kumar Pasupuleti — Salesforce QA &amp; Playwright Expert",
+      "location": "script execution to full test coverage, we construct deterministic systems of quality",
       "status": "ok"
     }
   ]
