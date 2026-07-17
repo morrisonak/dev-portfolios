@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-16T19:05:26.903Z",
-    "total": 1877,
-    "successful": 1551,
+    "scrapedAt": "2026-07-17T02:26:20.173Z",
+    "total": 1878,
+    "successful": 1552,
     "failed": 326,
-    "withEmail": 734,
-    "withGithub": 1027,
-    "withStack": 1277,
-    "withLinkedin": 931,
+    "withEmail": 735,
+    "withGithub": 1028,
+    "withStack": 1278,
+    "withLinkedin": 932,
     "withTwitter": 428
   },
   "portfolios": [
@@ -38772,6 +38772,40 @@
       "experience": null,
       "title": "Full-Stack Web &amp; Mobile App Developer for Startups",
       "location": "idea validation to launch and beyond, I help you identify the right opportunities, build the right p",
+      "status": "ok"
+    },
+    {
+      "name": "Seif Osman",
+      "url": "https://seifosman.com",
+      "listedTitle": "IT Store Technology Engineer | Full-Stack & Security",
+      "emails": [
+        "seifosman53@gmail.com",
+        "you@email.com"
+      ],
+      "github": [
+        "https://github.com/seifosmaan53"
+      ],
+      "linkedin": "https://www.linkedin.com/in/seif-eldin-osman-310248174",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Redis",
+        "Firebase",
+        "Flutter",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Seif Osman — Store Tech &amp; POS Specialist · Full-Stack Builder",
+      "location": "scratch on vanilla Node",
       "status": "ok"
     }
   ]
