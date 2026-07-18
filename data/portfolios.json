@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-17T19:03:12.271Z",
-    "total": 1882,
-    "successful": 1556,
+    "scrapedAt": "2026-07-18T02:11:16.983Z",
+    "total": 1881,
+    "successful": 1555,
     "failed": 326,
-    "withEmail": 737,
-    "withGithub": 1030,
-    "withStack": 1280,
-    "withLinkedin": 934,
+    "withEmail": 736,
+    "withGithub": 1029,
+    "withStack": 1279,
+    "withLinkedin": 933,
     "withTwitter": 428
   },
   "portfolios": [
@@ -38857,29 +38857,6 @@
       "experience": null,
       "title": "Naveen Kumar Pasupuleti — Salesforce QA &amp; Playwright Expert",
       "location": "script execution to full test coverage, we construct deterministic systems of quality",
-      "status": "ok"
-    },
-    {
-      "name": "Thomas Galabert",
-      "url": "https://thomas-galabert.com",
-      "listedTitle": "Fullstack developer",
-      "emails": [
-        "thomas.galabert07@gmail.com"
-      ],
-      "github": [
-        "https://github.com/kcyvx"
-      ],
-      "linkedin": "https://www.linkedin.com/in/thomas-galabert-55626a2a6",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Thomas Galabert - Fullstack Developer",
-      "location": "Paris",
       "status": "ok"
     }
   ]
