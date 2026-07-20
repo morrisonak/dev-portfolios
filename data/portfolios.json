@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-18T02:11:16.983Z",
-    "total": 1881,
-    "successful": 1555,
+    "scrapedAt": "2026-07-20T14:00:10.092Z",
+    "total": 1889,
+    "successful": 1563,
     "failed": 326,
-    "withEmail": 736,
-    "withGithub": 1029,
-    "withStack": 1279,
-    "withLinkedin": 933,
-    "withTwitter": 428
+    "withEmail": 741,
+    "withGithub": 1036,
+    "withStack": 1286,
+    "withLinkedin": 939,
+    "withTwitter": 433
   },
   "portfolios": [
     {
@@ -38857,6 +38857,226 @@
       "experience": null,
       "title": "Naveen Kumar Pasupuleti — Salesforce QA &amp; Playwright Expert",
       "location": "script execution to full test coverage, we construct deterministic systems of quality",
+      "status": "ok"
+    },
+    {
+      "name": "Avilash Bharti",
+      "url": "https://avilashbharti.in?src=gir",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/avilash-b",
+        "https://github.com/Avilash-B"
+      ],
+      "linkedin": "https://linkedin.com/in/avilashbharti",
+      "twitter": "https://x.com/AviCorpse",
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        ".NET"
+      ],
+      "experience": "5+ years",
+      "title": "Avilash Bharti | Software Engineer &amp; .NET Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Bhumika Patil",
+      "url": "https://portfolio-psi-lovat-25.vercel.app",
+      "listedTitle": "Computer Science Student | Full-Stack Developer",
+      "emails": [
+        "bhumika.85p@gmail.com",
+        "you@somewhere.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Bhumika Portfolio",
+      "location": "an internship where I designed the brain of an entire recycling platform",
+      "status": "ok"
+    },
+    {
+      "name": "Bruno Simon",
+      "url": "https://bruno-simon.com/",
+      "listedTitle": "Three.js Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/mrdoob",
+        "https://github.com/sunag",
+        "https://github.com/brunosimon"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/mrdoob",
+      "stack": [],
+      "experience": null,
+      "title": "Bruno's",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Md Rakib Ali",
+      "url": "https://rakibislam22.github.io",
+      "listedTitle": "Full Stack Developer & Problem Solver",
+      "emails": [
+        "mdrakibali.kcn@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Rakibislam22"
+      ],
+      "linkedin": "https://www.linkedin.com/in/md-rakib-ali-383947218",
+      "twitter": "https://x.com/rakibislam44",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Md Rakib Ali | MERN Stack & Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Melih Arık",
+      "url": "https://meliharik.dev",
+      "listedTitle": "Software Engineer | Mobile Developer",
+      "emails": [
+        "hi@meliharik.dev"
+      ],
+      "github": [
+        "https://github.com/meliharik"
+      ],
+      "linkedin": "https://linkedin.com/in/melihify",
+      "twitter": "https://twitter.com/melihify",
+      "stack": [
+        "React",
+        "Kotlin",
+        "Node.js",
+        "Firebase",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Melih Arık - Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ridoy Dey",
+      "url": "https://iamridoydey.me",
+      "listedTitle": "Devops & Cloud Engineer | python, bash, go, Docker, CI/CD, Kubernetes, aws, azure, azure devops",
+      "emails": [
+        "iamridoydey@gmail.com"
+      ],
+      "github": [
+        "https://github.com/iamridoydey"
+      ],
+      "linkedin": "https://linkedin.com/in/iamridoydey",
+      "twitter": "https://x.com/iamridoy_dey",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Flask",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Portfolio | Ridoy Dey",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Satnam Singh",
+      "url": "https://satnamsingh.in",
+      "listedTitle": "AI Engineer | Agentic GenAI Developer |  Azure AI Foundry, Langraph & MCP",
+      "emails": [
+        "satnamsjob@gmail.com",
+        "name@company.com"
+      ],
+      "github": [
+        "https://github.com/22satnam"
+      ],
+      "linkedin": "https://linkedin.com/in/22satnam",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Azure",
+        "Docker",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Satnam Singh - Agentic GenAI Developer | Azure AI Foundry, Fabric &amp; MCP",
+      "location": "governed data foundations and retrieval to orchestration, backend services, validation, and usable b",
+      "status": "ok"
+    },
+    {
+      "name": "Sayeed Joy",
+      "url": "https://sayeedjoy.com",
+      "listedTitle": "Software Engineer | .NET Core, React, Next.js",
+      "emails": [],
+      "github": [
+        "https://github.com/sayeedjoy"
+      ],
+      "linkedin": "https://linkedin.com/in/sayeedjoy",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Kotlin",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "Flutter",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Sayeed Joy",
+      "location": "polished user experiences to scalable backend systems, I work across the stack and am currently buil",
       "status": "ok"
     }
   ]
