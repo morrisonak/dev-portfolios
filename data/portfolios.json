@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-21T02:27:01.237Z",
-    "total": 1891,
-    "successful": 1565,
+    "scrapedAt": "2026-07-21T13:43:17.168Z",
+    "total": 1893,
+    "successful": 1567,
     "failed": 326,
-    "withEmail": 742,
-    "withGithub": 1037,
-    "withStack": 1288,
-    "withLinkedin": 940,
-    "withTwitter": 433
+    "withEmail": 744,
+    "withGithub": 1039,
+    "withStack": 1290,
+    "withLinkedin": 942,
+    "withTwitter": 434
   },
   "portfolios": [
     {
@@ -39125,6 +39125,61 @@
       "experience": null,
       "title": "Joaquín Méndez Torres | Full Stack Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nihir Praful Shah",
+      "url": "https://nihir-mobile-portfolio.vercel.app/",
+      "listedTitle": "Frontend Developer | Full Stack Developer",
+      "emails": [
+        "nihir10dec@gmail.com"
+      ],
+      "github": [
+        "https://github.com/nihir10dec"
+      ],
+      "linkedin": "https://linkedin.com/in/nihir-shah",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "AWS",
+        "MySQL",
+        "Redis",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Nihir Mobile Portfolio — Nihir Shah",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Taiwo Bamidele",
+      "url": "https://taiwobuilds.github.io/my-portfolio",
+      "listedTitle": "Frontend Developer",
+      "emails": [
+        "taiwodahunsy@gmail.com"
+      ],
+      "github": [
+        "https://github.com/TaiwoBuilds"
+      ],
+      "linkedin": "https://www.linkedin.com/in/taiwo-bamidele-341999422",
+      "twitter": "https://x.com/TaiwoBuilds",
+      "stack": [
+        "React",
+        "Vue",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Taiwo | Frontend Developer",
+      "location": "different preset styles, including the",
       "status": "ok"
     }
   ]
