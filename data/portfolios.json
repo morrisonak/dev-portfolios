@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-20T14:00:10.092Z",
-    "total": 1889,
-    "successful": 1563,
+    "scrapedAt": "2026-07-21T02:27:01.237Z",
+    "total": 1891,
+    "successful": 1565,
     "failed": 326,
-    "withEmail": 741,
-    "withGithub": 1036,
-    "withStack": 1286,
-    "withLinkedin": 939,
+    "withEmail": 742,
+    "withGithub": 1037,
+    "withStack": 1288,
+    "withLinkedin": 940,
     "withTwitter": 433
   },
   "portfolios": [
@@ -39077,6 +39077,54 @@
       "experience": null,
       "title": "Sayeed Joy",
       "location": "polished user experiences to scalable backend systems, I work across the stack and am currently buil",
+      "status": "ok"
+    },
+    {
+      "name": "Ashif E.K",
+      "url": "https://ashifek.in",
+      "listedTitle": "Full-Stack Engineer",
+      "emails": [
+        "ashifek11@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ashif-ek"
+      ],
+      "linkedin": "https://linkedin.com/in/ashifek",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Django",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Ashif E.K | Full-Stack Engineer | React &amp; Django Expert",
+      "location": "browsing to secure payment confirmation",
+      "status": "ok"
+    },
+    {
+      "name": "Joaquín Méndez",
+      "url": "https://joaquin-mendez.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Vue",
+        "Nuxt",
+        "TypeScript",
+        "Java"
+      ],
+      "experience": null,
+      "title": "Joaquín Méndez Torres | Full Stack Developer",
+      "location": null,
       "status": "ok"
     }
   ]
