@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-21T13:43:17.168Z",
-    "total": 1893,
-    "successful": 1567,
+    "scrapedAt": "2026-07-21T19:17:18.950Z",
+    "total": 1894,
+    "successful": 1568,
     "failed": 326,
     "withEmail": 744,
     "withGithub": 1039,
@@ -39180,6 +39180,20 @@
       "experience": null,
       "title": "Taiwo | Frontend Developer",
       "location": "different preset styles, including the",
+      "status": "ok"
+    },
+    {
+      "name": "Sarthak Bhushan",
+      "url": "https://portfolio-ten-gules-teouuqn2p2.vercel.app",
+      "listedTitle": "Backend Developer | Spring Boot | React",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Sarthak Bhushan — Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
