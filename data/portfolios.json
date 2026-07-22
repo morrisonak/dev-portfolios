@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-22T13:46:01.182Z",
-    "total": 1896,
+    "scrapedAt": "2026-07-22T19:12:40.576Z",
+    "total": 1894,
     "successful": 1570,
-    "failed": 326,
+    "failed": 324,
     "withEmail": 745,
-    "withGithub": 1041,
-    "withStack": 1292,
-    "withLinkedin": 944,
-    "withTwitter": 434
+    "withGithub": 1040,
+    "withStack": 1293,
+    "withLinkedin": 945,
+    "withTwitter": 432
   },
   "portfolios": [
     {
@@ -888,22 +888,6 @@
       "experience": null,
       "title": "Muhammad Abdullah",
       "location": "a unique perspective and always ask the right question",
-      "status": "ok"
-    },
-    {
-      "name": "Abdur Rahman",
-      "url": "https://itsmeabdur.in",
-      "listedTitle": "Full Stack developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Abdur's portfolio",
-      "location": null,
       "status": "ok"
     },
     {
@@ -3085,20 +3069,6 @@
       ],
       "experience": null,
       "title": "Amir Akbulut - Web developer uit Arnhem / Nijmegen",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Amirali Rashidi",
-      "url": "https://amiralirashidi.github.io",
-      "listedTitle": "Front-End Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Personal WebSite - AmirAli Rashidi",
       "location": null,
       "status": "ok"
     },
@@ -7824,33 +7794,6 @@
       "experience": null,
       "title": "Clyde D&#x27;Souza — Software Engineer — Digital Content Creator",
       "location": "Auckland, New Zealand",
-      "status": "ok"
-    },
-    {
-      "name": "Clément Clix Garcia",
-      "url": "https://clixmods.github.io",
-      "listedTitle": "Game Developer | Full Stack Developer",
-      "emails": [
-        "clement.g.developer@gmail.com",
-        "votre@email.com",
-        "exemple@email.com"
-      ],
-      "github": [
-        "https://github.com/clixmods"
-      ],
-      "linkedin": "https://linkedin.com/in/clixmods",
-      "twitter": null,
-      "stack": [
-        "Vue",
-        "JavaScript",
-        "Python",
-        "Java",
-        "PHP",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Portfolio - Clément 'Clix' GARCIA",
-      "location": null,
       "status": "ok"
     },
     {
@@ -15331,41 +15274,6 @@
       "status": "ok"
     },
     {
-      "name": "Katleho Mokhele",
-      "url": "https://mokhele.pythonanywhere.com",
-      "listedTitle": "",
-      "emails": [
-        "demo_email@gmail.com",
-        "email@domain.com"
-      ],
-      "github": [
-        "https://github.com/mokhelek"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "Django",
-        "Flask",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "Tailwind",
-        ".NET",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Mokhele Katleho",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Kaung Myat",
       "url": "https://kgmyat.vercel.app",
       "listedTitle": "Frontend Developer",
@@ -19543,31 +19451,6 @@
       "experience": "18+ years",
       "title": "Mohit Shrivastava | Senior Full-Stack Engineer | Next.js &amp; Performance Specialist",
       "location": "Kuala Lumpur",
-      "status": "ok"
-    },
-    {
-      "name": "Mohsin Raz",
-      "url": "https://www.mohsinraz.me",
-      "listedTitle": "Full Stack Developer | Ai Automation",
-      "emails": [],
-      "github": [
-        "https://github.com/mohsinraz3",
-        "https://github.com/MohsinRaz3"
-      ],
-      "linkedin": "https://www.linkedin.com/in/mohsinraz",
-      "twitter": "https://twitter.com/mohsin_codes",
-      "stack": [
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "AWS",
-        "Docker",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Mohsin Raz",
-      "location": "YOU",
       "status": "ok"
     },
     {
@@ -23825,20 +23708,6 @@
       "status": "ok"
     },
     {
-      "name": "Rasyid Nuruddin",
-      "url": "https://thesimpanze.github.io/Portofolio-Rasyid",
-      "listedTitle": "Front-End Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Hi! There",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Ravi Bhushan Kumar",
       "url": "https://ravibhushan-portfolio.vercel.app",
       "listedTitle": "Full Stack Developer | Mern",
@@ -26841,13 +26710,6 @@
     {
       "name": "Thibaud Dervily",
       "url": "https://www.thibaud-dervily.fr",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Thibault Mathian",
-      "url": "https://thibault.sh",
       "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
@@ -37003,42 +36865,6 @@
       "status": "ok"
     },
     {
-      "name": "Rito Chabalala",
-      "url": "https://ritochabalala.github.io",
-      "listedTitle": "Software Engineer | Full Stack & AI / GenAI Engineer",
-      "emails": [
-        "ritochabalala@gmail.com"
-      ],
-      "github": [
-        "https://github.com/ritochabalala",
-        "https://github.com/sasol-enterprise"
-      ],
-      "linkedin": "https://www.linkedin.com/in/rito-chabalala-b87240160",
-      "twitter": "https://x.com/rito_chabalala",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "PHP",
-        "Django",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Tailwind",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Rito Chabalala — AI / Software Engineer",
-      "location": "architecture to production deployment",
-      "status": "ok"
-    },
-    {
       "name": "Aditya Thakur",
       "url": "https://adityathakur.me",
       "listedTitle": "Software Engineer | Full-Stack Engineer",
@@ -38194,13 +38020,6 @@
       "status": "ok"
     },
     {
-      "name": "Hosama Adem",
-      "url": "https://hosamaadem-portfolio-6ujt.vercel.app",
-      "listedTitle": "Software Engineering Student | Full Stack Developer",
-      "status": "error",
-      "error": "HTTP 404"
-    },
-    {
       "name": "Mahesh Darapureddy",
       "url": "https://maheshdarapureddy.in",
       "listedTitle": "Full Stack Developer",
@@ -38636,13 +38455,6 @@
       "status": "ok"
     },
     {
-      "name": "Khushboo Mundada",
-      "url": "[Portfolio-Link](https://khushm.netlify.app",
-      "listedTitle": "",
-      "status": "error",
-      "error": "Failed to parse URL from [Portfolio-Link](https://khushm.netlify.app"
-    },
-    {
       "name": "Lina Brihoum",
       "url": "https://www.linabrihoum.com",
       "listedTitle": "Cloud Architect & Manager | Full Stack",
@@ -38920,24 +38732,6 @@
       "status": "ok"
     },
     {
-      "name": "Bruno Simon",
-      "url": "https://bruno-simon.com/",
-      "listedTitle": "Three.js Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/mrdoob",
-        "https://github.com/sunag",
-        "https://github.com/brunosimon"
-      ],
-      "linkedin": null,
-      "twitter": "https://x.com/mrdoob",
-      "stack": [],
-      "experience": null,
-      "title": "Bruno's",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Md Rakib Ali",
       "url": "https://rakibislam22.github.io",
       "listedTitle": "Full Stack Developer & Problem Solver",
@@ -39128,34 +38922,6 @@
       "status": "ok"
     },
     {
-      "name": "Nihir Praful Shah",
-      "url": "https://nihir-mobile-portfolio.vercel.app/",
-      "listedTitle": "Frontend Developer | Full Stack Developer",
-      "emails": [
-        "nihir10dec@gmail.com"
-      ],
-      "github": [
-        "https://github.com/nihir10dec"
-      ],
-      "linkedin": "https://linkedin.com/in/nihir-shah",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "AWS",
-        "MySQL",
-        "Redis",
-        "GraphQL"
-      ],
-      "experience": null,
-      "title": "Nihir Mobile Portfolio — Nihir Shah",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Taiwo Bamidele",
       "url": "https://taiwobuilds.github.io/my-portfolio",
       "listedTitle": "Frontend Developer",
@@ -39250,6 +39016,198 @@
       "experience": null,
       "title": "Ilan Lenzner | Creative Technologist & Design Engineer",
       "location": "Tel Aviv, Israel",
+      "status": "ok"
+    },
+    {
+      "name": "Ashmit Borawake",
+      "url": "https://ashmit-borawake.vercel.app",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/Ashmit-Borawake"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ashmit-borawake-7a8641290",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Ashmit Borawake | Full Stack Developer & Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Bruno Simon",
+      "url": "https://bruno-simon.com",
+      "listedTitle": "Three.js Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/mrdoob",
+        "https://github.com/sunag",
+        "https://github.com/brunosimon"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/mrdoob",
+      "stack": [],
+      "experience": null,
+      "title": "Bruno's",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Harshith Raj",
+      "url": "https://harshithrajbangera.github.io/Portfolio/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Khushboo Mundada",
+      "url": "<[Portfolio-Link](https://khushm.netlify.app",
+      "listedTitle": "",
+      "status": "error",
+      "error": "Failed to parse URL from <[Portfolio-Link](https://khushm.netlify.app"
+    },
+    {
+      "name": "Kritan Shrestha",
+      "url": "https://kritan560.github.io/portfolio/",
+      "listedTitle": "Senior Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Kritan | Full Stack Developer & 3D Web Creator",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Lalith Kumar",
+      "url": "https://lalith-d-portfolio.netlify.app",
+      "listedTitle": "AI Engineer | Data Scientist | Machine Learning Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Portfolio — AI/ML Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Lalith",
+      "url": "https://portfolic.vercel.app/lalithdabilpuram01",
+      "listedTitle": "Data Scientist",
+      "emails": [
+        "lalith.dabilpuram01@gmail.com"
+      ],
+      "github": [
+        "https://github.com/lalithdabilpuram01"
+      ],
+      "linkedin": "https://www.linkedin.com/in/lalithd0411",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Lalith Kumar · Data Scientist",
+      "location": "experimentation into monitored production",
+      "status": "ok"
+    },
+    {
+      "name": "Maruf Hasan",
+      "url": "https://itsmaruf.me",
+      "listedTitle": "Mobile Developer",
+      "emails": [
+        "maruf.chats@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/exploremaruf"
+      ],
+      "linkedin": "https://linkedin.com/in/exploremaruf",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Django",
+        "Firebase",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Md. Maruf Hasan Soncoy | Android &amp; Flutter Developer — itsmaruf.me",
+      "location": "Bangladesh, now learning Flutter",
+      "status": "ok"
+    },
+    {
+      "name": "Nayan Bobde",
+      "url": "https://nayanbobde.github.io/Portfoliowebsite/",
+      "listedTitle": "Data Analyst | SQL | Power BI | Python | Azure",
+      "emails": [
+        "thenayanbobde@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://linkedin.com/in/nayanbobde",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Azure",
+        "MySQL"
+      ],
+      "experience": "4+ years",
+      "title": "Nayan Bobde — Data Analyst | Retail &amp; Supply Chain Analytics",
+      "location": "Bengaluru, India",
+      "status": "ok"
+    },
+    {
+      "name": "Nihir Praful Shah",
+      "url": "https://nihir-mobile-portfolio.vercel.app",
+      "listedTitle": "Frontend Developer | Full Stack Developer",
+      "emails": [
+        "nihir10dec@gmail.com"
+      ],
+      "github": [
+        "https://github.com/nihir10dec"
+      ],
+      "linkedin": "https://linkedin.com/in/nihir-shah",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "AWS",
+        "MySQL",
+        "Redis",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Nihir Mobile Portfolio — Nihir Shah",
+      "location": null,
       "status": "ok"
     }
   ]
