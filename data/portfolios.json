@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-21T19:17:18.950Z",
-    "total": 1894,
-    "successful": 1568,
+    "scrapedAt": "2026-07-22T02:26:07.214Z",
+    "total": 1895,
+    "successful": 1569,
     "failed": 326,
     "withEmail": 744,
-    "withGithub": 1039,
-    "withStack": 1290,
-    "withLinkedin": 942,
+    "withGithub": 1040,
+    "withStack": 1291,
+    "withLinkedin": 943,
     "withTwitter": 434
   },
   "portfolios": [
@@ -39194,6 +39194,32 @@
       "experience": null,
       "title": "Sarthak Bhushan — Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Frank Duah",
+      "url": "https://frankduah.me",
+      "listedTitle": "Full Stack Engineer | AI/ML",
+      "emails": [],
+      "github": [
+        "https://github.com/devfrankduah",
+        "https://github.com/llm-exe",
+        "https://github.com/nsmq-ai"
+      ],
+      "linkedin": "https://www.linkedin.com/in/frank-d-118bb13a9",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Firebase",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Frank Duah",
+      "location": "idea to running production code",
       "status": "ok"
     }
   ]
