@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-22T02:26:07.214Z",
-    "total": 1895,
-    "successful": 1569,
+    "scrapedAt": "2026-07-22T13:46:01.182Z",
+    "total": 1896,
+    "successful": 1570,
     "failed": 326,
-    "withEmail": 744,
-    "withGithub": 1040,
-    "withStack": 1291,
-    "withLinkedin": 943,
+    "withEmail": 745,
+    "withGithub": 1041,
+    "withStack": 1292,
+    "withLinkedin": 944,
     "withTwitter": 434
   },
   "portfolios": [
@@ -39220,6 +39220,36 @@
       "experience": null,
       "title": "Frank Duah",
       "location": "idea to running production code",
+      "status": "ok"
+    },
+    {
+      "name": "Ilan Lenzner",
+      "url": "https://ilans.net",
+      "listedTitle": "Creative Technologist & Design Engineer",
+      "emails": [
+        "ilan@ilans.net"
+      ],
+      "github": [
+        "https://github.com/ilan-stack"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ilan-lenzner-395ba64",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Swift",
+        "Node.js",
+        "AWS",
+        "Azure",
+        "React Native",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Ilan Lenzner | Creative Technologist & Design Engineer",
+      "location": "Tel Aviv, Israel",
       "status": "ok"
     }
   ]
