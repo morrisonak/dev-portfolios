@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-22T19:12:40.576Z",
-    "total": 1894,
-    "successful": 1570,
+    "scrapedAt": "2026-07-23T02:30:34.478Z",
+    "total": 1895,
+    "successful": 1571,
     "failed": 324,
-    "withEmail": 745,
-    "withGithub": 1040,
-    "withStack": 1293,
-    "withLinkedin": 945,
+    "withEmail": 746,
+    "withGithub": 1041,
+    "withStack": 1294,
+    "withLinkedin": 946,
     "withTwitter": 432
   },
   "portfolios": [
@@ -39207,6 +39207,40 @@
       ],
       "experience": null,
       "title": "Nihir Mobile Portfolio — Nihir Shah",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Denis Borovets",
+      "url": "https://borove4ik.vercel.app/",
+      "listedTitle": "Frontend Developer",
+      "emails": [
+        "dsborovets@gmail.com"
+      ],
+      "github": [
+        "https://github.com/borove4ik",
+        "https://github.com/ReneNorth"
+      ],
+      "linkedin": "https://www.linkedin.com/in/borove4ik",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Django",
+        "Docker",
+        "MongoDB",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "borove4ik",
       "location": null,
       "status": "ok"
     }
