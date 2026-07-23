@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-23T13:50:42.223Z",
-    "total": 1896,
-    "successful": 1572,
+    "scrapedAt": "2026-07-23T19:12:09.800Z",
+    "total": 1897,
+    "successful": 1573,
     "failed": 324,
     "withEmail": 747,
-    "withGithub": 1042,
-    "withStack": 1295,
-    "withLinkedin": 947,
-    "withTwitter": 433
+    "withGithub": 1043,
+    "withStack": 1296,
+    "withLinkedin": 948,
+    "withTwitter": 434
   },
   "portfolios": [
     {
@@ -39276,6 +39276,31 @@
       "experience": null,
       "title": "Vikas Uniyal | Full-Stack Developer",
       "location": "the start",
+      "status": "ok"
+    },
+    {
+      "name": "Manish Kumar",
+      "url": "https://manixh.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/ig-imanish"
+      ],
+      "linkedin": "https://www.linkedin.com/in/imanish02",
+      "twitter": "https://x.com/Manixh02",
+      "stack": [
+        "React",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "Docker",
+        "MongoDB",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Manish Kumar | Full Stack Developer | MERN & Java Full Stack",
+      "location": null,
       "status": "ok"
     }
   ]
