@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-24T02:27:49.545Z",
-    "total": 1898,
-    "successful": 1574,
-    "failed": 324,
-    "withEmail": 748,
-    "withGithub": 1044,
-    "withStack": 1297,
-    "withLinkedin": 949,
+    "scrapedAt": "2026-07-24T13:38:38.346Z",
+    "total": 1900,
+    "successful": 1575,
+    "failed": 325,
+    "withEmail": 749,
+    "withGithub": 1045,
+    "withStack": 1298,
+    "withLinkedin": 950,
     "withTwitter": 434
   },
   "portfolios": [
@@ -39330,6 +39330,49 @@
       "title": "Pratik Salunke — Python Developer",
       "location": "Pune, currently working through an",
       "status": "ok"
+    },
+    {
+      "name": "Ali Hamza",
+      "url": "https://alihamza-fawn.vercel.app/",
+      "listedTitle": "Full Stack Developer | MERN, Next.js, AWS & Web3",
+      "emails": [
+        "hamzasarwer9@gmail.com"
+      ],
+      "github": [
+        "https://github.com/alihamzaio",
+        "https://github.com/verana-labs"
+      ],
+      "linkedin": "https://www.linkedin.com/in/alihamza-fullstack-developer",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind",
+        "GraphQL",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Ali Hamza | Full Stack Developer in Lahore, Pakistan",
+      "location": "API design through frontend implementation",
+      "status": "ok"
+    },
+    {
+      "name": "Kishor Marasini",
+      "url": "https://kishormarasini.com.au",
+      "listedTitle": "Software Developer",
+      "status": "error",
+      "error": "HTTP 403"
     }
   ]
 }
