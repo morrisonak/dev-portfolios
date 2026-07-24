@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-23T19:12:09.800Z",
-    "total": 1897,
-    "successful": 1573,
+    "scrapedAt": "2026-07-24T02:27:49.545Z",
+    "total": 1898,
+    "successful": 1574,
     "failed": 324,
-    "withEmail": 747,
-    "withGithub": 1043,
-    "withStack": 1296,
-    "withLinkedin": 948,
+    "withEmail": 748,
+    "withGithub": 1044,
+    "withStack": 1297,
+    "withLinkedin": 949,
     "withTwitter": 434
   },
   "portfolios": [
@@ -39301,6 +39301,34 @@
       "experience": null,
       "title": "Manish Kumar | Full Stack Developer | MERN & Java Full Stack",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Pratik Salunke",
+      "url": "https://pratiksalunkeportfolio.vercel.app",
+      "listedTitle": "Aspiring Backend Developer | Python & Django",
+      "emails": [
+        "pratiksalunke2011@gmail.com"
+      ],
+      "github": [
+        "https://github.com/nextxlemons"
+      ],
+      "linkedin": "https://www.linkedin.com/in/pratiksalunke2011",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Django",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Pratik Salunke — Python Developer",
+      "location": "Pune, currently working through an",
       "status": "ok"
     }
   ]
