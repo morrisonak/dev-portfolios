@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-24T13:38:38.346Z",
-    "total": 1900,
-    "successful": 1575,
+    "scrapedAt": "2026-07-25T13:19:04.369Z",
+    "total": 1902,
+    "successful": 1577,
     "failed": 325,
-    "withEmail": 749,
-    "withGithub": 1045,
-    "withStack": 1298,
-    "withLinkedin": 950,
-    "withTwitter": 434
+    "withEmail": 751,
+    "withGithub": 1047,
+    "withStack": 1300,
+    "withLinkedin": 952,
+    "withTwitter": 435
   },
   "portfolios": [
     {
@@ -39373,6 +39373,68 @@
       "listedTitle": "Software Developer",
       "status": "error",
       "error": "HTTP 403"
+    },
+    {
+      "name": "Ahmed Nassar",
+      "url": "https://ahmednassar7.github.io/",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "a.moh.nassar00@gmail.com"
+      ],
+      "github": [
+        "https://github.com/AhmedNassar7"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nasssar",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Django",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Ahmed Nassar",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Swarnava Dutta",
+      "url": "https://swarnava.dev",
+      "listedTitle": "Lead AI Architect | Gen AI | Full Stack",
+      "emails": [
+        "swarnava.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/swarnava-dutta"
+      ],
+      "linkedin": "https://linkedin.com/in/swarnava-dutta",
+      "twitter": "https://x.com/Swarnava_Duttaa",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Rails",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Redis"
+      ],
+      "experience": "6+ years",
+      "title": "Swarnava Dutta | Lead AI Architect",
+      "location": "training to confident field conversations",
+      "status": "ok"
     }
   ]
 }
