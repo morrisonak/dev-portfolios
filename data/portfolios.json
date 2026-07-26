@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-25T13:19:04.369Z",
-    "total": 1902,
-    "successful": 1577,
+    "scrapedAt": "2026-07-26T19:06:04.798Z",
+    "total": 1903,
+    "successful": 1578,
     "failed": 325,
-    "withEmail": 751,
-    "withGithub": 1047,
-    "withStack": 1300,
-    "withLinkedin": 952,
+    "withEmail": 752,
+    "withGithub": 1048,
+    "withStack": 1302,
+    "withLinkedin": 953,
     "withTwitter": 435
   },
   "portfolios": [
@@ -4646,20 +4646,6 @@
       ],
       "experience": null,
       "title": "Asfakur Nariz - Full-Stack Developer Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Ashak Zahin Hasan",
-      "url": "https://aboutzahin.pages.dev",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Ashak Zahin Hasan",
       "location": null,
       "status": "ok"
     },
@@ -39434,6 +39420,48 @@
       "experience": "6+ years",
       "title": "Swarnava Dutta | Lead AI Architect",
       "location": "training to confident field conversations",
+      "status": "ok"
+    },
+    {
+      "name": "Anwar Ul Haq",
+      "url": "https://anwarluck.github.io",
+      "listedTitle": "Senior Dynamics 365 CRM & Power Platform Consultant",
+      "emails": [
+        "anwarluck@outlook.com"
+      ],
+      "github": [
+        "https://github.com/anwarluck"
+      ],
+      "linkedin": "https://www.linkedin.com/in/anwarluck",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "JavaScript",
+        "Azure",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Anwar Ul Haq — Senior D365 CRM &amp; Power Platform Consultant",
+      "location": "Doha, Qatar",
+      "status": "ok"
+    },
+    {
+      "name": "Ashak Zahin Hasan",
+      "url": "https://zahin.dev",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Ashak Zahin Hasan - Software Engineer | Full Stack Developer Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
