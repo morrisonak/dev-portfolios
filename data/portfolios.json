@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-26T19:06:04.798Z",
-    "total": 1903,
-    "successful": 1578,
+    "scrapedAt": "2026-07-27T02:40:36.822Z",
+    "total": 1904,
+    "successful": 1579,
     "failed": 325,
     "withEmail": 752,
     "withGithub": 1048,
-    "withStack": 1302,
+    "withStack": 1303,
     "withLinkedin": 953,
     "withTwitter": 435
   },
@@ -39461,6 +39461,22 @@
       ],
       "experience": null,
       "title": "Ashak Zahin Hasan - Software Engineer | Full Stack Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Debashish Saha",
+      "url": "https://deepsaha.com",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Journey Diorama — 3D Scene",
       "location": null,
       "status": "ok"
     }
