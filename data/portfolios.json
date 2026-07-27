@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-27T14:27:14.315Z",
-    "total": 1907,
-    "successful": 1582,
+    "scrapedAt": "2026-07-27T19:23:12.853Z",
+    "total": 1908,
+    "successful": 1583,
     "failed": 325,
     "withEmail": 753,
     "withGithub": 1049,
@@ -39539,6 +39539,20 @@
       ],
       "experience": null,
       "title": "Tarikur Rahman | Robotics &amp; IoT Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abdul Malik",
+      "url": "https://abdulmal1ksy3d.vercel.app",
+      "listedTitle": "Student | AI | Homelab | Infrastructure",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Abdul Malik | Portfolio",
       "location": null,
       "status": "ok"
     }
