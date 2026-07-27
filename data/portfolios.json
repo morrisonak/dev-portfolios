@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-27T02:40:36.822Z",
-    "total": 1904,
-    "successful": 1579,
+    "scrapedAt": "2026-07-27T14:27:14.315Z",
+    "total": 1907,
+    "successful": 1582,
     "failed": 325,
-    "withEmail": 752,
-    "withGithub": 1048,
-    "withStack": 1303,
-    "withLinkedin": 953,
-    "withTwitter": 435
+    "withEmail": 753,
+    "withGithub": 1049,
+    "withStack": 1306,
+    "withLinkedin": 954,
+    "withTwitter": 436
   },
   "portfolios": [
     {
@@ -39477,6 +39477,68 @@
       ],
       "experience": null,
       "title": "Journey Diorama — 3D Scene",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aishwarya Shyam",
+      "url": "https://aishwarya-cs-portfolio.netlify.app",
+      "listedTitle": "Software Engineer | Full Stack & AI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Aishwarya Shyam",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ashutosh Dash",
+      "url": "https://ashutoshdash.in",
+      "listedTitle": "Frontend Engineer | ReactJS, Next.JS",
+      "emails": [
+        "dashashutosh1999@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ashutoshdash1999"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ashutoshdash1999",
+      "twitter": "https://x.com/ashutoshdash99",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Firebase",
+        "Tailwind",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Ashutosh Dash - Frontend Developer | React &amp; Next.js",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tarikur Rahman",
+      "url": "https://yourtarikur.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Tarikur Rahman | Robotics &amp; IoT Engineer",
       "location": null,
       "status": "ok"
     }
