@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-27T19:23:12.853Z",
-    "total": 1908,
-    "successful": 1583,
+    "scrapedAt": "2026-07-28T19:18:24.449Z",
+    "total": 1910,
+    "successful": 1585,
     "failed": 325,
-    "withEmail": 753,
-    "withGithub": 1049,
-    "withStack": 1306,
-    "withLinkedin": 954,
-    "withTwitter": 436
+    "withEmail": 755,
+    "withGithub": 1050,
+    "withStack": 1308,
+    "withLinkedin": 955,
+    "withTwitter": 437
   },
   "portfolios": [
     {
@@ -39554,6 +39554,58 @@
       "experience": null,
       "title": "Abdul Malik | Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Janay Rawal",
+      "url": "https://janayrawal.in",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "dfmreyes02@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Janay Rawal",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sujal Goel",
+      "url": "https://hecodesforme.com",
+      "listedTitle": "Top Rated Full Stack Developer | AI & Automation",
+      "emails": [
+        "hello@hecodesforme.com"
+      ],
+      "github": [
+        "https://github.com/sujalgoel"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sujalgoel",
+      "twitter": "https://x.com/hecodesforme",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "Django",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Sujal Goel | Based in India, works worldwide",
+      "location": "India, works worldwide",
       "status": "ok"
     }
   ]
