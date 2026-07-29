@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-28T19:18:24.449Z",
-    "total": 1910,
-    "successful": 1585,
+    "scrapedAt": "2026-07-29T19:11:31.634Z",
+    "total": 1912,
+    "successful": 1587,
     "failed": 325,
-    "withEmail": 755,
-    "withGithub": 1050,
-    "withStack": 1308,
-    "withLinkedin": 955,
-    "withTwitter": 437
+    "withEmail": 757,
+    "withGithub": 1052,
+    "withStack": 1310,
+    "withLinkedin": 957,
+    "withTwitter": 438
   },
   "portfolios": [
     {
@@ -39606,6 +39606,64 @@
       "experience": null,
       "title": "Sujal Goel | Based in India, works worldwide",
       "location": "India, works worldwide",
+      "status": "ok"
+    },
+    {
+      "name": "Mbitu James",
+      "url": "https://mbitu-portfolio.vercel.app/",
+      "listedTitle": "Full Stack Developer | Software Developer",
+      "emails": [
+        "mbitumutonga@gmail.com"
+      ],
+      "github": [
+        "https://github.com/mbitujames"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mbitujames",
+      "twitter": "https://x.com/mbituke",
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Swift",
+        "AWS",
+        "MongoDB",
+        "Firebase",
+        "Flutter",
+        "React Native",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Mbitu | Portfolio",
+      "location": "Kenya",
+      "status": "ok"
+    },
+    {
+      "name": "Rishhi Duetheesh",
+      "url": "https://notesc.netlify.app",
+      "listedTitle": "Frontend Developer",
+      "emails": [
+        "rishhiduetheeshofcl@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ItzHyend"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rishhi-duetheesh-b4ab62376",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Rishhi Duetheesh",
+      "location": null,
       "status": "ok"
     }
   ]
