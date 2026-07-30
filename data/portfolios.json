@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-29T19:11:31.634Z",
-    "total": 1912,
-    "successful": 1587,
-    "failed": 325,
-    "withEmail": 757,
-    "withGithub": 1052,
-    "withStack": 1310,
-    "withLinkedin": 957,
-    "withTwitter": 438
+    "scrapedAt": "2026-07-30T13:53:03.062Z",
+    "total": 1915,
+    "successful": 1589,
+    "failed": 326,
+    "withEmail": 758,
+    "withGithub": 1054,
+    "withStack": 1312,
+    "withLinkedin": 959,
+    "withTwitter": 439
   },
   "portfolios": [
     {
@@ -39663,6 +39663,62 @@
       ],
       "experience": null,
       "title": "Rishhi Duetheesh",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Adhivishnu M",
+      "url": "https://adhivishnuportfolio.web.app",
+      "listedTitle": "AI Developer | Freelancer",
+      "emails": [
+        "adhivishnu.m@gmail.com"
+      ],
+      "github": [
+        "https://github.com/adhivishnuM"
+      ],
+      "linkedin": "https://www.linkedin.com/in/adhi-vishnu-84b161371",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Firebase",
+        "Tailwind",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Adhivishnu M — AI Developer &amp; Freelancer",
+      "location": "Chennai",
+      "status": "ok"
+    },
+    {
+      "name": "Kamal Mohamed Sorour",
+      "url": "https://kamal.is-a.dev",
+      "listedTitle": "Frontend Developer | React, Next.js, TypeScript",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Qazi Maaz Arshad",
+      "url": "https://qazimaazarshad.github.io/",
+      "listedTitle": "Software Engineer @ Salesforce | Full-Stack & AI",
+      "emails": [],
+      "github": [
+        "https://github.com/qazimaazarshad"
+      ],
+      "linkedin": "https://www.linkedin.com/in/qazimaazarshad",
+      "twitter": "https://twitter.com/qazimaazarshad",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Java",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "Qazi Maaz Arshad · Software Engineer",
       "location": null,
       "status": "ok"
     }
