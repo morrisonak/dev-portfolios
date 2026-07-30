@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-30T13:53:03.062Z",
+    "scrapedAt": "2026-07-30T19:20:54.384Z",
     "total": 1915,
     "successful": 1589,
     "failed": 326,
@@ -30753,45 +30753,6 @@
       "status": "ok"
     },
     {
-      "name": "Hafeez Mohamad",
-      "url": "https://haffee.vercel.app",
-      "listedTitle": "Software Engineer | Full Stack Developer | AI Engineer",
-      "emails": [
-        "haffeecareer@gmail.com"
-      ],
-      "github": [
-        "https://github.com/haffee31",
-        "https://github.com/Haffee31",
-        "https://github.com/yourusername"
-      ],
-      "linkedin": "https://linkedin.com/in/hafeez-mohamad",
-      "twitter": "https://x.com/Hafeez_31",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Java",
-        "Node.js",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "Tailwind",
-        "Flutter",
-        "React Native",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Hafeez Mohamad | Software Engineer",
-      "location": "Stripe",
-      "status": "ok"
-    },
-    {
       "name": "Mohammad Ahmad",
       "url": "https://3d-portfolio-orpin-one.vercel.app",
       "listedTitle": "Full Stack Developer",
@@ -39720,6 +39681,44 @@
       "experience": null,
       "title": "Qazi Maaz Arshad · Software Engineer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hafeez Mohamad",
+      "url": "https://www.haffee.dev",
+      "listedTitle": "Software Engineer | Full Stack Developer | AI Engineer",
+      "emails": [
+        "haffeecareer@gmail.com"
+      ],
+      "github": [
+        "https://github.com/haffee31",
+        "https://github.com/Haffee31"
+      ],
+      "linkedin": "https://linkedin.com/in/hafeez-mohamad",
+      "twitter": "https://x.com/Hafeez_31",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "React Native",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Hafeez Mohamad | Software Engineer",
+      "location": "Stripe",
       "status": "ok"
     }
   ]
