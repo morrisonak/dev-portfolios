@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-31T02:34:45.913Z",
-    "total": 1916,
-    "successful": 1590,
+    "scrapedAt": "2026-07-31T19:20:34.999Z",
+    "total": 1918,
+    "successful": 1592,
     "failed": 326,
-    "withEmail": 759,
-    "withGithub": 1055,
-    "withStack": 1313,
-    "withLinkedin": 960,
-    "withTwitter": 440
+    "withEmail": 761,
+    "withGithub": 1057,
+    "withStack": 1315,
+    "withLinkedin": 962,
+    "withTwitter": 441
   },
   "portfolios": [
     {
@@ -39750,6 +39750,73 @@
       ],
       "experience": null,
       "title": "Mohibur Rahman Sani | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jimmy Yazji",
+      "url": "https://yazji.dev",
+      "listedTitle": "Full-Stack Developer",
+      "emails": [
+        "sara@company.com"
+      ],
+      "github": [
+        "https://github.com/jimmy-yazji"
+      ],
+      "linkedin": "https://linkedin.com/in/jimmy-yazji",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "Go",
+        "Laravel",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Jimmy Yazji - Full-Stack Developer",
+      "location": "MVPs to enterprise platforms",
+      "status": "ok"
+    },
+    {
+      "name": "Pavan Gupta",
+      "url": "https://www.pavangupta.in",
+      "listedTitle": "Project Manager | Full Stack Developer",
+      "emails": [
+        "uniquetechexplorer7@gmail.com"
+      ],
+      "github": [
+        "https://github.com/UniquePG"
+      ],
+      "linkedin": "https://www.linkedin.com/in/pavan-gupta31",
+      "twitter": "https://x.com/UniquePg_",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        "GraphQL",
+        "Flutter",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Pavan Gupta | Full Stack Developer",
       "location": null,
       "status": "ok"
     }
