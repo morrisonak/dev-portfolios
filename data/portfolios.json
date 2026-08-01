@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-07-31T19:20:34.999Z",
+    "scrapedAt": "2026-08-01T19:04:18.829Z",
     "total": 1918,
-    "successful": 1592,
-    "failed": 326,
-    "withEmail": 761,
-    "withGithub": 1057,
-    "withStack": 1315,
-    "withLinkedin": 962,
+    "successful": 1591,
+    "failed": 327,
+    "withEmail": 762,
+    "withGithub": 1058,
+    "withStack": 1314,
+    "withLinkedin": 963,
     "withTwitter": 441
   },
   "portfolios": [
@@ -7945,27 +7945,6 @@
       "status": "ok"
     },
     {
-      "name": "Cristian Cezar Moisés",
-      "url": "https://ccm.securityops.com.br",
-      "listedTitle": "",
-      "emails": [
-        "cristiancezarmoises@privacyrequired.com"
-      ],
-      "github": [
-        "https://github.com/cristiancmoises"
-      ],
-      "linkedin": "https://www.linkedin.com/in/cristiancezarmoises",
-      "twitter": null,
-      "stack": [
-        "Next.js",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Cristian Cezar Moisés - Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Cristiano Filho",
       "url": "https://cristianofilho.github.io",
       "listedTitle": "",
@@ -10691,22 +10670,6 @@
       "experience": null,
       "title": "Md. Fahim Bin Amin - Software &amp; Machine Learning Engineer",
       "location": "sensors, and AWS Greengrass to process that data quickly and give drivers timely warnings",
-      "status": "ok"
-    },
-    {
-      "name": "Faisal Saifi",
-      "url": "https://faisalsaifi.tech",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React"
-      ],
-      "experience": null,
-      "title": "Faisal Saifi",
-      "location": null,
       "status": "ok"
     },
     {
@@ -39027,23 +38990,6 @@
       "error": "Failed to parse URL from <[Portfolio-Link](https://khushm.netlify.app"
     },
     {
-      "name": "Kritan Shrestha",
-      "url": "https://kritan560.github.io/portfolio/",
-      "listedTitle": "Senior Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Node.js"
-      ],
-      "experience": null,
-      "title": "Kritan | Full Stack Developer & 3D Web Creator",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Lalith Kumar",
       "url": "https://lalith-d-portfolio.netlify.app",
       "listedTitle": "AI Engineer | Data Scientist | Machine Learning Engineer",
@@ -39818,6 +39764,73 @@
       "experience": null,
       "title": "Pavan Gupta | Full Stack Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Arnel Go",
+      "url": "https://arnelbg.com",
+      "listedTitle": "WordPress Systems Engineer | Performance & Security",
+      "status": "error",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Munyaradzi Mzite",
+      "url": "https://munyaradzimzite.vercel.app/",
+      "listedTitle": "AI Graphics Engineer",
+      "emails": [
+        "mp.mzite@africau.edu"
+      ],
+      "github": [
+        "https://github.com/Jindantesparda"
+      ],
+      "linkedin": "https://www.linkedin.com/in/munyaradzi-mzite-1499b3202",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Java"
+      ],
+      "experience": null,
+      "title": "Munyaradzi Mzite | Developer & Blender 3D Artist",
+      "location": "scratch",
+      "status": "ok"
+    },
+    {
+      "name": "Usman Ghias",
+      "url": "https://usman.codcrafters.org",
+      "listedTitle": "Senior Odoo Technical Developer | Full Stack & Flutter",
+      "emails": [
+        "iusmanghias@gmail.com"
+      ],
+      "github": [
+        "https://github.com/UsmanGhias"
+      ],
+      "linkedin": "https://www.linkedin.com/in/m-usmanghias",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": "6+ years",
+      "title": "Muhammad Usman Khan (Usman Ghias) | Odoo Expert | 6+ Years Full Stack &amp; Mobile",
+      "location": "start to end",
       "status": "ok"
     }
   ]
