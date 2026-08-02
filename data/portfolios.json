@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-01T19:04:18.829Z",
-    "total": 1918,
-    "successful": 1591,
+    "scrapedAt": "2026-08-02T19:05:12.491Z",
+    "total": 1919,
+    "successful": 1592,
     "failed": 327,
-    "withEmail": 762,
-    "withGithub": 1058,
-    "withStack": 1314,
-    "withLinkedin": 963,
-    "withTwitter": 441
+    "withEmail": 763,
+    "withGithub": 1059,
+    "withStack": 1315,
+    "withLinkedin": 964,
+    "withTwitter": 442
   },
   "portfolios": [
     {
@@ -39831,6 +39831,29 @@
       "experience": "6+ years",
       "title": "Muhammad Usman Khan (Usman Ghias) | Odoo Expert | 6+ Years Full Stack &amp; Mobile",
       "location": "start to end",
+      "status": "ok"
+    },
+    {
+      "name": "Mouzan Raza",
+      "url": "http://my-portfolio-jz1h.vercel.app/",
+      "listedTitle": "AI/LLM Engineer",
+      "emails": [
+        "mouzan.ai.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Dev-with-Mouzan"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mouzan-raza-979230385",
+      "twitter": "https://x.com/MouzanR10223",
+      "stack": [
+        "Python",
+        "Docker",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Mouzan Raza - GenAI Engineer | RAG Systems &amp; LLM Applications",
+      "location": null,
       "status": "ok"
     }
   ]
