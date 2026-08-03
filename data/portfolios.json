@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-02T19:05:12.491Z",
-    "total": 1919,
-    "successful": 1592,
+    "scrapedAt": "2026-08-03T02:34:13.914Z",
+    "total": 1920,
+    "successful": 1593,
     "failed": 327,
-    "withEmail": 763,
-    "withGithub": 1059,
-    "withStack": 1315,
-    "withLinkedin": 964,
-    "withTwitter": 442
+    "withEmail": 764,
+    "withGithub": 1060,
+    "withStack": 1316,
+    "withLinkedin": 965,
+    "withTwitter": 443
   },
   "portfolios": [
     {
@@ -39854,6 +39854,38 @@
       "experience": null,
       "title": "Mouzan Raza - GenAI Engineer | RAG Systems &amp; LLM Applications",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nafiz Iqbal",
+      "url": "https://nafiziqbal.com",
+      "listedTitle": "Full Stack Web Developer",
+      "emails": [
+        "f.nafiziqbal@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/naffiziqbal"
+      ],
+      "linkedin": "https://www.linkedin.com/in/naffiziqbal",
+      "twitter": "https://twitter.com/naffiziqbal",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": "2+ years",
+      "title": "Nafiz Iqbal - Top Web Developer &amp; Freelancer in Bangladesh | React, Next.js Expert",
+      "location": "Dhaka, Bangladesh",
       "status": "ok"
     }
   ]
