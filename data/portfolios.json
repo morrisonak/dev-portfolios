@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-03T02:34:13.914Z",
-    "total": 1920,
-    "successful": 1593,
+    "scrapedAt": "2026-08-04T14:04:09.169Z",
+    "total": 1921,
+    "successful": 1594,
     "failed": 327,
-    "withEmail": 764,
-    "withGithub": 1060,
-    "withStack": 1316,
-    "withLinkedin": 965,
+    "withEmail": 765,
+    "withGithub": 1061,
+    "withStack": 1317,
+    "withLinkedin": 966,
     "withTwitter": 443
   },
   "portfolios": [
@@ -39886,6 +39886,41 @@
       "experience": "2+ years",
       "title": "Nafiz Iqbal - Top Web Developer &amp; Freelancer in Bangladesh | React, Next.js Expert",
       "location": "Dhaka, Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Sunil",
+      "url": "https://iamsunildev.in",
+      "listedTitle": "Senior Software Engineer | DevOps Engineer",
+      "emails": [
+        "iam.sunil.code@gmail.com"
+      ],
+      "github": [
+        "https://github.com/iamsunildev"
+      ],
+      "linkedin": "https://linkedin.com/in/iamsunildev",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": "4+ years",
+      "title": "Sunil J — Senior Software Engineer",
+      "location": "days to minutes and unblocking a key revenue channel",
       "status": "ok"
     }
   ]
