@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-04T14:04:09.169Z",
-    "total": 1921,
-    "successful": 1594,
+    "scrapedAt": "2026-08-05T14:01:55.318Z",
+    "total": 1924,
+    "successful": 1597,
     "failed": 327,
-    "withEmail": 765,
-    "withGithub": 1061,
-    "withStack": 1317,
-    "withLinkedin": 966,
+    "withEmail": 766,
+    "withGithub": 1063,
+    "withStack": 1319,
+    "withLinkedin": 968,
     "withTwitter": 443
   },
   "portfolios": [
@@ -39921,6 +39921,69 @@
       "experience": "4+ years",
       "title": "Sunil J — Senior Software Engineer",
       "location": "days to minutes and unblocking a key revenue channel",
+      "status": "ok"
+    },
+    {
+      "name": "Rathod Ramraj",
+      "url": "https://rathodram.vercel.app",
+      "listedTitle": "Full Stack Dev | Student at NITJ",
+      "emails": [
+        "rathodramraj.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rathod-ramraj"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rathod-ramraj-a50794323",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Rathod Ramraj — Full Stack Developer • React • Next.js • Node.js",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ravi K Gupta",
+      "url": "https://devravik.github.io",
+      "listedTitle": "Senior Backend Engineer | Laravel | Go",
+      "emails": [],
+      "github": [
+        "https://github.com/devravik"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ravi-k-dev",
+      "twitter": null,
+      "stack": [
+        "Go",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Ravi K. Gupta | Senior Backend Engineer",
+      "location": "Delhi, India",
+      "status": "ok"
+    },
+    {
+      "name": "Rihan Mulla",
+      "url": "https://portfolio-frontend-eight-blond.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Rihan Mulla | Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
