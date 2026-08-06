@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-05T19:25:27.440Z",
-    "total": 1910,
-    "successful": 1586,
+    "scrapedAt": "2026-08-06T02:21:50.248Z",
+    "total": 1912,
+    "successful": 1588,
     "failed": 324,
     "withEmail": 763,
-    "withGithub": 1058,
-    "withStack": 1311,
-    "withLinkedin": 964,
-    "withTwitter": 441
+    "withGithub": 1060,
+    "withStack": 1313,
+    "withLinkedin": 965,
+    "withTwitter": 442
   },
   "portfolios": [
     {
@@ -39741,6 +39741,57 @@
       "experience": null,
       "title": "Vikas Uniyal | Full-Stack Developer",
       "location": "the start",
+      "status": "ok"
+    },
+    {
+      "name": "Sheriff Abouchekeir",
+      "url": "https://sheriff-a.com",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/Sheriff-A"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Nuxt",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Azure",
+        "GCP",
+        "PostgreSQL",
+        "Redis",
+        "Tailwind",
+        "GraphQL",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sheriff Abouchekeir.",
+      "location": "chemical data to new compounds through deep generative modeling",
+      "status": "ok"
+    },
+    {
+      "name": "Wasif Amin",
+      "url": "https://camelon.app",
+      "listedTitle": "Software & AI Engineer | Cybersecurity | Data Science",
+      "emails": [],
+      "github": [
+        "https://github.com/Cameloo1"
+      ],
+      "linkedin": "https://www.linkedin.com/in/wasif-am",
+      "twitter": "https://x.com/camelo1",
+      "stack": [
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "experience": null,
+      "title": "Wasif Amin — AI Engineer | Camelon Systems",
+      "location": null,
       "status": "ok"
     }
   ]
