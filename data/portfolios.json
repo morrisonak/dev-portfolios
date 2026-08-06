@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-06T02:21:50.248Z",
-    "total": 1912,
-    "successful": 1588,
+    "scrapedAt": "2026-08-06T14:01:04.372Z",
+    "total": 1913,
+    "successful": 1589,
     "failed": 324,
     "withEmail": 763,
     "withGithub": 1060,
-    "withStack": 1313,
+    "withStack": 1314,
     "withLinkedin": 965,
     "withTwitter": 442
   },
@@ -39791,6 +39791,22 @@
       ],
       "experience": null,
       "title": "Wasif Amin — AI Engineer | Camelon Systems",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tauqeer Ahmed",
+      "url": "https://tauqeerkhattak.github.io/",
+      "listedTitle": "Full Stack Developer | Flutter, Android, Golang",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Tauqeer Ahmed",
       "location": null,
       "status": "ok"
     }
