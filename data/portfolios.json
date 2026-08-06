@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-06T14:01:04.372Z",
-    "total": 1913,
-    "successful": 1589,
+    "scrapedAt": "2026-08-06T23:55:20.775Z",
+    "total": 1914,
+    "successful": 1590,
     "failed": 324,
-    "withEmail": 763,
-    "withGithub": 1060,
-    "withStack": 1314,
+    "withEmail": 764,
+    "withGithub": 1061,
+    "withStack": 1315,
     "withLinkedin": 965,
     "withTwitter": 442
   },
@@ -39807,6 +39807,33 @@
       ],
       "experience": null,
       "title": "Tauqeer Ahmed",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Blake Werlinger",
+      "url": "https://werlinger.dev",
+      "listedTitle": "Gameplay Programming | Backend Architecture | Web Development",
+      "emails": [
+        "_@astro.cflg536b.css"
+      ],
+      "github": [
+        "https://github.com/Void-n-Null"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Svelte",
+        "Astro",
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Spring",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Blake Werlinger",
       "location": null,
       "status": "ok"
     }
