@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-06T23:55:20.775Z",
-    "total": 1914,
-    "successful": 1590,
+    "scrapedAt": "2026-08-07T12:56:34.519Z",
+    "total": 1915,
+    "successful": 1591,
     "failed": 324,
-    "withEmail": 764,
-    "withGithub": 1061,
-    "withStack": 1315,
-    "withLinkedin": 965,
+    "withEmail": 765,
+    "withGithub": 1062,
+    "withStack": 1316,
+    "withLinkedin": 966,
     "withTwitter": 442
   },
   "portfolios": [
@@ -39835,6 +39835,28 @@
       "experience": null,
       "title": "Blake Werlinger",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ankit Maheshwari",
+      "url": "https://ankytm.github.io",
+      "listedTitle": "Android Developer | Kotlin | Jetpack Compose | MVVM | Clean Architecture",
+      "emails": [
+        "ankytmaheshwari@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ankytm"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ankytmaheshwari",
+      "twitter": null,
+      "stack": [
+        "Java",
+        "Kotlin",
+        "Firebase"
+      ],
+      "experience": "8+ years",
+      "title": "Ankit Maheshwari | Senior Android Engineer",
+      "location": "one place to another",
       "status": "ok"
     }
   ]
