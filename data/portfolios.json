@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-07T12:56:34.519Z",
-    "total": 1915,
-    "successful": 1591,
+    "scrapedAt": "2026-08-07T18:51:53.553Z",
+    "total": 1916,
+    "successful": 1592,
     "failed": 324,
     "withEmail": 765,
     "withGithub": 1062,
-    "withStack": 1316,
+    "withStack": 1317,
     "withLinkedin": 966,
     "withTwitter": 442
   },
@@ -39857,6 +39857,24 @@
       "experience": "8+ years",
       "title": "Ankit Maheshwari | Senior Android Engineer",
       "location": "one place to another",
+      "status": "ok"
+    },
+    {
+      "name": "Bhumika Wadhwani",
+      "url": "https://bhumika-wadhwani-portfolio.onrender.com",
+      "listedTitle": "Computer Science Student | Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Bhumika Wadhwani - Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
