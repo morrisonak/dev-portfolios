@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-08T01:20:45.977Z",
-    "total": 1917,
-    "successful": 1593,
+    "scrapedAt": "2026-08-08T12:41:07.875Z",
+    "total": 1922,
+    "successful": 1598,
     "failed": 324,
-    "withEmail": 765,
-    "withGithub": 1062,
-    "withStack": 1318,
-    "withLinkedin": 966,
-    "withTwitter": 442
+    "withEmail": 769,
+    "withGithub": 1066,
+    "withStack": 1322,
+    "withLinkedin": 970,
+    "withTwitter": 443
   },
   "portfolios": [
     {
@@ -39891,6 +39891,131 @@
       "experience": null,
       "title": "Yash Ahire",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hasibul Islam",
+      "url": "https://devhasibulislam.vercel.app",
+      "listedTitle": "Senior Full-Stack Engineer | Node.js, NestJS, TypeScript",
+      "emails": [
+        "devhasibulislam@gmail.com"
+      ],
+      "github": [
+        "https://github.com/devhasibulislam"
+      ],
+      "linkedin": "https://linkedin.com/in/devhasibulislam",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Hasibul Islam",
+      "location": "application code to the database",
+      "status": "ok"
+    },
+    {
+      "name": "Kim Carl Macapayad",
+      "url": "https://kcmacapayad-portfolio.vercel.app",
+      "listedTitle": "Computer Engineer | SEO-Focused Front-End Developer",
+      "emails": [
+        "kimcarlmc@gmail.com"
+      ],
+      "github": [
+        "https://github.com/kimcarlmc"
+      ],
+      "linkedin": "https://www.linkedin.com/in/kim-carl-u-macapayad-432185373",
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Kim Carl Macapayad | SEO Specialist & Front-End Developer Portfolio",
+      "location": "the Philippines",
+      "status": "ok"
+    },
+    {
+      "name": "Raksha Sinha",
+      "url": "https://rakshasinha.dev",
+      "listedTitle": "Software Engineer | AI & Full Stack",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Raksha Sinha | Software Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sakshi Hanwat",
+      "url": "https://sakshi-portfolio-eta-swart.vercel.app",
+      "listedTitle": "Java Full Stack Developer",
+      "emails": [
+        "hanwatsakshi900@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SakshiHanwat"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sakshi-hanwat-b4722b254",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Sakshi Hanwat — Java Full Stack Developer",
+      "location": "a simple text prompt",
+      "status": "ok"
+    },
+    {
+      "name": "Sam Gao",
+      "url": "https://dinq.me/sam",
+      "listedTitle": "CEO and Co-founder, DINQ",
+      "emails": [
+        "you@company.com",
+        "samuel.gao023@gmail.com"
+      ],
+      "github": [
+        "https://github.com/DART2022",
+        "https://github.com/tomguluson92",
+        "https://github.com/joaomdmoura"
+      ],
+      "linkedin": "https://www.linkedin.com/in/dsholtz",
+      "twitter": "https://x.com/dinq_me",
+      "stack": [
+        "Go"
+      ],
+      "experience": null,
+      "title": "Sam Gao | dinq.me",
+      "location": "the organization Team list and chat",
       "status": "ok"
     }
   ]
