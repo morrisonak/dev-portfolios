@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-07T18:51:53.553Z",
-    "total": 1916,
-    "successful": 1592,
+    "scrapedAt": "2026-08-08T01:20:45.977Z",
+    "total": 1917,
+    "successful": 1593,
     "failed": 324,
     "withEmail": 765,
     "withGithub": 1062,
-    "withStack": 1317,
+    "withStack": 1318,
     "withLinkedin": 966,
     "withTwitter": 442
   },
@@ -39874,6 +39874,22 @@
       ],
       "experience": null,
       "title": "Bhumika Wadhwani - Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aahire Yash",
+      "url": "https://yashahire.info",
+      "listedTitle": "Full Stack & AI Engineer | React, NestJS, AI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Yash Ahire",
       "location": null,
       "status": "ok"
     }
