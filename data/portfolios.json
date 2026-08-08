@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-08T12:41:07.875Z",
-    "total": 1922,
-    "successful": 1598,
+    "scrapedAt": "2026-08-08T18:33:18.396Z",
+    "total": 1923,
+    "successful": 1599,
     "failed": 324,
-    "withEmail": 769,
-    "withGithub": 1066,
-    "withStack": 1322,
-    "withLinkedin": 970,
-    "withTwitter": 443
+    "withEmail": 770,
+    "withGithub": 1067,
+    "withStack": 1323,
+    "withLinkedin": 971,
+    "withTwitter": 444
   },
   "portfolios": [
     {
@@ -40016,6 +40016,37 @@
       "experience": null,
       "title": "Sam Gao | dinq.me",
       "location": "the organization Team list and chat",
+      "status": "ok"
+    },
+    {
+      "name": "Favian Izza",
+      "url": "https://www.favianizza.space",
+      "listedTitle": "Software Engineer | Full-Stack | IoT",
+      "emails": [
+        "izza.diasputra10@gmail.com"
+      ],
+      "github": [
+        "https://github.com/IlllIllIIIlIlIll"
+      ],
+      "linkedin": "https://www.linkedin.com/in/favianizza",
+      "twitter": "https://x.com/fvniz",
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "Python",
+        "PHP",
+        "Express",
+        "Laravel",
+        "Azure",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Favian Izza | Software Engineer Portfolio - Full-Stack &amp; IoT",
+      "location": "ITB, with software engineering internship experience at two leading manufacturing companies",
       "status": "ok"
     }
   ]
