@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-08T18:33:18.396Z",
-    "total": 1923,
-    "successful": 1599,
+    "scrapedAt": "2026-08-09T01:26:12.863Z",
+    "total": 1924,
+    "successful": 1600,
     "failed": 324,
     "withEmail": 770,
-    "withGithub": 1067,
-    "withStack": 1323,
-    "withLinkedin": 971,
+    "withGithub": 1068,
+    "withStack": 1324,
+    "withLinkedin": 972,
     "withTwitter": 444
   },
   "portfolios": [
@@ -40047,6 +40047,28 @@
       "experience": null,
       "title": "Favian Izza | Software Engineer Portfolio - Full-Stack &amp; IoT",
       "location": "ITB, with software engineering internship experience at two leading manufacturing companies",
+      "status": "ok"
+    },
+    {
+      "name": "Charan Reddy",
+      "url": "https://charanreddy.qzz.io/",
+      "listedTitle": "Student | Cyber Security",
+      "emails": [],
+      "github": [
+        "https://github.com/Charanreddy0007"
+      ],
+      "linkedin": "https://www.linkedin.com/in/charanreddy0007",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Java",
+        "Docker",
+        "MySQL",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Charan Reddy Muli — Cyber Security & Digital Forensics",
+      "location": "raw sockets to understand connection handshakes and scanning fundamentals",
       "status": "ok"
     }
   ]
