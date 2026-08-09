@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-09T01:26:12.863Z",
-    "total": 1924,
-    "successful": 1600,
+    "scrapedAt": "2026-08-09T18:35:56.478Z",
+    "total": 1926,
+    "successful": 1602,
     "failed": 324,
-    "withEmail": 770,
-    "withGithub": 1068,
-    "withStack": 1324,
-    "withLinkedin": 972,
-    "withTwitter": 444
+    "withEmail": 771,
+    "withGithub": 1070,
+    "withStack": 1325,
+    "withLinkedin": 974,
+    "withTwitter": 445
   },
   "portfolios": [
     {
@@ -40069,6 +40069,47 @@
       "experience": null,
       "title": "Charan Reddy Muli — Cyber Security & Digital Forensics",
       "location": "raw sockets to understand connection handshakes and scanning fundamentals",
+      "status": "ok"
+    },
+    {
+      "name": "Ameed Darawsha",
+      "url": "https://darawsha.github.io",
+      "listedTitle": "Computer Engineer | Design Verification , VLSI , Hardware",
+      "emails": [
+        "ce.ameed@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Darawsha"
+      ],
+      "linkedin": "https://linkedin.com/in/darawsha",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ameed Darawsha",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shushay Kebedew",
+      "url": "https://shushaykebedew-portfolio.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/shushaykebedew"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shushay-kebedew",
+      "twitter": "https://x.com/Shushay_Kebedew",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Shushay Kebedew | Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
