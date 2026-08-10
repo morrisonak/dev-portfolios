@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-10T13:00:51.274Z",
-    "total": 1924,
-    "successful": 1601,
+    "scrapedAt": "2026-08-10T18:53:01.458Z",
+    "total": 1928,
+    "successful": 1605,
     "failed": 323,
-    "withEmail": 771,
-    "withGithub": 1070,
-    "withStack": 1324,
-    "withLinkedin": 974,
-    "withTwitter": 445
+    "withEmail": 774,
+    "withGithub": 1073,
+    "withStack": 1327,
+    "withLinkedin": 977,
+    "withTwitter": 447
   },
   "portfolios": [
     {
@@ -5476,29 +5476,6 @@
       "stack": [],
       "experience": null,
       "title": "Azaan Suhail: Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Azel",
-      "url": "https:omargpax.vercel.app",
-      "listedTitle": "Software Developer - Full Stack",
-      "emails": [
-        "omargpax.dev@gmail.com"
-      ],
-      "github": [
-        "https://github.com/omargpax"
-      ],
-      "linkedin": "https://www.linkedin.com/in/omargpax",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "JavaScript",
-        "Java"
-      ],
-      "experience": null,
-      "title": "Developer Portfolio | @omargpax",
       "location": null,
       "status": "ok"
     },
@@ -38526,13 +38503,6 @@
       "status": "ok"
     },
     {
-      "name": "Khushboo Mundada",
-      "url": "<[Portfolio-Link](https://khushm.netlify.app",
-      "listedTitle": "",
-      "status": "error",
-      "error": "Failed to parse URL from <[Portfolio-Link](https://khushm.netlify.app"
-    },
-    {
       "name": "Lalith Kumar",
       "url": "https://lalith-d-portfolio.netlify.app",
       "listedTitle": "AI Engineer | Data Scientist | Machine Learning Engineer",
@@ -40094,6 +40064,135 @@
       "experience": "5+ years",
       "title": "Talha Siddique | AI Engineer & Full Stack Developer",
       "location": "Punjab, Pakistan, with",
+      "status": "ok"
+    },
+    {
+      "name": "Azel",
+      "url": "https://omargpax.vercel.app",
+      "listedTitle": "Software Developer - Full Stack",
+      "emails": [
+        "omargpax.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/omargpax"
+      ],
+      "linkedin": "https://www.linkedin.com/in/omargpax",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Omar Guerrero | Backend Developer &amp; Data Engineer",
+      "location": "Trujillo, Peru",
+      "status": "ok"
+    },
+    {
+      "name": "Bishnu Pokhrel",
+      "url": "https://bishnupokhrel.netlify.app",
+      "listedTitle": "Full Stack Laravel Vue Developer",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "name": "Hassan Tech",
+      "url": "https://hassanx.tech",
+      "listedTitle": "Web Developer",
+      "emails": [
+        "hassantech.contact@gmail.com"
+      ],
+      "github": [
+        "https://github.com/hassanxtech",
+        "https://github.com/HassanXTech"
+      ],
+      "linkedin": "https://linkedin.com/in/HassanTech",
+      "twitter": "https://twitter.com/HassanXTech",
+      "stack": [
+        "React",
+        "TypeScript",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Hassan Tech | UX/UI Developer &amp; Designer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Khushboo Mundada",
+      "url": "https://khushm.netlify.app",
+      "listedTitle": "Data Scientist",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Khushboo Mundada | ML/Software Architect",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Saurabh Patil",
+      "url": "https://saurabhpatil.netlify.app",
+      "listedTitle": "Code Craftsman",
+      "emails": [
+        "patilsaurabh9978@gmail.com"
+      ],
+      "github": [
+        "https://github.com/patilsaurabh83"
+      ],
+      "linkedin": "https://www.linkedin.com/in/patilsaurabh83",
+      "twitter": "https://twitter.com/patil__saurabh",
+      "stack": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Spring",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Saurabh Patil | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Syed Aashiq Ahamed",
+      "url": "https://www.syedahamed.in",
+      "listedTitle": "Software Development Engineer | Frontend Engineer",
+      "emails": [
+        "hello@syedahamed.in"
+      ],
+      "github": [
+        "https://github.com/SyedAHAMED29"
+      ],
+      "linkedin": "https://www.linkedin.com/in/syed-aashiq-ahamed-6180a9187",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Java",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Syed Aashiq Ahamed — Frontend Engineer",
+      "location": "Coimbatore",
       "status": "ok"
     }
   ]
