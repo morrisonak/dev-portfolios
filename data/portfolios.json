@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-10T01:27:47.765Z",
+    "scrapedAt": "2026-08-10T13:00:51.274Z",
     "total": 1924,
     "successful": 1601,
     "failed": 323,
@@ -29017,38 +29017,6 @@
       "status": "ok"
     },
     {
-      "name": "Simon Fereshetyan",
-      "url": "https://fereshetyan.space",
-      "listedTitle": "Software Engineer / DevOps",
-      "emails": [
-        "fereshetyansimon@gmail.com"
-      ],
-      "github": [
-        "https://github.com/sim2003on"
-      ],
-      "linkedin": "https://www.linkedin.com/in/simon-fereshetyan",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Astro",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Simon Fereshetyan",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Suraj Savle",
       "url": "https://surajsavle.in",
       "listedTitle": "Full Stack Developer",
@@ -40086,6 +40054,46 @@
       "experience": null,
       "title": "Tauqeer Ahmed",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Talha Siddique",
+      "url": "https://talhasiddique-portfolio.vercel.app",
+      "listedTitle": "AI Engineer | Full Stack Developer",
+      "emails": [
+        "talhasiddique.developer@gmail.com",
+        "example@gmail.com"
+      ],
+      "github": [
+        "https://github.com/talhasiddique7"
+      ],
+      "linkedin": "https://www.linkedin.com/in/talha-siddique-28961b279",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        ".NET"
+      ],
+      "experience": "5+ years",
+      "title": "Talha Siddique | AI Engineer & Full Stack Developer",
+      "location": "Punjab, Pakistan, with",
       "status": "ok"
     }
   ]
