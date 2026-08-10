@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-09T18:35:56.478Z",
-    "total": 1926,
-    "successful": 1602,
-    "failed": 324,
+    "scrapedAt": "2026-08-10T01:27:47.765Z",
+    "total": 1924,
+    "successful": 1601,
+    "failed": 323,
     "withEmail": 771,
     "withGithub": 1070,
-    "withStack": 1325,
+    "withStack": 1324,
     "withLinkedin": 974,
     "withTwitter": 445
   },
@@ -12656,23 +12656,6 @@
       "experience": null,
       "title": "Houssam's Portfolio",
       "location": "an external JSON file if needed",
-      "status": "ok"
-    },
-    {
-      "name": "Hozaifa Ali",
-      "url": "https://hozi-web3.site",
-      "listedTitle": "Software Engineer | Flutter Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Astro"
-      ],
-      "experience": null,
-      "title": "Hozaifa Ali - Software Engineer",
-      "location": null,
       "status": "ok"
     },
     {
@@ -26276,13 +26259,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Talha Kılıç",
-      "url": "https://talhakilic.com.tr",
-      "listedTitle": "Junior Frontend Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Tanisha Gupta",
       "url": "https://tanishagupta1.github.io/Tanisha-Gupta-portfolio",
       "listedTitle": "",
@@ -39795,22 +39771,6 @@
       "status": "ok"
     },
     {
-      "name": "Tauqeer Ahmed",
-      "url": "https://tauqeerkhattak.github.io/",
-      "listedTitle": "Full Stack Developer | Flutter, Android, Golang",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Tauqeer Ahmed",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Blake Werlinger",
       "url": "https://werlinger.dev",
       "listedTitle": "Gameplay Programming | Backend Architecture | Web Development",
@@ -40050,8 +40010,26 @@
       "status": "ok"
     },
     {
+      "name": "Ameed Darawsha",
+      "url": "https://darawsha.github.io",
+      "listedTitle": "Computer Engineer | Design Verification , VLSI , Hardware",
+      "emails": [
+        "ce.ameed@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Darawsha"
+      ],
+      "linkedin": "https://linkedin.com/in/darawsha",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ameed Darawsha",
+      "location": null,
+      "status": "ok"
+    },
+    {
       "name": "Charan Reddy",
-      "url": "https://charanreddy.qzz.io/",
+      "url": "https://charanreddy.qzz.io",
       "listedTitle": "Student | Cyber Security",
       "emails": [],
       "github": [
@@ -40072,26 +40050,8 @@
       "status": "ok"
     },
     {
-      "name": "Ameed Darawsha",
-      "url": "https://darawsha.github.io",
-      "listedTitle": "Computer Engineer | Design Verification , VLSI , Hardware",
-      "emails": [
-        "ce.ameed@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Darawsha"
-      ],
-      "linkedin": "https://linkedin.com/in/darawsha",
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Ameed Darawsha",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Shushay Kebedew",
-      "url": "https://shushaykebedew-portfolio.vercel.app/",
+      "url": "https://shushaykebedew-portfolio.vercel.app",
       "listedTitle": "Full Stack Developer",
       "emails": [],
       "github": [
@@ -40109,6 +40069,22 @@
       ],
       "experience": null,
       "title": "Shushay Kebedew | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tauqeer Ahmed",
+      "url": "https://tauqeerkhattak.github.io",
+      "listedTitle": "Full Stack Developer | Flutter, Android, Golang",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Tauqeer Ahmed",
       "location": null,
       "status": "ok"
     }
