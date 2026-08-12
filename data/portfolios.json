@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-10T18:53:01.458Z",
-    "total": 1928,
-    "successful": 1605,
+    "scrapedAt": "2026-08-12T07:20:04.616Z",
+    "total": 1929,
+    "successful": 1606,
     "failed": 323,
-    "withEmail": 774,
-    "withGithub": 1073,
-    "withStack": 1327,
-    "withLinkedin": 977,
+    "withEmail": 775,
+    "withGithub": 1074,
+    "withStack": 1328,
+    "withLinkedin": 978,
     "withTwitter": 447
   },
   "portfolios": [
@@ -40193,6 +40193,38 @@
       "experience": null,
       "title": "Syed Aashiq Ahamed — Frontend Engineer",
       "location": "Coimbatore",
+      "status": "ok"
+    },
+    {
+      "name": "Marco Bellingeri",
+      "url": "https://marcobellingeri.dev",
+      "listedTitle": "Cloud Platform & AI Security Engineer | RAG & agentic AI | OWASP LLM Top 10",
+      "emails": [
+        "mkdevpy@proton.me"
+      ],
+      "github": [
+        "https://github.com/MK023"
+      ],
+      "linkedin": "https://www.linkedin.com/in/marco-bellingeri",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Flask",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Bellingeri — AI, Cloud &amp; Security Edition",
+      "location": "Casale Monferrato, Italy",
       "status": "ok"
     }
   ]
