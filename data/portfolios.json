@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-12T07:20:04.616Z",
-    "total": 1929,
-    "successful": 1606,
+    "scrapedAt": "2026-08-12T13:01:51.970Z",
+    "total": 1933,
+    "successful": 1610,
     "failed": 323,
-    "withEmail": 775,
-    "withGithub": 1074,
-    "withStack": 1328,
-    "withLinkedin": 978,
-    "withTwitter": 447
+    "withEmail": 778,
+    "withGithub": 1078,
+    "withStack": 1332,
+    "withLinkedin": 980,
+    "withTwitter": 448
   },
   "portfolios": [
     {
@@ -40225,6 +40225,128 @@
       "experience": null,
       "title": "Bellingeri — AI, Cloud &amp; Security Edition",
       "location": "Casale Monferrato, Italy",
+      "status": "ok"
+    },
+    {
+      "name": "Amir Sohail",
+      "url": "http://portfolio.proaikit.com/",
+      "listedTitle": "",
+      "emails": [
+        "sohailak825@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/sohranikhan"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Amir Sohail | Full Stack Developer",
+      "location": "startup websites and eCommerce platforms to custom business solutions",
+      "status": "ok"
+    },
+    {
+      "name": "Narender Chepuri",
+      "url": "https://narender24681.github.io",
+      "listedTitle": "Software Developer | Agentic AI & Real-Time Systems",
+      "emails": [
+        "narender24681@gmail.com"
+      ],
+      "github": [
+        "https://github.com/narender24681"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Narender Chepuri | Elite Full Stack &amp; AI Engineer",
+      "location": "rigorous software engineering training at Masai School to leading architectural decisions at NeuBina",
+      "status": "ok"
+    },
+    {
+      "name": "Nikhil Kumawat",
+      "url": "https://nikhilkumawat.netlify.app/",
+      "listedTitle": "Full Stack Developer | MERN, Java, DSA",
+      "emails": [
+        "nikhilkumawat7689@gamil.com",
+        "nikhilkumawat7689@gmail.com"
+      ],
+      "github": [
+        "https://github.com/nikhil566565"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nikhil-kumawat-ab91b82b4",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Nikhil Kumawat",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ruben Marcus",
+      "url": "https://www.rubenmarcus.dev/?utm_source=developer_portfolios&utm_medium=directory&utm_campaign=authority_2026&utm_content=agent_ready",
+      "listedTitle": "AI Fullstack Engineer | Agent Systems | AI-Native Frontend",
+      "emails": [],
+      "github": [
+        "https://github.com/rubenmarcus"
+      ],
+      "linkedin": "https://linkedin.com/in/rubenmarcus",
+      "twitter": "https://x.com/rubenmarcus_dev",
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Svelte",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Node.js",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Firebase",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Ruben Marcus — AI Fullstack Engineer",
+      "location": "Lisbon",
       "status": "ok"
     }
   ]
