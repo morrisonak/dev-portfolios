@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-13T13:03:14.787Z",
-    "total": 1935,
-    "successful": 1612,
+    "scrapedAt": "2026-08-13T18:59:08.297Z",
+    "total": 1936,
+    "successful": 1613,
     "failed": 323,
-    "withEmail": 779,
-    "withGithub": 1079,
-    "withStack": 1333,
-    "withLinkedin": 981,
+    "withEmail": 780,
+    "withGithub": 1080,
+    "withStack": 1334,
+    "withLinkedin": 982,
     "withTwitter": 448
   },
   "portfolios": [
@@ -40389,6 +40389,39 @@
       "experience": null,
       "title": "P Sushanth | Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aditya Dubey",
+      "url": "https://ad1tya.me",
+      "listedTitle": "Cloud and Platform Engineer",
+      "emails": [
+        "aditya.d2676@gmail.com"
+      ],
+      "github": [
+        "https://github.com/adityacodes-root"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aditya-dubey-438a11301",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Flask",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Aditya | Cloud &amp; Software Engineer",
+      "location": "the ground up",
       "status": "ok"
     }
   ]
