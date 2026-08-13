@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-12T13:01:51.970Z",
-    "total": 1933,
-    "successful": 1610,
+    "scrapedAt": "2026-08-13T01:45:33.946Z",
+    "total": 1934,
+    "successful": 1611,
     "failed": 323,
     "withEmail": 778,
     "withGithub": 1078,
@@ -40347,6 +40347,20 @@
       "experience": null,
       "title": "Ruben Marcus — AI Fullstack Engineer",
       "location": "Lisbon",
+      "status": "ok"
+    },
+    {
+      "name": "Donna Szeto",
+      "url": "https://www.donnaszeto.com",
+      "listedTitle": "Full Stack Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Donna Szeto — Software Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
