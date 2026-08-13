@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-13T01:45:33.946Z",
-    "total": 1934,
-    "successful": 1611,
+    "scrapedAt": "2026-08-13T13:03:14.787Z",
+    "total": 1935,
+    "successful": 1612,
     "failed": 323,
-    "withEmail": 778,
-    "withGithub": 1078,
-    "withStack": 1332,
-    "withLinkedin": 980,
+    "withEmail": 779,
+    "withGithub": 1079,
+    "withStack": 1333,
+    "withLinkedin": 981,
     "withTwitter": 448
   },
   "portfolios": [
@@ -40287,36 +40287,6 @@
       "status": "ok"
     },
     {
-      "name": "Nikhil Kumawat",
-      "url": "https://nikhilkumawat.netlify.app/",
-      "listedTitle": "Full Stack Developer | MERN, Java, DSA",
-      "emails": [
-        "nikhilkumawat7689@gamil.com",
-        "nikhilkumawat7689@gmail.com"
-      ],
-      "github": [
-        "https://github.com/nikhil566565"
-      ],
-      "linkedin": "https://www.linkedin.com/in/nikhil-kumawat-ab91b82b4",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Tailwind",
-        ".NET",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Nikhil Kumawat",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Ruben Marcus",
       "url": "https://www.rubenmarcus.dev/?utm_source=developer_portfolios&utm_medium=directory&utm_campaign=authority_2026&utm_content=agent_ready",
       "listedTitle": "AI Fullstack Engineer | Agent Systems | AI-Native Frontend",
@@ -40360,6 +40330,64 @@
       "stack": [],
       "experience": null,
       "title": "Donna Szeto — Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nikhil Kumawat",
+      "url": "https://nikhilkumawat.netlify.app",
+      "listedTitle": "Full Stack Developer | MERN, Java, DSA",
+      "emails": [
+        "nikhilkumawat7689@gamil.com",
+        "nikhilkumawat7689@gmail.com"
+      ],
+      "github": [
+        "https://github.com/nikhil566565"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nikhil-kumawat-ab91b82b4",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Nikhil Kumawat",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Popuri Sushanth",
+      "url": "https://p-sushanth.github.io/Portfolio/",
+      "listedTitle": "Full Stack & AI Engineer | Quantum Computing",
+      "emails": [
+        "popurisushanth@gmail.com"
+      ],
+      "github": [
+        "https://github.com/P-Sushanth"
+      ],
+      "linkedin": "https://www.linkedin.com/in/p-sushanth-a04587312",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "MongoDB",
+        "Flutter",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "P Sushanth | Portfolio",
       "location": null,
       "status": "ok"
     }
