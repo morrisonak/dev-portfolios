@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-14T01:43:23.231Z",
-    "total": 1937,
-    "successful": 1614,
+    "scrapedAt": "2026-08-14T12:59:44.764Z",
+    "total": 1941,
+    "successful": 1618,
     "failed": 323,
-    "withEmail": 781,
-    "withGithub": 1081,
-    "withStack": 1335,
-    "withLinkedin": 983,
+    "withEmail": 782,
+    "withGithub": 1084,
+    "withStack": 1338,
+    "withLinkedin": 986,
     "withTwitter": 448
   },
   "portfolios": [
@@ -40454,6 +40454,91 @@
       "experience": null,
       "title": "Overview · Abdul Mateen",
       "location": "each",
+      "status": "ok"
+    },
+    {
+      "name": "Hamza Fareed",
+      "url": "https://hamzafareed.vercel.app",
+      "listedTitle": "Full Stack AI Developer | React, Next.js, Node, Python, FastAPI",
+      "emails": [],
+      "github": [
+        "https://github.com/hamzafareed123"
+      ],
+      "linkedin": "https://www.linkedin.com/in/hamza-fareed-274850305",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Hamza Fareed | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jiban Budhathoki",
+      "url": "https://jibanbudhathoki.com.np",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [
+        "jibanbudhathoki.co@gmail.com"
+      ],
+      "github": [
+        "https://github.com/jibanbudhathoki"
+      ],
+      "linkedin": "https://linkedin.com/in/jibanbudhathoki",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Swift",
+        "Kotlin",
+        "Node.js",
+        "Laravel",
+        "Spring",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": "5+ years",
+      "title": "Jiban Budhathoki | Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rajwardhan Patil",
+      "url": "https://portfolio-six-livid-ti0bj1fdj4.vercel.app/projects",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/Rajwardhan1807"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rajwardhan-patil18",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Rajwardhan Patil | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rhenz Ganotice",
+      "url": "https://rhenzportfolio.vercel.app/",
+      "listedTitle": "Full Stack Developer Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Rhenz Ganotice — Software Developer",
+      "location": null,
       "status": "ok"
     }
   ]
