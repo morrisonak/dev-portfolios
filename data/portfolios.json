@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-13T18:59:08.297Z",
-    "total": 1936,
-    "successful": 1613,
+    "scrapedAt": "2026-08-14T01:43:23.231Z",
+    "total": 1937,
+    "successful": 1614,
     "failed": 323,
-    "withEmail": 780,
-    "withGithub": 1080,
-    "withStack": 1334,
-    "withLinkedin": 982,
+    "withEmail": 781,
+    "withGithub": 1081,
+    "withStack": 1335,
+    "withLinkedin": 983,
     "withTwitter": 448
   },
   "portfolios": [
@@ -40422,6 +40422,38 @@
       "experience": null,
       "title": "Aditya | Cloud &amp; Software Engineer",
       "location": "the ground up",
+      "status": "ok"
+    },
+    {
+      "name": "Abdul Mateen",
+      "url": "https://abdulmateenzwl.com",
+      "listedTitle": "Site Reliability Engineer, Cloud, Solution Architect",
+      "emails": [
+        "abdulmateenzwl@gmail.com"
+      ],
+      "github": [
+        "https://github.com/AbdulMateenzwl"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abdulmateenzwl",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "JavaScript",
+        "Go",
+        "Java",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Firebase",
+        "Tailwind",
+        "Flutter",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Overview · Abdul Mateen",
+      "location": "each",
       "status": "ok"
     }
   ]
