@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-14T12:59:44.764Z",
-    "total": 1941,
-    "successful": 1618,
+    "scrapedAt": "2026-08-15T18:23:42.872Z",
+    "total": 1942,
+    "successful": 1619,
     "failed": 323,
-    "withEmail": 782,
-    "withGithub": 1084,
-    "withStack": 1338,
-    "withLinkedin": 986,
-    "withTwitter": 448
+    "withEmail": 783,
+    "withGithub": 1085,
+    "withStack": 1339,
+    "withLinkedin": 987,
+    "withTwitter": 449
   },
   "portfolios": [
     {
@@ -40539,6 +40539,36 @@
       "experience": null,
       "title": "Rhenz Ganotice — Software Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "César Gómez",
+      "url": "https://cesargomez.dev",
+      "listedTitle": "Senior Vue/Nuxt & Fullstack Engineer",
+      "emails": [
+        "cesargomezh90@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/mrcego"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mrcego",
+      "twitter": "https://x.com/codingwithcego",
+      "stack": [
+        "Vue",
+        "Angular",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": "13+ years",
+      "title": "Senior Vue&#x2F;Nuxt Engineer · Frontend Architect · Senior Fullstack Engineer | César Gómez",
+      "location": "Cartagena, Colombia",
       "status": "ok"
     }
   ]
