@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-16T12:33:04.628Z",
-    "total": 1944,
-    "successful": 1621,
-    "failed": 323,
-    "withEmail": 784,
-    "withGithub": 1086,
-    "withStack": 1340,
-    "withLinkedin": 988,
+    "scrapedAt": "2026-08-16T18:23:22.052Z",
+    "total": 1948,
+    "successful": 1624,
+    "failed": 324,
+    "withEmail": 786,
+    "withGithub": 1087,
+    "withStack": 1342,
+    "withLinkedin": 989,
     "withTwitter": 450
   },
   "portfolios": [
@@ -40228,38 +40228,6 @@
       "status": "ok"
     },
     {
-      "name": "Amir Sohail",
-      "url": "http://portfolio.proaikit.com/",
-      "listedTitle": "",
-      "emails": [
-        "sohailak825@gmail.com",
-        "your@email.com"
-      ],
-      "github": [
-        "https://github.com/sohranikhan"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Kotlin",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Firebase",
-        "Tailwind",
-        "React Native",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Amir Sohail | Full Stack Developer",
-      "location": "startup websites and eCommerce platforms to custom business solutions",
-      "status": "ok"
-    },
-    {
       "name": "Narender Chepuri",
       "url": "https://narender24681.github.io",
       "listedTitle": "Software Developer | Agentic AI & Real-Time Systems",
@@ -40523,25 +40491,6 @@
       "status": "ok"
     },
     {
-      "name": "Rhenz Ganotice",
-      "url": "https://rhenzportfolio.vercel.app/",
-      "listedTitle": "Full Stack Developer Software Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "PostgreSQL"
-      ],
-      "experience": null,
-      "title": "Rhenz Ganotice — Software Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "César Gómez",
       "url": "https://cesargomez.dev",
       "listedTitle": "Senior Vue/Nuxt & Fullstack Engineer",
@@ -40572,8 +40521,68 @@
       "status": "ok"
     },
     {
+      "name": "Jean-Bernard Laguerre",
+      "url": "https://laguerre-jb.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Laguerre Jean-Bernard Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Amir Sohail",
+      "url": "http://portfolio.proaikit.com",
+      "listedTitle": "",
+      "emails": [
+        "sohailak825@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/sohranikhan"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Amir Sohail | Full Stack Developer",
+      "location": "startup websites and eCommerce platforms to custom business solutions",
+      "status": "ok"
+    },
+    {
+      "name": "Anuj Khurana",
+      "url": "https://aanujkhurana.github.io",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Anuj Khurana",
+      "location": null,
+      "status": "ok"
+    },
+    {
       "name": "Jonathan Rufus Samuel",
-      "url": "https://jrs-studios.web.cern.ch/",
+      "url": "https://jrs-studios.web.cern.ch",
       "listedTitle": "Systems Administrator | Software Development, Infrastructure & DevOps, Research",
       "emails": [
         "jonathan.rufus.samuel@cern.ch",
@@ -40615,18 +40624,69 @@
       "status": "ok"
     },
     {
-      "name": "Jean-Bernard Laguerre",
-      "url": "https://laguerre-jb.vercel.app",
-      "listedTitle": "Full Stack Developer",
+      "name": "Mohd Zaheer Uddin",
+      "url": "https://sohailkhan0525.github.io/MyPortfolio",
+      "listedTitle": "MACHINE LEARNING BEGINNER | Founder of @Qofeno",
+      "emails": [
+        "sohailkhannnn.0525@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SohailKhan0525"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mohd-zaheer-uddin-166b3b356",
+      "twitter": null,
+      "stack": [
+        "Python",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "MOHD ZAHEER UDDIN | AI Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rhenz Ganotice",
+      "url": "https://rhenzportfolio.vercel.app",
+      "listedTitle": "Full Stack Developer Software Engineer",
       "emails": [],
       "github": [],
       "linkedin": null,
       "twitter": null,
-      "stack": [],
+      "stack": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL"
+      ],
       "experience": null,
-      "title": "Laguerre Jean-Bernard Portfolio",
+      "title": "Rhenz Ganotice — Software Developer",
       "location": null,
       "status": "ok"
+    },
+    {
+      "name": "Sailesh Atreya",
+      "url": "https://sailesh-atreya.vercel.app",
+      "listedTitle": "Photographer | Videographer | Editor",
+      "emails": [
+        "saileshatreya@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "PHP"
+      ],
+      "experience": "3+ years",
+      "title": "Sailesh Atreya | Professional Photographer &amp; Cinematographer",
+      "location": "India",
+      "status": "ok"
+    },
+    {
+      "name": "Saksham Sirohi",
+      "url": "https://saksham-sirohi.github.io",
+      "listedTitle": "Software Engineer | Open Source | Full-Stack",
+      "status": "error",
+      "error": "HTTP 503"
     }
   ]
 }
