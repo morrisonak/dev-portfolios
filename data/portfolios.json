@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-16T01:07:30.897Z",
-    "total": 1943,
-    "successful": 1620,
+    "scrapedAt": "2026-08-16T12:33:04.628Z",
+    "total": 1944,
+    "successful": 1621,
     "failed": 323,
     "withEmail": 784,
     "withGithub": 1086,
@@ -40612,6 +40612,20 @@
       "experience": null,
       "title": "JRS Studios",
       "location": "research",
+      "status": "ok"
+    },
+    {
+      "name": "Jean-Bernard Laguerre",
+      "url": "https://laguerre-jb.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Laguerre Jean-Bernard Portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
