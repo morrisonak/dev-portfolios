@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-15T18:23:42.872Z",
-    "total": 1942,
-    "successful": 1619,
+    "scrapedAt": "2026-08-16T01:07:30.897Z",
+    "total": 1943,
+    "successful": 1620,
     "failed": 323,
-    "withEmail": 783,
-    "withGithub": 1085,
-    "withStack": 1339,
-    "withLinkedin": 987,
-    "withTwitter": 449
+    "withEmail": 784,
+    "withGithub": 1086,
+    "withStack": 1340,
+    "withLinkedin": 988,
+    "withTwitter": 450
   },
   "portfolios": [
     {
@@ -40569,6 +40569,49 @@
       "experience": "13+ years",
       "title": "Senior Vue&#x2F;Nuxt Engineer · Frontend Architect · Senior Fullstack Engineer | César Gómez",
       "location": "Cartagena, Colombia",
+      "status": "ok"
+    },
+    {
+      "name": "Jonathan Rufus Samuel",
+      "url": "https://jrs-studios.web.cern.ch/",
+      "listedTitle": "Systems Administrator | Software Development, Infrastructure & DevOps, Research",
+      "emails": [
+        "jonathan.rufus.samuel@cern.ch",
+        "jonathansamuel296@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Dijkstra-Edu",
+        "https://github.com/JRS296",
+        "https://github.com/Mp3-Automated-Tag-Editor",
+        "https://github.com/Chronicles-Network-Manager"
+      ],
+      "linkedin": "https://www.linkedin.com/in/jrs2002",
+      "twitter": "https://twitter.com/Jonatha03957889",
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "JRS Studios",
+      "location": "research",
       "status": "ok"
     }
   ]
