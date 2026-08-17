@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-17T01:05:28.059Z",
-    "total": 1943,
-    "successful": 1620,
-    "failed": 323,
+    "scrapedAt": "2026-08-17T12:37:33.339Z",
+    "total": 1941,
+    "successful": 1619,
+    "failed": 322,
     "withEmail": 784,
-    "withGithub": 1084,
-    "withStack": 1339,
-    "withLinkedin": 986,
-    "withTwitter": 449
+    "withGithub": 1082,
+    "withStack": 1338,
+    "withLinkedin": 985,
+    "withTwitter": 447
   },
   "portfolios": [
     {
@@ -17462,28 +17462,6 @@
       "experience": null,
       "title": "Marko Denic - Web Developer",
       "location": "zero to Web developer",
-      "status": "ok"
-    },
-    {
-      "name": "Markus Polzer",
-      "url": "https://www.rapidtech1898.com",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/Rapid1898-code"
-      ],
-      "linkedin": null,
-      "twitter": "https://x.com/RapidTech1898",
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Go",
-        "PHP",
-        "WordPress"
-      ],
-      "experience": "20+ years",
-      "title": "Freelance Automation and Data Solutions for Businesses - RapidTech1898",
-      "location": "different plattforms and create the reports and dashboards you need",
       "status": "ok"
     },
     {
@@ -37272,13 +37250,6 @@
       "status": "ok"
     },
     {
-      "name": "Camel Djoulako",
-      "url": "https://cameldjoulako.com",
-      "listedTitle": "Software Architect | Java, Spring Boot, Angular & Cloud/DevOps",
-      "status": "error",
-      "error": "The operation was aborted due to timeout"
-    },
-    {
       "name": "Enea",
       "url": "https://eneawork.it",
       "listedTitle": "Designer",
@@ -39965,29 +39936,6 @@
       "error": "fetch failed"
     },
     {
-      "name": "Hassan Tech",
-      "url": "https://hassanx.tech",
-      "listedTitle": "Web Developer",
-      "emails": [
-        "hassantech.contact@gmail.com"
-      ],
-      "github": [
-        "https://github.com/hassanxtech",
-        "https://github.com/HassanXTech"
-      ],
-      "linkedin": "https://linkedin.com/in/HassanTech",
-      "twitter": "https://twitter.com/HassanXTech",
-      "stack": [
-        "React",
-        "TypeScript",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Hassan Tech | UX/UI Developer &amp; Designer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Khushboo Mundada",
       "url": "https://khushm.netlify.app",
       "listedTitle": "Data Scientist",
@@ -40581,6 +40529,24 @@
       "experience": null,
       "title": "Dheeraj Akula · Software Engineer · Nutanix · ex-Meta (MTIA + Horizon)",
       "location": "there I moved into MTIA and went deep on the PyTorch compiler and GPU kernels behind Meta",
+      "status": "ok"
+    },
+    {
+      "name": "Sushant Mondal",
+      "url": "https://www.sushantmondal.com/",
+      "listedTitle": "Computer Architect (RISC-V) / Hardware | System Administrator (IaaS and PaaS)",
+      "emails": [
+        "contact@sushantmondal.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Sushant Mondal - Computer Architect",
+      "location": "us",
       "status": "ok"
     }
   ]
