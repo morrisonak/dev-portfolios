@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-16T18:23:22.052Z",
-    "total": 1948,
-    "successful": 1624,
-    "failed": 324,
-    "withEmail": 786,
-    "withGithub": 1087,
-    "withStack": 1342,
-    "withLinkedin": 989,
-    "withTwitter": 450
+    "scrapedAt": "2026-08-17T01:05:28.059Z",
+    "total": 1943,
+    "successful": 1620,
+    "failed": 323,
+    "withEmail": 784,
+    "withGithub": 1084,
+    "withStack": 1339,
+    "withLinkedin": 986,
+    "withTwitter": 449
   },
   "portfolios": [
     {
@@ -6827,32 +6827,6 @@
       "status": "ok"
     },
     {
-      "name": "Caiovisuals",
-      "url": "https://www.caiovisuals.com",
-      "listedTitle": "Front-End Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/caiovisuals"
-      ],
-      "linkedin": "https://linkedin.com/in/caiovisuals-",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "PostgreSQL",
-        "Tailwind",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "caiothevisual - web portfólio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Capt Michael",
       "url": "https://captmichael.dev",
       "listedTitle": "Mern Full Stack Developer",
@@ -8602,29 +8576,6 @@
       ],
       "experience": null,
       "title": "DELVIN KHOR",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Delwer Hossain",
-      "url": "https://delwer.live",
-      "listedTitle": "",
-      "emails": [
-        "delwerhossain006@gmail.com"
-      ],
-      "github": [
-        "https://github.com/delwerhossain"
-      ],
-      "linkedin": "https://linkedin.com/in/delwer-hossain",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Node.js",
-        "MongoDB"
-      ],
-      "experience": "6+ years",
-      "title": "Md. Delwer Hossain – Corporate IT Manager &amp; Full-Stack Developer",
       "location": null,
       "status": "ok"
     },
@@ -18280,45 +18231,6 @@
       "status": "ok"
     },
     {
-      "name": "Melvin Jones Repol",
-      "url": "https://mrepol742.github.io",
-      "listedTitle": "",
-      "emails": [
-        "mrepol742@gmail.com"
-      ],
-      "github": [
-        "https://github.com/mrepol742",
-        "https://github.com/ulisha-limited",
-        "https://github.com/axleshift",
-        "https://github.com/lgu-ms",
-        "https://github.com/CodeSyncPH",
-        "https://github.com/hallofcodes"
-      ],
-      "linkedin": "https://linkedin.com/in/mrepol742",
-      "twitter": "https://twitter.com/mrepol742",
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "Docker",
-        "Kubernetes",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Melvin Jones Gallano Repol - Software Engineer",
-      "location": "Webvium, Webvium VPN is a lightweight android VPN app focuses in speed,",
-      "status": "ok"
-    },
-    {
       "name": "Melvin Prince",
       "url": "https://melvinprince.io",
       "listedTitle": "",
@@ -25260,20 +25172,6 @@
       "status": "ok"
     },
     {
-      "name": "Samarth Kosta",
-      "url": "https://xamarth.pp.ua",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Loading...",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Sambhu Babu",
       "url": "https://sambhusbabu.com",
       "listedTitle": "Frappe & ERPNext Developer",
@@ -26869,13 +26767,6 @@
       "name": "Vivek Choudhary",
       "url": "https://vivekportfoliopersonal.vercel.app",
       "listedTitle": "Full Stack Engineer | AI Engineer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Vivek Chudasama",
-      "url": "https://vivekchudasama-2004.github.io/portfolio",
-      "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
@@ -38890,32 +38781,6 @@
       "status": "ok"
     },
     {
-      "name": "Rishhi Duetheesh",
-      "url": "https://notesc.netlify.app",
-      "listedTitle": "Frontend Developer",
-      "emails": [
-        "rishhiduetheeshofcl@gmail.com"
-      ],
-      "github": [
-        "https://github.com/ItzHyend"
-      ],
-      "linkedin": "https://www.linkedin.com/in/rishhi-duetheesh-b4ab62376",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        ".NET",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Rishhi Duetheesh",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Adhivishnu M",
       "url": "https://adhivishnuportfolio.web.app",
       "listedTitle": "AI Developer | Freelancer",
@@ -40687,6 +40552,36 @@
       "listedTitle": "Software Engineer | Open Source | Full-Stack",
       "status": "error",
       "error": "HTTP 503"
+    },
+    {
+      "name": "Dheeraj Akula",
+      "url": "https://dheerajakula.dev",
+      "listedTitle": "Software Engineer | Agent Harnesses & Developer Tools",
+      "emails": [
+        "dheerajakula0101@gmail.com"
+      ],
+      "github": [
+        "https://github.com/dheerajakula"
+      ],
+      "linkedin": "https://www.linkedin.com/in/dheerajakula0101",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Django",
+        "Docker",
+        "Kubernetes",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Dheeraj Akula · Software Engineer · Nutanix · ex-Meta (MTIA + Horizon)",
+      "location": "there I moved into MTIA and went deep on the PyTorch compiler and GPU kernels behind Meta",
+      "status": "ok"
     }
   ]
 }
