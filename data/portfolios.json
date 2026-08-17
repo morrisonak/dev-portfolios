@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-17T12:37:33.339Z",
-    "total": 1941,
-    "successful": 1619,
+    "scrapedAt": "2026-08-17T18:34:22.968Z",
+    "total": 1943,
+    "successful": 1621,
     "failed": 322,
-    "withEmail": 784,
-    "withGithub": 1082,
-    "withStack": 1338,
-    "withLinkedin": 985,
+    "withEmail": 785,
+    "withGithub": 1083,
+    "withStack": 1339,
+    "withLinkedin": 986,
     "withTwitter": 447
   },
   "portfolios": [
@@ -40547,6 +40547,55 @@
       "experience": null,
       "title": "Sushant Mondal - Computer Architect",
       "location": "us",
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Shamim Shoaib",
+      "url": "https://sshoaib.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "shamim.akhonzada@gmail.com"
+      ],
+      "github": [
+        "https://github.com/shamimakhonzada"
+      ],
+      "linkedin": "https://linkedin.com/in/shamimshoaib",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "Flutter",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Muhammad Shamim Shoaib - Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sudhir Yadav",
+      "url": "https://sudhiryadav-dev.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Sudhir — Full-Stack Developer",
+      "location": null,
       "status": "ok"
     }
   ]
