@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-17T18:34:22.968Z",
-    "total": 1943,
-    "successful": 1621,
+    "scrapedAt": "2026-08-18T12:39:18.334Z",
+    "total": 1946,
+    "successful": 1624,
     "failed": 322,
-    "withEmail": 785,
-    "withGithub": 1083,
-    "withStack": 1339,
-    "withLinkedin": 986,
+    "withEmail": 786,
+    "withGithub": 1084,
+    "withStack": 1340,
+    "withLinkedin": 987,
     "withTwitter": 447
   },
   "portfolios": [
@@ -40595,6 +40595,60 @@
       "stack": [],
       "experience": null,
       "title": "Sudhir — Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Chetan Mahajan",
+      "url": "https://chetanmahajan.vercel.app/",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Chetan Mahajan | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Dauren Abasov",
+      "url": "https://dadashi44.vercel.app",
+      "listedTitle": "Frontend Engineer",
+      "emails": [
+        "asian.paradissseee@gmail.com"
+      ],
+      "github": [
+        "https://github.com/dadashi44"
+      ],
+      "linkedin": "https://www.linkedin.com/in/d-abasov-e60",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Даурен Абасов — Frontend-разработчик",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sanjana Venkatesh",
+      "url": "https://sanjanavenkatesh.vercel.app/",
+      "listedTitle": "Backend Developer | Express.js & Django",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "my-portfolio",
       "location": null,
       "status": "ok"
     }
