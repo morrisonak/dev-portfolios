@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-18T12:39:18.334Z",
-    "total": 1946,
-    "successful": 1624,
+    "scrapedAt": "2026-08-18T18:33:29.160Z",
+    "total": 1948,
+    "successful": 1626,
     "failed": 322,
-    "withEmail": 786,
-    "withGithub": 1084,
-    "withStack": 1340,
-    "withLinkedin": 987,
+    "withEmail": 788,
+    "withGithub": 1086,
+    "withStack": 1342,
+    "withLinkedin": 989,
     "withTwitter": 447
   },
   "portfolios": [
@@ -40650,6 +40650,66 @@
       "experience": null,
       "title": "my-portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sergio Jimenez",
+      "url": "https://sergiojimenez.vercel.app/",
+      "listedTitle": "Full Stack Web Developer",
+      "emails": [
+        "sergiojimenezrubio.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sergio-jr-dev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sergio-jim",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Sergio Jiménez Rubio | Desarrollador Frontend y Full Stack",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Waleed Ahmed",
+      "url": "https://waleedahmed.site",
+      "listedTitle": "Full Stack Developer | Typescript, Next.js, Node.js",
+      "emails": [
+        "ateeq800@gmail.com"
+      ],
+      "github": [
+        "https://github.com/waarq"
+      ],
+      "linkedin": "https://www.linkedin.com/in/waleedaahmed",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Waleed Ahmed | Software Engineer &amp; Product Builder",
+      "location": "Karachi, crafting products people remember",
       "status": "ok"
     }
   ]
