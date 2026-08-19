@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-18T18:33:29.160Z",
-    "total": 1948,
-    "successful": 1626,
+    "scrapedAt": "2026-08-19T18:30:30.796Z",
+    "total": 1951,
+    "successful": 1629,
     "failed": 322,
-    "withEmail": 788,
-    "withGithub": 1086,
-    "withStack": 1342,
-    "withLinkedin": 989,
+    "withEmail": 791,
+    "withGithub": 1088,
+    "withStack": 1345,
+    "withLinkedin": 991,
     "withTwitter": 447
   },
   "portfolios": [
@@ -40710,6 +40710,99 @@
       "experience": null,
       "title": "Waleed Ahmed | Software Engineer &amp; Product Builder",
       "location": "Karachi, crafting products people remember",
+      "status": "ok"
+    },
+    {
+      "name": "Burhanaddin Mirsadizada",
+      "url": "https://burhanaddinzm.github.io/",
+      "listedTitle": "",
+      "emails": [
+        "burhaneddinmirsedizade@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Burhanaddinzm"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Burhanaddin Mirsadizada | Software & Infrastructure Engineer",
+      "location": "the balcony",
+      "status": "ok"
+    },
+    {
+      "name": "Kevin Iglesias",
+      "url": "https://iglesiaskevinralphbusiness.github.io",
+      "listedTitle": "Font-end Developer",
+      "emails": [
+        "iglesiaskevinralph.business@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/ralph-kevin-iglesias-89333a12b",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "JavaScript",
+        "React Native",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Ralph Kevin - Web Developer Designer",
+      "location": "production to",
+      "status": "ok"
+    },
+    {
+      "name": "Prem Thatikonda",
+      "url": "https://premthatikonda.xyz/",
+      "listedTitle": "Full Stack & AI Engineer",
+      "emails": [
+        "premthatikonda.work@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/prem-thatikonda29"
+      ],
+      "linkedin": "https://linkedin.com/in/premthatikonda",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Node.js",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Prem Thatikonda | Full-Stack Developer &amp; AI Automation Engineer",
+      "location": "Mumbai",
       "status": "ok"
     }
   ]
