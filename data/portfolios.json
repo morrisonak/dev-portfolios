@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-19T18:30:30.796Z",
-    "total": 1951,
-    "successful": 1629,
+    "scrapedAt": "2026-08-20T12:41:33.744Z",
+    "total": 1953,
+    "successful": 1631,
     "failed": 322,
-    "withEmail": 791,
-    "withGithub": 1088,
-    "withStack": 1345,
-    "withLinkedin": 991,
+    "withEmail": 792,
+    "withGithub": 1090,
+    "withStack": 1347,
+    "withLinkedin": 993,
     "withTwitter": 447
   },
   "portfolios": [
@@ -40803,6 +40803,50 @@
       "experience": null,
       "title": "Prem Thatikonda | Full-Stack Developer &amp; AI Automation Engineer",
       "location": "Mumbai",
+      "status": "ok"
+    },
+    {
+      "name": "Charles Degraeuwe",
+      "url": "https://charlesdegraeuwe.com",
+      "listedTitle": "Student | Full Stack Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/CharlesDegraeuwe"
+      ],
+      "linkedin": "https://www.linkedin.com/in/charles-degraeuwe-6293a1333",
+      "twitter": null,
+      "stack": [
+        "Astro"
+      ],
+      "experience": null,
+      "title": "Charles Degraeuwe",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rishhi Duetheesh",
+      "url": "https://rishhiduetheesh.netlify.app",
+      "listedTitle": "Frontend Developer",
+      "emails": [
+        "rishhiduetheeshofcl@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ItzHyend"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rishhi-duetheesh-b4ab62376",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Rishhi Duetheesh",
+      "location": null,
       "status": "ok"
     }
   ]
