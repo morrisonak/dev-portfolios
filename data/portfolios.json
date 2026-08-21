@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-21T12:40:12.735Z",
-    "total": 1955,
-    "successful": 1633,
+    "scrapedAt": "2026-08-21T18:32:03.317Z",
+    "total": 1956,
+    "successful": 1634,
     "failed": 322,
     "withEmail": 794,
     "withGithub": 1091,
@@ -40910,6 +40910,20 @@
       "experience": null,
       "title": "Oluseye — Frontend Developer | React, Next.js, TypeScript",
       "location": "Lagos building fast, accessible web interfaces with React, Next",
+      "status": "ok"
+    },
+    {
+      "name": "Naqqash",
+      "url": "https://portfolionaqqash.vercel.app",
+      "listedTitle": "Full Stack 3D Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Naqqash - Full-Stack Web Developer",
+      "location": null,
       "status": "ok"
     }
   ]
