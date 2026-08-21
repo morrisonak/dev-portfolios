@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-20T12:41:33.744Z",
-    "total": 1953,
-    "successful": 1631,
+    "scrapedAt": "2026-08-21T12:40:12.735Z",
+    "total": 1955,
+    "successful": 1633,
     "failed": 322,
-    "withEmail": 792,
-    "withGithub": 1090,
-    "withStack": 1347,
-    "withLinkedin": 993,
-    "withTwitter": 447
+    "withEmail": 794,
+    "withGithub": 1091,
+    "withStack": 1349,
+    "withLinkedin": 994,
+    "withTwitter": 448
   },
   "portfolios": [
     {
@@ -40847,6 +40847,69 @@
       "experience": null,
       "title": "Rishhi Duetheesh",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ajyendu Chaudhary",
+      "url": "https://ajyendu.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "ajyenduc@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Ajyendu Chaudhary | Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Oluseye Oyewole",
+      "url": "https://www.oluseye.cv",
+      "listedTitle": "",
+      "emails": [
+        "oyewoleseye009@gmail.com"
+      ],
+      "github": [
+        "https://github.com/OLUSEYE009",
+        "https://github.com/oluseye009"
+      ],
+      "linkedin": "https://linkedin.com/in/oluseye",
+      "twitter": "https://x.com/_heisSeye",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Laravel",
+        "Docker",
+        "Tailwind",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Oluseye — Frontend Developer | React, Next.js, TypeScript",
+      "location": "Lagos building fast, accessible web interfaces with React, Next",
       "status": "ok"
     }
   ]
