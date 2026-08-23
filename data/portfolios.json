@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-21T18:32:03.317Z",
-    "total": 1956,
-    "successful": 1634,
+    "scrapedAt": "2026-08-23T01:08:57.053Z",
+    "total": 1954,
+    "successful": 1632,
     "failed": 322,
-    "withEmail": 794,
-    "withGithub": 1091,
-    "withStack": 1349,
-    "withLinkedin": 994,
-    "withTwitter": 448
+    "withEmail": 795,
+    "withGithub": 1093,
+    "withStack": 1348,
+    "withLinkedin": 996,
+    "withTwitter": 449
   },
   "portfolios": [
     {
@@ -1180,41 +1180,6 @@
       "experience": null,
       "title": "abhishekg.com.np",
       "location": "various sources",
-      "status": "ok"
-    },
-    {
-      "name": "Abhishek Kandel",
-      "url": "https://abhishekkandel.com.np",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/abhishekkandel45"
-      ],
-      "linkedin": "https://linkedin.com/in/abhishekkandel45",
-      "twitter": "https://twitter.com/abhishekkandel3",
-      "stack": [
-        "React",
-        "Angular",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Django",
-        "Flask",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "React Native",
-        ".NET",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Abhishek Kandel | Enthusiast",
-      "location": "Nepal",
       "status": "ok"
     },
     {
@@ -8014,33 +7979,6 @@
       "status": "ok"
     },
     {
-      "name": "Daniel Grazziotti",
-      "url": "https://grazziotti-portfolio.vercel.app",
-      "listedTitle": "",
-      "emails": [
-        "danielgrazziotti99@gmail.com"
-      ],
-      "github": [
-        "https://github.com/grazziotti"
-      ],
-      "linkedin": "https://linkedin.com/in/daniel-grazziotti",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Portfólio | Daniel Grazziotti",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Daniel Mark",
       "url": "https://thedanielmark.com",
       "listedTitle": "",
@@ -14773,22 +14711,6 @@
       "status": "ok"
     },
     {
-      "name": "Karrar Nazim",
-      "url": "https://karrarnazim.space",
-      "listedTitle": "Full Stack Web Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": null,
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Karthik Menon",
       "url": "https://www.karthikmenon.com",
       "listedTitle": "",
@@ -19802,35 +19724,6 @@
       "experience": "3+ years",
       "title": "Naimur Reza | Software Developer",
       "location": "Bangladesh",
-      "status": "ok"
-    },
-    {
-      "name": "Naresh Khatri",
-      "url": "https://www.nareshkhatri.site",
-      "listedTitle": "",
-      "emails": [
-        "naresh.khatri2345@gmail.com"
-      ],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "Express",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind",
-        ".NET",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Naresh Khatri | Full-Stack Developer",
-      "location": "requirements to production",
       "status": "ok"
     },
     {
@@ -25342,13 +25235,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Saurabh Daware",
-      "url": "https://www.saurabhdaware.in",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Saurabh Nemade",
       "url": "https://www.nemade.eu",
       "listedTitle": "",
@@ -28757,31 +28643,6 @@
       "status": "ok"
     },
     {
-      "name": "NaveenKumar",
-      "url": "https://naveenkumarm.space",
-      "listedTitle": "Full Stack Developer",
-      "emails": [
-        "naveenkmayilsamy@gmail.com",
-        "your@email.com"
-      ],
-      "github": [
-        "https://github.com/naveenkumar-rm"
-      ],
-      "linkedin": "https://linkedin.com/in/naveenkumar-rm",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Java",
-        "MySQL",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "NAVEENKUMAR M",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Rajveer Singh",
       "url": "https://rajveersingh24.vercel.app",
       "listedTitle": "AI/ML Engineer",
@@ -29066,20 +28927,6 @@
       "experience": "1+ years",
       "title": "Sahil Bajaj | Full-Stack Developer Portfolio",
       "location": "simple websites to",
-      "status": "ok"
-    },
-    {
-      "name": "Krushna Rathod",
-      "url": "https://krushna.gridly.xyz",
-      "listedTitle": "UI/UX Designer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Krushna Rathod",
-      "location": null,
       "status": "ok"
     },
     {
@@ -40532,24 +40379,6 @@
       "status": "ok"
     },
     {
-      "name": "Sushant Mondal",
-      "url": "https://www.sushantmondal.com/",
-      "listedTitle": "Computer Architect (RISC-V) / Hardware | System Administrator (IaaS and PaaS)",
-      "emails": [
-        "contact@sushantmondal.com"
-      ],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Sushant Mondal - Computer Architect",
-      "location": "us",
-      "status": "ok"
-    },
-    {
       "name": "Muhammad Shamim Shoaib",
       "url": "https://sshoaib.vercel.app",
       "listedTitle": "Full Stack Developer",
@@ -40599,20 +40428,6 @@
       "status": "ok"
     },
     {
-      "name": "Chetan Mahajan",
-      "url": "https://chetanmahajan.vercel.app/",
-      "listedTitle": "Software Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Chetan Mahajan | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Dauren Abasov",
       "url": "https://dadashi44.vercel.app",
       "listedTitle": "Frontend Engineer",
@@ -40635,44 +40450,6 @@
       ],
       "experience": null,
       "title": "Даурен Абасов — Frontend-разработчик",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Sanjana Venkatesh",
-      "url": "https://sanjanavenkatesh.vercel.app/",
-      "listedTitle": "Backend Developer | Express.js & Django",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "my-portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Sergio Jimenez",
-      "url": "https://sergiojimenez.vercel.app/",
-      "listedTitle": "Full Stack Web Developer",
-      "emails": [
-        "sergiojimenezrubio.dev@gmail.com"
-      ],
-      "github": [
-        "https://github.com/sergio-jr-dev"
-      ],
-      "linkedin": "https://www.linkedin.com/in/sergio-jim",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Astro",
-        "TypeScript",
-        "JavaScript",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Sergio Jiménez Rubio | Desarrollador Frontend y Full Stack",
       "location": null,
       "status": "ok"
     },
@@ -40713,36 +40490,6 @@
       "status": "ok"
     },
     {
-      "name": "Burhanaddin Mirsadizada",
-      "url": "https://burhanaddinzm.github.io/",
-      "listedTitle": "",
-      "emails": [
-        "burhaneddinmirsedizade@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Burhanaddinzm"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Go",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Burhanaddin Mirsadizada | Software & Infrastructure Engineer",
-      "location": "the balcony",
-      "status": "ok"
-    },
-    {
       "name": "Kevin Iglesias",
       "url": "https://iglesiaskevinralphbusiness.github.io",
       "listedTitle": "Font-end Developer",
@@ -40764,45 +40511,6 @@
       "experience": null,
       "title": "Ralph Kevin - Web Developer Designer",
       "location": "production to",
-      "status": "ok"
-    },
-    {
-      "name": "Prem Thatikonda",
-      "url": "https://premthatikonda.xyz/",
-      "listedTitle": "Full Stack & AI Engineer",
-      "emails": [
-        "premthatikonda.work@gmail.com",
-        "your@email.com"
-      ],
-      "github": [
-        "https://github.com/prem-thatikonda29"
-      ],
-      "linkedin": "https://linkedin.com/in/premthatikonda",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Rust",
-        "Go",
-        "Node.js",
-        "Express",
-        "Flask",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Firebase",
-        "Tailwind",
-        "React Native",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Prem Thatikonda | Full-Stack Developer &amp; AI Automation Engineer",
-      "location": "Mumbai",
       "status": "ok"
     },
     {
@@ -40923,6 +40631,285 @@
       "stack": [],
       "experience": null,
       "title": "Naqqash - Full-Stack Web Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Antariksh Mankar",
+      "url": "https://spaceishere.netlify.app",
+      "listedTitle": "Software Engineer",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Burhanaddin Mirsadizada",
+      "url": "https://burhanaddinzm.github.io",
+      "listedTitle": "",
+      "emails": [
+        "burhaneddinmirsedizade@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Burhanaddinzm"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Burhanaddin Mirsadizada | Software & Infrastructure Engineer",
+      "location": "the balcony",
+      "status": "ok"
+    },
+    {
+      "name": "Chetan Mahajan",
+      "url": "https://chetanmahajan.vercel.app",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Chetan Mahajan | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Dev Verma",
+      "url": "https://devverma.dev",
+      "listedTitle": "Full Stack AI Developer",
+      "emails": [
+        "devverma2031@gmail.com"
+      ],
+      "github": [
+        "https://github.com/devxml"
+      ],
+      "linkedin": "https://www.linkedin.com/in/devxml",
+      "twitter": "https://x.com/devcodebyte",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Dev Verma",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Noor Rehman",
+      "url": "https://www.noorrehman.me",
+      "listedTitle": "Data Scientist | AI Engineer | Freelancer",
+      "emails": [
+        "hello.noorrehman@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Noor-Rehman"
+      ],
+      "linkedin": "https://www.linkedin.com/in/noorrehman14",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "Node.js",
+        "Django",
+        "Flask",
+        "Spring",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Noor Rehman — Data Scientist | AI/ML Engineer",
+      "location": "raw hand motion",
+      "status": "ok"
+    },
+    {
+      "name": "Philo Sanjay Chamberline",
+      "url": "https://philotheephilix.in",
+      "listedTitle": "AI and Web3 Engineer",
+      "emails": [
+        "hello@philotheephilix.in"
+      ],
+      "github": [
+        "https://github.com/KeeperHub",
+        "https://github.com/Philotheephilix",
+        "https://github.com/philotheephilix"
+      ],
+      "linkedin": "https://linkedin.com/in/philotheephilix",
+      "twitter": "https://x.com/philotheephilix",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Java",
+        "Express",
+        "Django",
+        "Flask",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Philo Sanjay Chamberline",
+      "location": "chennai",
+      "status": "ok"
+    },
+    {
+      "name": "Prasad Jaagirdar",
+      "url": "https://prasada-dev.netlify.app/",
+      "listedTitle": "",
+      "emails": [
+        "prasadjagirdar42@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Prasadj18"
+      ],
+      "linkedin": "https://www.linkedin.com/in/prasad-jahagirdar-5417032b4",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Prasada",
+      "location": "manufacturer to consumer using smart",
+      "status": "ok"
+    },
+    {
+      "name": "Prem Thatikonda",
+      "url": "https://premthatikonda.xyz",
+      "listedTitle": "Full Stack & AI Engineer",
+      "emails": [
+        "premthatikonda.work@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/prem-thatikonda29"
+      ],
+      "linkedin": "https://linkedin.com/in/premthatikonda",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Node.js",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Prem Thatikonda | Full-Stack Developer &amp; AI Automation Engineer",
+      "location": "Mumbai",
+      "status": "ok"
+    },
+    {
+      "name": "Sanjana Venkatesh",
+      "url": "https://sanjanavenkatesh.vercel.app",
+      "listedTitle": "Backend Developer | Express.js & Django",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "my-portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sergio Jimenez",
+      "url": "https://sergiojimenez.vercel.app",
+      "listedTitle": "Full Stack Web Developer",
+      "emails": [
+        "sergiojimenezrubio.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sergio-jr-dev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sergio-jim",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Sergio Jiménez Rubio | Desarrollador Frontend y Full Stack",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sushant Mondal",
+      "url": "https://www.sushantmondal.com",
+      "listedTitle": "Computer Architect (RISC-V) / Hardware | System Administrator (IaaS and PaaS)",
+      "emails": [
+        "contact@sushantmondal.com",
+        "sushant@renvatek.com",
+        "sushant@firevm.com"
+      ],
+      "github": [
+        "https://github.com/mondalsushant"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mondaltapas",
+      "twitter": null,
+      "stack": [
+        "Go",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Sushant Mondal (Computer Architect)",
       "location": null,
       "status": "ok"
     }
