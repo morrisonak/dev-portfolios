@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-23T01:08:57.053Z",
-    "total": 1954,
-    "successful": 1632,
+    "scrapedAt": "2026-08-23T12:33:47.573Z",
+    "total": 1955,
+    "successful": 1633,
     "failed": 322,
     "withEmail": 795,
     "withGithub": 1093,
-    "withStack": 1348,
+    "withStack": 1349,
     "withLinkedin": 996,
     "withTwitter": 449
   },
@@ -40910,6 +40910,23 @@
       ],
       "experience": null,
       "title": "Sushant Mondal (Computer Architect)",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Taha Hassan",
+      "url": "https://tahahassan.vercel.app/",
+      "listedTitle": "ML/DL Engineer & Frontend Developer | RAG · NLP · Predictive Modeling · React | End-to-end: model to UI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Taha Hassan",
       "location": null,
       "status": "ok"
     }
