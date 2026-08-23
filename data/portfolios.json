@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-23T12:33:47.573Z",
-    "total": 1955,
-    "successful": 1633,
+    "scrapedAt": "2026-08-23T18:24:23.805Z",
+    "total": 1956,
+    "successful": 1634,
     "failed": 322,
-    "withEmail": 795,
-    "withGithub": 1093,
-    "withStack": 1349,
-    "withLinkedin": 996,
+    "withEmail": 796,
+    "withGithub": 1094,
+    "withStack": 1350,
+    "withLinkedin": 997,
     "withTwitter": 449
   },
   "portfolios": [
@@ -40928,6 +40928,32 @@
       "experience": null,
       "title": "Taha Hassan",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nithish Parameswaran",
+      "url": "https://nithish.is-a.dev",
+      "listedTitle": "AI/ML engineer | Software Developer | Data Engineer",
+      "emails": [
+        "nithishparameswaran2005@gmail.com"
+      ],
+      "github": [
+        "https://github.com/nisxzn",
+        "https://github.com/Nisxzn"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nithishparameswaran",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Flask",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Nithish Parameswaran — AI/ML Engineer &amp; Creative Developer",
+      "location": "Coimbatore",
       "status": "ok"
     }
   ]
