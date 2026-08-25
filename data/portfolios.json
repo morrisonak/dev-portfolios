@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-24T18:35:20.829Z",
-    "total": 1957,
-    "successful": 1635,
+    "scrapedAt": "2026-08-25T18:35:07.032Z",
+    "total": 1958,
+    "successful": 1636,
     "failed": 322,
     "withEmail": 796,
     "withGithub": 1094,
@@ -40967,6 +40967,20 @@
       "stack": [],
       "experience": null,
       "title": "almarzan.com",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Sharma",
+      "url": "https://www.abhisheksharma.codes/",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Abhishek&#x27;s Portfolio",
       "location": null,
       "status": "ok"
     }
