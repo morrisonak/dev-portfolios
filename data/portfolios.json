@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-25T18:35:07.032Z",
-    "total": 1958,
-    "successful": 1636,
-    "failed": 322,
+    "scrapedAt": "2026-08-26T01:07:47.509Z",
+    "total": 1960,
+    "successful": 1637,
+    "failed": 323,
     "withEmail": 796,
-    "withGithub": 1094,
-    "withStack": 1350,
-    "withLinkedin": 997,
+    "withGithub": 1095,
+    "withStack": 1351,
+    "withLinkedin": 998,
     "withTwitter": 449
   },
   "portfolios": [
@@ -40981,6 +40981,33 @@
       "stack": [],
       "experience": null,
       "title": "Abhishek&#x27;s Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abass Alzouma",
+      "url": "abass.wanecrea.com",
+      "listedTitle": "",
+      "status": "error",
+      "error": "Failed to parse URL from abass.wanecrea.com"
+    },
+    {
+      "name": "Sarthak Sharma",
+      "url": "https://sarthak-mac.vercel.app",
+      "listedTitle": "Full Stack Developer & Mobile Application Developer, DevOPS",
+      "emails": [],
+      "github": [
+        "https://github.com/sarthakkaushik927"
+      ],
+      "linkedin": "https://linkedin.com/in/sarthak-sharma-323652318",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Node.js",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Sarthak Sharma | Full Stack Developer Portfolio",
       "location": null,
       "status": "ok"
     }
