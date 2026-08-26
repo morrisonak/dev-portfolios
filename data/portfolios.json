@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-26T01:07:47.509Z",
-    "total": 1960,
-    "successful": 1637,
+    "scrapedAt": "2026-08-26T06:42:36.505Z",
+    "total": 1961,
+    "successful": 1638,
     "failed": 323,
     "withEmail": 796,
     "withGithub": 1095,
@@ -41008,6 +41008,20 @@
       ],
       "experience": null,
       "title": "Sarthak Sharma | Full Stack Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jetsadakorn Muangwichit",
+      "url": "https://www.7sadakonr.xyz/",
+      "listedTitle": "Frontend-Focused Full-Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "7sadakonr | Portfolio",
       "location": null,
       "status": "ok"
     }
