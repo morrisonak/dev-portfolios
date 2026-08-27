@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-26T06:42:36.505Z",
-    "total": 1961,
-    "successful": 1638,
+    "scrapedAt": "2026-08-27T21:43:49.197Z",
+    "total": 1963,
+    "successful": 1640,
     "failed": 323,
-    "withEmail": 796,
-    "withGithub": 1095,
-    "withStack": 1351,
-    "withLinkedin": 998,
-    "withTwitter": 449
+    "withEmail": 797,
+    "withGithub": 1096,
+    "withStack": 1353,
+    "withLinkedin": 999,
+    "withTwitter": 450
   },
   "portfolios": [
     {
@@ -41022,6 +41022,48 @@
       "stack": [],
       "experience": null,
       "title": "7sadakonr | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kavy Sachaniya",
+      "url": "https://kavy-sachaniya.vercel.app",
+      "listedTitle": "Full Stack Developer | Student",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Node.js",
+        "Django"
+      ],
+      "experience": null,
+      "title": "Kavy Sachaniya — Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sonu Suman Ojha",
+      "url": "https://sonu-portfolio-1.netlify.app/",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "sonusumanojha62@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sonusuman147"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sonu-suman-ojha",
+      "twitter": "https://x.com/SonusumanO",
+      "stack": [
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Sonu Suman Ojha | Portfolio",
       "location": null,
       "status": "ok"
     }
