@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-27T21:43:49.197Z",
-    "total": 1963,
-    "successful": 1640,
+    "scrapedAt": "2026-08-28T21:42:38.246Z",
+    "total": 1969,
+    "successful": 1646,
     "failed": 323,
-    "withEmail": 797,
-    "withGithub": 1096,
-    "withStack": 1353,
-    "withLinkedin": 999,
-    "withTwitter": 450
+    "withEmail": 800,
+    "withGithub": 1100,
+    "withStack": 1358,
+    "withLinkedin": 1002,
+    "withTwitter": 452
   },
   "portfolios": [
     {
@@ -41064,6 +41064,162 @@
       ],
       "experience": null,
       "title": "Sonu Suman Ojha | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hafsa Salman",
+      "url": "https://www.hafsasalman.com/",
+      "listedTitle": "Software Engineer | Full Stack Developer | AI",
+      "emails": [
+        "hafsalman0521@gmail.com"
+      ],
+      "github": [
+        "https://github.com/hafsalman"
+      ],
+      "linkedin": "https://linkedin.com/in/hafsa-salman04",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Hafsa Salman - Software Engineer & AI/ML Engineer | Karachi, Pakistan",
+      "location": "Karachi, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Kaushal Satam",
+      "url": "https://kaushal.dev",
+      "listedTitle": "Software Developer | Tech Nerd",
+      "emails": [],
+      "github": [
+        "https://github.com/kaushalsatam"
+      ],
+      "linkedin": "https://linkedin.com/in/kaushalsatam",
+      "twitter": "https://x.com/kaushalsatam",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Kaushal Satam | Full Stack Software Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Abdullah",
+      "url": "https://abd-cloud-resume-v1.pages.dev/",
+      "listedTitle": "Cloud Engineering Student | AWS & Cloudflare",
+      "emails": [
+        "greencoleinc@gmail.com"
+      ],
+      "github": [
+        "https://github.com/nicocodes9"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "AWS",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Muhammad Abdullah | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Furqan Yasin",
+      "url": "https://mfurqanyasin.com",
+      "listedTitle": "Full Stack Developer | AI Engineer",
+      "emails": [
+        "mfurqanyasin9@gmail.com"
+      ],
+      "github": [
+        "https://github.com/furqanyasin"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mfurqanyasin",
+      "twitter": "https://twitter.com/ChFurqanyasin",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Laravel",
+        "AWS",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        ".NET",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": "5+ years",
+      "title": "Muhammad Furqan - Full Stack Developer &amp; AI Engineer in Lahore",
+      "location": "the domain root, which",
+      "status": "ok"
+    },
+    {
+      "name": "Priyanshu Ghosh",
+      "url": "https://priyanshu-ghosh-seven.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Priyanshu Ghosh — Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Surya Snata Panigrahi",
+      "url": "https://suryaa-portfolio-eight.vercel.app/",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Untitled",
       "location": null,
       "status": "ok"
     }
