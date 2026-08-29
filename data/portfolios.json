@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-28T21:42:38.246Z",
-    "total": 1969,
-    "successful": 1646,
-    "failed": 323,
-    "withEmail": 800,
-    "withGithub": 1100,
-    "withStack": 1358,
-    "withLinkedin": 1002,
-    "withTwitter": 452
+    "scrapedAt": "2026-08-29T12:16:04.443Z",
+    "total": 1972,
+    "successful": 1650,
+    "failed": 322,
+    "withEmail": 802,
+    "withGithub": 1102,
+    "withStack": 1362,
+    "withLinkedin": 1004,
+    "withTwitter": 454
   },
   "portfolios": [
     {
@@ -40985,13 +40985,6 @@
       "status": "ok"
     },
     {
-      "name": "Abass Alzouma",
-      "url": "abass.wanecrea.com",
-      "listedTitle": "",
-      "status": "error",
-      "error": "Failed to parse URL from abass.wanecrea.com"
-    },
-    {
       "name": "Sarthak Sharma",
       "url": "https://sarthak-mac.vercel.app",
       "listedTitle": "Full Stack Developer & Mobile Application Developer, DevOPS",
@@ -41221,6 +41214,117 @@
       "experience": null,
       "title": "Untitled",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abass Alzouma",
+      "url": "https://abass.wanecrea.com",
+      "listedTitle": "",
+      "emails": [
+        "abassdev227@gmail.com",
+        "votre@email.com"
+      ],
+      "github": [
+        "https://github.com/abass-dev",
+        "https://github.com/nigaphp"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abass-dev",
+      "twitter": "https://twitter.com/abass_dev",
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "React Native",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Abass Alzouma | Développeur Web et Mobile indépendant au Niger - Création de Sites et Applications Mobiles",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ali Younes",
+      "url": "https://aliyounes.dev",
+      "listedTitle": "Software Engineer | Systems & Full Stack",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Rust",
+        "AWS"
+      ],
+      "experience": null,
+      "title": "Ali Younes · Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mujtaba Saqib",
+      "url": "https://www.mujtabasaqib.com/",
+      "listedTitle": "Data Engineer | Data Scientist",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "Mujtaba Saqib — Data Engineer &amp; AI Specialist",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sajjad Hossain Soykot",
+      "url": "https://www.sajjadsoykot.me/",
+      "listedTitle": "Full-Stack Developer | System Designer",
+      "emails": [
+        "contact@sajjadsoykot.me",
+        "soykot.ict@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SajjadHossainSoykot"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sajjadhossainsoykot",
+      "twitter": "https://x.com/SajjadSoykot",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "S M Sajjad Hossain Soykot | Full-Stack Developer &amp; System Designer",
+      "location": "Islamic University, Bangladesh",
       "status": "ok"
     }
   ]
