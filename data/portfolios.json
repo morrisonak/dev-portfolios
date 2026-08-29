@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-29T12:16:04.443Z",
-    "total": 1972,
-    "successful": 1650,
+    "scrapedAt": "2026-08-29T20:23:09.316Z",
+    "total": 1973,
+    "successful": 1651,
     "failed": 322,
     "withEmail": 802,
-    "withGithub": 1102,
-    "withStack": 1362,
-    "withLinkedin": 1004,
+    "withGithub": 1103,
+    "withStack": 1363,
+    "withLinkedin": 1005,
     "withTwitter": 454
   },
   "portfolios": [
@@ -41325,6 +41325,31 @@
       "experience": null,
       "title": "S M Sajjad Hossain Soykot | Full-Stack Developer &amp; System Designer",
       "location": "Islamic University, Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Ahmad",
+      "url": "https://muhammadahmad.dev",
+      "listedTitle": "Full Stack Software Engineer | Blockchain & AI/LLM Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/yourusername"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ahmadgill",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Muhammad Ahmad | Software Engineer | Full-Stack & Web3 Developer",
+      "location": null,
       "status": "ok"
     }
   ]
