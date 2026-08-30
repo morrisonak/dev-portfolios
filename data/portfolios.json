@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-30T03:34:48.721Z",
-    "total": 1975,
-    "successful": 1653,
-    "failed": 322,
-    "withEmail": 802,
-    "withGithub": 1103,
-    "withStack": 1363,
-    "withLinkedin": 1005,
-    "withTwitter": 454
+    "scrapedAt": "2026-08-30T20:32:13.867Z",
+    "total": 1971,
+    "successful": 1648,
+    "failed": 323,
+    "withEmail": 799,
+    "withGithub": 1099,
+    "withStack": 1358,
+    "withLinkedin": 1000,
+    "withTwitter": 453
   },
   "portfolios": [
     {
@@ -2678,24 +2678,6 @@
       "experience": null,
       "title": "Alfred Dagenais | Développeur Web « Full Stack » | Consultant Web",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Ali Mohsin",
-      "url": "https://www.ali-ch.dev",
-      "listedTitle": "Architect Of Ai-Driven Systems | Machine Learning, Security, And Full Stack Engineering",
-      "emails": [],
-      "github": [
-        "https://github.com/Ali-Ch-001"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ali-787-ch",
-      "twitter": null,
-      "stack": [
-        "Next.js"
-      ],
-      "experience": null,
-      "title": "Ali Mohsin, A Solutions Architect | AI SaaS | Next.js Expert",
-      "location": "Pakistan specializing in secure web apps, AI SaaS, and modern frameworks like Next",
       "status": "ok"
     },
     {
@@ -7903,28 +7885,6 @@
       ],
       "experience": null,
       "title": "Dale Larroder",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Daljeet Singh",
-      "url": "https://www.daljeetsingh.me",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/djtsingh"
-      ],
-      "linkedin": "https://www.linkedin.com/in/djtsingh",
-      "twitter": "https://x.com/djt5ingh",
-      "stack": [
-        "Svelte",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Spring"
-      ],
-      "experience": null,
-      "title": "Daljeet Singh Lotey",
       "location": null,
       "status": "ok"
     },
@@ -18860,38 +18820,6 @@
       "status": "ok"
     },
     {
-      "name": "Mohit Joe",
-      "url": "https://mohitjoe.vercel.app",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/mohitjoer"
-      ],
-      "linkedin": "https://www.linkedin.com/in/mohitjoe",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Java",
-        "Node.js",
-        "Express",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Mohit Joe R – Full Stack Gen AI Engineer",
-      "location": "Scratch",
-      "status": "ok"
-    },
-    {
       "name": "Mohit Kumar",
       "url": "https://mohit1r.github.io/Portfolio",
       "listedTitle": "Cloud Native Software Engineer | Java | Spring Boot | Azure | DevOps",
@@ -26028,13 +25956,6 @@
     {
       "name": "Tek Kshetri",
       "url": "http://tekkshetri.com.np",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Thea Choem",
-      "url": "https://thea.juniorise.com",
       "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
@@ -33838,34 +33759,6 @@
       "error": "fetch failed"
     },
     {
-      "name": "Artem Okhten",
-      "url": "https://okhten.com",
-      "listedTitle": "Applied Mathematics | Machine Learning & Software Engineering",
-      "emails": [
-        "artokhten@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Darhaal"
-      ],
-      "linkedin": "https://www.linkedin.com/in/artem-okhten",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Docker",
-        "PostgreSQL",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Artem Okhten | Applied Mathematics, Machine Learning &amp; Software Engineering",
-      "location": "Lichess PGN games",
-      "status": "ok"
-    },
-    {
       "name": "Shivy Patel",
       "url": "https://shivypatel.com",
       "listedTitle": "Full Stack Developer",
@@ -36856,39 +36749,6 @@
       "experience": null,
       "title": "Ezra Desmond Sutanto - AI Engineer &amp; Full-Stack Builder",
       "location": "intention to execution",
-      "status": "ok"
-    },
-    {
-      "name": "Alif Jobaer",
-      "url": "https://alifjobaer12.vercel.app",
-      "listedTitle": "Full-Stack MERN & Next.js Developer | IoT & Algorithmic Problem Solving",
-      "emails": [
-        "alifjobaer12@gmail.com"
-      ],
-      "github": [
-        "https://github.com/alifjobaer12"
-      ],
-      "linkedin": "https://linkedin.com/in/alifjobaer12",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "Spring",
-        "Docker",
-        "MongoDB",
-        "MySQL",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Md Jobaer Islam Alif | Full-Stack MERN Developer in Dhaka",
-      "location": "Dhaka, Bangladesh",
       "status": "ok"
     },
     {
@@ -40788,32 +40648,6 @@
       "status": "ok"
     },
     {
-      "name": "Prasad Jaagirdar",
-      "url": "https://prasada-dev.netlify.app/",
-      "listedTitle": "",
-      "emails": [
-        "prasadjagirdar42@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Prasadj18"
-      ],
-      "linkedin": "https://www.linkedin.com/in/prasad-jahagirdar-5417032b4",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Prasada",
-      "location": "manufacturer to consumer using smart",
-      "status": "ok"
-    },
-    {
       "name": "Prem Thatikonda",
       "url": "https://premthatikonda.xyz",
       "listedTitle": "Full Stack & AI Engineer",
@@ -40914,23 +40748,6 @@
       "status": "ok"
     },
     {
-      "name": "Taha Hassan",
-      "url": "https://tahahassan.vercel.app/",
-      "listedTitle": "ML/DL Engineer & Frontend Developer | RAG · NLP · Predictive Modeling · React | End-to-end: model to UI",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Python"
-      ],
-      "experience": null,
-      "title": "Taha Hassan",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Nithish Parameswaran",
       "url": "https://nithish.is-a.dev",
       "listedTitle": "AI/ML engineer | Software Developer | Data Engineer",
@@ -40957,34 +40774,6 @@
       "status": "ok"
     },
     {
-      "name": "Al Marzan",
-      "url": "https://almarzancom.vercel.app",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "almarzan.com",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Abhishek Sharma",
-      "url": "https://www.abhisheksharma.codes/",
-      "listedTitle": "Full Stack Developer | Software Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Abhishek&#x27;s Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Sarthak Sharma",
       "url": "https://sarthak-mac.vercel.app",
       "listedTitle": "Full Stack Developer & Mobile Application Developer, DevOPS",
@@ -41005,20 +40794,6 @@
       "status": "ok"
     },
     {
-      "name": "Jetsadakorn Muangwichit",
-      "url": "https://www.7sadakonr.xyz/",
-      "listedTitle": "Frontend-Focused Full-Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "7sadakonr | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Kavy Sachaniya",
       "url": "https://kavy-sachaniya.vercel.app",
       "listedTitle": "Full Stack Developer | Student",
@@ -41035,63 +40810,6 @@
       "experience": null,
       "title": "Kavy Sachaniya — Full-Stack Developer",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Sonu Suman Ojha",
-      "url": "https://sonu-portfolio-1.netlify.app/",
-      "listedTitle": "Software Engineer",
-      "emails": [
-        "sonusumanojha62@gmail.com"
-      ],
-      "github": [
-        "https://github.com/sonusuman147"
-      ],
-      "linkedin": "https://www.linkedin.com/in/sonu-suman-ojha",
-      "twitter": "https://x.com/SonusumanO",
-      "stack": [
-        "Python",
-        "Flask",
-        "PostgreSQL",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Sonu Suman Ojha | Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Hafsa Salman",
-      "url": "https://www.hafsasalman.com/",
-      "listedTitle": "Software Engineer | Full Stack Developer | AI",
-      "emails": [
-        "hafsalman0521@gmail.com"
-      ],
-      "github": [
-        "https://github.com/hafsalman"
-      ],
-      "linkedin": "https://linkedin.com/in/hafsa-salman04",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "Spring",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "Tailwind",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Hafsa Salman - Software Engineer & AI/ML Engineer | Karachi, Pakistan",
-      "location": "Karachi, Pakistan",
       "status": "ok"
     },
     {
@@ -41116,36 +40834,6 @@
       ],
       "experience": null,
       "title": "Kaushal Satam | Full Stack Software Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Muhammad Abdullah",
-      "url": "https://abd-cloud-resume-v1.pages.dev/",
-      "listedTitle": "Cloud Engineering Student | AWS & Cloudflare",
-      "emails": [
-        "greencoleinc@gmail.com"
-      ],
-      "github": [
-        "https://github.com/nicocodes9"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "PHP",
-        "Node.js",
-        "AWS",
-        "PostgreSQL",
-        "MySQL",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Muhammad Abdullah | Portfolio",
       "location": null,
       "status": "ok"
     },
@@ -41199,20 +40887,6 @@
       ],
       "experience": null,
       "title": "Priyanshu Ghosh — Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Surya Snata Panigrahi",
-      "url": "https://suryaa-portfolio-eight.vercel.app/",
-      "listedTitle": "Software Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Untitled",
       "location": null,
       "status": "ok"
     },
@@ -41275,59 +40949,6 @@
       "status": "ok"
     },
     {
-      "name": "Mujtaba Saqib",
-      "url": "https://www.mujtabasaqib.com/",
-      "listedTitle": "Data Engineer | Data Scientist",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "Python"
-      ],
-      "experience": null,
-      "title": "Mujtaba Saqib — Data Engineer &amp; AI Specialist",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Sajjad Hossain Soykot",
-      "url": "https://www.sajjadsoykot.me/",
-      "listedTitle": "Full-Stack Developer | System Designer",
-      "emails": [
-        "contact@sajjadsoykot.me",
-        "soykot.ict@gmail.com"
-      ],
-      "github": [
-        "https://github.com/SajjadHossainSoykot"
-      ],
-      "linkedin": "https://www.linkedin.com/in/sajjadhossainsoykot",
-      "twitter": "https://x.com/SajjadSoykot",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Node.js",
-        "Express",
-        "Django",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "S M Sajjad Hossain Soykot | Full-Stack Developer &amp; System Designer",
-      "location": "Islamic University, Bangladesh",
-      "status": "ok"
-    },
-    {
       "name": "Muhammad Ahmad",
       "url": "https://muhammadahmad.dev",
       "listedTitle": "Full Stack Software Engineer | Blockchain & AI/LLM Engineer",
@@ -41378,6 +40999,271 @@
       "experience": null,
       "title": "Tirth Dhedhi | Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Sharma",
+      "url": "https://www.abhisheksharma.codes",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Abhishek&#x27;s Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Edmund Spira",
+      "url": "https://edmund.novyrix.com",
+      "listedTitle": "Systems Architect | Full Stack Engineer",
+      "emails": [
+        "spira@novyrix.com"
+      ],
+      "github": [
+        "https://github.com/novyrix"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Edmund Spira | Systems Architect & Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hafsa Salman",
+      "url": "https://www.hafsasalman.com",
+      "listedTitle": "Software Engineer | Full Stack Developer | AI",
+      "emails": [
+        "hafsalman0521@gmail.com"
+      ],
+      "github": [
+        "https://github.com/hafsalman"
+      ],
+      "linkedin": "https://linkedin.com/in/hafsa-salman04",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Hafsa Salman - Software Engineer & AI/ML Engineer | Karachi, Pakistan",
+      "location": "Karachi, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Jetsadakorn Muangwichit",
+      "url": "https://www.7sadakonr.xyz",
+      "listedTitle": "Frontend-Focused Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "7sadakonr | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Muhammad Abdullah",
+      "url": "https://abd-cloud-resume-v1.pages.dev",
+      "listedTitle": "Cloud Engineering Student | AWS & Cloudflare",
+      "emails": [
+        "greencoleinc@gmail.com"
+      ],
+      "github": [
+        "https://github.com/nicocodes9"
+      ],
+      "linkedin": "https://www.linkedin.com/in/muhammad-abdullah-a3a341316",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "AWS",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Muhammad Abdullah | Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mujtaba Saqib",
+      "url": "https://www.mujtabasaqib.com",
+      "listedTitle": "Data Engineer | Data Scientist",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "Mujtaba Saqib — Data Engineer &amp; AI Specialist",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Prasad Jaagirdar",
+      "url": "https://prasada-dev.netlify.app",
+      "listedTitle": "",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Sajjad Hossain Soykot",
+      "url": "https://www.sajjadsoykot.me",
+      "listedTitle": "Full Stack Developer | System Designer",
+      "emails": [
+        "contact@sajjadsoykot.me",
+        "soykot.ict@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SajjadHossainSoykot"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sajjadhossainsoykot",
+      "twitter": "https://x.com/SajjadSoykot",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "S M Sajjad Hossain Soykot | Full-Stack Software Engineer &amp; System Designer",
+      "location": "Islamic University, Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Shubham Sharma",
+      "url": "https://shubhamsharma.in",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/hcrshubham"
+      ],
+      "linkedin": "https://www.linkedin.com/in/hcrshubham",
+      "twitter": "https://x.com/hcrshubham",
+      "stack": [
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Shubham Kumar Sharma | Full Stack Java Developer",
+      "location": "Lucknow, UP",
+      "status": "ok"
+    },
+    {
+      "name": "Sonu Suman Ojha",
+      "url": "https://sonu-portfolio-1.netlify.app",
+      "listedTitle": "Software Engineer",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Surya Snata Panigrahi",
+      "url": "https://suryaa-portfolio-eight.vercel.app",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Untitled",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Taha Hassan",
+      "url": "https://tahahassan.vercel.app",
+      "listedTitle": "ML/DL Engineer & Frontend Developer | RAG · NLP · Predictive Modeling · React | End-to-end: model to UI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Taha Hassan",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ummay Maimona Chaman",
+      "url": "https://ummaymaimonachaman.github.io/Myself_CHAMAN/",
+      "listedTitle": "AI Researcher | Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/UmmayMaimonaChaman"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Django",
+        "Flask",
+        "MongoDB",
+        "MySQL",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "CHAMAN | Portfolio",
+      "location": "uploaded PDFs and images",
       "status": "ok"
     }
   ]
