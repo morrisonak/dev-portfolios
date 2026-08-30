@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-29T20:23:09.316Z",
-    "total": 1973,
-    "successful": 1651,
+    "scrapedAt": "2026-08-30T03:34:48.721Z",
+    "total": 1975,
+    "successful": 1653,
     "failed": 322,
     "withEmail": 802,
     "withGithub": 1103,
@@ -41349,6 +41349,34 @@
       ],
       "experience": null,
       "title": "Muhammad Ahmad | Software Engineer | Full-Stack & Web3 Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shaun Fischmann",
+      "url": "https://heyshaun.fr",
+      "listedTitle": "Partnership Manager | Web Developer | Proptech",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": "12+ years",
+      "title": "Shaun Fischmann — Partnership Manager &amp; Web Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tirth Dhedhi",
+      "url": "https://www.tirthdhedhi.dev",
+      "listedTitle": "Full-Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Tirth Dhedhi | Portfolio",
       "location": null,
       "status": "ok"
     }
