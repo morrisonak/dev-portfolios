@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-30T20:32:13.867Z",
-    "total": 1971,
-    "successful": 1648,
+    "scrapedAt": "2026-08-31T22:25:27.295Z",
+    "total": 1973,
+    "successful": 1650,
     "failed": 323,
     "withEmail": 799,
     "withGithub": 1099,
-    "withStack": 1358,
+    "withStack": 1359,
     "withLinkedin": 1000,
     "withTwitter": 453
   },
@@ -41264,6 +41264,38 @@
       "experience": null,
       "title": "CHAMAN | Portfolio",
       "location": "uploaded PDFs and images",
+      "status": "ok"
+    },
+    {
+      "name": "Mattia Verdecchi",
+      "url": "https://mattiaverdecchi.dev",
+      "listedTitle": "Full-Stack Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Mattia Verdecchi",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sachin Goyal",
+      "url": "https://www.sachingoyal.me",
+      "listedTitle": "Full Stack AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Go"
+      ],
+      "experience": null,
+      "title": "Sachin Goyal",
+      "location": null,
       "status": "ok"
     }
   ]
