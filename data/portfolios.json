@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-01T03:31:13.052Z",
-    "total": 1974,
-    "successful": 1651,
+    "scrapedAt": "2026-09-01T16:02:22.821Z",
+    "total": 1976,
+    "successful": 1653,
     "failed": 323,
-    "withEmail": 800,
-    "withGithub": 1100,
-    "withStack": 1360,
-    "withLinkedin": 1001,
+    "withEmail": 801,
+    "withGithub": 1101,
+    "withStack": 1361,
+    "withLinkedin": 1002,
     "withTwitter": 453
   },
   "portfolios": [
@@ -41326,6 +41326,53 @@
       "experience": null,
       "title": "Pranava Jayanthi Krishna",
       "location": "federated query engines and durable orchestration up through the services and interfaces on top",
+      "status": "ok"
+    },
+    {
+      "name": "Adnan Khan",
+      "url": "https://adnan-portfolio-web.onrender.com",
+      "listedTitle": "Developer | Innovative UI Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Adnan Khan — Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Dhruv Parmar",
+      "url": "https://dhruvjs.com",
+      "listedTitle": "Full Stack / Frontend Developer",
+      "emails": [
+        "letsconnectdhruv@gmail.com"
+      ],
+      "github": [
+        "https://github.com/dhruvjsx"
+      ],
+      "linkedin": "https://www.linkedin.com/in/dhruvjs",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "MongoDB",
+        "Tailwind",
+        "GraphQL",
+        "React Native",
+        "Figma"
+      ],
+      "experience": "2+ years",
+      "title": "Dhruv Parmar — Full-Stack Developer | Indore, India",
+      "location": "component structure to state and data flow",
       "status": "ok"
     }
   ]
