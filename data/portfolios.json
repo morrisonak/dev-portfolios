@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-08-31T22:25:27.295Z",
-    "total": 1973,
-    "successful": 1650,
+    "scrapedAt": "2026-09-01T03:31:13.052Z",
+    "total": 1974,
+    "successful": 1651,
     "failed": 323,
-    "withEmail": 799,
-    "withGithub": 1099,
-    "withStack": 1359,
-    "withLinkedin": 1000,
+    "withEmail": 800,
+    "withGithub": 1100,
+    "withStack": 1360,
+    "withLinkedin": 1001,
     "withTwitter": 453
   },
   "portfolios": [
@@ -41296,6 +41296,36 @@
       "experience": null,
       "title": "Sachin Goyal",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Pranava Jayanthi Krishna",
+      "url": "https://pranavajk.com",
+      "listedTitle": "Senior Software Engineer | AI Engineering",
+      "emails": [
+        "jkpranava16@gmail.com"
+      ],
+      "github": [
+        "https://github.com/pranavajk1"
+      ],
+      "linkedin": "https://www.linkedin.com/in/pranava-j-k",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Pranava Jayanthi Krishna",
+      "location": "federated query engines and durable orchestration up through the services and interfaces on top",
       "status": "ok"
     }
   ]
