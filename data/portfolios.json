@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-01T16:02:22.821Z",
-    "total": 1976,
-    "successful": 1653,
+    "scrapedAt": "2026-09-02T10:36:30.705Z",
+    "total": 1977,
+    "successful": 1654,
     "failed": 323,
-    "withEmail": 801,
-    "withGithub": 1101,
-    "withStack": 1361,
-    "withLinkedin": 1002,
-    "withTwitter": 453
+    "withEmail": 802,
+    "withGithub": 1102,
+    "withStack": 1362,
+    "withLinkedin": 1003,
+    "withTwitter": 454
   },
   "portfolios": [
     {
@@ -41373,6 +41373,42 @@
       "experience": "2+ years",
       "title": "Dhruv Parmar — Full-Stack Developer | Indore, India",
       "location": "component structure to state and data flow",
+      "status": "ok"
+    },
+    {
+      "name": "Soham Mondal",
+      "url": "https://sohammondal.com",
+      "listedTitle": "Senior Frontend Engineer | React & React Native",
+      "emails": [
+        "contact@sohammondal.com"
+      ],
+      "github": [
+        "https://github.com/sohammondal",
+        "https://github.com/jaantrik",
+        "https://github.com/portainer",
+        "https://github.com/simple-icons",
+        "https://github.com/crynta",
+        "https://github.com/vscode-icons",
+        "https://github.com/material-extensions",
+        "https://github.com/itaditya"
+      ],
+      "linkedin": "https://www.linkedin.com/in/soham-sm-mondal",
+      "twitter": "https://twitter.com/sohammondal_",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Swift",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Firebase",
+        "React Native"
+      ],
+      "experience": "9+ years",
+      "title": "Soham Mondal | sohammondal | Senior Software Engineer",
+      "location": "pixels to pipelines, I",
       "status": "ok"
     }
   ]
