@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-02T10:36:30.705Z",
-    "total": 1977,
-    "successful": 1654,
+    "scrapedAt": "2026-09-02T15:56:38.187Z",
+    "total": 1978,
+    "successful": 1655,
     "failed": 323,
     "withEmail": 802,
-    "withGithub": 1102,
-    "withStack": 1362,
-    "withLinkedin": 1003,
+    "withGithub": 1103,
+    "withStack": 1363,
+    "withLinkedin": 1004,
     "withTwitter": 454
   },
   "portfolios": [
@@ -41409,6 +41409,29 @@
       "experience": "9+ years",
       "title": "Soham Mondal | sohammondal | Senior Software Engineer",
       "location": "pixels to pipelines, I",
+      "status": "ok"
+    },
+    {
+      "name": "Anirudh Negi",
+      "url": "https://negiadventures.github.io",
+      "listedTitle": "AI Systems & Backend Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/negiadventures"
+      ],
+      "linkedin": "https://www.linkedin.com/in/negiadventures",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Kubernetes",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Anirudh Negi · AI Systems &amp; Backend Engineer",
+      "location": "discovery to signed offer, with an agent behind each one",
       "status": "ok"
     }
   ]
