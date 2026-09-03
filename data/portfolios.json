@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-02T15:56:38.187Z",
-    "total": 1978,
-    "successful": 1655,
-    "failed": 323,
-    "withEmail": 802,
-    "withGithub": 1103,
-    "withStack": 1363,
-    "withLinkedin": 1004,
+    "scrapedAt": "2026-09-03T20:28:45.788Z",
+    "total": 1980,
+    "successful": 1656,
+    "failed": 324,
+    "withEmail": 803,
+    "withGithub": 1104,
+    "withStack": 1364,
+    "withLinkedin": 1005,
     "withTwitter": 454
   },
   "portfolios": [
@@ -41433,6 +41433,36 @@
       "title": "Anirudh Negi · AI Systems &amp; Backend Engineer",
       "location": "discovery to signed offer, with an agent behind each one",
       "status": "ok"
+    },
+    {
+      "name": "Benedict Lutab",
+      "url": "https://marbelona.com",
+      "listedTitle": "Full Stack Software Engineer | Product Engineer | AI UGC Video Creator",
+      "emails": [
+        "i@marbelona.com"
+      ],
+      "github": [
+        "https://github.com/montecassino"
+      ],
+      "linkedin": "https://www.linkedin.com/in/bb3n",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Rust",
+        "Go"
+      ],
+      "experience": null,
+      "title": "Marbelona",
+      "location": "scratch until they work, then deleting half of it",
+      "status": "ok"
+    },
+    {
+      "name": "João Claudio Prestes",
+      "url": "https://www.joaoprestes.dev",
+      "listedTitle": "Full Stack Developer | ML Engineer",
+      "status": "error",
+      "error": "HTTP 403"
     }
   ]
 }
