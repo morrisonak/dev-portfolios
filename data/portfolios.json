@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-04T10:41:03.450Z",
-    "total": 1981,
-    "successful": 1657,
+    "scrapedAt": "2026-09-04T15:44:15.050Z",
+    "total": 1984,
+    "successful": 1660,
     "failed": 324,
-    "withEmail": 804,
-    "withGithub": 1105,
-    "withStack": 1365,
-    "withLinkedin": 1006,
-    "withTwitter": 454
+    "withEmail": 805,
+    "withGithub": 1107,
+    "withStack": 1368,
+    "withLinkedin": 1007,
+    "withTwitter": 455
   },
   "portfolios": [
     {
@@ -41485,6 +41485,72 @@
       "experience": null,
       "title": "Sudhanva K Upadhya | Robotics &amp; AI Portfolio",
       "location": "Toolbox Robotics",
+      "status": "ok"
+    },
+    {
+      "name": "Farhan Segujja",
+      "url": "https://farhansegujja.com",
+      "listedTitle": "Software Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/Al-Farhan-Seg"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Farhan Segujja | Frontend-focused developer building real, shipped work",
+      "location": "requirements collected by",
+      "status": "ok"
+    },
+    {
+      "name": "Manas Singh",
+      "url": "https://manassingh.dev",
+      "listedTitle": "Full Stack Developer | React, TypeScript, Node.js",
+      "emails": [
+        "manasdotio@gmail.com",
+        "sarah@company.com"
+      ],
+      "github": [
+        "https://github.com/manasdotio"
+      ],
+      "linkedin": "https://www.linkedin.com/in/manasdotio",
+      "twitter": "https://twitter.com/manasdotio",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Manas Singh — Fullstack Developer",
+      "location": "database to UI",
+      "status": "ok"
+    },
+    {
+      "name": "Pramuditha Nadun",
+      "url": "https://www.pramuditha.is-a.dev",
+      "listedTitle": "Software Engineer | Motion Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript"
+      ],
+      "experience": null,
+      "title": "Pramuditha Nadun | Software Engineer & Visual Designer",
+      "location": null,
       "status": "ok"
     }
   ]
