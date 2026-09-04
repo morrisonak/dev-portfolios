@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-03T20:28:45.788Z",
-    "total": 1980,
-    "successful": 1656,
+    "scrapedAt": "2026-09-04T10:41:03.450Z",
+    "total": 1981,
+    "successful": 1657,
     "failed": 324,
-    "withEmail": 803,
-    "withGithub": 1104,
-    "withStack": 1364,
-    "withLinkedin": 1005,
+    "withEmail": 804,
+    "withGithub": 1105,
+    "withStack": 1365,
+    "withLinkedin": 1006,
     "withTwitter": 454
   },
   "portfolios": [
@@ -41463,6 +41463,29 @@
       "listedTitle": "Full Stack Developer | ML Engineer",
       "status": "error",
       "error": "HTTP 403"
+    },
+    {
+      "name": "Sudhanva K Upadhya",
+      "url": "https://sudhanva-portfolio.pages.dev",
+      "listedTitle": "Robotics & AI Student | Robotics, Embedded Systems",
+      "emails": [
+        "sudhanvaupadhya108@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Sudhanva-K-Upadhya"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sudhanva-k-upadhya-21446638b",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Go",
+        "Java",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Sudhanva K Upadhya | Robotics &amp; AI Portfolio",
+      "location": "Toolbox Robotics",
+      "status": "ok"
     }
   ]
 }
