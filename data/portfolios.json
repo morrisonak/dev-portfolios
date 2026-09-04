@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-04T15:44:15.050Z",
-    "total": 1984,
-    "successful": 1660,
+    "scrapedAt": "2026-09-04T20:15:31.892Z",
+    "total": 1985,
+    "successful": 1661,
     "failed": 324,
-    "withEmail": 805,
-    "withGithub": 1107,
-    "withStack": 1368,
-    "withLinkedin": 1007,
-    "withTwitter": 455
+    "withEmail": 806,
+    "withGithub": 1108,
+    "withStack": 1369,
+    "withLinkedin": 1008,
+    "withTwitter": 456
   },
   "portfolios": [
     {
@@ -41551,6 +41551,41 @@
       "experience": null,
       "title": "Pramuditha Nadun | Software Engineer & Visual Designer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Omkar Gadekar",
+      "url": "https://omkargadekar.vercel.app/",
+      "listedTitle": "AI/ML & Software Developer | Student",
+      "emails": [
+        "omkargadekar5651@gmail.com"
+      ],
+      "github": [
+        "https://github.com/HoneyBadger-010"
+      ],
+      "linkedin": "https://www.linkedin.com/in/gadekaromkar",
+      "twitter": "https://x.com/GADEKAROMKAR_56",
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Kotlin",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Omkar Gadekar — AI Solutions Engineer &amp; Problem Solver",
+      "location": "reward",
       "status": "ok"
     }
   ]
