@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-04T20:15:31.892Z",
-    "total": 1985,
-    "successful": 1661,
+    "scrapedAt": "2026-09-05T14:33:54.942Z",
+    "total": 1986,
+    "successful": 1662,
     "failed": 324,
-    "withEmail": 806,
-    "withGithub": 1108,
-    "withStack": 1369,
-    "withLinkedin": 1008,
+    "withEmail": 807,
+    "withGithub": 1109,
+    "withStack": 1370,
+    "withLinkedin": 1009,
     "withTwitter": 456
   },
   "portfolios": [
@@ -38744,33 +38744,6 @@
       "status": "ok"
     },
     {
-      "name": "Rathod Ramraj",
-      "url": "https://rathodram.vercel.app",
-      "listedTitle": "Full Stack Dev | Student at NITJ",
-      "emails": [
-        "rathodramraj.dev@gmail.com"
-      ],
-      "github": [
-        "https://github.com/rathod-ramraj"
-      ],
-      "linkedin": "https://www.linkedin.com/in/rathod-ramraj-a50794323",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Rathod Ramraj — Full Stack Developer • React • Next.js • Node.js",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Ravi K Gupta",
       "url": "https://devravik.github.io",
       "listedTitle": "Senior Backend Engineer | Laravel | Go",
@@ -41586,6 +41559,64 @@
       "experience": null,
       "title": "Omkar Gadekar — AI Solutions Engineer &amp; Problem Solver",
       "location": "reward",
+      "status": "ok"
+    },
+    {
+      "name": "Rathod Ramraj",
+      "url": "https://rathodram.is-a.dev/",
+      "listedTitle": "Full Stack Dev | Student at NITJ",
+      "emails": [
+        "rathodramraj.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rathod-ramraj"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rathod-ramraj",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Rathod Ramraj - Developer, Student &amp; Builder",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rathod Ramraj",
+      "url": "https://rathodramraj.vercel.app",
+      "listedTitle": "Frontend Developer | NITJ",
+      "emails": [
+        "rathodramraj.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rathod-ramraj"
+      ],
+      "linkedin": "https://linkedin.com/in/rathod-ramraj-a50794323",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "Rails",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Rathod Ramraj — Full Stack Developer",
+      "location": "the reading",
       "status": "ok"
     }
   ]
