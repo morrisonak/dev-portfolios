@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-06T14:54:33.345Z",
-    "total": 1984,
-    "successful": 1663,
+    "scrapedAt": "2026-09-06T19:58:39.759Z",
+    "total": 1985,
+    "successful": 1664,
     "failed": 321,
-    "withEmail": 807,
-    "withGithub": 1110,
-    "withStack": 1371,
-    "withLinkedin": 1010,
+    "withEmail": 808,
+    "withGithub": 1111,
+    "withStack": 1372,
+    "withLinkedin": 1011,
     "withTwitter": 458
   },
   "portfolios": [
@@ -41633,6 +41633,32 @@
       "experience": "7+ years",
       "title": "Shreyam Adhikari — shreyam1008 | Developer, Projects, Writing",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Yehia Gewily",
+      "url": "https://yehia-gewily.me",
+      "listedTitle": "AI Software Engineer",
+      "emails": [
+        "yehiasaidgewily@gmail.com"
+      ],
+      "github": [
+        "https://github.com/YehiaGewily"
+      ],
+      "linkedin": "https://www.linkedin.com/in/yehia-gewily-7545231a6",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Go",
+        "Spring",
+        "AWS",
+        "Docker",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Yehia Gewily | Backend Systems Engineer",
+      "location": "request to result, built to survive failure",
       "status": "ok"
     }
   ]
