@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-06T10:14:30.537Z",
-    "total": 1988,
-    "successful": 1665,
-    "failed": 323,
-    "withEmail": 808,
+    "scrapedAt": "2026-09-06T14:54:33.345Z",
+    "total": 1984,
+    "successful": 1663,
+    "failed": 321,
+    "withEmail": 807,
     "withGithub": 1110,
-    "withStack": 1372,
+    "withStack": 1371,
     "withLinkedin": 1010,
-    "withTwitter": 457
+    "withTwitter": 458
   },
   "portfolios": [
     {
@@ -6263,22 +6263,6 @@
       "status": "ok"
     },
     {
-      "name": "Blake Karbon",
-      "url": "https://balakekarbon.github.io",
-      "listedTitle": "Legacy Systems / COBOL, Firmware, AI / Big Data, and Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Blake Karbon's Web Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Blanc John Clayton",
       "url": "https://www.johnclaytonblanc.com",
       "listedTitle": "",
@@ -11061,26 +11045,6 @@
       "experience": null,
       "title": "Garv Nanwani || Home",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Gaspare Tortora",
-      "url": "https://gaspavar.dev",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/Gaspavar92"
-      ],
-      "linkedin": "https://www.linkedin.com/in/gaspare-tortora",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Firebase"
-      ],
-      "experience": null,
-      "title": "Gaspavar",
-      "location": "ChatGPT you can generate an itinerary for any location in the world that you would like to visit",
       "status": "ok"
     },
     {
@@ -16373,20 +16337,6 @@
       ],
       "experience": null,
       "title": "Portifólio | dants.dev &#x1F60E",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Lucas De Moraes",
-      "url": "https://devlucas.website",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Lucas | Full Stack Dev",
       "location": null,
       "status": "ok"
     },
@@ -26439,20 +26389,6 @@
     {
       "name": "Vikas Ukani",
       "url": "https://vikas-ukani.github.io",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Vinay Kumar",
-      "url": "https://n4ryn.com",
-      "listedTitle": "Full Stack Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Vinay Somawat",
-      "url": "https://vinaysomawat.github.io",
       "listedTitle": "",
       "status": "skipped",
       "error": "timeout_prone_batch"
@@ -40117,27 +40053,6 @@
       "status": "ok"
     },
     {
-      "name": "Mohd Zaheer Uddin",
-      "url": "https://sohailkhan0525.github.io/MyPortfolio",
-      "listedTitle": "MACHINE LEARNING BEGINNER | Founder of @Qofeno",
-      "emails": [
-        "sohailkhannnn.0525@gmail.com"
-      ],
-      "github": [
-        "https://github.com/SohailKhan0525"
-      ],
-      "linkedin": "https://www.linkedin.com/in/mohd-zaheer-uddin-166b3b356",
-      "twitter": null,
-      "stack": [
-        "Python",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "MOHD ZAHEER UDDIN | AI Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Rhenz Ganotice",
       "url": "https://rhenzportfolio.vercel.app",
       "listedTitle": "Full Stack Developer Software Engineer",
@@ -41556,33 +41471,6 @@
     },
     {
       "name": "Rathod Ramraj",
-      "url": "https://rathodram.is-a.dev/",
-      "listedTitle": "Full Stack Dev | Student at NITJ",
-      "emails": [
-        "rathodramraj.dev@gmail.com"
-      ],
-      "github": [
-        "https://github.com/rathod-ramraj"
-      ],
-      "linkedin": "https://www.linkedin.com/in/rathod-ramraj",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Rathod Ramraj - Developer, Student &amp; Builder",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Rathod Ramraj",
       "url": "https://rathodramraj.vercel.app",
       "listedTitle": "Frontend Developer | NITJ",
       "emails": [
@@ -41678,6 +41566,73 @@
       "experience": "8+ years",
       "title": "Suman Dey | Senior Technical Lead, Full Stack Engineer &amp; AI Builder",
       "location": "West Bengal, India, and is open to remote work globally",
+      "status": "ok"
+    },
+    {
+      "name": "Haris",
+      "url": "https://portfolio.haresmohd012.workers.dev/",
+      "listedTitle": "DevOps Engineer | Full Stack Developer | Cloud Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/harishazmohd"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mohammad-haris-385828238",
+      "twitter": null,
+      "stack": [
+        "Go"
+      ],
+      "experience": null,
+      "title": "Haris Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rathod Ramraj",
+      "url": "https://rathodram.vercel.app",
+      "listedTitle": "Full Stack Dev | Student at NITJ",
+      "emails": [
+        "rathodramraj.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rathod-ramraj"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rathod-ramraj",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Rathod Ramraj - Developer, Student &amp; Builder",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shreyam Adhikari",
+      "url": "https://shreyam1008.com.np/",
+      "listedTitle": "Full Stack Developer | Go, TypeScript & Development Tools",
+      "emails": [],
+      "github": [
+        "https://github.com/shreyam1008"
+      ],
+      "linkedin": "https://linkedin.com/in/shreyam1008",
+      "twitter": "https://x.com/shreyam1008",
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js"
+      ],
+      "experience": "7+ years",
+      "title": "Shreyam Adhikari — shreyam1008 | Developer, Projects, Writing",
+      "location": null,
       "status": "ok"
     }
   ]
