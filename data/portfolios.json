@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-05T14:33:54.942Z",
-    "total": 1986,
-    "successful": 1662,
-    "failed": 324,
-    "withEmail": 807,
-    "withGithub": 1109,
-    "withStack": 1370,
-    "withLinkedin": 1009,
-    "withTwitter": 456
+    "scrapedAt": "2026-09-06T10:14:30.537Z",
+    "total": 1988,
+    "successful": 1665,
+    "failed": 323,
+    "withEmail": 808,
+    "withGithub": 1110,
+    "withStack": 1372,
+    "withLinkedin": 1010,
+    "withTwitter": 457
   },
   "portfolios": [
     {
@@ -41172,13 +41172,6 @@
       "status": "ok"
     },
     {
-      "name": "Sonu Suman Ojha",
-      "url": "https://sonu-portfolio-1.netlify.app",
-      "listedTitle": "Software Engineer",
-      "status": "error",
-      "error": "The operation was aborted due to timeout"
-    },
-    {
       "name": "Surya Snata Panigrahi",
       "url": "https://suryaa-portfolio-eight.vercel.app",
       "listedTitle": "Software Developer",
@@ -41617,6 +41610,74 @@
       "experience": null,
       "title": "Rathod Ramraj — Full Stack Developer",
       "location": "the reading",
+      "status": "ok"
+    },
+    {
+      "name": "Kabilesh",
+      "url": "https://ikabidev.app",
+      "listedTitle": "Product Engineer | Full Stack Developer  | AI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "House Kabi",
+      "location": "Coimbatore",
+      "status": "ok"
+    },
+    {
+      "name": "Sonu Suman Ojha",
+      "url": "https://my-portfolio-wkse.vercel.app/",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "Sonu Suman Ojha | Data Analytics & Computer Science Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Suman Dey",
+      "url": "https://www.sumandey.com",
+      "listedTitle": "Senior Technical Lead | Full Stack Engineer | AI & RAG Integration | DevOps",
+      "emails": [
+        "aboutsumandey@gmail.com"
+      ],
+      "github": [
+        "https://github.com/MonsterTechnoGits",
+        "https://github.com/imsumandey"
+      ],
+      "linkedin": "https://www.linkedin.com/in/imsumandey",
+      "twitter": "https://x.com/imsumandey",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Java",
+        "Swift",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Tailwind",
+        "GraphQL",
+        "React Native"
+      ],
+      "experience": "8+ years",
+      "title": "Suman Dey | Senior Technical Lead, Full Stack Engineer &amp; AI Builder",
+      "location": "West Bengal, India, and is open to remote work globally",
       "status": "ok"
     }
   ]
