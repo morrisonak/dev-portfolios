@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-06T19:58:39.759Z",
-    "total": 1985,
-    "successful": 1664,
+    "scrapedAt": "2026-09-07T02:50:52.449Z",
+    "total": 1986,
+    "successful": 1665,
     "failed": 321,
     "withEmail": 808,
-    "withGithub": 1111,
-    "withStack": 1372,
-    "withLinkedin": 1011,
+    "withGithub": 1112,
+    "withStack": 1373,
+    "withLinkedin": 1012,
     "withTwitter": 458
   },
   "portfolios": [
@@ -41659,6 +41659,26 @@
       "experience": null,
       "title": "Yehia Gewily | Backend Systems Engineer",
       "location": "request to result, built to survive failure",
+      "status": "ok"
+    },
+    {
+      "name": "Mnelisi Mthuli",
+      "url": "https://www.seniordevelopermnelisi.com",
+      "listedTitle": "Senior C# / .NET Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/sarger"
+      ],
+      "linkedin": "https://www.linkedin.com/in/senior-developer-",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "PHP",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Home - Mnelisi M. | Senior .NET Developer",
+      "location": "database design through to production support and mentoring junior developers",
       "status": "ok"
     }
   ]
