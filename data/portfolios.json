@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-07T02:50:52.449Z",
-    "total": 1986,
-    "successful": 1665,
+    "scrapedAt": "2026-09-08T15:57:59.622Z",
+    "total": 1988,
+    "successful": 1667,
     "failed": 321,
-    "withEmail": 808,
-    "withGithub": 1112,
-    "withStack": 1373,
-    "withLinkedin": 1012,
-    "withTwitter": 458
+    "withEmail": 809,
+    "withGithub": 1114,
+    "withStack": 1375,
+    "withLinkedin": 1014,
+    "withTwitter": 460
   },
   "portfolios": [
     {
@@ -41679,6 +41679,80 @@
       "experience": null,
       "title": "Home - Mnelisi M. | Senior .NET Developer",
       "location": "database design through to production support and mentoring junior developers",
+      "status": "ok"
+    },
+    {
+      "name": "Hanzala Mohammadi Darahi",
+      "url": "https://hanzala.spiderwall.app",
+      "listedTitle": "Software Developer . Senior Full Stack Developer . AI Engineer . Cybersecurity Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/hanzaladarahi"
+      ],
+      "linkedin": "https://www.linkedin.com/in/hanzala-darahi",
+      "twitter": "https://x.com/HDarahi",
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Kotlin",
+        "Node.js",
+        "Django",
+        "Laravel",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Hanzala Darahi | Senior Full Stack Developer, AI &amp; Cybersecurity Engineer",
+      "location": "real world threats",
+      "status": "ok"
+    },
+    {
+      "name": "Yasir Arfat",
+      "url": "https://yasirarfat.com",
+      "listedTitle": "YasirOS | Full Stack Software Engineer | AI Engineer",
+      "emails": [
+        "email@yasirarfat.com"
+      ],
+      "github": [
+        "https://github.com/beingyasirarfat"
+      ],
+      "linkedin": "https://linkedin.com/in/beingyasirarfat",
+      "twitter": "https://x.com/beingyasirarfat",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Laravel",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Yasir Arfat",
+      "location": "attention",
       "status": "ok"
     }
   ]
