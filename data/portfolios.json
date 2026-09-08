@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-08T15:57:59.622Z",
-    "total": 1988,
-    "successful": 1667,
+    "scrapedAt": "2026-09-08T20:42:26.147Z",
+    "total": 1989,
+    "successful": 1668,
     "failed": 321,
     "withEmail": 809,
-    "withGithub": 1114,
-    "withStack": 1375,
+    "withGithub": 1115,
+    "withStack": 1376,
     "withLinkedin": 1014,
     "withTwitter": 460
   },
@@ -41753,6 +41753,32 @@
       "experience": null,
       "title": "Yasir Arfat",
       "location": "attention",
+      "status": "ok"
+    },
+    {
+      "name": "Ditpowuh",
+      "url": "https://ditpowuh.com/portfolio",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/ditpowuh"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": null,
+      "location": null,
       "status": "ok"
     }
   ]
