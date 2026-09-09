@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-09T15:53:55.445Z",
-    "total": 1990,
-    "successful": 1669,
+    "scrapedAt": "2026-09-09T20:23:24.154Z",
+    "total": 1991,
+    "successful": 1670,
     "failed": 321,
     "withEmail": 810,
     "withGithub": 1116,
@@ -41800,6 +41800,20 @@
       "experience": null,
       "title": "Oliver Newth — AI Product Lead at Google",
       "location": "his work at Google",
+      "status": "ok"
+    },
+    {
+      "name": "Manics",
+      "url": "https://devmani-cs-code.vercel.app/",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "manics-portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
