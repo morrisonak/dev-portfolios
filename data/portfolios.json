@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-10T03:02:15.996Z",
-    "total": 1992,
-    "successful": 1671,
+    "scrapedAt": "2026-09-10T10:35:07.213Z",
+    "total": 1993,
+    "successful": 1672,
     "failed": 321,
     "withEmail": 811,
     "withGithub": 1116,
@@ -41838,6 +41838,20 @@
       "experience": null,
       "title": "Bishoy Nabil — CMS Developer & Full-Stack Engineer",
       "location": "cheesecakes to",
+      "status": "ok"
+    },
+    {
+      "name": "Ricky Gipson",
+      "url": "https://www.rickygipson.com/",
+      "listedTitle": "UI Developer/UX Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ricky G - UI Developer + UX Designer",
+      "location": null,
       "status": "ok"
     }
   ]
