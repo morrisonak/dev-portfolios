@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-09T20:23:24.154Z",
-    "total": 1991,
-    "successful": 1670,
+    "scrapedAt": "2026-09-10T03:02:15.996Z",
+    "total": 1992,
+    "successful": 1671,
     "failed": 321,
-    "withEmail": 810,
+    "withEmail": 811,
     "withGithub": 1116,
-    "withStack": 1377,
-    "withLinkedin": 1015,
+    "withStack": 1378,
+    "withLinkedin": 1016,
     "withTwitter": 460
   },
   "portfolios": [
@@ -41814,6 +41814,30 @@
       "experience": null,
       "title": "manics-portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Bishoy Nabil",
+      "url": "https://bishonabil.github.io/Portfolio/",
+      "listedTitle": "Web & CMS Developer | WordPress, Shopify & React, Php, Html, CSS",
+      "emails": [
+        "bishonabil457@gmail.com",
+        "jane@company.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/bishoy-nabil-1aa474320",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "PHP",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Bishoy Nabil — CMS Developer & Full-Stack Engineer",
+      "location": "cheesecakes to",
       "status": "ok"
     }
   ]
