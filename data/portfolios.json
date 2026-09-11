@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-11T10:35:26.103Z",
-    "total": 1995,
-    "successful": 1674,
-    "failed": 321,
-    "withEmail": 811,
-    "withGithub": 1116,
-    "withStack": 1378,
-    "withLinkedin": 1016,
+    "scrapedAt": "2026-09-11T15:50:42.359Z",
+    "total": 1997,
+    "successful": 1675,
+    "failed": 322,
+    "withEmail": 812,
+    "withGithub": 1117,
+    "withStack": 1379,
+    "withLinkedin": 1017,
     "withTwitter": 460
   },
   "portfolios": [
@@ -41879,6 +41879,46 @@
       "stack": [],
       "experience": null,
       "title": "Paulo Marques — Tech Lead & Fullstack Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Anandhasivam Sambathkumar",
+      "url": "https://www.anandhasivam.indevs.in",
+      "listedTitle": "Full-Stack Developer",
+      "status": "error",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Mehedi Hasan Abir",
+      "url": "https://mehedi-hasan-abir.github.io",
+      "listedTitle": "Senior AI/ML Engineer | LLMs, RAG, Agentic AI",
+      "emails": [
+        "abir.aust.102@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Mehedi-Hasan-Abir"
+      ],
+      "linkedin": "https://linkedin.com/in/mehedihasan102",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Mehedi Hasan — AI/ML Engineer Portfolio",
       "location": null,
       "status": "ok"
     }
