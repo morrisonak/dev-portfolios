@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-10T10:35:07.213Z",
-    "total": 1993,
-    "successful": 1672,
+    "scrapedAt": "2026-09-11T02:57:45.622Z",
+    "total": 1994,
+    "successful": 1673,
     "failed": 321,
     "withEmail": 811,
     "withGithub": 1116,
@@ -41851,6 +41851,20 @@
       "stack": [],
       "experience": null,
       "title": "Ricky G - UI Developer + UX Designer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Garsani",
+      "url": "https://abhishek-g-mu.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "G. Abhishek | Civil BIM Engineer & Junior BIM Modeler",
       "location": null,
       "status": "ok"
     }
