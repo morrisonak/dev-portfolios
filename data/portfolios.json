@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-11T02:57:45.622Z",
-    "total": 1994,
-    "successful": 1673,
+    "scrapedAt": "2026-09-11T10:35:26.103Z",
+    "total": 1995,
+    "successful": 1674,
     "failed": 321,
     "withEmail": 811,
     "withGithub": 1116,
@@ -41865,6 +41865,20 @@
       "stack": [],
       "experience": null,
       "title": "G. Abhishek | Civil BIM Engineer & Junior BIM Modeler",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Paulo Marques",
+      "url": "https://paulomarques.dev",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Paulo Marques — Tech Lead & Fullstack Engineer",
       "location": null,
       "status": "ok"
     }
