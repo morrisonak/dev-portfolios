@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-11T15:50:42.359Z",
-    "total": 1997,
-    "successful": 1675,
+    "scrapedAt": "2026-09-12T20:10:08.146Z",
+    "total": 1998,
+    "successful": 1676,
     "failed": 322,
     "withEmail": 812,
-    "withGithub": 1117,
+    "withGithub": 1118,
     "withStack": 1379,
-    "withLinkedin": 1017,
+    "withLinkedin": 1018,
     "withTwitter": 460
   },
   "portfolios": [
@@ -41919,6 +41919,22 @@
       ],
       "experience": null,
       "title": "Mehedi Hasan — AI/ML Engineer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ajay Kumar Sharma",
+      "url": "https://ajay-sharma.in",
+      "listedTitle": "Web Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/ajayshsh7"
+      ],
+      "linkedin": "https://linkedin.com/in/ajay-kumarsharma",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ajay Sharma",
       "location": null,
       "status": "ok"
     }
