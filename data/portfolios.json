@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-12T20:10:08.146Z",
-    "total": 1998,
-    "successful": 1676,
-    "failed": 322,
-    "withEmail": 812,
-    "withGithub": 1118,
-    "withStack": 1379,
-    "withLinkedin": 1018,
-    "withTwitter": 460
+    "scrapedAt": "2026-09-13T15:35:43.488Z",
+    "total": 1987,
+    "successful": 1666,
+    "failed": 321,
+    "withEmail": 807,
+    "withGithub": 1111,
+    "withStack": 1371,
+    "withLinkedin": 1010,
+    "withTwitter": 459
   },
   "portfolios": [
     {
@@ -3070,20 +3070,6 @@
       "status": "ok"
     },
     {
-      "name": "Anadi Sharma",
-      "url": "https://asharma.tech",
-      "listedTitle": "Software Engineer | Cse'25 Iit Jodhpur",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Asharma538 - Anadi Sharma",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Anamuddin Ahmad",
       "url": "https://github.com/AnamuddinAhmad/Portfolio_1",
       "listedTitle": "Software Engineer & Freelancer",
@@ -4049,37 +4035,6 @@
       ],
       "experience": null,
       "title": "Aravinth's Portfolio | SDE & Data Science",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Arbaz Ansari",
-      "url": "https://arbazansari.dev",
-      "listedTitle": "Full Stack Software Engineer | Exploring GenAi & Systems Design",
-      "emails": [],
-      "github": [
-        "https://github.com/erarbazansari",
-        "https://github.com/ErArbazAnsari"
-      ],
-      "linkedin": "https://www.linkedin.com/in/erarbazansari",
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "Django",
-        "Flask",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Redis",
-        "Firebase"
-      ],
-      "experience": null,
-      "title": "Arbaz Ansari Portfolio | Software Developer",
       "location": null,
       "status": "ok"
     },
@@ -5286,39 +5241,6 @@
       "experience": null,
       "title": "Home - Pierre Roy's Portfolio",
       "location": "internships at",
-      "status": "ok"
-    },
-    {
-      "name": "Ayoub Alahyane",
-      "url": "https://aalahyan3.tech",
-      "listedTitle": "",
-      "emails": [
-        "me.a.alahyane@gmail.com"
-      ],
-      "github": [
-        "https://github.com/aalahyan3"
-      ],
-      "linkedin": "https://linkedin.com/in/aalahyan3",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "Spring",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Ayoub Alahyane",
-      "location": "small to very large projects with speed and efficiency",
       "status": "ok"
     },
     {
@@ -8493,33 +8415,6 @@
       "experience": null,
       "title": "Morven - Portfolio",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Denil Dominic",
-      "url": "https://portfolio.denil-dominic.com",
-      "listedTitle": "",
-      "emails": [
-        "contact@denil-dominic.com"
-      ],
-      "github": [
-        "https://github.com/denildominic"
-      ],
-      "linkedin": "https://www.linkedin.com/in/denildominic",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Java",
-        "Node.js",
-        "Docker",
-        "Firebase",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Denil Dominic",
-      "location": "API to UI",
       "status": "ok"
     },
     {
@@ -15178,32 +15073,6 @@
       "status": "ok"
     },
     {
-      "name": "Kevin Kenfack",
-      "url": "https://kenfack-me.vercel.app",
-      "listedTitle": "",
-      "emails": [
-        "contact@kenfack.me"
-      ],
-      "github": [
-        "https://github.com/kevinkenfack"
-      ],
-      "linkedin": "https://linkedin.com/in/kevinkenfack",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Next.js",
-        "Nuxt",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "experience": null,
-      "title": "Kevin Kenfack",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Kevin Nguyen",
       "url": "https://kevinbkdev.vercel.app",
       "listedTitle": "Software Engineer | Blockchain Enthusiast",
@@ -19340,24 +19209,6 @@
       "experience": null,
       "title": "Mukul Chugh | Product Engineer - Creating Digital Experiences for Humans",
       "location": "the ground up",
-      "status": "ok"
-    },
-    {
-      "name": "Mushfiqur Rahman",
-      "url": "https://mushfiq.xyz",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/yourusername"
-      ],
-      "linkedin": "https://linkedin.com/in/yourprofile",
-      "twitter": null,
-      "stack": [
-        "Azure"
-      ],
-      "experience": "12+ years",
-      "title": "MUSHFIQ - IT Support Engineer",
-      "location": null,
       "status": "ok"
     },
     {
@@ -25834,13 +25685,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Syed Omer Ali",
-      "url": "https://syedomer.me",
-      "listedTitle": "Software Engineer | DevSecOps Engineer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Syed Saad",
       "url": "https://syedsaad.dev",
       "listedTitle": "Software Engineer",
@@ -28419,27 +28263,6 @@
       ],
       "experience": null,
       "title": "Emeric Guyon — Développeur Fullstack Freelance",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Johnson Siziba",
-      "url": "https://www.johnsonsiziba.com",
-      "listedTitle": "",
-      "emails": [
-        "jsiziba.flux@gmail.com"
-      ],
-      "github": [
-        "https://github.com/JSiziba"
-      ],
-      "linkedin": "https://www.linkedin.com/in/johnson-siziba-804a091a3",
-      "twitter": null,
-      "stack": [
-        "TypeScript",
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Johnson Siziba",
       "location": null,
       "status": "ok"
     },
@@ -34357,30 +34180,6 @@
       "status": "ok"
     },
     {
-      "name": "Khalid Mahmud",
-      "url": "https://mdkhalidmahmud.com",
-      "listedTitle": "Full Stack Developer | AI & LLM Enthusiast",
-      "emails": [
-        "khalidfromdhaka@gmail.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/skhalidmahmud",
-      "twitter": "https://x.com/khalidfromdhaka",
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Kotlin",
-        "Django",
-        "PostgreSQL",
-        "MySQL",
-        "Firebase"
-      ],
-      "experience": null,
-      "title": "MD Khalid Mahmud | Portfolio",
-      "location": "planning to deployment",
-      "status": "ok"
-    },
-    {
       "name": "Prakhar Mittal",
       "url": "https://stackbyprakhar.vercel.app",
       "listedTitle": "Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer",
@@ -35096,20 +34895,6 @@
       "experience": null,
       "title": "Andrey Perestoronin — Python Backend Developer",
       "location": "Russia",
-      "status": "ok"
-    },
-    {
-      "name": "Guna Teja",
-      "url": "https://tejafolio.dev",
-      "listedTitle": "AI ML Student",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Guna Teja Sarvan Patnaik",
-      "location": null,
       "status": "ok"
     },
     {
@@ -41435,41 +41220,6 @@
       "status": "ok"
     },
     {
-      "name": "Omkar Gadekar",
-      "url": "https://omkargadekar.vercel.app/",
-      "listedTitle": "AI/ML & Software Developer | Student",
-      "emails": [
-        "omkargadekar5651@gmail.com"
-      ],
-      "github": [
-        "https://github.com/HoneyBadger-010"
-      ],
-      "linkedin": "https://www.linkedin.com/in/gadekaromkar",
-      "twitter": "https://x.com/GADEKAROMKAR_56",
-      "stack": [
-        "React",
-        "Next.js",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Java",
-        "Kotlin",
-        "Express",
-        "Flask",
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Omkar Gadekar — AI Solutions Engineer &amp; Problem Solver",
-      "location": "reward",
-      "status": "ok"
-    },
-    {
       "name": "Rathod Ramraj",
       "url": "https://rathodramraj.vercel.app",
       "listedTitle": "Frontend Developer | NITJ",
@@ -41515,22 +41265,6 @@
       "status": "ok"
     },
     {
-      "name": "Sonu Suman Ojha",
-      "url": "https://my-portfolio-wkse.vercel.app/",
-      "listedTitle": "Software Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "Python"
-      ],
-      "experience": null,
-      "title": "Sonu Suman Ojha | Data Analytics & Computer Science Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Suman Dey",
       "url": "https://www.sumandey.com",
       "listedTitle": "Senior Technical Lead | Full Stack Engineer | AI & RAG Integration | DevOps",
@@ -41569,24 +41303,6 @@
       "status": "ok"
     },
     {
-      "name": "Haris",
-      "url": "https://portfolio.haresmohd012.workers.dev/",
-      "listedTitle": "DevOps Engineer | Full Stack Developer | Cloud Engineer",
-      "emails": [],
-      "github": [
-        "https://github.com/harishazmohd"
-      ],
-      "linkedin": "https://www.linkedin.com/in/mohammad-haris-385828238",
-      "twitter": null,
-      "stack": [
-        "Go"
-      ],
-      "experience": null,
-      "title": "Haris Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Rathod Ramraj",
       "url": "https://rathodram.vercel.app",
       "listedTitle": "Full Stack Dev | Student at NITJ",
@@ -41614,28 +41330,6 @@
       "status": "ok"
     },
     {
-      "name": "Shreyam Adhikari",
-      "url": "https://shreyam1008.com.np/",
-      "listedTitle": "Full Stack Developer | Go, TypeScript & Development Tools",
-      "emails": [],
-      "github": [
-        "https://github.com/shreyam1008"
-      ],
-      "linkedin": "https://linkedin.com/in/shreyam1008",
-      "twitter": "https://x.com/shreyam1008",
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "Node.js"
-      ],
-      "experience": "7+ years",
-      "title": "Shreyam Adhikari — shreyam1008 | Developer, Projects, Writing",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Yehia Gewily",
       "url": "https://yehia-gewily.me",
       "listedTitle": "AI Software Engineer",
@@ -41659,26 +41353,6 @@
       "experience": null,
       "title": "Yehia Gewily | Backend Systems Engineer",
       "location": "request to result, built to survive failure",
-      "status": "ok"
-    },
-    {
-      "name": "Mnelisi Mthuli",
-      "url": "https://www.seniordevelopermnelisi.com",
-      "listedTitle": "Senior C# / .NET Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/sarger"
-      ],
-      "linkedin": "https://www.linkedin.com/in/senior-developer-",
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        "PHP",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Home - Mnelisi M. | Senior .NET Developer",
-      "location": "database design through to production support and mentoring junior developers",
       "status": "ok"
     },
     {
@@ -41803,20 +41477,6 @@
       "status": "ok"
     },
     {
-      "name": "Manics",
-      "url": "https://devmani-cs-code.vercel.app/",
-      "listedTitle": "Software Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "manics-portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Bishoy Nabil",
       "url": "https://bishonabil.github.io/Portfolio/",
       "listedTitle": "Web & CMS Developer | WordPress, Shopify & React, Php, Html, CSS",
@@ -41838,20 +41498,6 @@
       "experience": null,
       "title": "Bishoy Nabil — CMS Developer & Full-Stack Engineer",
       "location": "cheesecakes to",
-      "status": "ok"
-    },
-    {
-      "name": "Ricky Gipson",
-      "url": "https://www.rickygipson.com/",
-      "listedTitle": "UI Developer/UX Designer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Ricky G - UI Developer + UX Designer",
-      "location": null,
       "status": "ok"
     },
     {
@@ -41935,6 +41581,125 @@
       "stack": [],
       "experience": null,
       "title": "Ajay Sharma",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Haris",
+      "url": "https://portfolio.haresmohd012.workers.dev",
+      "listedTitle": "DevOps Engineer | Full Stack Developer | Cloud Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/harishazmohd"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mohammad-haris-385828238",
+      "twitter": null,
+      "stack": [
+        "Go"
+      ],
+      "experience": null,
+      "title": "Haris Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Manics",
+      "url": "https://devmani-cs-code.vercel.app",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "manics-portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Omkar Gadekar",
+      "url": "https://omkargadekar.vercel.app",
+      "listedTitle": "AI/ML & Software Developer | Student",
+      "emails": [
+        "omkargadekar5651@gmail.com"
+      ],
+      "github": [
+        "https://github.com/HoneyBadger-010"
+      ],
+      "linkedin": "https://www.linkedin.com/in/gadekaromkar",
+      "twitter": "https://x.com/GADEKAROMKAR_56",
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Kotlin",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Omkar Gadekar — AI Solutions Engineer &amp; Problem Solver",
+      "location": "reward",
+      "status": "ok"
+    },
+    {
+      "name": "Ricky Gipson",
+      "url": "https://www.rickygipson.com",
+      "listedTitle": "UI Developer/UX Designer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Ricky G - UI Developer + UX Designer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shreyam Adhikari",
+      "url": "https://shreyam1008.com.np",
+      "listedTitle": "Full Stack Developer | Go, TypeScript & Development Tools",
+      "emails": [],
+      "github": [
+        "https://github.com/shreyam1008"
+      ],
+      "linkedin": "https://linkedin.com/in/shreyam1008",
+      "twitter": "https://x.com/shreyam1008",
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js"
+      ],
+      "experience": "7+ years",
+      "title": "Shreyam Adhikari — shreyam1008 | Developer, Projects, Writing",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sonu Suman Ojha",
+      "url": "https://my-portfolio-wkse.vercel.app",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "Sonu Suman Ojha | Data Analytics & Computer Science Portfolio",
       "location": null,
       "status": "ok"
     }
