@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-14T11:45:46.408Z",
-    "total": 1991,
-    "successful": 1670,
-    "failed": 321,
-    "withEmail": 811,
-    "withGithub": 1115,
-    "withStack": 1375,
+    "scrapedAt": "2026-09-14T21:27:30.952Z",
+    "total": 1989,
+    "successful": 1669,
+    "failed": 320,
+    "withEmail": 812,
+    "withGithub": 1114,
+    "withStack": 1374,
     "withLinkedin": 1014,
     "withTwitter": 460
   },
@@ -15393,32 +15393,6 @@
       "status": "ok"
     },
     {
-      "name": "Kuldeepsinh Jadeja",
-      "url": "https://kuldeepjadeja.dev",
-      "listedTitle": "Full Stack Developer | MERN Stack",
-      "emails": [],
-      "github": [
-        "https://github.com/kuldeep-jadeja"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Redis"
-      ],
-      "experience": null,
-      "title": "Kuldeepsinh Jadeja - Software Engineer Portfolio",
-      "location": "simple websites to complex web applications",
-      "status": "ok"
-    },
-    {
       "name": "Kunal Passan",
       "url": "https://kunalpassan.vercel.app",
       "listedTitle": "",
@@ -23467,38 +23441,6 @@
       "status": "ok"
     },
     {
-      "name": "Rohit Soni",
-      "url": "https://rohitsoni007.github.io/portfolio",
-      "listedTitle": "Full Stack, Mern, Reactnative",
-      "emails": [],
-      "github": [
-        "https://github.com/rohitsoni007"
-      ],
-      "linkedin": "https://www.linkedin.com/in/rohitsoni007",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Angular",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Firebase",
-        "Tailwind",
-        "GraphQL",
-        "React Native"
-      ],
-      "experience": "4+ years",
-      "title": "MERN, MEAN &amp; React Native Developer | Portfolio",
-      "location": "database design to user interface, ensuring seamless integration",
-      "status": "ok"
-    },
-    {
       "name": "Rohit Wadhwa",
       "url": "https://github.com/rohit-wadhwa",
       "listedTitle": "",
@@ -25184,13 +25126,6 @@
       "name": "Shakir Ali",
       "url": "https://shakiraliswe.com",
       "listedTitle": "Full Stack Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Shalon Fernando",
-      "url": "https://shalon.vercel.app",
-      "listedTitle": "Software Engineer",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
@@ -41809,6 +41744,29 @@
       ],
       "experience": null,
       "title": "Vineet Machchal — Developer & Builder",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Andre Nunes Da Silva",
+      "url": "https://andresilva.tech",
+      "listedTitle": "Software Engineering Student | Backend Engineer",
+      "emails": [
+        "an3243@drexel.edu"
+      ],
+      "github": [
+        "https://github.com/andrefetch"
+      ],
+      "linkedin": "https://www.linkedin.com/in/andre-nunes-da-silva",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Go",
+        "Flask",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Andre Nunes da Silva",
       "location": null,
       "status": "ok"
     }
