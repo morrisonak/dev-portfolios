@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-13T15:35:43.488Z",
-    "total": 1987,
-    "successful": 1666,
+    "scrapedAt": "2026-09-14T11:45:46.408Z",
+    "total": 1991,
+    "successful": 1670,
     "failed": 321,
-    "withEmail": 807,
-    "withGithub": 1111,
-    "withStack": 1371,
-    "withLinkedin": 1010,
-    "withTwitter": 459
+    "withEmail": 811,
+    "withGithub": 1115,
+    "withStack": 1375,
+    "withLinkedin": 1014,
+    "withTwitter": 460
   },
   "portfolios": [
     {
@@ -41700,6 +41700,115 @@
       ],
       "experience": null,
       "title": "Sonu Suman Ojha | Data Analytics & Computer Science Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aahana Surya",
+      "url": "https://aahana-surya.github.io",
+      "listedTitle": "CS Undergrad | AI & Robotics",
+      "emails": [
+        "aahana.gys@gmail.com"
+      ],
+      "github": [
+        "https://github.com/aahana-surya"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aahana-surya-689232315",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Kotlin",
+        "Flask",
+        "AWS",
+        "Docker",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Aahana Surya",
+      "location": "Uiverse",
+      "status": "ok"
+    },
+    {
+      "name": "Ashish Choudhary",
+      "url": "https://ashishchoudhary.dev",
+      "listedTitle": "Software Engineer | Full-Stack Web Developer",
+      "emails": [
+        "ixtashish@gmail.com"
+      ],
+      "github": [
+        "https://github.com/codezenashish"
+      ],
+      "linkedin": "https://linkedin.com/in/codezenashish",
+      "twitter": "https://twitter.com/codezenashish",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Ashish Choudhary | Software Developer",
+      "location": "Delhi",
+      "status": "ok"
+    },
+    {
+      "name": "Shamsur Rahman Shaikat",
+      "url": "https://shaikat.xyz",
+      "listedTitle": "Software Engineer | Laravel",
+      "emails": [
+        "shaikat3257@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Rahman-Shaikat"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rahman-shaikat-7254651b7",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "PHP",
+        "Laravel",
+        "Docker",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Md. Shamsur Rahman (Shaikat) | Software Engineer &amp; Laravel Developer",
+      "location": "Md",
+      "status": "ok"
+    },
+    {
+      "name": "Vineet Machchal",
+      "url": "https://vineetcodes.vercel.app",
+      "listedTitle": "Web Developer",
+      "emails": [
+        "machchalvineet@gmail.com"
+      ],
+      "github": [
+        "https://github.com/vineetmachchal"
+      ],
+      "linkedin": "https://linkedin.com/in/vineetmachchal",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Vineet Machchal — Developer & Builder",
       "location": null,
       "status": "ok"
     }
