@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-14T21:27:30.952Z",
-    "total": 1989,
-    "successful": 1669,
+    "scrapedAt": "2026-09-15T11:02:59.831Z",
+    "total": 1990,
+    "successful": 1670,
     "failed": 320,
     "withEmail": 812,
     "withGithub": 1114,
@@ -41767,6 +41767,20 @@
       ],
       "experience": null,
       "title": "Andre Nunes da Silva",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Daniella Ovbude",
+      "url": "https://daniella3.github.io/portfolio/",
+      "listedTitle": "Software Engineer | Frontend & Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Daniella Ovbude",
       "location": null,
       "status": "ok"
     }
