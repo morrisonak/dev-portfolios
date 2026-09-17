@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-17T16:13:08.436Z",
-    "total": 1995,
-    "successful": 1675,
+    "scrapedAt": "2026-09-17T20:56:04.981Z",
+    "total": 1997,
+    "successful": 1677,
     "failed": 320,
-    "withEmail": 814,
-    "withGithub": 1117,
-    "withStack": 1377,
-    "withLinkedin": 1016,
-    "withTwitter": 460
+    "withEmail": 815,
+    "withGithub": 1118,
+    "withStack": 1379,
+    "withLinkedin": 1017,
+    "withTwitter": 461
   },
   "portfolios": [
     {
@@ -41899,6 +41899,54 @@
       "experience": null,
       "title": "Jay Singh Chauhan | Full Stack Engineer &amp; Designer",
       "location": "around the world, gaining valuable exposure to diverse business needs, workflows, and expectations",
+      "status": "ok"
+    },
+    {
+      "name": "Affan Raza",
+      "url": "https://affan-portfolio-kappa.vercel.app/",
+      "listedTitle": "FullStack Developer | React | Next.js | Typescript",
+      "emails": [
+        "affanraza8081@gmail.com"
+      ],
+      "github": [
+        "https://github.com/affanraza84"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mohammad-affan-raza-b6039b288",
+      "twitter": "https://x.com/AffanRaza485434",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Java",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Create Next App",
+      "location": "the TMDB API",
+      "status": "ok"
+    },
+    {
+      "name": "Suhail Shabir",
+      "url": "https://suhail-shabir-portfolio.web.app/",
+      "listedTitle": "Mobile Application Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Swift",
+        "Flutter"
+      ],
+      "experience": "10+ years",
+      "title": "Suhail Shabir | Mobile Application Developer (iOS &amp; Flutter)",
+      "location": null,
       "status": "ok"
     }
   ]
