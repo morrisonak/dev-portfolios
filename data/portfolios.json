@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-16T20:51:28.591Z",
-    "total": 1993,
-    "successful": 1673,
+    "scrapedAt": "2026-09-17T16:13:08.436Z",
+    "total": 1995,
+    "successful": 1675,
     "failed": 320,
-    "withEmail": 813,
-    "withGithub": 1115,
-    "withStack": 1375,
-    "withLinkedin": 1015,
+    "withEmail": 814,
+    "withGithub": 1117,
+    "withStack": 1377,
+    "withLinkedin": 1016,
     "withTwitter": 460
   },
   "portfolios": [
@@ -41844,6 +41844,61 @@
       "experience": null,
       "title": "Sidharth E - Senior AI Engineer &amp; Full Stack Developer | React, Node.js, Next.js, Azure, OpenAI, LangChain Portfolio",
       "location": "scratch, designing the Next",
+      "status": "ok"
+    },
+    {
+      "name": "Bhavya Popat",
+      "url": "https://bhavyajustchill.vercel.app",
+      "listedTitle": "Software Engineer | MERN Specialist",
+      "emails": [],
+      "github": [
+        "https://github.com/bhavyajustchill"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Flutter"
+      ],
+      "experience": "6+ years",
+      "title": "About Me | Bhavya Popat",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jay Singh Chauhan",
+      "url": "https://jaysinghchauhan.com",
+      "listedTitle": "Full Stack Developer | UI UX Designer",
+      "emails": [
+        "work@jaysinghchauhan.com"
+      ],
+      "github": [
+        "https://github.com/jaychauhan-exe1"
+      ],
+      "linkedin": "https://linkedin.com/in/jaychauhanexe",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Jay Singh Chauhan | Full Stack Engineer &amp; Designer",
+      "location": "around the world, gaining valuable exposure to diverse business needs, workflows, and expectations",
       "status": "ok"
     }
   ]
