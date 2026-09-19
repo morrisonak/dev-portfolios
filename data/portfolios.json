@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-17T20:56:04.981Z",
-    "total": 1997,
-    "successful": 1677,
+    "scrapedAt": "2026-09-19T03:05:32.117Z",
+    "total": 2000,
+    "successful": 1680,
     "failed": 320,
-    "withEmail": 815,
-    "withGithub": 1118,
-    "withStack": 1379,
-    "withLinkedin": 1017,
-    "withTwitter": 461
+    "withEmail": 817,
+    "withGithub": 1121,
+    "withStack": 1382,
+    "withLinkedin": 1020,
+    "withTwitter": 462
   },
   "portfolios": [
     {
@@ -41947,6 +41947,95 @@
       "experience": "10+ years",
       "title": "Suhail Shabir | Mobile Application Developer (iOS &amp; Flutter)",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abhay Vachhani",
+      "url": "https://txtnode.com/abhay-vachhani",
+      "listedTitle": "Full Stack Developer | DevOps Engineer | AI Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/Abhay-Vachhani"
+      ],
+      "linkedin": "https://linkedin.com/in/abhay-vachhani",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "Django",
+        "Flask",
+        "Laravel",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Abhay Vachhani - Software Engineer | txtnode",
+      "location": "freelancing to professional roles",
+      "status": "ok"
+    },
+    {
+      "name": "Euloge HOUESSOU",
+      "url": "https://euloge.me",
+      "listedTitle": "Software Engineer | Full stack dev | Mlops",
+      "emails": [
+        "eulogemn@gmail.com"
+      ],
+      "github": [
+        "https://github.com/HE11032006"
+      ],
+      "linkedin": "https://www.linkedin.com/in/euloge-houessou-8101883b7",
+      "twitter": "https://x.com/Michel11062006",
+      "stack": [
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Euloge HOUESSOU",
+      "location": "the journey",
+      "status": "ok"
+    },
+    {
+      "name": "Wisaroot Lertthaweedech",
+      "url": "https://wisl.dev",
+      "listedTitle": "Senior Data Engineer",
+      "emails": [
+        "me@wisl.dev"
+      ],
+      "github": [
+        "https://github.com/wislertt"
+      ],
+      "linkedin": "https://www.linkedin.com/in/wisl",
+      "twitter": null,
+      "stack": [
+        "Astro",
+        "Python",
+        "Rust",
+        "GCP"
+      ],
+      "experience": null,
+      "title": "Wisaroot Lertthaweedech | Senior Data Engineer",
+      "location": "source",
       "status": "ok"
     }
   ]
