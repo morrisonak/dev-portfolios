@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-20T10:36:22.685Z",
-    "total": 2001,
-    "successful": 1681,
-    "failed": 320,
-    "withEmail": 818,
-    "withGithub": 1122,
-    "withStack": 1383,
-    "withLinkedin": 1021,
+    "scrapedAt": "2026-09-20T20:18:33.894Z",
+    "total": 2002,
+    "successful": 1683,
+    "failed": 319,
+    "withEmail": 819,
+    "withGithub": 1123,
+    "withStack": 1384,
+    "withLinkedin": 1022,
     "withTwitter": 462
   },
   "portfolios": [
@@ -24759,13 +24759,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Samrin Jaji",
-      "url": "https://samrinjaji.github.io/my-portfolio/",
-      "listedTitle": "Frontend Developer | Web Applications",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Sanajit Jana",
       "url": "https://sanajitjana.github.io",
       "listedTitle": "",
@@ -42062,6 +42055,50 @@
       "experience": null,
       "title": "Koushik Paul | Full-Stack Software Engineer",
       "location": "Dhaka, Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Ashlesh T",
+      "url": "https://www.ashlesh.co.in",
+      "listedTitle": "Software Engineer I | Backend, Distributed Systems & AI (LLMs/RAG)",
+      "emails": [
+        "ashleshat5@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ashlesh-t"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ashlesha-t-752823269",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "Go",
+        "Java",
+        "Spring",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Ashlesh | Software Engineer I | Backend, Distributed Systems &amp; AI",
+      "location": "you",
+      "status": "ok"
+    },
+    {
+      "name": "Samrin Jaji",
+      "url": "https://samrinjaji.vercel.app/",
+      "listedTitle": "Full Stack Developer | Cyber Security",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Sam | Goated",
+      "location": null,
       "status": "ok"
     }
   ]
