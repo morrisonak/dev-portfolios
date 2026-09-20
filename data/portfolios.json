@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-19T03:05:32.117Z",
-    "total": 2000,
-    "successful": 1680,
+    "scrapedAt": "2026-09-20T10:36:22.685Z",
+    "total": 2001,
+    "successful": 1681,
     "failed": 320,
-    "withEmail": 817,
-    "withGithub": 1121,
-    "withStack": 1382,
-    "withLinkedin": 1020,
+    "withEmail": 818,
+    "withGithub": 1122,
+    "withStack": 1383,
+    "withLinkedin": 1021,
     "withTwitter": 462
   },
   "portfolios": [
@@ -42036,6 +42036,32 @@
       "experience": null,
       "title": "Wisaroot Lertthaweedech | Senior Data Engineer",
       "location": "source",
+      "status": "ok"
+    },
+    {
+      "name": "Koushik Paul",
+      "url": "https://koushikpaul7.github.io/koushikpaul/",
+      "listedTitle": "Software Engineer | php & Laravel",
+      "emails": [
+        "koushikpaul6211@gmail.com",
+        "alex@domain.com"
+      ],
+      "github": [
+        "https://github.com/Koushikpaul7"
+      ],
+      "linkedin": "https://www.linkedin.com/in/koushik-paul-dev",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "PHP",
+        "Laravel",
+        "Spring",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Koushik Paul | Full-Stack Software Engineer",
+      "location": "Dhaka, Bangladesh",
       "status": "ok"
     }
   ]
