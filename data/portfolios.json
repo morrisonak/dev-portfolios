@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-20T20:18:33.894Z",
-    "total": 2002,
-    "successful": 1683,
+    "scrapedAt": "2026-09-22T10:56:55.501Z",
+    "total": 2003,
+    "successful": 1684,
     "failed": 319,
-    "withEmail": 819,
-    "withGithub": 1123,
-    "withStack": 1384,
-    "withLinkedin": 1022,
+    "withEmail": 820,
+    "withGithub": 1124,
+    "withStack": 1385,
+    "withLinkedin": 1023,
     "withTwitter": 462
   },
   "portfolios": [
@@ -42098,6 +42098,34 @@
       "stack": [],
       "experience": null,
       "title": "Sam | Goated",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Eskinder Gezahagne",
+      "url": "https://eskinderg.github.io",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "eskinderget@gmail.com"
+      ],
+      "github": [
+        "https://github.com/eskinderg"
+      ],
+      "linkedin": "https://www.linkedin.com/in/eskinderg",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "PHP",
+        "MySQL",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Eskinder Getahun - Full Stack Web Developer",
       "location": null,
       "status": "ok"
     }
