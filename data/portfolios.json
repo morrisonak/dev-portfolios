@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-22T10:56:55.501Z",
-    "total": 2003,
-    "successful": 1684,
+    "scrapedAt": "2026-09-22T16:15:16.861Z",
+    "total": 2005,
+    "successful": 1686,
     "failed": 319,
-    "withEmail": 820,
-    "withGithub": 1124,
-    "withStack": 1385,
-    "withLinkedin": 1023,
+    "withEmail": 821,
+    "withGithub": 1125,
+    "withStack": 1386,
+    "withLinkedin": 1024,
     "withTwitter": 462
   },
   "portfolios": [
@@ -42127,6 +42127,44 @@
       "experience": null,
       "title": "Eskinder Getahun - Full Stack Web Developer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aadarsh Rai",
+      "url": "https://aadarshrai.vercel.app",
+      "listedTitle": "AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Aadarsh Rai",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ajay Prajapat",
+      "url": "https://ajayprajapat.com",
+      "listedTitle": "Founder | Full Stack Engineer | Software Architecture | Applied AI",
+      "emails": [
+        "ajayprajapat@live.com"
+      ],
+      "github": [
+        "https://github.com/ajayprajapat"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ajayprajapat",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Go",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Ajay Prajapat | Founder-led Advisory, Mentorship &amp; B2B Diagnostics",
+      "location": "the first conversation",
       "status": "ok"
     }
   ]
