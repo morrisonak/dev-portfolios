@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-22T16:15:16.861Z",
-    "total": 2005,
-    "successful": 1686,
+    "scrapedAt": "2026-09-23T21:03:47.891Z",
+    "total": 2007,
+    "successful": 1688,
     "failed": 319,
-    "withEmail": 821,
-    "withGithub": 1125,
-    "withStack": 1386,
-    "withLinkedin": 1024,
-    "withTwitter": 462
+    "withEmail": 823,
+    "withGithub": 1128,
+    "withStack": 1389,
+    "withLinkedin": 1027,
+    "withTwitter": 464
   },
   "portfolios": [
     {
@@ -553,20 +553,6 @@
       ],
       "experience": null,
       "title": "Abdul Basit | Full Stack Developer &amp; AI Automation Expert",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Abdul Jaber",
-      "url": "https://aj7.is-a.dev",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Aj7 Portfolio",
       "location": null,
       "status": "ok"
     },
@@ -42165,6 +42151,97 @@
       "experience": null,
       "title": "Ajay Prajapat | Founder-led Advisory, Mentorship &amp; B2B Diagnostics",
       "location": "the first conversation",
+      "status": "ok"
+    },
+    {
+      "name": "Abdul Jaber",
+      "url": "https://ajseven.me",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/aj-seven",
+        "https://github.com/donetoday-app"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ajseven",
+      "twitter": "https://x.com/its_ajseven",
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "AJ",
+      "location": "Andhra Pradesh, India",
+      "status": "ok"
+    },
+    {
+      "name": "Marc Cheng",
+      "url": "https://chengmarc.com",
+      "listedTitle": "Founder | Software Architect | Data & ML",
+      "emails": [
+        "marccheng@outlook.com",
+        "marc.cheng@alumni.utoronto.ca"
+      ],
+      "github": [
+        "https://github.com/chengmarc",
+        "https://github.com/doubletrends"
+      ],
+      "linkedin": "https://www.linkedin.com/in/chengmarc",
+      "twitter": "https://x.com/chengmarc_",
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Marc Cheng",
+      "location": "me",
+      "status": "ok"
+    },
+    {
+      "name": "Nestor Jr Agnis",
+      "url": "https://nja-systems.vercel.app/",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [
+        "njagnis@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sgxtract"
+      ],
+      "linkedin": "https://linkedin.com/in/tonagnis",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Laravel",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "NJA Systems · Full-Stack Developer",
+      "location": "interface, to API, to database",
       "status": "ok"
     }
   ]
