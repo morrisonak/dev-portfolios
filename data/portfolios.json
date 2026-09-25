@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-24T16:28:52.422Z",
-    "total": 2008,
-    "successful": 1689,
+    "scrapedAt": "2026-09-25T16:30:24.466Z",
+    "total": 2009,
+    "successful": 1690,
     "failed": 319,
     "withEmail": 824,
     "withGithub": 1129,
-    "withStack": 1390,
+    "withStack": 1391,
     "withLinkedin": 1028,
     "withTwitter": 465
   },
@@ -42273,6 +42273,22 @@
       "experience": null,
       "title": "Rakibul Hossain",
       "location": "ideation to deployment",
+      "status": "ok"
+    },
+    {
+      "name": "Prashanth Kumar G",
+      "url": "https://prashanth-kumar-g.github.io",
+      "listedTitle": "🚀 Software Engineer | Full Stack Developer | Java Backend Developer | System Design | ⭐ Leetcode | Internet of Things | Generative AI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Java"
+      ],
+      "experience": null,
+      "title": "Portfolio | Prashanth Kumar G",
+      "location": null,
       "status": "ok"
     }
   ]
