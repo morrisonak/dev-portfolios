@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-25T16:30:24.466Z",
-    "total": 2009,
-    "successful": 1690,
+    "scrapedAt": "2026-09-26T10:47:47.979Z",
+    "total": 2011,
+    "successful": 1692,
     "failed": 319,
-    "withEmail": 824,
-    "withGithub": 1129,
-    "withStack": 1391,
-    "withLinkedin": 1028,
+    "withEmail": 825,
+    "withGithub": 1131,
+    "withStack": 1393,
+    "withLinkedin": 1030,
     "withTwitter": 465
   },
   "portfolios": [
@@ -42212,39 +42212,6 @@
       "status": "ok"
     },
     {
-      "name": "Nestor Jr Agnis",
-      "url": "https://nja-systems.vercel.app/",
-      "listedTitle": "Full Stack Developer | Software Engineer",
-      "emails": [
-        "njagnis@gmail.com"
-      ],
-      "github": [
-        "https://github.com/sgxtract"
-      ],
-      "linkedin": "https://linkedin.com/in/tonagnis",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "PHP",
-        "Node.js",
-        "Laravel",
-        "Docker",
-        "PostgreSQL",
-        "MySQL",
-        "Tailwind",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "NJA Systems · Full-Stack Developer",
-      "location": "interface, to API, to database",
-      "status": "ok"
-    },
-    {
       "name": "Rakibul Hossain",
       "url": "https://rakibul.is-a.dev",
       "listedTitle": "Full Stack Developer",
@@ -42289,6 +42256,87 @@
       "experience": null,
       "title": "Portfolio | Prashanth Kumar G",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Devdeep Saha",
+      "url": "https://devdeepsaha.in",
+      "listedTitle": "Designer who Codes | Full Stack Web Developer",
+      "emails": [
+        "devdeep120205@gmail.com"
+      ],
+      "github": [
+        "https://github.com/devdeepsaha"
+      ],
+      "linkedin": "https://www.linkedin.com/in/devdeep-saha-3b4570260",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Flask",
+        "Laravel",
+        "MySQL",
+        "Tailwind",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Devdeep Saha - Portfolio | Web Developer & Designer",
+      "location": "Kolkata",
+      "status": "ok"
+    },
+    {
+      "name": "Dryden Bryson",
+      "url": "https://www.dryd3n.ca",
+      "listedTitle": "Full Stack Developer | Student",
+      "emails": [],
+      "github": [
+        "https://github.com/Dryd33n"
+      ],
+      "linkedin": "https://www.linkedin.com/in/drydenbryson",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Java"
+      ],
+      "experience": null,
+      "title": "Home | Dryden Bryson",
+      "location": "Canada",
+      "status": "ok"
+    },
+    {
+      "name": "Nestor Jr Agnis",
+      "url": "https://tonagnis.vercel.app/",
+      "listedTitle": "Full Stack Developer | Software Engineer",
+      "emails": [
+        "njagnis@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sgxtract"
+      ],
+      "linkedin": "https://www.linkedin.com/in/tonagnis",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Laravel",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Portfolio • Nestor Jr. Agnis",
+      "location": "Philippines, focused on building reliable, scalable web applications from the ground up",
       "status": "ok"
     }
   ]
