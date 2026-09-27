@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-26T10:47:47.979Z",
-    "total": 2011,
-    "successful": 1692,
+    "scrapedAt": "2026-09-27T03:37:24.392Z",
+    "total": 2013,
+    "successful": 1694,
     "failed": 319,
-    "withEmail": 825,
-    "withGithub": 1131,
-    "withStack": 1393,
-    "withLinkedin": 1030,
+    "withEmail": 827,
+    "withGithub": 1132,
+    "withStack": 1395,
+    "withLinkedin": 1031,
     "withTwitter": 465
   },
   "portfolios": [
@@ -30501,38 +30501,6 @@
       "status": "ok"
     },
     {
-      "name": "Sanjiv Thapa",
-      "url": "https://portfolio.sanjivthapa.com.np/home",
-      "listedTitle": "Backend Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/sanjivthapasvt"
-      ],
-      "linkedin": "https://linkedin.com/in/sanjiv-thapa-361678277",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Svelte",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "Django",
-        "Flask",
-        "Docker",
-        "PostgreSQL",
-        "MySQL",
-        "Redis",
-        "Tailwind"
-      ],
-      "experience": null,
-      "title": "Sanjiv Thapa — Backend Developer (Django, FastAPI, PostgreSQL) | Nepal | Sanjiv Thapa",
-      "location": "Nepal building scalable APIs with Django, FastAPI, PostgreSQL, and Redis",
-      "status": "ok"
-    },
-    {
       "name": "SE Jihad",
       "url": "https://sejihad.vercel.app",
       "listedTitle": "Full Stack Developer",
@@ -42337,6 +42305,87 @@
       "experience": null,
       "title": "Portfolio • Nestor Jr. Agnis",
       "location": "Philippines, focused on building reliable, scalable web applications from the ground up",
+      "status": "ok"
+    },
+    {
+      "name": "Gaurav Kashyap",
+      "url": "https://gauravgrv.vercel.app",
+      "listedTitle": "AI/ML Engineer | Full-Stack Developer",
+      "emails": [
+        "gauravgk2244@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Gaurav-1008"
+      ],
+      "linkedin": "https://linkedin.com/in/gaurav-kashyapp",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Gaurav Kashyap — Machine Learning Engineer &amp; Full-Stack Developer",
+      "location": "three services I had already built, and a knowledge base that answers questions about itself",
+      "status": "ok"
+    },
+    {
+      "name": "Naresh Khatri",
+      "url": "https://nareshkhatri.dev",
+      "listedTitle": "",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Naresh Khatri | Full-Stack Developer",
+      "location": "requirements to production",
+      "status": "ok"
+    },
+    {
+      "name": "Sanjiv Thapa",
+      "url": "https://sanjivthapa.com.np",
+      "listedTitle": "Backend Developer",
+      "emails": [
+        "contact@sanjivthapa.com.np"
+      ],
+      "github": [
+        "https://github.com/sanjivthapasvt"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sanjiv-thapa-361678277",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "Python",
+        "Django",
+        "Docker",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Sanjiv Thapa | Backend Developer from Nepal",
+      "location": "Nepal specialising in Django, FastAPI, and Next",
       "status": "ok"
     }
   ]
