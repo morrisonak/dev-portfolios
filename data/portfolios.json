@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-27T03:37:24.392Z",
-    "total": 2013,
-    "successful": 1694,
+    "scrapedAt": "2026-09-28T12:52:57.998Z",
+    "total": 2017,
+    "successful": 1698,
     "failed": 319,
-    "withEmail": 827,
-    "withGithub": 1132,
-    "withStack": 1395,
-    "withLinkedin": 1031,
-    "withTwitter": 465
+    "withEmail": 829,
+    "withGithub": 1135,
+    "withStack": 1398,
+    "withLinkedin": 1034,
+    "withTwitter": 466
   },
   "portfolios": [
     {
@@ -42386,6 +42386,102 @@
       "experience": null,
       "title": "Sanjiv Thapa | Backend Developer from Nepal",
       "location": "Nepal specialising in Django, FastAPI, and Next",
+      "status": "ok"
+    },
+    {
+      "name": "Aahil Khan",
+      "url": "https://aahil-khan.xyz",
+      "listedTitle": "AI Engineer | Full Stack Developer",
+      "emails": [
+        "aahilminookhan@gmail.com"
+      ],
+      "github": [
+        "https://github.com/aahil-khan"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aahil-khan77",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Aahil Khan",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aniket Patidar",
+      "url": "https://aniketpatidar.com",
+      "listedTitle": "Software Engineer | Ruby on Rails",
+      "emails": [],
+      "github": [
+        "https://github.com/excid3",
+        "https://github.com/aniketpatidar"
+      ],
+      "linkedin": "https://linkedin.com/in/aniketpatidar",
+      "twitter": "https://twitter.com/aniketpatidar01",
+      "stack": [
+        "Next.js",
+        "Ruby",
+        "Node.js",
+        "Rails",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Software Engineer | Aniket Patidar",
+      "location": "outside the class",
+      "status": "ok"
+    },
+    {
+      "name": "Khushi Khurana",
+      "url": "https://www.khushikhurana.tech",
+      "listedTitle": "AI & ML Engineer",
+      "emails": [
+        "khuranakhushi15@gmail.com"
+      ],
+      "github": [
+        "https://github.com/khushikhurana15"
+      ],
+      "linkedin": "https://linkedin.com/in/khushi-khurana-6ba06328a",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Khushi Khurana — AI/ML Engineer",
+      "location": "the Node backend",
+      "status": "ok"
+    },
+    {
+      "name": "Manish Pal",
+      "url": "https://manish-portfolio-gamma-henna.vercel.app/",
+      "listedTitle": "AI/ML Enginner | Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "ManishPal",
+      "location": null,
       "status": "ok"
     }
   ]
