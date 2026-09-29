@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-28T22:55:19.200Z",
-    "total": 2006,
-    "successful": 1688,
+    "scrapedAt": "2026-09-29T21:50:44.092Z",
+    "total": 2008,
+    "successful": 1690,
     "failed": 318,
-    "withEmail": 824,
-    "withGithub": 1129,
-    "withStack": 1391,
-    "withLinkedin": 1029,
-    "withTwitter": 464
+    "withEmail": 825,
+    "withGithub": 1131,
+    "withStack": 1393,
+    "withLinkedin": 1031,
+    "withTwitter": 465
   },
   "portfolios": [
     {
@@ -42247,6 +42247,51 @@
       "experience": "10+ years",
       "title": "Suhail Shabir | Mobile Application Developer (iOS &amp; Flutter)",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Andrew Simpson",
+      "url": "https://andrewleesimpson.com",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/AndrewLSimpson",
+        "https://github.com/AndrewleeSimpson"
+      ],
+      "linkedin": "https://www.linkedin.com/in/andysimmo",
+      "twitter": "https://twitter.com/AndrewL_Simpson",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Andrew Lee Simpson — Principal Clinical Scientist | Clinical Scientific Computing",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "John Born",
+      "url": "https://johnborn.co.uk",
+      "listedTitle": "Software Engineer | Shopify Developer",
+      "emails": [
+        "opusxj@gmail.com"
+      ],
+      "github": [
+        "https://github.com/opusxj"
+      ],
+      "linkedin": "https://www.linkedin.com/in/opusxj",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "John Phillips — Frontend developer specialising in eCommerce",
+      "location": "the very first steps",
       "status": "ok"
     }
   ]
