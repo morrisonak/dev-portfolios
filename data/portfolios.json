@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-02T11:51:39.057Z",
-    "total": 2010,
-    "successful": 1692,
+    "scrapedAt": "2026-10-02T21:48:22.389Z",
+    "total": 2011,
+    "successful": 1693,
     "failed": 318,
-    "withEmail": 826,
-    "withGithub": 1132,
-    "withStack": 1395,
-    "withLinkedin": 1032,
-    "withTwitter": 465
+    "withEmail": 827,
+    "withGithub": 1133,
+    "withStack": 1396,
+    "withLinkedin": 1033,
+    "withTwitter": 466
   },
   "portfolios": [
     {
@@ -42339,6 +42339,43 @@
       "experience": null,
       "title": "Rathod Ramraj - Developer, Student &amp; Builder",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kartik Gautam",
+      "url": "https://kartikgautam.com",
+      "listedTitle": "SDE 3 | Full Stack Engineer",
+      "emails": [
+        "hello@kartikgautam.com"
+      ],
+      "github": [
+        "https://github.com/atomsmasher81"
+      ],
+      "linkedin": "https://www.linkedin.com/in/kartik-gautam",
+      "twitter": "https://x.com/kartik_gautam_",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Ruby",
+        "Node.js",
+        "Django",
+        "Flask",
+        "Rails",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Kartik Gautam · Senior full-stack engineer",
+      "location": "architecture to launch",
       "status": "ok"
     }
   ]
