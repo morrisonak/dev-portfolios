@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-09-29T21:50:44.092Z",
-    "total": 2008,
-    "successful": 1690,
+    "scrapedAt": "2026-10-02T11:51:39.057Z",
+    "total": 2010,
+    "successful": 1692,
     "failed": 318,
-    "withEmail": 825,
-    "withGithub": 1131,
-    "withStack": 1393,
-    "withLinkedin": 1031,
+    "withEmail": 826,
+    "withGithub": 1132,
+    "withStack": 1395,
+    "withLinkedin": 1032,
     "withTwitter": 465
   },
   "portfolios": [
@@ -42292,6 +42292,53 @@
       "experience": null,
       "title": "John Phillips — Frontend developer specialising in eCommerce",
       "location": "the very first steps",
+      "status": "ok"
+    },
+    {
+      "name": "Aaabad Aziz",
+      "url": "https://red1-for-hek-demo.vercel.app/",
+      "listedTitle": "Full Stack Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Aaabaad Al Aziz",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rathod Ramraj",
+      "url": "https://rathodram.pages.dev/",
+      "listedTitle": "Full Stack Dev | Student at NITJ",
+      "emails": [
+        "rathodramraj.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rathod-ramraj"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rathod-ramraj",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Rathod Ramraj - Developer, Student &amp; Builder",
+      "location": null,
       "status": "ok"
     }
   ]
