@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-02T21:48:22.389Z",
-    "total": 2011,
-    "successful": 1693,
+    "scrapedAt": "2026-10-03T20:34:50.097Z",
+    "total": 2012,
+    "successful": 1694,
     "failed": 318,
-    "withEmail": 827,
-    "withGithub": 1133,
-    "withStack": 1396,
-    "withLinkedin": 1033,
+    "withEmail": 828,
+    "withGithub": 1134,
+    "withStack": 1397,
+    "withLinkedin": 1034,
     "withTwitter": 466
   },
   "portfolios": [
@@ -42376,6 +42376,35 @@
       "experience": null,
       "title": "Kartik Gautam · Senior full-stack engineer",
       "location": "architecture to launch",
+      "status": "ok"
+    },
+    {
+      "name": "Sharujan Vickneswaran",
+      "url": "https://www.sharujanvickneswaran.com",
+      "listedTitle": "Software Engineer | AI & Data Science Engineer",
+      "emails": [
+        "sharu1013@outlook.fr"
+      ],
+      "github": [
+        "https://github.com/EzAroDev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sharujan-vickneswaran",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Sharujan Vickneswaran | Software Engineer &amp; Cofondateur",
+      "location": null,
       "status": "ok"
     }
   ]
