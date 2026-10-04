@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-03T20:34:50.097Z",
-    "total": 2012,
-    "successful": 1694,
+    "scrapedAt": "2026-10-04T11:46:12.193Z",
+    "total": 2015,
+    "successful": 1697,
     "failed": 318,
-    "withEmail": 828,
-    "withGithub": 1134,
-    "withStack": 1397,
-    "withLinkedin": 1034,
+    "withEmail": 831,
+    "withGithub": 1137,
+    "withStack": 1400,
+    "withLinkedin": 1037,
     "withTwitter": 466
   },
   "portfolios": [
@@ -42404,6 +42404,81 @@
       ],
       "experience": null,
       "title": "Sharujan Vickneswaran | Software Engineer &amp; Cofondateur",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Flora Liu",
+      "url": "https://floraliu.dev",
+      "listedTitle": "Hardware Engineer | Mechanical Engineering & NPI",
+      "emails": [
+        "hua.flora.liu@gmail.com"
+      ],
+      "github": [
+        "https://github.com/floraliu-dev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/flora-liu-b8a905236",
+      "twitter": null,
+      "stack": [
+        "Astro",
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Flora Liu — Hardware Engineer",
+      "location": "each seat on a supply chain",
+      "status": "ok"
+    },
+    {
+      "name": "Meeran Ahmed",
+      "url": "https://meeran-portfolio.antideploy.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "meeranahmed17@gmail.com"
+      ],
+      "github": [
+        "https://github.com/meeran-ahmed"
+      ],
+      "linkedin": "https://www.linkedin.com/in/meeran-ahmed-r-6748bb286",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Django",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Meeran Ahmed R. — Freelance Developer &amp; Creative",
+      "location": "brief to browser",
+      "status": "ok"
+    },
+    {
+      "name": "Mohammad Huzaifa",
+      "url": "https://mhuzaifa04.vercel.app",
+      "listedTitle": "AI & DS Student",
+      "emails": [
+        "mhuzaifa180.work@gmail.com"
+      ],
+      "github": [
+        "https://github.com/mhuzaifa-04"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mhuzaifa04",
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Mohammad Huzaifa | AI &amp; Data Science Engineer - Portfolio",
       "location": null,
       "status": "ok"
     }
