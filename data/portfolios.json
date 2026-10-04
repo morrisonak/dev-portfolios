@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-04T11:46:12.193Z",
-    "total": 2015,
-    "successful": 1697,
+    "scrapedAt": "2026-10-04T16:25:03.598Z",
+    "total": 2019,
+    "successful": 1701,
     "failed": 318,
-    "withEmail": 831,
-    "withGithub": 1137,
-    "withStack": 1400,
-    "withLinkedin": 1037,
-    "withTwitter": 466
+    "withEmail": 832,
+    "withGithub": 1141,
+    "withStack": 1404,
+    "withLinkedin": 1040,
+    "withTwitter": 467
   },
   "portfolios": [
     {
@@ -42479,6 +42479,108 @@
       ],
       "experience": null,
       "title": "Mohammad Huzaifa | AI &amp; Data Science Engineer - Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Akshay Shinde",
+      "url": "https://axay.dev/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "akshay@axay.dev",
+        "sweetalert2@11.js"
+      ],
+      "github": [
+        "https://github.com/mraxays"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mraxays",
+      "twitter": "https://x.com/mraxays",
+      "stack": [
+        "React",
+        "JavaScript",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": "3+ years",
+      "title": "Akshay Shinde — Full-Stack Developer",
+      "location": "senior developers",
+      "status": "ok"
+    },
+    {
+      "name": "Amin Nepali",
+      "url": "https://aminnepali.com.np",
+      "listedTitle": "Network Enthusiastic | Vibe Coder",
+      "emails": [],
+      "github": [
+        "https://github.com/amin-nepali"
+      ],
+      "linkedin": "https://www.linkedin.com/in/amin-nepali-84664419b",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Java",
+        "Django",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Amin Nepali — Geek Developer",
+      "location": "Nepal who builds practical web experiences with Python, Django, and modern web technologies",
+      "status": "ok"
+    },
+    {
+      "name": "Dhruva Bhattacharya",
+      "url": "https://dhruvabhattacharya.github.io",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/DhruvaBhattacharya"
+      ],
+      "linkedin": "https://www.linkedin.com/in/dhruvabhattacharya",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Java",
+        "Spring",
+        "MongoDB",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Dhruva Bhattacharya | Backend Software Engineer | Distributed Systems & GenAI",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ícaro Galvão",
+      "url": "https://icaro0310.github.io",
+      "listedTitle": "Senior QA Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/Icaro0310"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Ícaro Galvão · Senior QA Engineer — devin-* ecosystem, local-first tooling for AI coding agents",
       "location": null,
       "status": "ok"
     }
