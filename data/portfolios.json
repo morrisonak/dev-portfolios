@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-05T04:00:33.250Z",
-    "total": 2018,
-    "successful": 1700,
+    "scrapedAt": "2026-10-05T13:34:30.528Z",
+    "total": 2021,
+    "successful": 1703,
     "failed": 318,
-    "withEmail": 831,
-    "withGithub": 1141,
-    "withStack": 1404,
-    "withLinkedin": 1040,
-    "withTwitter": 467
+    "withEmail": 834,
+    "withGithub": 1144,
+    "withStack": 1407,
+    "withLinkedin": 1043,
+    "withTwitter": 468
   },
   "portfolios": [
     {
@@ -42550,6 +42550,89 @@
       "experience": null,
       "title": "Rathod Ramraj - Developer, Student &amp; Builder",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aaftab Vijapura",
+      "url": "https://aaftab.is-a.dev",
+      "listedTitle": "Full-Stack & Frontend Developer",
+      "emails": [
+        "aaftabvijapura@gmail.com"
+      ],
+      "github": [
+        "https://github.com/aaftab-vijapura"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aaftab-vijapura",
+      "twitter": "https://twitter.com/aaftab_vijapura",
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Aaftab Vijapura | React Frontend Developer in Gujarat, India",
+      "location": "the codebase itself, not from good intentions",
+      "status": "ok"
+    },
+    {
+      "name": "Carlton Lindsay",
+      "url": "https://carlton.dev",
+      "listedTitle": "Design Engineer | Astro, React, TypeScript",
+      "emails": [
+        "carlton@carlton.dev"
+      ],
+      "github": [
+        "https://github.com/Carlton-L"
+      ],
+      "linkedin": "https://linkedin.com/in/carltonl",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Astro",
+        "Go"
+      ],
+      "experience": null,
+      "title": "Carlton Lindsay — Design Engineer",
+      "location": "it, and drives the wipe, the dim and the dither front on one clock",
+      "status": "ok"
+    },
+    {
+      "name": "Naman Kumar",
+      "url": "https://naman-kumar2397.github.io",
+      "listedTitle": "Lead Site Reliability Engineer | AWS, Observability, AI Ops",
+      "emails": [
+        "naman.kumar2397@gmail.com"
+      ],
+      "github": [
+        "https://github.com/naman-kumar2397"
+      ],
+      "linkedin": "https://www.linkedin.com/in/-namankumar",
+      "twitter": null,
+      "stack": [
+        "Astro",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Spring",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Naman Kumar | Lead Site Reliability Engineer, Melbourne",
+      "location": "a previous vendor from ClickOps to CloudFormation and Terraform",
       "status": "ok"
     }
   ]
