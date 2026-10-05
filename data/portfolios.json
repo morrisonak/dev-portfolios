@@ -1,10 +1,10 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-04T16:25:03.598Z",
-    "total": 2019,
-    "successful": 1701,
+    "scrapedAt": "2026-10-05T04:00:33.250Z",
+    "total": 2018,
+    "successful": 1700,
     "failed": 318,
-    "withEmail": 832,
+    "withEmail": 831,
     "withGithub": 1141,
     "withStack": 1404,
     "withLinkedin": 1040,
@@ -9406,20 +9406,6 @@
       ],
       "experience": null,
       "title": "Eduard-Constantin Ibinceanu | Personal Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Ehsan Rafee",
-      "url": "https://ehsanrafee.ir",
-      "listedTitle": "",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Redirecting to https://ehsan-rafee.ir",
       "location": null,
       "status": "ok"
     },
@@ -24465,45 +24451,6 @@
       "experience": null,
       "title": "Saitheja Portfolio",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Sakib Rahman",
-      "url": "https://rsakib.com",
-      "listedTitle": "Software Engineer",
-      "emails": [
-        "rsakib13@gmail.com",
-        "rashed@mediusware.com",
-        "fazal.mahmud.hassan@gmail.com",
-        "rafeu.it@gmail.com",
-        "tarifhaque.dhaka@gmail.com",
-        "moshfiqprogram@gmail.com",
-        "abbas@talentpro.global",
-        "kishor@elitelab.ai"
-      ],
-      "github": [
-        "https://github.com/rsakib15"
-      ],
-      "linkedin": "https://www.linkedin.com/in/sakibrahman",
-      "twitter": "https://twitter.com/sakibrahmanbd",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Node.js",
-        "Django",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Docker",
-        "PostgreSQL"
-      ],
-      "experience": "5+ years",
-      "title": "Sakib Rahman | Software Engineer",
-      "location": "the very beginning, Sakib stood out for his rare blend of technical mastery, leadership maturity, an",
       "status": "ok"
     },
     {
@@ -42295,53 +42242,6 @@
       "status": "ok"
     },
     {
-      "name": "Aaabad Aziz",
-      "url": "https://red1-for-hek-demo.vercel.app/",
-      "listedTitle": "Full Stack Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Aaabaad Al Aziz",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Rathod Ramraj",
-      "url": "https://rathodram.pages.dev/",
-      "listedTitle": "Full Stack Dev | Student at NITJ",
-      "emails": [
-        "rathodramraj.dev@gmail.com"
-      ],
-      "github": [
-        "https://github.com/rathod-ramraj"
-      ],
-      "linkedin": "https://www.linkedin.com/in/rathod-ramraj",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "Express",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Tailwind",
-        "GraphQL"
-      ],
-      "experience": null,
-      "title": "Rathod Ramraj - Developer, Student &amp; Builder",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Kartik Gautam",
       "url": "https://kartikgautam.com",
       "listedTitle": "SDE 3 | Full Stack Engineer",
@@ -42483,37 +42383,6 @@
       "status": "ok"
     },
     {
-      "name": "Akshay Shinde",
-      "url": "https://axay.dev/",
-      "listedTitle": "Full Stack Developer",
-      "emails": [
-        "akshay@axay.dev",
-        "sweetalert2@11.js"
-      ],
-      "github": [
-        "https://github.com/mraxays"
-      ],
-      "linkedin": "https://www.linkedin.com/in/mraxays",
-      "twitter": "https://x.com/mraxays",
-      "stack": [
-        "React",
-        "JavaScript",
-        "PHP",
-        "Node.js",
-        "Express",
-        "Laravel",
-        "MongoDB",
-        "MySQL",
-        "Tailwind",
-        ".NET",
-        "Figma"
-      ],
-      "experience": "3+ years",
-      "title": "Akshay Shinde — Full-Stack Developer",
-      "location": "senior developers",
-      "status": "ok"
-    },
-    {
       "name": "Amin Nepali",
       "url": "https://aminnepali.com.np",
       "listedTitle": "Network Enthusiastic | Vibe Coder",
@@ -42581,6 +42450,105 @@
       ],
       "experience": null,
       "title": "Ícaro Galvão · Senior QA Engineer — devin-* ecosystem, local-first tooling for AI coding agents",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aaabad Aziz",
+      "url": "https://red1-for-hek-demo.vercel.app",
+      "listedTitle": "Full Stack Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Redoyanul Haque - AI Developer | Python Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Akshay Shinde",
+      "url": "https://axay.dev",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "akshay@axay.dev",
+        "sweetalert2@11.js"
+      ],
+      "github": [
+        "https://github.com/mraxays"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mraxays",
+      "twitter": "https://x.com/mraxays",
+      "stack": [
+        "React",
+        "JavaScript",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": "3+ years",
+      "title": "Akshay Shinde — Full-Stack Developer",
+      "location": "senior developers",
+      "status": "ok"
+    },
+    {
+      "name": "Carter Ogunsola",
+      "url": "https://carterogunsola.com",
+      "listedTitle": "Creative Developer | WebGL, Three.js, Astro",
+      "emails": [],
+      "github": [
+        "https://github.com/CarterOgunsola"
+      ],
+      "linkedin": "https://www.linkedin.com/in/carterogunsola",
+      "twitter": "https://x.com/CarterOgunsola",
+      "stack": [
+        "Astro",
+        "Spring",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Carter Ogunsola :: Creative Developer &amp; Brand Engineer",
+      "location": "new ones and",
+      "status": "ok"
+    },
+    {
+      "name": "Rathod Ramraj",
+      "url": "https://rathodram.pages.dev",
+      "listedTitle": "Full Stack Dev | Student at NITJ",
+      "emails": [
+        "rathodramraj.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rathod-ramraj"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rathod-ramraj",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Rathod Ramraj - Developer, Student &amp; Builder",
       "location": null,
       "status": "ok"
     }
