@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-05T13:34:30.528Z",
-    "total": 2021,
-    "successful": 1703,
+    "scrapedAt": "2026-10-06T12:43:59.962Z",
+    "total": 2022,
+    "successful": 1704,
     "failed": 318,
-    "withEmail": 834,
-    "withGithub": 1144,
-    "withStack": 1407,
-    "withLinkedin": 1043,
-    "withTwitter": 468
+    "withEmail": 835,
+    "withGithub": 1145,
+    "withStack": 1408,
+    "withLinkedin": 1044,
+    "withTwitter": 469
   },
   "portfolios": [
     {
@@ -42633,6 +42633,40 @@
       "experience": null,
       "title": "Naman Kumar | Lead Site Reliability Engineer, Melbourne",
       "location": "a previous vendor from ClickOps to CloudFormation and Terraform",
+      "status": "ok"
+    },
+    {
+      "name": "Mehedi Hasan",
+      "url": "https://mehedi-hasan-portfolio-client.vercel.app",
+      "listedTitle": "Full Stack Developer | MERN, Next.js, TypeScript",
+      "emails": [
+        "mehedihasan67705251@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Mehedihasan444"
+      ],
+      "linkedin": "https://linkedin.com/in/mehedi-hasan-893500301",
+      "twitter": "https://x.com/MEHEDIH60833052",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": "1+ years",
+      "title": "Mehedi Hasan — Full Stack Developer &amp; Software Engineer",
+      "location": "Dhaka, Bangladesh",
       "status": "ok"
     }
   ]
