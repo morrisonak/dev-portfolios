@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-06T12:43:59.962Z",
-    "total": 2022,
-    "successful": 1704,
+    "scrapedAt": "2026-10-06T22:18:55.014Z",
+    "total": 2024,
+    "successful": 1706,
     "failed": 318,
-    "withEmail": 835,
-    "withGithub": 1145,
-    "withStack": 1408,
-    "withLinkedin": 1044,
+    "withEmail": 837,
+    "withGithub": 1146,
+    "withStack": 1410,
+    "withLinkedin": 1046,
     "withTwitter": 469
   },
   "portfolios": [
@@ -42667,6 +42667,65 @@
       "experience": "1+ years",
       "title": "Mehedi Hasan — Full Stack Developer &amp; Software Engineer",
       "location": "Dhaka, Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Devanshu Verma",
+      "url": "https://www.devanshuverma.in/",
+      "listedTitle": "Frontend Developer",
+      "emails": [
+        "code.devanshu@gmail.com",
+        "your@email.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/devthecoder",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Docker",
+        "Tailwind",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": "5+ years",
+      "title": "Devanshu Verma | React &amp; Next.js Frontend Developer",
+      "location": "India",
+      "status": "ok"
+    },
+    {
+      "name": "Santusht Kotai",
+      "url": "https://santusht.online",
+      "listedTitle": "Software Engineer | Backend & Distributed Systems",
+      "emails": [
+        "santushtkotai1221@gmail.com"
+      ],
+      "github": [
+        "https://github.com/santusht06"
+      ],
+      "linkedin": "https://www.linkedin.com/in/santusht-kotai-8a4454323",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Go",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Santusht Kotai — Backend &amp; Distributed Systems Engineer",
+      "location": "Indore, India building FastAPI, Redis and Kubernetes systems",
       "status": "ok"
     }
   ]
