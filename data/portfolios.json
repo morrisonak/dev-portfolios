@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-07T04:15:42.918Z",
-    "total": 2025,
-    "successful": 1707,
+    "scrapedAt": "2026-10-07T12:37:46.924Z",
+    "total": 2027,
+    "successful": 1709,
     "failed": 318,
-    "withEmail": 838,
-    "withGithub": 1147,
-    "withStack": 1411,
-    "withLinkedin": 1047,
-    "withTwitter": 469
+    "withEmail": 839,
+    "withGithub": 1148,
+    "withStack": 1413,
+    "withLinkedin": 1048,
+    "withTwitter": 470
   },
   "portfolios": [
     {
@@ -42748,6 +42748,54 @@
       "experience": null,
       "title": "Sulayman Bowles — Product, AI &amp; Finance",
       "location": "what the browser built",
+      "status": "ok"
+    },
+    {
+      "name": "Abdul Rehman Muhammad",
+      "url": "https://bugblazer.dev",
+      "listedTitle": "Freelance Software Engineer | Business Websites, Web Apps, Discord Bots, AI Code Rescue",
+      "emails": [
+        "hello@bugblazer.dev"
+      ],
+      "github": [
+        "https://github.com/bugblazer"
+      ],
+      "linkedin": "https://www.linkedin.com/in/bugblazer",
+      "twitter": "https://x.com/thebugblazer",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "bugblazer · Freelance Software Engineer &amp; AI Code Rescue",
+      "location": "AI tools like Cursor or Lovable",
+      "status": "ok"
+    },
+    {
+      "name": "Varshil Shah",
+      "url": "https://varshilshah.tech/",
+      "listedTitle": "AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Varshil Shah | AI Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
