@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-07T12:37:46.924Z",
-    "total": 2027,
-    "successful": 1709,
+    "scrapedAt": "2026-10-07T22:41:01.495Z",
+    "total": 2030,
+    "successful": 1712,
     "failed": 318,
-    "withEmail": 839,
-    "withGithub": 1148,
-    "withStack": 1413,
-    "withLinkedin": 1048,
+    "withEmail": 842,
+    "withGithub": 1151,
+    "withStack": 1416,
+    "withLinkedin": 1051,
     "withTwitter": 470
   },
   "portfolios": [
@@ -42796,6 +42796,91 @@
       "experience": null,
       "title": "Varshil Shah | AI Engineer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aakash Gugilla",
+      "url": "https://aakashgugilla.is-a.dev",
+      "listedTitle": "CS Undergrad | AI/ML & Full Stack Developer",
+      "emails": [
+        "aakashgugilla559@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Gugilla-Aakash"
+      ],
+      "linkedin": "https://www.linkedin.com/in/gugilla-aakash",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Aakash — I build solutions for a better tomorrow",
+      "location": "Hyderabad, India",
+      "status": "ok"
+    },
+    {
+      "name": "Andrew Kozoriz",
+      "url": "https://kozoriz.com",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "andrew@kozoriz.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/andrejro2"
+      ],
+      "linkedin": "https://www.linkedin.com/in/andrew-kozoriz-2b73863b",
+      "twitter": null,
+      "stack": [
+        "Astro",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Laravel",
+        "Docker",
+        "MySQL",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Andriy Kozoriz — Senior Fullstack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ayush Yadav",
+      "url": "https://ayush-yadav.com",
+      "listedTitle": "Software Engineer | Web Apps, Data Pipelines, ML",
+      "emails": [
+        "aesh.03.23@gmail.com"
+      ],
+      "github": [
+        "https://github.com/yadava5"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ayush-yadav-developer",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Java",
+        "Express",
+        "Rails",
+        "Laravel",
+        "Spring",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Ayush Yadav | Software, Data, and ML Engineering",
+      "location": "the ink either way",
       "status": "ok"
     }
   ]
