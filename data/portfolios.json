@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-07T22:41:01.495Z",
-    "total": 2030,
-    "successful": 1712,
+    "scrapedAt": "2026-10-08T12:47:32.593Z",
+    "total": 2032,
+    "successful": 1714,
     "failed": 318,
-    "withEmail": 842,
-    "withGithub": 1151,
-    "withStack": 1416,
-    "withLinkedin": 1051,
+    "withEmail": 843,
+    "withGithub": 1152,
+    "withStack": 1418,
+    "withLinkedin": 1052,
     "withTwitter": 470
   },
   "portfolios": [
@@ -42881,6 +42881,53 @@
       "experience": null,
       "title": "Ayush Yadav | Software, Data, and ML Engineering",
       "location": "the ink either way",
+      "status": "ok"
+    },
+    {
+      "name": "Deepu Kunjumon",
+      "url": "https://deepukunjumon.vercel.app",
+      "listedTitle": "Software Developer - PHP | Laravel | Slim | React.js",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "PHP",
+        "Laravel"
+      ],
+      "experience": "3+ years",
+      "title": "Deepu Kunjumon - Software Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Het Patel",
+      "url": "https://hetxpatel.vercel.app/",
+      "listedTitle": "Machine Learning Engineer | Software Engineer",
+      "emails": [
+        "hetkumarpatel07@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Trevisx07"
+      ],
+      "linkedin": "https://www.linkedin.com/in/hetpatel-ai",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "Python",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Het Patel | AI Engineer building agents, LLM apps and ML pipelines",
+      "location": "Ahmedabad, working",
       "status": "ok"
     }
   ]
