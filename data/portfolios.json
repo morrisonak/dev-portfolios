@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-08T12:47:32.593Z",
-    "total": 2032,
-    "successful": 1714,
+    "scrapedAt": "2026-10-08T22:52:33.570Z",
+    "total": 2033,
+    "successful": 1715,
     "failed": 318,
     "withEmail": 843,
     "withGithub": 1152,
-    "withStack": 1418,
+    "withStack": 1419,
     "withLinkedin": 1052,
     "withTwitter": 470
   },
@@ -42928,6 +42928,22 @@
       "experience": null,
       "title": "Het Patel | AI Engineer building agents, LLM apps and ML pipelines",
       "location": "Ahmedabad, working",
+      "status": "ok"
+    },
+    {
+      "name": "Uday Khalsa",
+      "url": "https://udaykhalsa.dev",
+      "listedTitle": "Full Stack Engineer & Solution Architect",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Uday Singh Khalsa | Software Architect",
+      "location": null,
       "status": "ok"
     }
   ]
