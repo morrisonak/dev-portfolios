@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-08T22:52:33.570Z",
-    "total": 2033,
-    "successful": 1715,
+    "scrapedAt": "2026-10-09T12:33:02.373Z",
+    "total": 2037,
+    "successful": 1719,
     "failed": 318,
-    "withEmail": 843,
-    "withGithub": 1152,
-    "withStack": 1419,
-    "withLinkedin": 1052,
+    "withEmail": 845,
+    "withGithub": 1154,
+    "withStack": 1422,
+    "withLinkedin": 1053,
     "withTwitter": 470
   },
   "portfolios": [
@@ -42944,6 +42944,91 @@
       "experience": null,
       "title": "Uday Singh Khalsa | Software Architect",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aditya Raj",
+      "url": "https://portfolio-mti1.vercel.app/",
+      "listedTitle": "Low-Level Systems Research | AI & Applied Data Science",
+      "emails": [
+        "b25bs1020@iitj.ac.in"
+      ],
+      "github": [
+        "https://github.com/adityarajIITj"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Spring",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Aditya Raj | AI & Data Science",
+      "location": "secure auth to language models built layer by layer",
+      "status": "ok"
+    },
+    {
+      "name": "Achint Verma",
+      "url": "https://achint.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Achint Verma",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Harshitha C",
+      "url": "https://harshitha-portfolio-fawn.vercel.app/",
+      "listedTitle": "Software Developer | Java, Spring Boot, React, REST APIs, SQL",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Harshitha C. | Software Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Praveen Singh",
+      "url": "https://www.praveensingh.co.in",
+      "listedTitle": "Senior React Native Developer | iOS & Android",
+      "emails": [
+        "praveen.codeit@gmail.com"
+      ],
+      "github": [
+        "https://github.com/psingh2907"
+      ],
+      "linkedin": "https://www.linkedin.com/in/praveens2",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Swift",
+        "Kotlin",
+        "Spring",
+        "Firebase",
+        "GraphQL",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Praveen Singh, Senior React Native Developer (iOS and Android)",
+      "location": "architecture to App Store",
       "status": "ok"
     }
   ]
