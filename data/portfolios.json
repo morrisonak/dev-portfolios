@@ -1,9 +1,9 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-09T12:33:02.373Z",
-    "total": 2037,
+    "scrapedAt": "2026-10-10T11:53:33.493Z",
+    "total": 2038,
     "successful": 1719,
-    "failed": 318,
+    "failed": 319,
     "withEmail": 845,
     "withGithub": 1154,
     "withStack": 1422,
@@ -43030,6 +43030,13 @@
       "title": "Praveen Singh, Senior React Native Developer (iOS and Android)",
       "location": "architecture to App Store",
       "status": "ok"
+    },
+    {
+      "name": "Juhil K Bhatt",
+      "url": "https://juhilkbhatt.com",
+      "listedTitle": "Full Stack Software Engineer",
+      "status": "error",
+      "error": "HTTP 403"
     }
   ]
 }
