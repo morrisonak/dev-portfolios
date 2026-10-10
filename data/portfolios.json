@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-10T11:53:33.493Z",
-    "total": 2038,
-    "successful": 1719,
+    "scrapedAt": "2026-10-10T21:08:20.766Z",
+    "total": 2039,
+    "successful": 1720,
     "failed": 319,
-    "withEmail": 845,
-    "withGithub": 1154,
-    "withStack": 1422,
-    "withLinkedin": 1053,
+    "withEmail": 846,
+    "withGithub": 1155,
+    "withStack": 1423,
+    "withLinkedin": 1054,
     "withTwitter": 470
   },
   "portfolios": [
@@ -43037,6 +43037,37 @@
       "listedTitle": "Full Stack Software Engineer",
       "status": "error",
       "error": "HTTP 403"
+    },
+    {
+      "name": "Asad Amad Sheikh",
+      "url": "https://asadamadsh.me",
+      "listedTitle": "Full Stack Engineer | Startup MVPs",
+      "emails": [
+        "asadamad91@gmail.com"
+      ],
+      "github": [
+        "https://github.com/asadsheikh91"
+      ],
+      "linkedin": "https://linkedin.com/in/asadamadsheikh",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Asad Amad Sheikh, Full Stack Engineer for Startups",
+      "location": "first schema to production",
+      "status": "ok"
     }
   ]
 }
