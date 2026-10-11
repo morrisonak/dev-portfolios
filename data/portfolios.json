@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-10T21:08:20.766Z",
-    "total": 2039,
-    "successful": 1720,
+    "scrapedAt": "2026-10-11T03:56:37.237Z",
+    "total": 2040,
+    "successful": 1721,
     "failed": 319,
-    "withEmail": 846,
-    "withGithub": 1155,
-    "withStack": 1423,
-    "withLinkedin": 1054,
-    "withTwitter": 470
+    "withEmail": 847,
+    "withGithub": 1156,
+    "withStack": 1424,
+    "withLinkedin": 1055,
+    "withTwitter": 471
   },
   "portfolios": [
     {
@@ -43067,6 +43067,42 @@
       "experience": null,
       "title": "Asad Amad Sheikh, Full Stack Engineer for Startups",
       "location": "first schema to production",
+      "status": "ok"
+    },
+    {
+      "name": "Sergio Fernández",
+      "url": "https://cv.geiser.cloud",
+      "listedTitle": "Staff AI DevOps Engineer",
+      "emails": [
+        "sergio@geiser.cloud",
+        "geiser@mastodon.social"
+      ],
+      "github": [
+        "https://github.com/GeiserX",
+        "https://github.com/kubeshark"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sergiofdz",
+      "twitter": "https://x.com/GeiresX",
+      "stack": [
+        "TypeScript",
+        "Python",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Express",
+        "Rails",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Sergio Fernández",
+      "location": "that time",
       "status": "ok"
     }
   ]
