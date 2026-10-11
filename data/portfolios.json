@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-11T12:05:13.514Z",
-    "total": 2041,
-    "successful": 1722,
-    "failed": 319,
+    "scrapedAt": "2026-10-11T21:27:21.950Z",
+    "total": 2036,
+    "successful": 1718,
+    "failed": 318,
     "withEmail": 848,
-    "withGithub": 1157,
-    "withStack": 1425,
-    "withLinkedin": 1056,
+    "withGithub": 1155,
+    "withStack": 1421,
+    "withLinkedin": 1052,
     "withTwitter": 471
   },
   "portfolios": [
@@ -3295,30 +3295,6 @@
       "listedTitle": "",
       "status": "error",
       "error": "This operation was aborted"
-    },
-    {
-      "name": "André Souza",
-      "url": "https://an3dree.dev",
-      "listedTitle": "Backend Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/an3dree"
-      ],
-      "linkedin": "https://linkedin.com/in/an3dree",
-      "twitter": null,
-      "stack": [
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "AWS",
-        "Azure",
-        "Docker"
-      ],
-      "experience": null,
-      "title": "André Souza (an3dree) - Backend Developer | DevOps & Frontend",
-      "location": null,
-      "status": "ok"
     },
     {
       "name": "Andy Bell",
@@ -10861,29 +10837,6 @@
       "status": "ok"
     },
     {
-      "name": "Garv Nanwani",
-      "url": "https://garvnanwani.netlify.app",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/Garvnanwani"
-      ],
-      "linkedin": "https://www.linkedin.com/in/garvnanwani",
-      "twitter": "https://twitter.com/GarvNanwani",
-      "stack": [
-        "React",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Django",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Garv Nanwani || Home",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Gaurav Bansal",
       "url": "https://gaurav-bansal.vercel.app",
       "listedTitle": "",
@@ -11371,30 +11324,6 @@
       ],
       "experience": null,
       "title": "Home | Grace Snow Design",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Greta Macri",
-      "url": "https://gretamacri.com",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/DarkPix3l"
-      ],
-      "linkedin": "https://www.linkedin.com/in/gretamacri",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Express",
-        "Docker",
-        "MongoDB",
-        "Tailwind",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "WebDev Portfolio | Greta Macri",
       "location": null,
       "status": "ok"
     },
@@ -18123,29 +18052,6 @@
       "status": "ok"
     },
     {
-      "name": "Missael Rangel",
-      "url": "https://missaelr.com/en",
-      "listedTitle": "Frontend Developer | React/Typescript",
-      "emails": [
-        "missael.rangeel@gmail.com"
-      ],
-      "github": [
-        "https://github.com/zpymis"
-      ],
-      "linkedin": "https://www.linkedin.com/in/missaelrangel",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Astro",
-        "TypeScript",
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Frontend Developer - Missael Rangel",
-      "location": "Guadalajara, Mexico",
-      "status": "ok"
-    },
-    {
       "name": "Mitul Savani",
       "url": "http://mitulsavani.com",
       "listedTitle": "",
@@ -24760,13 +24666,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Sayan Adhikary",
-      "url": "https://www.sayanadhikary.me",
-      "listedTitle": "Full Stack Mern",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Sayan Pramanik",
       "url": "https://sayanpramanik2012.github.io/Portfolio",
       "listedTitle": "",
@@ -25414,13 +25313,6 @@
       "name": "Suraj Yadav",
       "url": "https://suraj-yadav0.github.io/terminal-portfolio/",
       "listedTitle": "Software Engineer | Ubuntu Touch Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Swaroop Vyawahare",
-      "url": "https://swaroop.codes",
-      "listedTitle": "Full Stack Developer",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
@@ -28936,20 +28828,6 @@
       "experience": null,
       "title": "Mohit Verma — Creative Full-Stack Developer",
       "location": "India building impactful digital experiences with React, Node",
-      "status": "ok"
-    },
-    {
-      "name": "Kuei Poch Kuei",
-      "url": "http://kueiyiee-portfolio.vercel.app",
-      "listedTitle": "Full Stack Dev and Creative Thinker",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Kuei Poch Kuei | Full-Stack Developer & Security Engineer",
-      "location": null,
       "status": "ok"
     },
     {
@@ -42219,29 +42097,6 @@
       "status": "ok"
     },
     {
-      "name": "John Born",
-      "url": "https://johnborn.co.uk",
-      "listedTitle": "Software Engineer | Shopify Developer",
-      "emails": [
-        "opusxj@gmail.com"
-      ],
-      "github": [
-        "https://github.com/opusxj"
-      ],
-      "linkedin": "https://www.linkedin.com/in/opusxj",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Figma",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "John Phillips — Frontend developer specialising in eCommerce",
-      "location": "the very first steps",
-      "status": "ok"
-    },
-    {
       "name": "Kartik Gautam",
       "url": "https://kartikgautam.com",
       "listedTitle": "SDE 3 | Full Stack Engineer",
@@ -42670,36 +42525,6 @@
       "status": "ok"
     },
     {
-      "name": "Devanshu Verma",
-      "url": "https://www.devanshuverma.in/",
-      "listedTitle": "Frontend Developer",
-      "emails": [
-        "code.devanshu@gmail.com",
-        "your@email.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/devthecoder",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Angular",
-        "Next.js",
-        "Nuxt",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Docker",
-        "Tailwind",
-        "GraphQL",
-        "Figma"
-      ],
-      "experience": "5+ years",
-      "title": "Devanshu Verma | React &amp; Next.js Frontend Developer",
-      "location": "India",
-      "status": "ok"
-    },
-    {
       "name": "Santusht Kotai",
       "url": "https://santusht.online",
       "listedTitle": "Software Engineer | Backend & Distributed Systems",
@@ -42726,28 +42551,6 @@
       "experience": null,
       "title": "Santusht Kotai — Backend &amp; Distributed Systems Engineer",
       "location": "Indore, India building FastAPI, Redis and Kubernetes systems",
-      "status": "ok"
-    },
-    {
-      "name": "Sulayman Bowles",
-      "url": "https://sulayman-bowles.dev/",
-      "listedTitle": "Software, Product & AI",
-      "emails": [
-        "sulayman.bowles@gmail.com"
-      ],
-      "github": [
-        "https://github.com/SulaymanB2024"
-      ],
-      "linkedin": "https://www.linkedin.com/in/sulayman-bowles",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Go"
-      ],
-      "experience": null,
-      "title": "Sulayman Bowles — Product, AI &amp; Finance",
-      "location": "what the browser built",
       "status": "ok"
     },
     {
@@ -42780,22 +42583,6 @@
       "experience": null,
       "title": "bugblazer · Freelance Software Engineer &amp; AI Code Rescue",
       "location": "AI tools like Cursor or Lovable",
-      "status": "ok"
-    },
-    {
-      "name": "Varshil Shah",
-      "url": "https://varshilshah.tech/",
-      "listedTitle": "AI Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Varshil Shah | AI Engineer",
-      "location": null,
       "status": "ok"
     },
     {
@@ -42902,35 +42689,6 @@
       "status": "ok"
     },
     {
-      "name": "Het Patel",
-      "url": "https://hetxpatel.vercel.app/",
-      "listedTitle": "Machine Learning Engineer | Software Engineer",
-      "emails": [
-        "hetkumarpatel07@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Trevisx07"
-      ],
-      "linkedin": "https://www.linkedin.com/in/hetpatel-ai",
-      "twitter": null,
-      "stack": [
-        "Next.js",
-        "Astro",
-        "TypeScript",
-        "Python",
-        "Flask",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Het Patel | AI Engineer building agents, LLM apps and ML pipelines",
-      "location": "Ahmedabad, working",
-      "status": "ok"
-    },
-    {
       "name": "Uday Khalsa",
       "url": "https://udaykhalsa.dev",
       "listedTitle": "Full Stack Engineer & Solution Architect",
@@ -42943,63 +42701,6 @@
       ],
       "experience": null,
       "title": "Uday Singh Khalsa | Software Architect",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Aditya Raj",
-      "url": "https://portfolio-mti1.vercel.app/",
-      "listedTitle": "Low-Level Systems Research | AI & Applied Data Science",
-      "emails": [
-        "b25bs1020@iitj.ac.in"
-      ],
-      "github": [
-        "https://github.com/adityarajIITj"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Python",
-        "Spring",
-        "Docker"
-      ],
-      "experience": null,
-      "title": "Aditya Raj | AI & Data Science",
-      "location": "secure auth to language models built layer by layer",
-      "status": "ok"
-    },
-    {
-      "name": "Achint Verma",
-      "url": "https://achint.vercel.app/",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Achint Verma",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Harshitha C",
-      "url": "https://harshitha-portfolio-fawn.vercel.app/",
-      "listedTitle": "Software Developer | Java, Spring Boot, React, REST APIs, SQL",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Java",
-        "Spring",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Harshitha C. | Software Developer",
       "location": null,
       "status": "ok"
     },
@@ -43142,6 +42843,209 @@
       "experience": null,
       "title": "Saiful Veri Fernando — Senior Web &amp; App Developer",
       "location": "first brief to launch",
+      "status": "ok"
+    },
+    {
+      "name": "Achint Verma",
+      "url": "https://achint.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Achint Verma",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aditya Raj",
+      "url": "https://portfolio-mti1.vercel.app",
+      "listedTitle": "Low-Level Systems Research | AI & Applied Data Science",
+      "emails": [
+        "b25bs1020@iitj.ac.in"
+      ],
+      "github": [
+        "https://github.com/adityarajIITj"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Spring",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Aditya Raj | AI & Data Science",
+      "location": "secure auth to language models built layer by layer",
+      "status": "ok"
+    },
+    {
+      "name": "Devanshu Verma",
+      "url": "https://www.devanshuverma.in",
+      "listedTitle": "Frontend Developer",
+      "emails": [
+        "code.devanshu@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/code-devanshu"
+      ],
+      "linkedin": "https://www.linkedin.com/in/devthecoder",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Docker",
+        "Tailwind",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": "5+ years",
+      "title": "Devanshu Verma | React &amp; Next.js Frontend Developer",
+      "location": "India",
+      "status": "ok"
+    },
+    {
+      "name": "Fahyan",
+      "url": "https://fahyan.vercel.app",
+      "listedTitle": "Software Developer  | Video Editor",
+      "emails": [
+        "fahyan399@gmail.com"
+      ],
+      "github": [
+        "https://github.com/the-fahyan"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": "3+ years",
+      "title": "Fahyan | Professional Editor &amp; Photographer",
+      "location": "India",
+      "status": "ok"
+    },
+    {
+      "name": "Harshitha C",
+      "url": "https://harshitha-portfolio-fawn.vercel.app",
+      "listedTitle": "Software Developer | Java, Spring Boot, React, REST APIs, SQL",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Harshitha C. | Software Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Het Patel",
+      "url": "https://hetxpatel.vercel.app",
+      "listedTitle": "Machine Learning Engineer | Software Engineer",
+      "emails": [
+        "hetkumarpatel07@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Trevisx07"
+      ],
+      "linkedin": "https://www.linkedin.com/in/hetpatel-ai",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "Python",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Het Patel | AI Engineer building agents, LLM apps and ML pipelines",
+      "location": "Ahmedabad, working",
+      "status": "ok"
+    },
+    {
+      "name": "Shahariar Azim Aksad",
+      "url": "https://aksadio.github.io/Shahariar-Azim-Aksad/",
+      "listedTitle": "Developer | Python, AI Automation",
+      "emails": [
+        "aksad.dev.io@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Aksadio"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shahariar-azim-aksad-69aaaa3b8",
+      "twitter": "https://x.com/Aksad_0",
+      "stack": [
+        "JavaScript",
+        "Python",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Shahariar Azim Aksad — Developer &amp; AI Automation Builder",
+      "location": "Bangladesh",
+      "status": "ok"
+    },
+    {
+      "name": "Shreyansh Agarwal",
+      "url": "https\\://shreyanshportfolio.in",
+      "listedTitle": "Backend Developer | Python, Java & AI Tools",
+      "status": "error",
+      "error": "Failed to parse URL from https\\://shreyanshportfolio.in"
+    },
+    {
+      "name": "Sulayman Bowles",
+      "url": "https://sulayman-bowles.dev",
+      "listedTitle": "Software, Product & AI",
+      "emails": [
+        "sulayman.bowles@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SulaymanB2024"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sulayman-bowles",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Go"
+      ],
+      "experience": null,
+      "title": "Sulayman Bowles — Product, AI &amp; Finance",
+      "location": "what the browser built",
+      "status": "ok"
+    },
+    {
+      "name": "Varshil Shah",
+      "url": "https://varshilshah.tech",
+      "listedTitle": "AI Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Varshil Shah | AI Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
