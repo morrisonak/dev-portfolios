@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-11T03:56:37.237Z",
-    "total": 2040,
-    "successful": 1721,
+    "scrapedAt": "2026-10-11T12:05:13.514Z",
+    "total": 2041,
+    "successful": 1722,
     "failed": 319,
-    "withEmail": 847,
-    "withGithub": 1156,
-    "withStack": 1424,
-    "withLinkedin": 1055,
+    "withEmail": 848,
+    "withGithub": 1157,
+    "withStack": 1425,
+    "withLinkedin": 1056,
     "withTwitter": 471
   },
   "portfolios": [
@@ -43103,6 +43103,45 @@
       "experience": null,
       "title": "Sergio Fernández",
       "location": "that time",
+      "status": "ok"
+    },
+    {
+      "name": "Saiful Veri Fernando",
+      "url": "https://saifulveri.com",
+      "listedTitle": "Senior Web & App Developer",
+      "emails": [
+        "saifulverifernando@gmail.com"
+      ],
+      "github": [
+        "https://github.com/saifulveri"
+      ],
+      "linkedin": "https://www.linkedin.com/in/saiful-veri-fernando-55244311b",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "Spring",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Flutter",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Saiful Veri Fernando — Senior Web &amp; App Developer",
+      "location": "first brief to launch",
       "status": "ok"
     }
   ]
