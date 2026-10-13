@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-11T21:27:21.950Z",
-    "total": 2036,
-    "successful": 1718,
+    "scrapedAt": "2026-10-13T00:07:06.350Z",
+    "total": 2039,
+    "successful": 1721,
     "failed": 318,
-    "withEmail": 848,
-    "withGithub": 1155,
-    "withStack": 1421,
-    "withLinkedin": 1052,
+    "withEmail": 850,
+    "withGithub": 1158,
+    "withStack": 1424,
+    "withLinkedin": 1055,
     "withTwitter": 471
   },
   "portfolios": [
@@ -43046,6 +43046,81 @@
       "experience": null,
       "title": "Varshil Shah | AI Engineer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ballani Venkata Manoj",
+      "url": "https://venkata-manoj.vercel.app",
+      "listedTitle": "Aspiring AI Engineer | Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/Venkata-Manoj"
+      ],
+      "linkedin": "https://linkedin.com/in/venkata-manoj",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "B V Manoj — AI Engineer &amp; Data Scientist",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Görkem Karamolla",
+      "url": "https://gorkemkaramolla.com",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [
+        "gorkemkaramolla@gmail.com"
+      ],
+      "github": [
+        "https://github.com/gorkemkaramolla"
+      ],
+      "linkedin": "https://linkedin.com/in/gorkemkaramolla",
+      "twitter": null,
+      "stack": [
+        "Svelte",
+        "Next.js",
+        "TypeScript",
+        "Laravel",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Görkem Karamolla",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Salsabeel Ibrahim",
+      "url": "https://salsabeelibrahim.com",
+      "listedTitle": "Full-Stack Developer & Software Engineer",
+      "emails": [
+        "salsabeelibrahim14@gmail.com"
+      ],
+      "github": [
+        "https://github.com/salsabeel10"
+      ],
+      "linkedin": "https://www.linkedin.com/in/salsabeel-ibrahim",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Salsabeel Ibrahim | Full-Stack Developer",
+      "location": "Dubai, UAE",
       "status": "ok"
     }
   ]
