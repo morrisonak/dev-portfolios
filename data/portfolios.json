@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-13T00:07:06.350Z",
-    "total": 2039,
-    "successful": 1721,
+    "scrapedAt": "2026-10-13T13:32:46.760Z",
+    "total": 2042,
+    "successful": 1724,
     "failed": 318,
-    "withEmail": 850,
-    "withGithub": 1158,
-    "withStack": 1424,
-    "withLinkedin": 1055,
+    "withEmail": 852,
+    "withGithub": 1161,
+    "withStack": 1427,
+    "withLinkedin": 1057,
     "withTwitter": 471
   },
   "portfolios": [
@@ -43121,6 +43121,87 @@
       "experience": null,
       "title": "Salsabeel Ibrahim | Full-Stack Developer",
       "location": "Dubai, UAE",
+      "status": "ok"
+    },
+    {
+      "name": "Mahir Faysal",
+      "url": "https://mfaysal.com/",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/mfaysal-dev"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "PHP",
+        "Node.js",
+        "MySQL",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Mahir Faysal – Bangladeshi Web Developer &amp; Software Tester",
+      "location": "Bangladesh building fast PHP, JavaScript, Python and Next",
+      "status": "ok"
+    },
+    {
+      "name": "Pavithran S",
+      "url": "https://pavithran26.vercel.app/",
+      "listedTitle": "Software Engineer | AI & Full Stack Developer",
+      "emails": [
+        "pavithran2004cs@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Pavithran26"
+      ],
+      "linkedin": "https://linkedin.com/in/pavithran-s-ab85a9235",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Pavithran S | Forward Deployed Engineer (FDE) &amp; AI Systems Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Tuan Le Anh",
+      "url": "https://tuanleanh.com",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "tuanleanh1003@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/TuanLeAnh1003"
+      ],
+      "linkedin": "https://www.linkedin.com/in/tuanleanh1003",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "GraphQL",
+        "React Native"
+      ],
+      "experience": "4+ years",
+      "title": "Full Stack Developer Portfolio — Tuan Le Anh, Vietnam",
+      "location": "TYPE TO PRODUCTION",
       "status": "ok"
     }
   ]
