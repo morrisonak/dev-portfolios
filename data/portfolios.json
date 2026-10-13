@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-13T13:32:46.760Z",
-    "total": 2042,
-    "successful": 1724,
+    "scrapedAt": "2026-10-13T22:16:33.423Z",
+    "total": 2046,
+    "successful": 1728,
     "failed": 318,
-    "withEmail": 852,
-    "withGithub": 1161,
-    "withStack": 1427,
-    "withLinkedin": 1057,
+    "withEmail": 853,
+    "withGithub": 1164,
+    "withStack": 1430,
+    "withLinkedin": 1060,
     "withTwitter": 471
   },
   "portfolios": [
@@ -43202,6 +43202,107 @@
       "experience": "4+ years",
       "title": "Full Stack Developer Portfolio — Tuan Le Anh, Vietnam",
       "location": "TYPE TO PRODUCTION",
+      "status": "ok"
+    },
+    {
+      "name": "Devesh Chandan",
+      "url": "https://deveshchandan.me",
+      "listedTitle": "Software Engineer | Full Stack Developer",
+      "emails": [
+        "crea8x1@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Devesh-chandan",
+        "https://github.com/PICT-ACM-Student-Chapter",
+        "https://github.com/Shravani-Sawant28"
+      ],
+      "linkedin": "https://www.linkedin.com/in/devesh-chandan-697654332",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Devesh Chandan — Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Lucas De Moraes",
+      "url": "https://devlucas.site",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Lucas | Full Stack Dev",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sanskar Tiwari",
+      "url": "https://santiwari07.qzz.io",
+      "listedTitle": "AI Systems Builder | Full Stack & IoT Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/SanTiwari07"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sanskar-tiwari-b781a9315",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Sanskar Tiwari",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Zun Ul Noor",
+      "url": "http://zunulnoor.vercel.app",
+      "listedTitle": "Frontend & Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/ZunulNoor"
+      ],
+      "linkedin": "https://linkedin.com/in/zun-ul-noor",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Zun Ul Noor — Frontend Engineer / Full-Stack Developer",
+      "location": "Karachi, Pakistan",
       "status": "ok"
     }
   ]
