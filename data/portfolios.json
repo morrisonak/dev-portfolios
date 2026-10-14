@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-13T22:16:33.423Z",
-    "total": 2046,
-    "successful": 1728,
+    "scrapedAt": "2026-10-14T16:30:27.438Z",
+    "total": 2047,
+    "successful": 1729,
     "failed": 318,
     "withEmail": 853,
-    "withGithub": 1164,
-    "withStack": 1430,
-    "withLinkedin": 1060,
-    "withTwitter": 471
+    "withGithub": 1165,
+    "withStack": 1431,
+    "withLinkedin": 1061,
+    "withTwitter": 472
   },
   "portfolios": [
     {
@@ -43303,6 +43303,35 @@
       "experience": null,
       "title": "Zun Ul Noor — Frontend Engineer / Full-Stack Developer",
       "location": "Karachi, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Kumar T",
+      "url": "https://abhishek-kumar-t.vercel.app/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/abhisheksharma611"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abhisheksharma611",
+      "twitter": "https://x.com/abhishekumar611",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Flask",
+        "Spring",
+        "MySQL",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Abhishek Kumar T | Full Stack Developer",
+      "location": null,
       "status": "ok"
     }
   ]
