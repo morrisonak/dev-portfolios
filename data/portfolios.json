@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-14T16:30:27.438Z",
-    "total": 2047,
-    "successful": 1729,
+    "scrapedAt": "2026-10-14T21:16:20.210Z",
+    "total": 2049,
+    "successful": 1731,
     "failed": 318,
     "withEmail": 853,
-    "withGithub": 1165,
-    "withStack": 1431,
-    "withLinkedin": 1061,
+    "withGithub": 1166,
+    "withStack": 1432,
+    "withLinkedin": 1062,
     "withTwitter": 472
   },
   "portfolios": [
@@ -43331,6 +43331,40 @@
       ],
       "experience": null,
       "title": "Abhishek Kumar T | Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Keerthana R",
+      "url": "https://keerthana-raghu.vercel.app/",
+      "listedTitle": "Data Analyst",
+      "emails": [],
+      "github": [
+        "https://github.com/keerthana-raghu"
+      ],
+      "linkedin": "https://www.linkedin.com/in/keerthana-raghu",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Go",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Keerthana R | Aspiring Data Analyst — Python, SQL, Power BI",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shubham Gupta",
+      "url": "https://shubhamrdg.vercel.app",
+      "listedTitle": "Link",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Shubham Gupta | Portfolio",
       "location": null,
       "status": "ok"
     }
