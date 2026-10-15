@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-15T16:17:25.681Z",
-    "total": 2049,
-    "successful": 1732,
+    "scrapedAt": "2026-10-15T20:54:59.233Z",
+    "total": 2051,
+    "successful": 1734,
     "failed": 317,
-    "withEmail": 854,
-    "withGithub": 1167,
-    "withStack": 1433,
-    "withLinkedin": 1063,
-    "withTwitter": 473
+    "withEmail": 855,
+    "withGithub": 1169,
+    "withStack": 1435,
+    "withLinkedin": 1064,
+    "withTwitter": 474
   },
   "portfolios": [
     {
@@ -43387,6 +43387,67 @@
       "experience": null,
       "title": "Sartaj Alam — Full Stack Web Developer",
       "location": "Chatbots to Teammates That Take Action",
+      "status": "ok"
+    },
+    {
+      "name": "Gareth Wright",
+      "url": "https://garpunkal.dev",
+      "listedTitle": "Senior .NET & C# Solutions Architect",
+      "emails": [],
+      "github": [
+        "https://github.com/garpunkal",
+        "https://github.com/DapperLib",
+        "https://github.com/jbogard",
+        "https://github.com/App-vNext"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "MongoDB",
+        "Redis",
+        "Tailwind",
+        "GraphQL",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Gareth Wright - garpunkal.dev",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mukesh Kumar",
+      "url": "https://mukeshdevx.vercel.app",
+      "listedTitle": "Full Stack Developer (MukeshDevX)",
+      "emails": [
+        "mukeshdevx@gmail.com"
+      ],
+      "github": [
+        "https://github.com/MukeshDevX"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mukeshdevx",
+      "twitter": "https://twitter.com/arisetaki",
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Mukesh Kumar (MukeshDevX) | Full-Stack Developer, Open to Work",
+      "location": "India, open to jobs and freelance work",
       "status": "ok"
     }
   ]
