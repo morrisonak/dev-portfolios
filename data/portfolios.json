@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-14T21:16:20.210Z",
+    "scrapedAt": "2026-10-15T16:17:25.681Z",
     "total": 2049,
-    "successful": 1731,
-    "failed": 318,
-    "withEmail": 853,
-    "withGithub": 1166,
-    "withStack": 1432,
-    "withLinkedin": 1062,
-    "withTwitter": 472
+    "successful": 1732,
+    "failed": 317,
+    "withEmail": 854,
+    "withGithub": 1167,
+    "withStack": 1433,
+    "withLinkedin": 1063,
+    "withTwitter": 473
   },
   "portfolios": [
     {
@@ -24603,13 +24603,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Sartaj Alam",
-      "url": "https://sak03.github.io/sartaj.dev",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Saswata Dutta",
       "url": "https://saztech.org",
       "listedTitle": "",
@@ -35227,26 +35220,6 @@
       "status": "ok"
     },
     {
-      "name": "Aneeth Kumaar",
-      "url": "https://akwastaken.github.io",
-      "listedTitle": "Graphic Designer | Programmer",
-      "emails": [],
-      "github": [
-        "https://github.com/AKwasTaken"
-      ],
-      "linkedin": "https://linkedin.com/in/aneeth-kumaar",
-      "twitter": null,
-      "stack": [
-        "Python",
-        ".NET",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "AK | Portfolio",
-      "location": "Scratch",
-      "status": "ok"
-    },
-    {
       "name": "Forhad_Khan",
       "url": "https://forhadkhandev.vercel.app",
       "listedTitle": "Front-End Developer",
@@ -43366,6 +43339,54 @@
       "experience": null,
       "title": "Shubham Gupta | Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aneeth Kumaar",
+      "url": "https://aneethkumaar.is-a.dev",
+      "listedTitle": "Graphic Designer | Programmer",
+      "emails": [],
+      "github": [
+        "https://github.com/AKwasTaken"
+      ],
+      "linkedin": "https://linkedin.com/in/aneeth-kumaar",
+      "twitter": null,
+      "stack": [
+        "Python",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "AK | Portfolio",
+      "location": "news streams with a Transformer encoder,",
+      "status": "ok"
+    },
+    {
+      "name": "Sartaj Alam",
+      "url": "https://sartajalam.in/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "sartaj2394@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sak03"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sak03",
+      "twitter": "https://x.com/sartaj_03",
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "Laravel"
+      ],
+      "experience": null,
+      "title": "Sartaj Alam — Full Stack Web Developer",
+      "location": "Chatbots to Teammates That Take Action",
       "status": "ok"
     }
   ]
