@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-15T20:54:59.233Z",
-    "total": 2051,
-    "successful": 1734,
+    "scrapedAt": "2026-10-16T10:40:33.036Z",
+    "total": 2054,
+    "successful": 1737,
     "failed": 317,
-    "withEmail": 855,
-    "withGithub": 1169,
-    "withStack": 1435,
-    "withLinkedin": 1064,
+    "withEmail": 857,
+    "withGithub": 1171,
+    "withStack": 1437,
+    "withLinkedin": 1066,
     "withTwitter": 474
   },
   "portfolios": [
@@ -43448,6 +43448,76 @@
       "experience": null,
       "title": "Mukesh Kumar (MukeshDevX) | Full-Stack Developer, Open to Work",
       "location": "India, open to jobs and freelance work",
+      "status": "ok"
+    },
+    {
+      "name": "Anugrah Surya Putra",
+      "url": "https://downormal.dev",
+      "listedTitle": "Mobile Engineer | Flutter & Kotlin Multiplatform",
+      "emails": [
+        "anugrahsputra@gmail.com"
+      ],
+      "github": [
+        "https://github.com/anugrahsputra"
+      ],
+      "linkedin": "https://linkedin.com/in/anugrahsputra",
+      "twitter": null,
+      "stack": [
+        "Go",
+        "Java",
+        "Swift",
+        "Kotlin",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Firebase",
+        "Flutter",
+        "Figma"
+      ],
+      "experience": "2+ years",
+      "title": "Anugrah Surya Putra - Mobile Engineer Portfolio | Flutter &amp; Kotlin Expert",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Praneeth Reddy",
+      "url": "https://praneeth-portfolio-silk.vercel.app",
+      "listedTitle": "Java Backend Developer",
+      "emails": [
+        "praneethreddy.dev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/praneethrdy"
+      ],
+      "linkedin": "https://www.linkedin.com/in/praneethreddydevarannagari",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "Java",
+        "Spring",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Praneeth Reddy · Java Backend Engineer",
+      "location": "contract to production",
+      "status": "ok"
+    },
+    {
+      "name": "Thuany Paula Kamers",
+      "url": "https://thuanykamers.github.io/portfolio/",
+      "listedTitle": "Junior Developer & IT Support | Cybersecurity Enthusiast",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "portfolio",
+      "location": null,
       "status": "ok"
     }
   ]
