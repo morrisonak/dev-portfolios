@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-16T10:40:33.036Z",
-    "total": 2054,
-    "successful": 1737,
+    "scrapedAt": "2026-10-17T14:55:59.359Z",
+    "total": 2056,
+    "successful": 1739,
     "failed": 317,
-    "withEmail": 857,
-    "withGithub": 1171,
-    "withStack": 1437,
-    "withLinkedin": 1066,
+    "withEmail": 858,
+    "withGithub": 1172,
+    "withStack": 1438,
+    "withLinkedin": 1067,
     "withTwitter": 474
   },
   "portfolios": [
@@ -43518,6 +43518,44 @@
       "experience": null,
       "title": "portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Rai A",
+      "url": "https://portfolio.abhirai2006.workers.dev/",
+      "listedTitle": "AI & ML Student | Aspiring Machine Learning Engineer",
+      "emails": [
+        "abhirai2006@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Abhirai2006"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abhishek-rai-a-00067238b",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Abhishek Rai A - ML Engineer · Live Projects",
+      "location": "Mangalore, now in Mysuru",
+      "status": "ok"
+    },
+    {
+      "name": "Pratik Wani",
+      "url": "https://pratikwani.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Pratik Wani - Portfolio",
+      "location": "India",
       "status": "ok"
     }
   ]
