@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-17T14:55:59.359Z",
-    "total": 2056,
-    "successful": 1739,
+    "scrapedAt": "2026-10-18T15:21:19.508Z",
+    "total": 2059,
+    "successful": 1742,
     "failed": 317,
-    "withEmail": 858,
-    "withGithub": 1172,
-    "withStack": 1438,
-    "withLinkedin": 1067,
-    "withTwitter": 474
+    "withEmail": 861,
+    "withGithub": 1174,
+    "withStack": 1441,
+    "withLinkedin": 1069,
+    "withTwitter": 475
   },
   "portfolios": [
     {
@@ -43556,6 +43556,87 @@
       "experience": null,
       "title": "Pratik Wani - Portfolio",
       "location": "India",
+      "status": "ok"
+    },
+    {
+      "name": "Avi Aggarwal",
+      "url": "https://avi-aggarwal.com",
+      "listedTitle": "Founder of hypjam | AI tools and MCP servers",
+      "emails": [
+        "avi@hypjam.com"
+      ],
+      "github": [
+        "https://github.com/avi-aggarwal14"
+      ],
+      "linkedin": "https://www.linkedin.com/in/avi-aggarwal-hypjam",
+      "twitter": "https://x.com/_avi_md",
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go"
+      ],
+      "experience": null,
+      "title": "Avi Aggarwal | Founder of hypjam, a UGC agency in London",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Saksham Garg",
+      "url": "https://sakshamgargportfolio.vercel.app/",
+      "listedTitle": "Full Stack Developer | React, Next.js & Node.js",
+      "emails": [
+        "saksham23garg@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/saksham-garg-8b6260257",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Saksham Garg — Full-stack Developer",
+      "location": "idea to launch, pairing clear, responsive interfaces with reliable APIs and thoughtful interactions",
+      "status": "ok"
+    },
+    {
+      "name": "Sujan Bhatta",
+      "url": "https://sujanbhatta.tech",
+      "listedTitle": "AI Product Engineer | LLM Systems & React Native",
+      "emails": [
+        "sujanbhatta0629@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sujan0629"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sujan Bhatta | AI Systems &amp; Full-Stack Engineer",
+      "location": "Kathmandu",
       "status": "ok"
     }
   ]
