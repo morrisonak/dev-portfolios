@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-18T15:21:19.508Z",
-    "total": 2059,
-    "successful": 1742,
+    "scrapedAt": "2026-10-18T20:04:45.055Z",
+    "total": 2060,
+    "successful": 1743,
     "failed": 317,
-    "withEmail": 861,
-    "withGithub": 1174,
-    "withStack": 1441,
-    "withLinkedin": 1069,
+    "withEmail": 862,
+    "withGithub": 1175,
+    "withStack": 1442,
+    "withLinkedin": 1070,
     "withTwitter": 475
   },
   "portfolios": [
@@ -43637,6 +43637,34 @@
       "experience": null,
       "title": "Sujan Bhatta | AI Systems &amp; Full-Stack Engineer",
       "location": "Kathmandu",
+      "status": "ok"
+    },
+    {
+      "name": "Waqas Sharif",
+      "url": "https://waqas01cp.github.io/",
+      "listedTitle": "AI Engineer | LLM Reliability | Agentic Systems in Production",
+      "emails": [
+        "ma.sharif.waqas@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Waqas01CP"
+      ],
+      "linkedin": "https://linkedin.com/in/ma-waqas-sharif",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Flutter",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Waqas Sharif",
+      "location": "the agents themselves",
       "status": "ok"
     }
   ]
