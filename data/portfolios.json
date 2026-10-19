@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-19T03:12:53.496Z",
-    "total": 2056,
-    "successful": 1740,
+    "scrapedAt": "2026-10-19T12:05:52.338Z",
+    "total": 2057,
+    "successful": 1741,
     "failed": 316,
-    "withEmail": 859,
-    "withGithub": 1172,
-    "withStack": 1440,
+    "withEmail": 860,
+    "withGithub": 1173,
+    "withStack": 1441,
     "withLinkedin": 1067,
     "withTwitter": 473
   },
@@ -43588,6 +43588,32 @@
       "experience": null,
       "title": "Waqas Sharif",
       "location": "the agents themselves",
+      "status": "ok"
+    },
+    {
+      "name": "Aali WordPress",
+      "url": "https://ali-wordpress-developer.com",
+      "listedTitle": "WordPress WooCommerce Developer",
+      "emails": [
+        "info@gigsix.com"
+      ],
+      "github": [
+        "https://github.com/alisaleem252"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "MySQL",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": "10+ years",
+      "title": "Ali Saleem — Custom WordPress &amp; WooCommerce Developer",
+      "location": "scratch with clean, documented, and maintainable code",
       "status": "ok"
     }
   ]
