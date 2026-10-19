@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-19T12:05:52.338Z",
-    "total": 2057,
-    "successful": 1741,
+    "scrapedAt": "2026-10-19T21:58:53.680Z",
+    "total": 2062,
+    "successful": 1746,
     "failed": 316,
     "withEmail": 860,
-    "withGithub": 1173,
-    "withStack": 1441,
-    "withLinkedin": 1067,
+    "withGithub": 1175,
+    "withStack": 1446,
+    "withLinkedin": 1069,
     "withTwitter": 473
   },
   "portfolios": [
@@ -28138,36 +28138,6 @@
       "status": "ok"
     },
     {
-      "name": "Sahil Bajaj",
-      "url": "https://sahilbajajportfolio.vercel.app",
-      "listedTitle": "",
-      "emails": [
-        "sahilbajaj2004@gmail.com"
-      ],
-      "github": [
-        "https://github.com/sahilbajaj2004"
-      ],
-      "linkedin": "https://linkedin.com/in/sahilbajaj2004",
-      "twitter": "https://x.com/SahilBajaj2004",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Express",
-        "Flask",
-        "MongoDB",
-        "Firebase"
-      ],
-      "experience": "1+ years",
-      "title": "Sahil Bajaj | Full-Stack Developer Portfolio",
-      "location": "simple websites to",
-      "status": "ok"
-    },
-    {
       "name": "Shourov Paul",
       "url": "https://shourov-paul.github.io",
       "listedTitle": "Electronics Engineer | Embedded Systems",
@@ -43614,6 +43584,133 @@
       "experience": "10+ years",
       "title": "Ali Saleem — Custom WordPress &amp; WooCommerce Developer",
       "location": "scratch with clean, documented, and maintainable code",
+      "status": "ok"
+    },
+    {
+      "name": "Blake Karbon",
+      "url": "https://blakekarbon.github.io/",
+      "listedTitle": "COBOL / Legacy Systems Developer (Healthcare) | Firmware Developer | Full Stack +",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Blake Karbon's Web Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Joseph Thomas Mansilla",
+      "url": "https://josephmansilla.github.io/portfolio/",
+      "listedTitle": "System Design Engineer | Systems Engineering",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "JTM | Dev Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kittipop Sanpho",
+      "url": "https://www.kktp.my/",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Kittipop Sanpho | Full-Stack Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Moritz Hauer",
+      "url": "https://moritzhauer.github.io",
+      "listedTitle": "Software Developer & Architect",
+      "emails": [],
+      "github": [
+        "https://github.com/MoritzHauer"
+      ],
+      "linkedin": "https://www.linkedin.com/in/moritz-hauer-82795a3a9",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Spring",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Moritz Hauer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sahil Bajaj",
+      "url": "https://sahilbajajkaportfolio.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "sahilbajaj2004@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sahilbajaj2004"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sahilbajaj2004",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Django",
+        "AWS",
+        "Docker",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Sahil Bajaj - Full-Stack MERN &amp; Python Developer | Delhi, India",
+      "location": "Delhi, India",
+      "status": "ok"
+    },
+    {
+      "name": "Shashi Kumar",
+      "url": "https://shashiben.me",
+      "listedTitle": "Creative Full-Stack Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/shashiben"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shashi-kumar-58ab1b1a4",
+      "twitter": "https://twitter.com/Shashi35744438",
+      "stack": [
+        "Python",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Shashi Kumar — Creative Full-Stack Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
