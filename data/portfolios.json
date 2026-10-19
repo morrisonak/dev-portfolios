@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-18T20:04:45.055Z",
-    "total": 2060,
-    "successful": 1743,
-    "failed": 317,
-    "withEmail": 862,
-    "withGithub": 1175,
-    "withStack": 1442,
-    "withLinkedin": 1070,
-    "withTwitter": 475
+    "scrapedAt": "2026-10-19T03:12:53.496Z",
+    "total": 2056,
+    "successful": 1740,
+    "failed": 316,
+    "withEmail": 859,
+    "withGithub": 1172,
+    "withStack": 1440,
+    "withLinkedin": 1067,
+    "withTwitter": 473
   },
   "portfolios": [
     {
@@ -773,33 +773,6 @@
       ],
       "experience": null,
       "title": "Home | &lt;ReactMode /&gt;",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Abdullah Bozdağ",
-      "url": "https://abdullahbozdag.com",
-      "listedTitle": "Full Stack Developer",
-      "emails": [
-        "abdullah@radkod.com"
-      ],
-      "github": [
-        "https://github.com/apo-bozdag"
-      ],
-      "linkedin": "https://linkedin.com/in/apo-bozdag",
-      "twitter": "https://x.com/apo_bozdag",
-      "stack": [
-        "React",
-        "Vue",
-        "Python",
-        "PHP",
-        "Node.js",
-        "Django",
-        "Laravel",
-        "AWS"
-      ],
-      "experience": null,
-      "title": "Abdullah Bozdağ - Developer &amp; Builder",
       "location": null,
       "status": "ok"
     },
@@ -1598,32 +1571,6 @@
       ],
       "experience": null,
       "title": "Aditya Domle | Full-Stack Web Developer &amp; DevOps Enthusiast | Next.js, React, Node.js",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Aditya Dutt Pandey",
-      "url": "https://www.adpandey.com",
-      "listedTitle": "Founder | Backend Engineer | System Architect",
-      "emails": [
-        "adityapandeyadp@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Adityaadpandey"
-      ],
-      "linkedin": "https://www.linkedin.com/in/adpandeyadp",
-      "twitter": "https://twitter.com/adp_alpha",
-      "stack": [
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Rust",
-        "Go",
-        "Docker",
-        "Kubernetes"
-      ],
-      "experience": null,
-      "title": "Aditya Dutt Pandey | Backend Engineer &amp; Agentic AI Builder",
       "location": null,
       "status": "ok"
     },
@@ -25247,13 +25194,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Sudev Thapa Magar",
-      "url": "https://www.sudevmagar.tech",
-      "listedTitle": "",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Suhail Roushan",
       "url": "https://suhailroushan.com",
       "listedTitle": "",
@@ -38629,24 +38569,6 @@
       "status": "ok"
     },
     {
-      "name": "Ameed Darawsha",
-      "url": "https://darawsha.github.io",
-      "listedTitle": "Computer Engineer | Design Verification , VLSI , Hardware",
-      "emails": [
-        "ce.ameed@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Darawsha"
-      ],
-      "linkedin": "https://linkedin.com/in/darawsha",
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Ameed Darawsha",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Charan Reddy",
       "url": "https://charanreddy.qzz.io",
       "listedTitle": "Student | Cyber Security",
@@ -43097,55 +43019,6 @@
       "status": "ok"
     },
     {
-      "name": "Mahir Faysal",
-      "url": "https://mfaysal.com/",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/mfaysal-dev"
-      ],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "PHP",
-        "Node.js",
-        "MySQL",
-        "Firebase"
-      ],
-      "experience": null,
-      "title": "Mahir Faysal – Bangladeshi Web Developer &amp; Software Tester",
-      "location": "Bangladesh building fast PHP, JavaScript, Python and Next",
-      "status": "ok"
-    },
-    {
-      "name": "Pavithran S",
-      "url": "https://pavithran26.vercel.app/",
-      "listedTitle": "Software Engineer | AI & Full Stack Developer",
-      "emails": [
-        "pavithran2004cs@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Pavithran26"
-      ],
-      "linkedin": "https://linkedin.com/in/pavithran-s-ab85a9235",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Pavithran S | Forward Deployed Engineer (FDE) &amp; AI Systems Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Tuan Le Anh",
       "url": "https://tuanleanh.com",
       "listedTitle": "Full Stack Developer",
@@ -43279,55 +43152,6 @@
       "status": "ok"
     },
     {
-      "name": "Abhishek Kumar T",
-      "url": "https://abhishek-kumar-t.vercel.app/",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [
-        "https://github.com/abhisheksharma611"
-      ],
-      "linkedin": "https://www.linkedin.com/in/abhisheksharma611",
-      "twitter": "https://x.com/abhishekumar611",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Flask",
-        "Spring",
-        "MySQL",
-        "Tailwind",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Abhishek Kumar T | Full Stack Developer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Keerthana R",
-      "url": "https://keerthana-raghu.vercel.app/",
-      "listedTitle": "Data Analyst",
-      "emails": [],
-      "github": [
-        "https://github.com/keerthana-raghu"
-      ],
-      "linkedin": "https://www.linkedin.com/in/keerthana-raghu",
-      "twitter": null,
-      "stack": [
-        "Python",
-        "Go",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Keerthana R | Aspiring Data Analyst — Python, SQL, Power BI",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Shubham Gupta",
       "url": "https://shubhamrdg.vercel.app",
       "listedTitle": "Link",
@@ -43359,34 +43183,6 @@
       "experience": null,
       "title": "AK | Portfolio",
       "location": "news streams with a Transformer encoder,",
-      "status": "ok"
-    },
-    {
-      "name": "Sartaj Alam",
-      "url": "https://sartajalam.in/",
-      "listedTitle": "Full Stack Developer",
-      "emails": [
-        "sartaj2394@gmail.com"
-      ],
-      "github": [
-        "https://github.com/sak03"
-      ],
-      "linkedin": "https://www.linkedin.com/in/sak03",
-      "twitter": "https://x.com/sartaj_03",
-      "stack": [
-        "React",
-        "Vue",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "Node.js",
-        "Express",
-        "Laravel"
-      ],
-      "experience": null,
-      "title": "Sartaj Alam — Full Stack Web Developer",
-      "location": "Chatbots to Teammates That Take Action",
       "status": "ok"
     },
     {
@@ -43521,30 +43317,6 @@
       "status": "ok"
     },
     {
-      "name": "Abhishek Rai A",
-      "url": "https://portfolio.abhirai2006.workers.dev/",
-      "listedTitle": "AI & ML Student | Aspiring Machine Learning Engineer",
-      "emails": [
-        "abhirai2006@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Abhirai2006"
-      ],
-      "linkedin": "https://www.linkedin.com/in/abhishek-rai-a-00067238b",
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Abhishek Rai A - ML Engineer · Live Projects",
-      "location": "Mangalore, now in Mysuru",
-      "status": "ok"
-    },
-    {
       "name": "Pratik Wani",
       "url": "https://pratikwani.vercel.app",
       "listedTitle": "Full Stack Developer",
@@ -43583,35 +43355,6 @@
       "status": "ok"
     },
     {
-      "name": "Saksham Garg",
-      "url": "https://sakshamgargportfolio.vercel.app/",
-      "listedTitle": "Full Stack Developer | React, Next.js & Node.js",
-      "emails": [
-        "saksham23garg@gmail.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/saksham-garg-8b6260257",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "MongoDB",
-        "Firebase",
-        "Tailwind",
-        ".NET",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Saksham Garg — Full-stack Developer",
-      "location": "idea to launch, pairing clear, responsive interfaces with reliable APIs and thoughtful interactions",
-      "status": "ok"
-    },
-    {
       "name": "Sujan Bhatta",
       "url": "https://sujanbhatta.tech",
       "listedTitle": "AI Product Engineer | LLM Systems & React Native",
@@ -43640,8 +43383,188 @@
       "status": "ok"
     },
     {
+      "name": "Abhishek Kumar T",
+      "url": "https://abhishek-kumar-t.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/abhisheksharma611"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abhisheksharma611",
+      "twitter": "https://x.com/abhishekumar611",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Flask",
+        "Spring",
+        "MySQL",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Abhishek Kumar T | Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Rai A",
+      "url": "https://portfolio.abhirai2006.workers.dev",
+      "listedTitle": "AI & ML Student | Aspiring Machine Learning Engineer",
+      "emails": [
+        "abhirai2006@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Abhirai2006"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abhishek-rai-a-00067238b",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Abhishek Rai A - ML Engineer · Live Projects",
+      "location": "Mangalore, now in Mysuru",
+      "status": "ok"
+    },
+    {
+      "name": "Keerthana R",
+      "url": "https://keerthana-raghu.vercel.app",
+      "listedTitle": "Data Analyst",
+      "emails": [],
+      "github": [
+        "https://github.com/keerthana-raghu"
+      ],
+      "linkedin": "https://www.linkedin.com/in/keerthana-raghu",
+      "twitter": null,
+      "stack": [
+        "Python",
+        "Go",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Keerthana R | Aspiring Data Analyst — Python, SQL, Power BI",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mahir Faysal",
+      "url": "https://mfaysal.com",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/mfaysal-dev"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "PHP",
+        "Node.js",
+        "MySQL",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Mahir Faysal – Bangladeshi Web Developer &amp; Software Tester",
+      "location": "Bangladesh building fast PHP, JavaScript, Python and Next",
+      "status": "ok"
+    },
+    {
+      "name": "Pavithran S",
+      "url": "https://pavithran26.vercel.app",
+      "listedTitle": "Forward Deployed Engineer",
+      "emails": [
+        "pavithran2004cs@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Pavithran26"
+      ],
+      "linkedin": "https://linkedin.com/in/pavithran-s-ab85a9235",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Pavithran S | Forward Deployed Engineer (FDE) & AI Systems Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Saksham Garg",
+      "url": "https://sakshamgargportfolio.vercel.app",
+      "listedTitle": "Full Stack Developer | React, Next.js & Node.js",
+      "emails": [
+        "saksham23garg@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/saksham-garg-8b6260257",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Saksham Garg — Full-stack Developer",
+      "location": "idea to launch, pairing clear, responsive interfaces with reliable APIs and thoughtful interactions",
+      "status": "ok"
+    },
+    {
+      "name": "Sartaj Alam",
+      "url": "https://sartajalam.in",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "sartaj2394@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sak03"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sak03",
+      "twitter": "https://x.com/sartaj_03",
+      "stack": [
+        "React",
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "Laravel"
+      ],
+      "experience": null,
+      "title": "Sartaj Alam — Full Stack Web Developer",
+      "location": "Chatbots to Teammates That Take Action",
+      "status": "ok"
+    },
+    {
       "name": "Waqas Sharif",
-      "url": "https://waqas01cp.github.io/",
+      "url": "https://waqas01cp.github.io",
       "listedTitle": "AI Engineer | LLM Reliability | Agentic Systems in Production",
       "emails": [
         "ma.sharif.waqas@gmail.com"
