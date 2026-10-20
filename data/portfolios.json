@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-20T10:54:51.217Z",
+    "scrapedAt": "2026-10-20T16:19:48.672Z",
     "total": 2065,
     "successful": 1749,
     "failed": 316,
@@ -42869,13 +42869,6 @@
       "status": "ok"
     },
     {
-      "name": "Shreyansh Agarwal",
-      "url": "https\\://shreyanshportfolio.in",
-      "listedTitle": "Backend Developer | Python, Java & AI Tools",
-      "status": "error",
-      "error": "Failed to parse URL from https\\://shreyanshportfolio.in"
-    },
-    {
       "name": "Sulayman Bowles",
       "url": "https://sulayman-bowles.dev",
       "listedTitle": "Software, Product & AI",
@@ -43587,22 +43580,6 @@
       "status": "ok"
     },
     {
-      "name": "Blake Karbon",
-      "url": "https://blakekarbon.github.io/",
-      "listedTitle": "COBOL / Legacy Systems Developer (Healthcare) | Firmware Developer | Full Stack +",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "JavaScript"
-      ],
-      "experience": null,
-      "title": "Blake Karbon's Web Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Joseph Thomas Mansilla",
       "url": "https://josephmansilla.github.io/portfolio/",
       "listedTitle": "System Design Engineer | Systems Engineering",
@@ -43615,24 +43592,6 @@
       ],
       "experience": null,
       "title": "JTM | Dev Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Kittipop Sanpho",
-      "url": "https://www.kktp.my/",
-      "listedTitle": "Full Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Python"
-      ],
-      "experience": null,
-      "title": "Kittipop Sanpho | Full-Stack Developer Portfolio",
       "location": null,
       "status": "ok"
     },
@@ -43796,6 +43755,47 @@
       "title": "Best Freelance Web Developer in Jaipur | Vishvajeet Shukla",
       "location": "Jaipur",
       "status": "ok"
+    },
+    {
+      "name": "Blake Karbon",
+      "url": "https://blakekarbon.github.io",
+      "listedTitle": "COBOL / Legacy Systems Developer (Healthcare) | Firmware Developer | Full Stack +",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript"
+      ],
+      "experience": null,
+      "title": "Blake Karbon's Web Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Kittipop Sanpho",
+      "url": "https://www.kktp.my",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Kittipop Sanpho | Full-Stack Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Shreyansh Agarwal",
+      "url": "https://shreyanshportfolio.in",
+      "listedTitle": "Backend Developer | Python, Java & AI Tools",
+      "status": "error",
+      "error": "HTTP 403"
     }
   ]
 }
