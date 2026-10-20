@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-19T21:58:53.680Z",
-    "total": 2062,
-    "successful": 1746,
+    "scrapedAt": "2026-10-20T10:54:51.217Z",
+    "total": 2065,
+    "successful": 1749,
     "failed": 316,
-    "withEmail": 860,
-    "withGithub": 1175,
-    "withStack": 1446,
-    "withLinkedin": 1069,
-    "withTwitter": 473
+    "withEmail": 862,
+    "withGithub": 1178,
+    "withStack": 1449,
+    "withLinkedin": 1072,
+    "withTwitter": 475
   },
   "portfolios": [
     {
@@ -43711,6 +43711,90 @@
       "experience": null,
       "title": "Shashi Kumar — Creative Full-Stack Engineer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ho Do Minh Quan",
+      "url": "https://nauqh.github.io",
+      "listedTitle": "Software Engineer | AI Automation",
+      "emails": [],
+      "github": [
+        "https://github.com/nauqh"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nauqh",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Ho Do Minh Quan | Software Engineer",
+      "location": "raw to usable",
+      "status": "ok"
+    },
+    {
+      "name": "Naved Alam",
+      "url": "https://naved.xyz",
+      "listedTitle": "Design Engineer | Design Systems & Front-End",
+      "emails": [
+        "navedux@gmail.com"
+      ],
+      "github": [
+        "https://github.com/navedux"
+      ],
+      "linkedin": "https://www.linkedin.com/in/navedux",
+      "twitter": "https://x.com/navedux",
+      "stack": [
+        "React",
+        "Next.js",
+        "Go",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Naved Alam · Design Engineer",
+      "location": "the first sketch to launch, and I like the knotty ones",
+      "status": "ok"
+    },
+    {
+      "name": "Vishvajeet Shukla",
+      "url": "https://www.vishvajeetshukla.in",
+      "listedTitle": "Full Stack Developer | MERN, Next.js & DevOps",
+      "emails": [
+        "hello@vishvajeetshukla.in"
+      ],
+      "github": [
+        "https://github.com/vishvajeet2012"
+      ],
+      "linkedin": "https://www.linkedin.com/in/vishvajeet-shukla",
+      "twitter": "https://x.com/vishuu_js",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "AWS",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Best Freelance Web Developer in Jaipur | Vishvajeet Shukla",
+      "location": "Jaipur",
       "status": "ok"
     }
   ]
