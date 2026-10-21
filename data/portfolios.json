@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-20T16:19:48.672Z",
-    "total": 2065,
-    "successful": 1749,
+    "scrapedAt": "2026-10-21T11:08:47.308Z",
+    "total": 2067,
+    "successful": 1751,
     "failed": 316,
-    "withEmail": 862,
-    "withGithub": 1178,
-    "withStack": 1449,
+    "withEmail": 864,
+    "withGithub": 1179,
+    "withStack": 1451,
     "withLinkedin": 1072,
     "withTwitter": 475
   },
@@ -43796,6 +43796,54 @@
       "listedTitle": "Backend Developer | Python, Java & AI Tools",
       "status": "error",
       "error": "HTTP 403"
+    },
+    {
+      "name": "Benjamin Blanke",
+      "url": "https://blanke.lol",
+      "listedTitle": "Full Stack Developer | Web Developer",
+      "emails": [
+        "be.blanke@pm.me"
+      ],
+      "github": [
+        "https://github.com/benjamin-blanke"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Node.js",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Benjamin Blanke",
+      "location": "Germany building hosting infrastructure, web experiences and tools",
+      "status": "ok"
+    },
+    {
+      "name": "Vatsal Bhavsar",
+      "url": "https://vatsal.lol/portfolio/",
+      "listedTitle": "",
+      "emails": [
+        "vatsalpbhavsar@gmail.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Vatsal Bhavsar — Player Profile",
+      "location": "curiosity",
+      "status": "ok"
     }
   ]
 }
