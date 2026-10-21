@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-21T11:08:47.308Z",
-    "total": 2067,
-    "successful": 1751,
+    "scrapedAt": "2026-10-21T21:14:05.107Z",
+    "total": 2069,
+    "successful": 1753,
     "failed": 316,
-    "withEmail": 864,
-    "withGithub": 1179,
-    "withStack": 1451,
-    "withLinkedin": 1072,
+    "withEmail": 866,
+    "withGithub": 1181,
+    "withStack": 1453,
+    "withLinkedin": 1074,
     "withTwitter": 475
   },
   "portfolios": [
@@ -43843,6 +43843,58 @@
       "experience": null,
       "title": "Vatsal Bhavsar — Player Profile",
       "location": "curiosity",
+      "status": "ok"
+    },
+    {
+      "name": "Deepak Terse",
+      "url": "https://deepak-terse.github.io",
+      "listedTitle": "Technical Architect & AI Engineer",
+      "emails": [
+        "deepakterse230196@gmail.com"
+      ],
+      "github": [
+        "https://github.com/deepak-terse"
+      ],
+      "linkedin": "https://www.linkedin.com/in/deepak-terse",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Go"
+      ],
+      "experience": "10+ years",
+      "title": "Deepak Terse — Technical Architect &amp; AI Engineer",
+      "location": "the ground up and making decisions that affect entire systems",
+      "status": "ok"
+    },
+    {
+      "name": "Syed Faiz Imam",
+      "url": "https://faizimam.in",
+      "listedTitle": "Senior Software Developer | Backend, Voice AI & Kafka",
+      "emails": [
+        "faizkalwara@gmail.com",
+        "you@company.com"
+      ],
+      "github": [
+        "https://github.com/Faiziimam"
+      ],
+      "linkedin": "https://www.linkedin.com/in/faiziimam",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "Azure",
+        "Firebase",
+        "GraphQL",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Syed Faiz Imam · Senior Backend Developer (Node.js, Kafka, Voice AI)",
+      "location": "where you tapped and swallows the page",
       "status": "ok"
     }
   ]
