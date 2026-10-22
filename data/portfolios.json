@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-21T21:14:05.107Z",
-    "total": 2069,
-    "successful": 1753,
+    "scrapedAt": "2026-10-22T16:36:41.298Z",
+    "total": 2072,
+    "successful": 1756,
     "failed": 316,
-    "withEmail": 866,
-    "withGithub": 1181,
-    "withStack": 1453,
-    "withLinkedin": 1074,
-    "withTwitter": 475
+    "withEmail": 869,
+    "withGithub": 1183,
+    "withStack": 1455,
+    "withLinkedin": 1077,
+    "withTwitter": 477
   },
   "portfolios": [
     {
@@ -43895,6 +43895,87 @@
       "experience": null,
       "title": "Syed Faiz Imam · Senior Backend Developer (Node.js, Kafka, Voice AI)",
       "location": "where you tapped and swallows the page",
+      "status": "ok"
+    },
+    {
+      "name": "Aleksei Aleinikov",
+      "url": "https://www.alekseialeinikov.com/en",
+      "listedTitle": "Senior Platform & Cloud Engineer | SRE | Cloud Security",
+      "emails": [
+        "aleksei_aleinikov@mastodon.social",
+        "contact@alekseialeinikov.com"
+      ],
+      "github": [
+        "https://github.com/LF3551"
+      ],
+      "linkedin": "https://www.linkedin.com/in/a-aleinikov",
+      "twitter": "https://x.com/Aleksei_gr1",
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        ".NET"
+      ],
+      "experience": "12+ years",
+      "title": "Cloud Platform &amp; Security Engineer (GCP) | Aleksei Aleinikov",
+      "location": "the address bar once consumed so the URL",
+      "status": "ok"
+    },
+    {
+      "name": "Mouayed Belkhir",
+      "url": "https://mouayedbelkhir.vercel.app",
+      "listedTitle": "Full Stack Developer | Next.js, Node.js, Strapi",
+      "emails": [
+        "mouayedbelkhir123@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/mouayedbelkhir",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Mouayed Belkhir | Full-Stack JavaScript Developer",
+      "location": "the Strapi back end to the Next",
+      "status": "ok"
+    },
+    {
+      "name": "Muneeb Rehman",
+      "url": "https://muna-portfolio-2k26.vercel.app",
+      "listedTitle": "Creative Developer & AI Builder",
+      "emails": [
+        "muneebrahman500@gmail.com"
+      ],
+      "github": [
+        "https://github.com/muneebrahmancmd"
+      ],
+      "linkedin": "https://www.linkedin.com/in/muneeb-soomro-887925333",
+      "twitter": "https://twitter.com/Muneeb455365487",
+      "stack": [],
+      "experience": null,
+      "title": "Muneeb Rehman",
+      "location": "Pakistan",
       "status": "ok"
     }
   ]
