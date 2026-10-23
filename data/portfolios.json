@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-22T16:36:41.298Z",
-    "total": 2072,
-    "successful": 1756,
-    "failed": 316,
-    "withEmail": 869,
-    "withGithub": 1183,
-    "withStack": 1455,
-    "withLinkedin": 1077,
+    "scrapedAt": "2026-10-23T16:26:33.737Z",
+    "total": 2073,
+    "successful": 1759,
+    "failed": 314,
+    "withEmail": 871,
+    "withGithub": 1186,
+    "withStack": 1458,
+    "withLinkedin": 1080,
     "withTwitter": 477
   },
   "portfolios": [
@@ -363,13 +363,6 @@
       "title": "aashutosh.dev | Home",
       "location": null,
       "status": "ok"
-    },
-    {
-      "name": "Aathif Zahir",
-      "url": "https://az-dev.vercel.app",
-      "listedTitle": "",
-      "status": "error",
-      "error": "HTTP 429"
     },
     {
       "name": "Aaweł Szostak",
@@ -26153,13 +26146,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Yogi Arif Widodo",
-      "url": "https://yogiveloper.com",
-      "listedTitle": "Full Stack Software Engineer | Newbie Hacker",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Younes Megaache",
       "url": "https://younes-megaache.com",
       "listedTitle": "Software Developer",
@@ -43976,6 +43962,88 @@
       "experience": null,
       "title": "Muneeb Rehman",
       "location": "Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Aathif Zahir",
+      "url": "https://aathifzahir.vercel.app",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/AathifZahir"
+      ],
+      "linkedin": "https://www.linkedin.com/in/aathifzahir",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "MongoDB",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Aathif Zahir | Software Engineer &amp; Designer",
+      "location": "SRI LANKA, I AM AN INNOVATIVE DESIGNER AND DIGITAL ARTIST",
+      "status": "ok"
+    },
+    {
+      "name": "Jaison David",
+      "url": "https://jaisondavid.in",
+      "listedTitle": "Backend & Distributed Systems Engineer | Go, Kafka, Redis",
+      "emails": [
+        "jaison7373@gmail.com"
+      ],
+      "github": [
+        "https://github.com/jaisondavid-m"
+      ],
+      "linkedin": "https://www.linkedin.com/in/jaison-david-m-a14072360",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Go",
+        "AWS",
+        "Docker",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Jaison David | Backend &amp; Distributed Systems Engineer",
+      "location": "repos",
+      "status": "ok"
+    },
+    {
+      "name": "Yogi Arif Widodo",
+      "url": "https://yogiarifwidodo.my.id",
+      "listedTitle": "Full Stack Software Engineer",
+      "emails": [
+        "yogirenbox33@gmail.com"
+      ],
+      "github": [
+        "https://github.com/yogithesymbian"
+      ],
+      "linkedin": "https://linkedin.com/in/yogi-arif-widodo",
+      "twitter": null,
+      "stack": [
+        "Vue",
+        "Next.js",
+        "TypeScript",
+        "Rust",
+        "PHP",
+        "Node.js",
+        "AWS",
+        "GCP",
+        "PostgreSQL",
+        "MySQL",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Yogi Arif Widodo | Software Engineer in Balikpapan",
+      "location": "web and mobile products to legacy modernization and cloud operations, I work across the stack with t",
       "status": "ok"
     }
   ]
