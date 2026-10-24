@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-24T03:14:31.082Z",
-    "total": 2074,
-    "successful": 1760,
+    "scrapedAt": "2026-10-24T15:21:54.134Z",
+    "total": 2077,
+    "successful": 1763,
     "failed": 314,
-    "withEmail": 871,
-    "withGithub": 1187,
-    "withStack": 1459,
-    "withLinkedin": 1081,
-    "withTwitter": 477
+    "withEmail": 873,
+    "withGithub": 1189,
+    "withStack": 1461,
+    "withLinkedin": 1083,
+    "withTwitter": 478
   },
   "portfolios": [
     {
@@ -44071,6 +44071,75 @@
       "experience": null,
       "title": "Nickolas Diaz Website",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Abhisht Singh",
+      "url": "https://abhisht2000.github.io/Portfolio/",
+      "listedTitle": "Full Stack Developer | AIML Enthusiast",
+      "emails": [
+        "singhabhisht2007@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Abhisht2000"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abhisht-singh-71063b327",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Firebase",
+        "Tailwind",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Developer Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Madhav Raj",
+      "url": "https://www.madhav70.live",
+      "listedTitle": "CS Undergrad | Software Engineer | Full Stack & AI Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Madhav Raj — Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Mahdi Salek",
+      "url": "https://mahdis24.tech",
+      "listedTitle": "Front-End Developer | Vue.js",
+      "emails": [
+        "mahdi.6n@gmail.com"
+      ],
+      "github": [
+        "https://github.com/mahdis24"
+      ],
+      "linkedin": "https://linkedin.com/in/mahdi-s24",
+      "twitter": "https://x.com/mahdi_s24",
+      "stack": [
+        "Vue",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Mahdi Salek - Front-End Developer | Vue & Nuxt",
+      "location": "structuring stores and composables sensibly to",
       "status": "ok"
     }
   ]
