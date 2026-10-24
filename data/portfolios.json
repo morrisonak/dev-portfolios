@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-23T16:26:33.737Z",
-    "total": 2073,
-    "successful": 1759,
+    "scrapedAt": "2026-10-24T03:14:31.082Z",
+    "total": 2074,
+    "successful": 1760,
     "failed": 314,
     "withEmail": 871,
-    "withGithub": 1186,
-    "withStack": 1458,
-    "withLinkedin": 1080,
+    "withGithub": 1187,
+    "withStack": 1459,
+    "withLinkedin": 1081,
     "withTwitter": 477
   },
   "portfolios": [
@@ -44044,6 +44044,33 @@
       "experience": null,
       "title": "Yogi Arif Widodo | Software Engineer in Balikpapan",
       "location": "web and mobile products to legacy modernization and cloud operations, I work across the stack with t",
+      "status": "ok"
+    },
+    {
+      "name": "Nickolas Diaz",
+      "url": "https://nickolasddiaz.github.io",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/nickolasddiaz"
+      ],
+      "linkedin": "https://www.linkedin.com/in/nickolas-diaz-937222242",
+      "twitter": null,
+      "stack": [
+        "Svelte",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP",
+        "Flask",
+        "AWS",
+        "GCP",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Nickolas Diaz Website",
+      "location": null,
       "status": "ok"
     }
   ]
