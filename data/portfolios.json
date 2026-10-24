@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-24T15:21:54.134Z",
-    "total": 2077,
-    "successful": 1763,
+    "scrapedAt": "2026-10-24T20:11:44.011Z",
+    "total": 2078,
+    "successful": 1764,
     "failed": 314,
-    "withEmail": 873,
-    "withGithub": 1189,
-    "withStack": 1461,
-    "withLinkedin": 1083,
+    "withEmail": 874,
+    "withGithub": 1190,
+    "withStack": 1462,
+    "withLinkedin": 1084,
     "withTwitter": 478
   },
   "portfolios": [
@@ -44140,6 +44140,41 @@
       "experience": null,
       "title": "Mahdi Salek - Front-End Developer | Vue & Nuxt",
       "location": "structuring stores and composables sensibly to",
+      "status": "ok"
+    },
+    {
+      "name": "Vishwa R",
+      "url": "https://vishwa.vercel.app",
+      "listedTitle": "Full Stack Developer | React, Next.js, APIs & Automation",
+      "emails": [
+        "vishwa.js@outlook.com"
+      ],
+      "github": [
+        "https://github.com/vishwavinoth"
+      ],
+      "linkedin": "https://www.linkedin.com/in/vishwaoffl",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Node.js",
+        "Express",
+        "AWS",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "Figma",
+        "WordPress"
+      ],
+      "experience": "4+ years",
+      "title": "Vishwa R | Full Stack Developer (React, Next.js, Node.js)",
+      "location": "booking ERPs and publishing platforms to fleet, healthcare and marketplace apps, and built the team",
       "status": "ok"
     }
   ]
