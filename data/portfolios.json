@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-25T20:21:43.953Z",
+    "scrapedAt": "2026-10-26T12:14:22.971Z",
     "total": 2074,
     "successful": 1763,
     "failed": 311,
@@ -43220,28 +43220,6 @@
       "status": "ok"
     },
     {
-      "name": "Pavithran S",
-      "url": "https://pavithran26.vercel.app",
-      "listedTitle": "Forward Deployed Engineer",
-      "emails": [
-        "pavithran2004cs@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Pavithran26"
-      ],
-      "linkedin": "https://linkedin.com/in/pavithran-s-ab85a9235",
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Pavithran S | Forward Deployed Engineer (FDE) & AI Systems Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Saksham Garg",
       "url": "https://sakshamgargportfolio.vercel.app",
       "listedTitle": "Full Stack Developer | React, Next.js & Node.js",
@@ -44091,6 +44069,28 @@
       "experience": null,
       "title": "Vaibhav Singh | Full Stack Developer &amp; Open Source Contributor",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Pavithran S",
+      "url": "https://pavithran26.net",
+      "listedTitle": "Forward Deployed Engineer",
+      "emails": [
+        "pavithran2004cs@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Pavithran26"
+      ],
+      "linkedin": "https://linkedin.com/in/pavithran-s-ab85a9235",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Pavithran S | Forward Deployed Engineer (FDE) & AI Systems Portfolio",
+      "location": "its landing page, not restore",
       "status": "ok"
     }
   ]
