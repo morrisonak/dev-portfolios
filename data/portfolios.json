@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-26T12:14:22.971Z",
-    "total": 2074,
-    "successful": 1763,
+    "scrapedAt": "2026-10-27T11:34:56.477Z",
+    "total": 2075,
+    "successful": 1764,
     "failed": 311,
-    "withEmail": 872,
-    "withGithub": 1187,
-    "withStack": 1460,
+    "withEmail": 873,
+    "withGithub": 1188,
+    "withStack": 1461,
     "withLinkedin": 1082,
     "withTwitter": 473
   },
@@ -44091,6 +44091,30 @@
       "experience": null,
       "title": "Pavithran S | Forward Deployed Engineer (FDE) & AI Systems Portfolio",
       "location": "its landing page, not restore",
+      "status": "ok"
+    },
+    {
+      "name": "Yorben Vander Sleyen",
+      "url": "https://yorben.me",
+      "listedTitle": "Apple Platforms Engineer | SwiftUI & Architecture",
+      "emails": [
+        "yorben.vander.sleyen@icloud.com"
+      ],
+      "github": [
+        "https://github.com/Yvsleyen00941"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Swift"
+      ],
+      "experience": null,
+      "title": "Yorben Vander Sleyen — Apps for iPhone, iPad and Mac",
+      "location": "your iPad",
       "status": "ok"
     }
   ]
