@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-27T11:34:56.477Z",
-    "total": 2075,
-    "successful": 1764,
-    "failed": 311,
-    "withEmail": 873,
-    "withGithub": 1188,
-    "withStack": 1461,
-    "withLinkedin": 1082,
+    "scrapedAt": "2026-10-27T17:27:02.427Z",
+    "total": 2078,
+    "successful": 1766,
+    "failed": 312,
+    "withEmail": 874,
+    "withGithub": 1189,
+    "withStack": 1462,
+    "withLinkedin": 1083,
     "withTwitter": 473
   },
   "portfolios": [
@@ -44116,6 +44116,52 @@
       "title": "Yorben Vander Sleyen — Apps for iPhone, iPad and Mac",
       "location": "your iPad",
       "status": "ok"
+    },
+    {
+      "name": "Ivan Markin",
+      "url": "https://curiouseyes.tech",
+      "listedTitle": "Full Stack Engineer | React / Vue / Node.js / Electron",
+      "emails": [
+        "ivan.a.markin@gmail.com",
+        "ivanmarkin@curiouseyes.tech"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/ivan-markin-ui-engineer",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Nuxt",
+        "TypeScript",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Curious Eyes — Ivan Markin",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Korey Wang Tianru",
+      "url": "https://korey2028.tech",
+      "listedTitle": "Product Manager | AI applications / Agent workflows",
+      "emails": [],
+      "github": [
+        "https://github.com/korey2028-prog"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "KOREY WANG TIANRU｜产品经理作品集",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rahul Kumar",
+      "url": "https://rahnoxa.antideploy.com",
+      "listedTitle": "Software Architect & Full-Stack Engineer",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
     }
   ]
 }
