@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-27T17:27:02.427Z",
-    "total": 2078,
-    "successful": 1766,
+    "scrapedAt": "2026-10-28T12:05:13.536Z",
+    "total": 2081,
+    "successful": 1769,
     "failed": 312,
-    "withEmail": 874,
-    "withGithub": 1189,
-    "withStack": 1462,
-    "withLinkedin": 1083,
-    "withTwitter": 473
+    "withEmail": 875,
+    "withGithub": 1191,
+    "withStack": 1464,
+    "withLinkedin": 1085,
+    "withTwitter": 475
   },
   "portfolios": [
     {
@@ -44162,6 +44162,61 @@
       "listedTitle": "Software Architect & Full-Stack Engineer",
       "status": "error",
       "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Francis Luz",
+      "url": "https://entry.fyi/francisluz",
+      "listedTitle": "Founder, Entry | Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/francisluz"
+      ],
+      "linkedin": "https://www.linkedin.com/in/francisluz",
+      "twitter": "https://x.com/francisluz",
+      "stack": [
+        "JavaScript",
+        "Go",
+        "Spring",
+        "Figma"
+      ],
+      "experience": "20+ years",
+      "title": "Francis Luz · Entry",
+      "location": "your GitHub or website",
+      "status": "ok"
+    },
+    {
+      "name": "Gene Dai",
+      "url": "https://genedai.md",
+      "listedTitle": "Product builder | Co-Founder & CPO, Metix AI",
+      "emails": [
+        "hi@genedai.me"
+      ],
+      "github": [
+        "https://github.com/Digidai"
+      ],
+      "linkedin": "https://linkedin.com/in/genedai",
+      "twitter": "https://x.com/metix_ai",
+      "stack": [],
+      "experience": null,
+      "title": "Gene Dai — Product Builder | Co-Founder &amp; CPO @ Metix AI",
+      "location": "every angle",
+      "status": "ok"
+    },
+    {
+      "name": "João Pedro Moreira",
+      "url": "https://nayetdet.dev",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "João Pedro Moreira — Full Stack Developer",
+      "location": null,
+      "status": "ok"
     }
   ]
 }
