@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-28T12:05:13.536Z",
-    "total": 2081,
-    "successful": 1769,
+    "scrapedAt": "2026-10-29T12:16:12.695Z",
+    "total": 2084,
+    "successful": 1772,
     "failed": 312,
-    "withEmail": 875,
-    "withGithub": 1191,
-    "withStack": 1464,
-    "withLinkedin": 1085,
+    "withEmail": 877,
+    "withGithub": 1194,
+    "withStack": 1467,
+    "withLinkedin": 1086,
     "withTwitter": 475
   },
   "portfolios": [
@@ -44215,6 +44215,89 @@
       ],
       "experience": null,
       "title": "João Pedro Moreira — Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Custard",
+      "url": "https://custard.top/en",
+      "listedTitle": "Data Analysis | Product Development",
+      "emails": [
+        "cstd@custard.top"
+      ],
+      "github": [
+        "https://github.com/Muguett-DBY"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Express",
+        "Flask",
+        "MongoDB",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Custard | Data analysis and product development | CSTD",
+      "location": "scripts",
+      "status": "ok"
+    },
+    {
+      "name": "Vaishali Wankhede",
+      "url": "https://vaishbil.github.io/portfolio",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "you@email.com",
+        "vaishaliwankhede777@gmail.com"
+      ],
+      "github": [
+        "https://github.com/vaishbil"
+      ],
+      "linkedin": "https://linkedin.com/in/vaishali-wankhede-943108188",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Vaishali Wankhede Portfolio",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Vip3r",
+      "url": "https://vip3r-portfolio.vercel.app",
+      "listedTitle": "Full-Stack Web Developer | Exiled Developer",
+      "emails": [],
+      "github": [
+        "https://github.com/Vip3r4",
+        "https://github.com/Exiled-Team"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "PostgreSQL",
+        "Firebase",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Vip3r Portfolio",
       "location": null,
       "status": "ok"
     }
