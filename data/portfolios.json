@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-29T12:16:12.695Z",
-    "total": 2084,
-    "successful": 1772,
-    "failed": 312,
-    "withEmail": 877,
-    "withGithub": 1194,
-    "withStack": 1467,
-    "withLinkedin": 1086,
+    "scrapedAt": "2026-10-29T22:24:54.503Z",
+    "total": 2086,
+    "successful": 1773,
+    "failed": 313,
+    "withEmail": 878,
+    "withGithub": 1195,
+    "withStack": 1468,
+    "withLinkedin": 1087,
     "withTwitter": 475
   },
   "portfolios": [
@@ -44299,6 +44299,45 @@
       "experience": null,
       "title": "Vip3r Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Foisal",
+      "url": "https://foisal.org",
+      "listedTitle": "Full Stack Developer | Blockchain",
+      "status": "error",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Louey Lahwel",
+      "url": "https://forkfolio.dev/loueylahwel",
+      "listedTitle": "Data Engineer",
+      "emails": [
+        "loueylahwel@gmail.com",
+        "jane@company.com"
+      ],
+      "github": [
+        "https://github.com/loueylahwel"
+      ],
+      "linkedin": "https://www.linkedin.com/in/loueylahwel",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Louey Lahwel · Data Engineer · Forkfolio",
+      "location": "Android phone using Dart and Flutter",
       "status": "ok"
     }
   ]
