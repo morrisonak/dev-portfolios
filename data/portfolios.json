@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-30T12:06:35.429Z",
-    "total": 2088,
-    "successful": 1775,
+    "scrapedAt": "2026-10-30T21:55:23.282Z",
+    "total": 2090,
+    "successful": 1777,
     "failed": 313,
-    "withEmail": 880,
-    "withGithub": 1197,
-    "withStack": 1470,
-    "withLinkedin": 1089,
-    "withTwitter": 476
+    "withEmail": 882,
+    "withGithub": 1199,
+    "withStack": 1472,
+    "withLinkedin": 1090,
+    "withTwitter": 477
   },
   "portfolios": [
     {
@@ -44397,6 +44397,74 @@
       "experience": null,
       "title": "Sharath Pai — AI &amp; Backend Developer in Mumbai, India",
       "location": "various knowledge bases using vector search",
+      "status": "ok"
+    },
+    {
+      "name": "Ayush Anand Srivastava",
+      "url": "https://www.ayushdoesdev.in/",
+      "listedTitle": "Backend & GenAI Systems Engineer | Technical Lead",
+      "emails": [
+        "ayushdoesdev@gmail.com"
+      ],
+      "github": [
+        "https://github.com/ayushdoesdev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ayushdoesdev",
+      "twitter": "https://x.com/ayushdoesdev",
+      "stack": [
+        "React",
+        "Svelte",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Django",
+        "Flask",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Ayush Anand Srivastava — Backend &amp; GenAI Systems Engineer",
+      "location": "shipped systems",
+      "status": "ok"
+    },
+    {
+      "name": "Hien Le",
+      "url": "https://www.hienlnt.id.vn/",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "lengoctanhien090@gmail.com"
+      ],
+      "github": [
+        "https://github.com/lnt-h",
+        "https://github.com/emmabostian"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Hien Le — Software Engineer",
+      "location": null,
       "status": "ok"
     }
   ]
