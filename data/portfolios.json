@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-29T22:24:54.503Z",
-    "total": 2086,
-    "successful": 1773,
+    "scrapedAt": "2026-10-30T12:06:35.429Z",
+    "total": 2088,
+    "successful": 1775,
     "failed": 313,
-    "withEmail": 878,
-    "withGithub": 1195,
-    "withStack": 1468,
-    "withLinkedin": 1087,
-    "withTwitter": 475
+    "withEmail": 880,
+    "withGithub": 1197,
+    "withStack": 1470,
+    "withLinkedin": 1089,
+    "withTwitter": 476
   },
   "portfolios": [
     {
@@ -44338,6 +44338,65 @@
       "experience": null,
       "title": "Louey Lahwel · Data Engineer · Forkfolio",
       "location": "Android phone using Dart and Flutter",
+      "status": "ok"
+    },
+    {
+      "name": "Abu Jafor",
+      "url": "https://portfolio-website-bc28.vercel.app/",
+      "listedTitle": "Frontend Developer | React, Next.js",
+      "emails": [
+        "jafor.cse07@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Jafor07"
+      ],
+      "linkedin": "https://www.linkedin.com/in/abu-jafor-02b629244",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Md. Abu Jafor | Frontend Engineer | AI &amp; Computer Vision",
+      "location": "scratch, not a template",
+      "status": "ok"
+    },
+    {
+      "name": "Sharath Pai",
+      "url": "https://sharathpai.vercel.app",
+      "listedTitle": "AI & Backend Developer | LLMs, Agents, RAG",
+      "emails": [
+        "sharathpai107@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Sharath1036"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sharathpai107",
+      "twitter": "https://www.twitter.com/Sharath1072",
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Django",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        ".NET",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Sharath Pai — AI &amp; Backend Developer in Mumbai, India",
+      "location": "various knowledge bases using vector search",
       "status": "ok"
     }
   ]
