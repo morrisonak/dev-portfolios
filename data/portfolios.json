@@ -1,8 +1,8 @@
 {
   "meta": {
-    "scrapedAt": "2026-10-30T21:55:23.282Z",
-    "total": 2090,
-    "successful": 1777,
+    "scrapedAt": "2026-11-01T04:20:04.837Z",
+    "total": 2091,
+    "successful": 1778,
     "failed": 313,
     "withEmail": 882,
     "withGithub": 1199,
@@ -44464,6 +44464,20 @@
       ],
       "experience": null,
       "title": "Hien Le — Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Neel Patel",
+      "url": "https://muse.ai/s/neel-patel-portfolio-tomas-style-xzxx6m5xtl3huxh/44rs8uC9gN1nl-HjxoLSA9T-gfn27ZKRX8RhxAimXuw",
+      "listedTitle": "IT Support | Help Desk | Junior Network & Cybersecurity",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Muse — Your Personal AI Agent",
       "location": null,
       "status": "ok"
     }
