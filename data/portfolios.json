@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-01T04:20:04.837Z",
-    "total": 2091,
-    "successful": 1778,
+    "scrapedAt": "2026-11-01T21:40:43.923Z",
+    "total": 2093,
+    "successful": 1780,
     "failed": 313,
-    "withEmail": 882,
-    "withGithub": 1199,
-    "withStack": 1472,
-    "withLinkedin": 1090,
-    "withTwitter": 477
+    "withEmail": 884,
+    "withGithub": 1201,
+    "withStack": 1474,
+    "withLinkedin": 1092,
+    "withTwitter": 479
   },
   "portfolios": [
     {
@@ -44479,6 +44479,56 @@
       "experience": null,
       "title": "Muse — Your Personal AI Agent",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Facundo Allia Fernandez",
+      "url": "https://facundoallia.github.io",
+      "listedTitle": "Data Scientist | AI Engineer | Quantitative Finance",
+      "emails": [
+        "facujallia@gmail.com"
+      ],
+      "github": [
+        "https://github.com/facundoallia"
+      ],
+      "linkedin": "https://www.linkedin.com/in/facundoalliafernandez",
+      "twitter": "https://x.com/facundoallia",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "AWS",
+        "Azure",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Facundo Allia Fernandez | Data Scientist, AI and Data Engineer",
+      "location": "WhatsApp, turns it into structured notes with Claude, adds market charts, requests approval on Teleg",
+      "status": "ok"
+    },
+    {
+      "name": "Shlok Bam",
+      "url": "https://shlokbam.in",
+      "listedTitle": "AI / Generative AI Engineer | Agents, RAG, LLM Evals",
+      "emails": [
+        "shlokbam19103@gmail.com"
+      ],
+      "github": [
+        "https://github.com/shlokbam"
+      ],
+      "linkedin": "https://www.linkedin.com/in/shlokbam",
+      "twitter": "https://x.com/shlok_bam",
+      "stack": [
+        "React",
+        "Python",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Shlok Bam | AI / Generative AI Engineer in Pune, India",
+      "location": "Pune and happy to relocate",
       "status": "ok"
     }
   ]
