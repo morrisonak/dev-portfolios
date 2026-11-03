@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-02T04:22:06.062Z",
-    "total": 2087,
-    "successful": 1772,
+    "scrapedAt": "2026-11-03T13:37:00.494Z",
+    "total": 2092,
+    "successful": 1777,
     "failed": 315,
-    "withEmail": 880,
-    "withGithub": 1196,
-    "withStack": 1466,
-    "withLinkedin": 1089,
-    "withTwitter": 479
+    "withEmail": 883,
+    "withGithub": 1200,
+    "withStack": 1471,
+    "withLinkedin": 1092,
+    "withTwitter": 480
   },
   "portfolios": [
     {
@@ -44333,6 +44333,132 @@
       "listedTitle": "Software Developer | NextJS",
       "status": "error",
       "error": "HTTP 403"
+    },
+    {
+      "name": "Afaq Rashid",
+      "url": "https://www.afaqrashid.com",
+      "listedTitle": "Full-Stack Developer | Next.js, React, TypeScript",
+      "emails": [
+        "i.afaqrashid@gmail.com"
+      ],
+      "github": [
+        "https://github.com/i-afaqrashid"
+      ],
+      "linkedin": "https://www.linkedin.com/in/afaq-rashid-6b40601b4",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Gatsby",
+        "TypeScript",
+        "Node.js",
+        "AWS",
+        "Tailwind",
+        "GraphQL",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Afaq Rashid — Full-Stack Next.js Developer, Remote Worldwide",
+      "location": "Islamabad",
+      "status": "ok"
+    },
+    {
+      "name": "Alex Koncept",
+      "url": "https://alexkoncept.github.io/",
+      "listedTitle": "Creative Technologist | Tech, AI & Watchmaking",
+      "emails": [
+        "contact@alexkoncept.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Alex Koncept – Universe",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Arsh Javed",
+      "url": "https://arshjaved.in",
+      "listedTitle": "Product Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/metarsh"
+      ],
+      "linkedin": "https://linkedin.com/in/arsh-javed",
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "arsh",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Baqir Naqvi",
+      "url": "https://www.baqirnaqvi.dev/",
+      "listedTitle": "Senior Full Stack Engineer | SaaS, Payments & AI",
+      "emails": [
+        "b.naqvi99@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Baqir-Naqvi"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/Baqir_Naqvi98",
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Baqir Naqvi | SaaS, Payments &amp; AI Engineering",
+      "location": "initial build to a usable web experience with tone controls, analytics and consent tooling",
+      "status": "ok"
+    },
+    {
+      "name": "Caden Chau",
+      "url": "https://cadenchau.com",
+      "listedTitle": "",
+      "emails": [],
+      "github": [
+        "https://github.com/wa1ker38552"
+      ],
+      "linkedin": "https://www.linkedin.com/in/caden-c-760bb8315",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Swift",
+        "Express",
+        "Flask",
+        "AWS",
+        "Azure",
+        "MongoDB",
+        "Firebase"
+      ],
+      "experience": null,
+      "title": "Caden Chau",
+      "location": "scratch in Flask, later evolved into Multicord",
+      "status": "ok"
     }
   ]
 }
