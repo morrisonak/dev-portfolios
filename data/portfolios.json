@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-04T13:45:39.692Z",
-    "total": 2095,
-    "successful": 1780,
+    "scrapedAt": "2026-11-04T23:11:10.484Z",
+    "total": 2098,
+    "successful": 1783,
     "failed": 315,
-    "withEmail": 885,
-    "withGithub": 1202,
-    "withStack": 1473,
-    "withLinkedin": 1094,
+    "withEmail": 888,
+    "withGithub": 1205,
+    "withStack": 1476,
+    "withLinkedin": 1097,
     "withTwitter": 480
   },
   "portfolios": [
@@ -44539,6 +44539,92 @@
       "experience": "4+ years",
       "title": "Sugatraj Sarwade – Full Stack Developer | React, Python &amp; AI",
       "location": "Pune, India",
+      "status": "ok"
+    },
+    {
+      "name": "Biprodas Roy",
+      "url": "https://www.biprodas.dev",
+      "listedTitle": "Senior Software Engineer | NestJS, Next.js, AWS | AI Engineer",
+      "emails": [
+        "biprodas.cse@gmail.com"
+      ],
+      "github": [
+        "https://github.com/biprodas"
+      ],
+      "linkedin": "https://www.linkedin.com/in/biprodas-roy",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Biprodas Roy · Software Engineer",
+      "location": "scalable APIs to polished interfaces",
+      "status": "ok"
+    },
+    {
+      "name": "Prince Kumar",
+      "url": "https://prince-kumar-portfolio-five.vercel.app/",
+      "listedTitle": "Java Backend Developer",
+      "emails": [
+        "developer.prince.kumar@gmail.com"
+      ],
+      "github": [
+        "https://github.com/prince2404"
+      ],
+      "linkedin": "https://linkedin.com/in/nameisprince",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Go",
+        "Java",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Prince Kumar | Java Backend Developer",
+      "location": "those documents and uses it to write clear, helpful answers for people looking for guidance",
+      "status": "ok"
+    },
+    {
+      "name": "Vojtěch Klepáček",
+      "url": "https://klepacek.xyz",
+      "listedTitle": "Full Stack Developer",
+      "emails": [
+        "vojtechklep@gmail.com"
+      ],
+      "github": [
+        "https://github.com/klepacek"
+      ],
+      "linkedin": "https://www.linkedin.com/in/vklepacek",
+      "twitter": null,
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience": null,
+      "title": "Vojtěch Klepáček",
+      "location": null,
       "status": "ok"
     }
   ]
