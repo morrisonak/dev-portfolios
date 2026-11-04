@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-03T13:37:00.494Z",
-    "total": 2092,
-    "successful": 1777,
+    "scrapedAt": "2026-11-04T13:45:39.692Z",
+    "total": 2095,
+    "successful": 1780,
     "failed": 315,
-    "withEmail": 883,
-    "withGithub": 1200,
-    "withStack": 1471,
-    "withLinkedin": 1092,
+    "withEmail": 885,
+    "withGithub": 1202,
+    "withStack": 1473,
+    "withLinkedin": 1094,
     "withTwitter": 480
   },
   "portfolios": [
@@ -44458,6 +44458,87 @@
       "experience": null,
       "title": "Caden Chau",
       "location": "scratch in Flask, later evolved into Multicord",
+      "status": "ok"
+    },
+    {
+      "name": "Ali Linares",
+      "url": "https://alilinares.com",
+      "listedTitle": "Software Developer | Web Application Development",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "{{ Ali Linares }}",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ferhat Saidoun",
+      "url": "https://ferhatsn.fr",
+      "listedTitle": "Full Stack & DevOps Software Engineer | Kubernetes & Svelte",
+      "emails": [
+        "contact.me@ferhatsn.fr"
+      ],
+      "github": [
+        "https://github.com/ferhatte10"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ferhatsdn",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Svelte",
+        "Next.js",
+        "Nuxt",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Ferhat Saidoun · Full-stack &amp; DevOps software engineer",
+      "location": "hardened CI to production",
+      "status": "ok"
+    },
+    {
+      "name": "Sugatraj Sarwade",
+      "url": "https://www.sugatrajsarwade.com/",
+      "listedTitle": "Full Stack Developer | Python, FastAPI, React",
+      "emails": [
+        "sugatraj.sarwade@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SugaSensei"
+      ],
+      "linkedin": "https://linkedin.com/in/sugatraj-sarwade",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "React Native"
+      ],
+      "experience": "4+ years",
+      "title": "Sugatraj Sarwade – Full Stack Developer | React, Python &amp; AI",
+      "location": "Pune, India",
       "status": "ok"
     }
   ]
