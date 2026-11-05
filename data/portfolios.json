@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-05T13:57:52.969Z",
-    "total": 2101,
-    "successful": 1786,
+    "scrapedAt": "2026-11-05T23:14:55.897Z",
+    "total": 2102,
+    "successful": 1787,
     "failed": 315,
-    "withEmail": 890,
-    "withGithub": 1208,
-    "withStack": 1479,
-    "withLinkedin": 1100,
+    "withEmail": 891,
+    "withGithub": 1209,
+    "withStack": 1480,
+    "withLinkedin": 1101,
     "withTwitter": 482
   },
   "portfolios": [
@@ -44702,6 +44702,34 @@
       "experience": null,
       "title": "Prem Thatikonda | AI Engineer &amp; Full-Stack Developer",
       "location": "Mumbai",
+      "status": "ok"
+    },
+    {
+      "name": "Krushal Gopale",
+      "url": "https://krushalgopale.vercel.app",
+      "listedTitle": "Software Engineer",
+      "emails": [
+        "krushalgopale79@gmail.com"
+      ],
+      "github": [
+        "https://github.com/krushalgopale"
+      ],
+      "linkedin": "https://www.linkedin.com/in/krushal-g-08b850318",
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Django",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Krushal Gopale",
+      "location": "transient failures",
       "status": "ok"
     }
   ]
