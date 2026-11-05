@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-04T23:11:10.484Z",
-    "total": 2098,
-    "successful": 1783,
+    "scrapedAt": "2026-11-05T13:57:52.969Z",
+    "total": 2101,
+    "successful": 1786,
     "failed": 315,
-    "withEmail": 888,
-    "withGithub": 1205,
-    "withStack": 1476,
-    "withLinkedin": 1097,
-    "withTwitter": 480
+    "withEmail": 890,
+    "withGithub": 1208,
+    "withStack": 1479,
+    "withLinkedin": 1100,
+    "withTwitter": 482
   },
   "portfolios": [
     {
@@ -39255,45 +39255,6 @@
       "status": "ok"
     },
     {
-      "name": "Prem Thatikonda",
-      "url": "https://premthatikonda.xyz",
-      "listedTitle": "Full Stack & AI Engineer",
-      "emails": [
-        "premthatikonda.work@gmail.com",
-        "your@email.com"
-      ],
-      "github": [
-        "https://github.com/prem-thatikonda29"
-      ],
-      "linkedin": "https://linkedin.com/in/premthatikonda",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Rust",
-        "Go",
-        "Node.js",
-        "Express",
-        "Flask",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Firebase",
-        "Tailwind",
-        "React Native",
-        "Figma"
-      ],
-      "experience": null,
-      "title": "Prem Thatikonda | Full-Stack Developer &amp; AI Automation Engineer",
-      "location": "Mumbai",
-      "status": "ok"
-    },
-    {
       "name": "Sanjana Venkatesh",
       "url": "https://sanjanavenkatesh.vercel.app",
       "listedTitle": "Backend Developer | Express.js & Django",
@@ -44625,6 +44586,122 @@
       "experience": null,
       "title": "Vojtěch Klepáček",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Diego López Reduello",
+      "url": "https://deinigu.github.io/portfolio/",
+      "listedTitle": "Data Scientist",
+      "emails": [],
+      "github": [
+        "https://github.com/maskati",
+        "https://github.com/Deinigu"
+      ],
+      "linkedin": "https://www.linkedin.com/in/dlreduello",
+      "twitter": "https://twitter.com/DeiniguDev",
+      "stack": [
+        "Angular",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Django",
+        "Flask",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "MongoDB",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Diego López Reduello",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Irina Stéphane",
+      "url": "https://irina.is-a.dev",
+      "listedTitle": "Full Stack Developer | DevOps",
+      "emails": [
+        "irinarakotoarison1@gmail.com"
+      ],
+      "github": [
+        "https://github.com/IrinaStephane"
+      ],
+      "linkedin": "https://www.linkedin.com/in/irina-st",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Spring"
+      ],
+      "experience": null,
+      "title": "Irina Stéphane Rakotoarison — Développeur Full Stack, Antananarivo",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Malav Naik",
+      "url": "https://malavnaik.com",
+      "listedTitle": "Data & GenAI Engineer | Data Engineering, GenAI",
+      "emails": [
+        "malav@malavnaik.com"
+      ],
+      "github": [
+        "https://github.com/malavnaik99"
+      ],
+      "linkedin": "https://www.linkedin.com/in/malav-naik",
+      "twitter": "https://x.com/malavnaik99",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Azure",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Malav Naik | Data &amp; GenAI Engineer | Dublin, Ireland",
+      "location": "SSIS pipelines and an Azure SQL migration at S",
+      "status": "ok"
+    },
+    {
+      "name": "Prem Thatikonda",
+      "url": "https://premthatikonda.runs-on.dev",
+      "listedTitle": "Full Stack & AI Engineer",
+      "emails": [
+        "premthatikonda.work@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/prem-thatikonda29"
+      ],
+      "linkedin": "https://linkedin.com/in/premthatikonda",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Node.js",
+        "Express",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "React Native",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Prem Thatikonda | AI Engineer &amp; Full-Stack Developer",
+      "location": "Mumbai",
       "status": "ok"
     }
   ]
