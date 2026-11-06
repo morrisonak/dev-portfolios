@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-06T13:43:14.182Z",
-    "total": 2104,
-    "successful": 1789,
+    "scrapedAt": "2026-11-06T22:41:58.461Z",
+    "total": 2107,
+    "successful": 1792,
     "failed": 315,
-    "withEmail": 892,
-    "withGithub": 1210,
-    "withStack": 1481,
-    "withLinkedin": 1102,
+    "withEmail": 893,
+    "withGithub": 1212,
+    "withStack": 1484,
+    "withLinkedin": 1104,
     "withTwitter": 482
   },
   "portfolios": [
@@ -44767,6 +44767,81 @@
       ],
       "experience": null,
       "title": "Hello, I&#39;m Haylee!",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Luis Peche Aparcana",
+      "url": "https://luispeche.vercel.app/",
+      "listedTitle": "Backend & AI Developer | Java, Python & Aws",
+      "emails": [
+        "pecheaparcana1998@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Rpeche-pk"
+      ],
+      "linkedin": "https://www.linkedin.com/in/luis-peche",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        ".NET"
+      ],
+      "experience": "2+ years",
+      "title": "Home - LuisPeche",
+      "location": "my portfolio",
+      "status": "ok"
+    },
+    {
+      "name": "Salih Karakuş",
+      "url": "https://karakus.me",
+      "listedTitle": "Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/salihkkus"
+      ],
+      "linkedin": "https://www.linkedin.com/in/salihkarakus",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Python",
+        "Go",
+        "Kotlin",
+        "Docker",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Flutter",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Salih Karakuş - Portfolio",
+      "location": "receipts",
+      "status": "ok"
+    },
+    {
+      "name": "Tiffany Bond",
+      "url": "https://tmbond.com",
+      "listedTitle": "Senior Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Tiffany Bond | Software Engineer Portfolio",
       "location": null,
       "status": "ok"
     }
