@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-05T23:14:55.897Z",
-    "total": 2102,
-    "successful": 1787,
+    "scrapedAt": "2026-11-06T13:43:14.182Z",
+    "total": 2104,
+    "successful": 1789,
     "failed": 315,
-    "withEmail": 891,
-    "withGithub": 1209,
-    "withStack": 1480,
-    "withLinkedin": 1101,
+    "withEmail": 892,
+    "withGithub": 1210,
+    "withStack": 1481,
+    "withLinkedin": 1102,
     "withTwitter": 482
   },
   "portfolios": [
@@ -44730,6 +44730,44 @@
       "experience": null,
       "title": "Krushal Gopale",
       "location": "transient failures",
+      "status": "ok"
+    },
+    {
+      "name": "Debanjan Kakati",
+      "url": "https://portfolio-os-tau-five.vercel.app/",
+      "listedTitle": "Full Stack Developer | AI/ML Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Debanjan Kakati · Portfolio OS",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Haylee Pulisciano",
+      "url": "https://hellohaylee.com/",
+      "listedTitle": "Software Developer | Full Stack Web Development",
+      "emails": [
+        "hkpulisciano@gmail.com"
+      ],
+      "github": [
+        "https://github.com/hayleeekay"
+      ],
+      "linkedin": "https://www.linkedin.com/in/haylee-pulisciano",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "Astro",
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "experience": null,
+      "title": "Hello, I&#39;m Haylee!",
+      "location": null,
       "status": "ok"
     }
   ]
