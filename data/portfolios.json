@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-06T22:41:58.461Z",
-    "total": 2107,
-    "successful": 1792,
+    "scrapedAt": "2026-11-07T21:25:52.608Z",
+    "total": 2111,
+    "successful": 1796,
     "failed": 315,
-    "withEmail": 893,
-    "withGithub": 1212,
-    "withStack": 1484,
-    "withLinkedin": 1104,
-    "withTwitter": 482
+    "withEmail": 896,
+    "withGithub": 1216,
+    "withStack": 1487,
+    "withLinkedin": 1108,
+    "withTwitter": 484
   },
   "portfolios": [
     {
@@ -44843,6 +44843,109 @@
       "experience": null,
       "title": "Tiffany Bond | Software Engineer Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hitarth Anand Rohra",
+      "url": "https://www.hitaarthh.com/",
+      "listedTitle": "Software Engineer | Building Intelligent Systems",
+      "emails": [],
+      "github": [
+        "https://github.com/hitaarthh"
+      ],
+      "linkedin": "https://linkedin.com/in/hitarth-rohra",
+      "twitter": "https://twitter.com/hitaarthh",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Java",
+        "Spring",
+        "AWS",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Hitarth Rohra",
+      "location": "New Delhi, India",
+      "status": "ok"
+    },
+    {
+      "name": "Luca Celebrano",
+      "url": "https://lukecele-research.vercel.app/",
+      "listedTitle": "Medicine & Bioinformatics | Computational Oncology & 3D Twins",
+      "emails": [
+        "l.celebrano@studenti.unina.it"
+      ],
+      "github": [
+        "https://github.com/Lukecele",
+        "https://github.com/seandavi",
+        "https://github.com/arbincept"
+      ],
+      "linkedin": "https://www.linkedin.com/in/luca-celebrano",
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Caverna di Luca | Luca Celebrano",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sarfarosh Alam",
+      "url": "https://sarfarosh.vercel.app/",
+      "listedTitle": "Full Stack Developer | React, TypeScript",
+      "emails": [
+        "sarfaroshalam51@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Sarfarosh-0"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sarfarosh-xxi",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Sarfarosh | Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Waseem Anjum",
+      "url": "https://fabwaseem.com",
+      "listedTitle": "Full Stack & AI Automation Engineer | TypeScript, Next.js, NestJS, Node.js",
+      "emails": [
+        "waseemaofficial@gmail.com"
+      ],
+      "github": [
+        "https://github.com/fabwaseem"
+      ],
+      "linkedin": "https://www.linkedin.com/in/fabwaseem",
+      "twitter": "https://x.com/fabwaseeem",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Node.js",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Waseem Anjum: Full Stack &amp; AI Automation Engineer",
+      "location": "prompt to production",
       "status": "ok"
     }
   ]
