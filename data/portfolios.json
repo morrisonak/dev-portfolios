@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-08T04:24:03.744Z",
-    "total": 2113,
-    "successful": 1798,
+    "scrapedAt": "2026-11-08T21:39:32.687Z",
+    "total": 2114,
+    "successful": 1799,
     "failed": 315,
-    "withEmail": 898,
-    "withGithub": 1218,
-    "withStack": 1489,
-    "withLinkedin": 1110,
+    "withEmail": 899,
+    "withGithub": 1219,
+    "withStack": 1490,
+    "withLinkedin": 1111,
     "withTwitter": 485
   },
   "portfolios": [
@@ -45000,6 +45000,42 @@
       "experience": null,
       "title": "Răzvan Borca — Junior IT Engineer",
       "location": "API design and databases to full application logic",
+      "status": "ok"
+    },
+    {
+      "name": "Guillermo Navarro",
+      "url": "https://guille0197.github.io/portafolio",
+      "listedTitle": "Software Engineer | Full Stack Developer | AWS & SaaS",
+      "emails": [
+        "gnavarro0197@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Guille0197"
+      ],
+      "linkedin": "https://www.linkedin.com/in/guillermo-antonio-navarro",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Swift",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "React Native",
+        "Figma"
+      ],
+      "experience": "6+ years",
+      "title": "Guillermo Navarro | Software Engineer, Full Stack &amp; AWS",
+      "location": null,
       "status": "ok"
     }
   ]
