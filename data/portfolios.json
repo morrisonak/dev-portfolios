@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-07T21:25:52.608Z",
-    "total": 2111,
-    "successful": 1796,
+    "scrapedAt": "2026-11-08T04:24:03.744Z",
+    "total": 2113,
+    "successful": 1798,
     "failed": 315,
-    "withEmail": 896,
-    "withGithub": 1216,
-    "withStack": 1487,
-    "withLinkedin": 1108,
-    "withTwitter": 484
+    "withEmail": 898,
+    "withGithub": 1218,
+    "withStack": 1489,
+    "withLinkedin": 1110,
+    "withTwitter": 485
   },
   "portfolios": [
     {
@@ -44946,6 +44946,60 @@
       "experience": null,
       "title": "Waseem Anjum: Full Stack &amp; AI Automation Engineer",
       "location": "prompt to production",
+      "status": "ok"
+    },
+    {
+      "name": "Lithira Thulnith",
+      "url": "https://wltweerasinghe.com",
+      "listedTitle": "Full Stack Developer | AI Builder",
+      "emails": [
+        "ltw@wltweerasinghe.com",
+        "contact@wltweerasinghe.com"
+      ],
+      "github": [
+        "https://github.com/wltweerasinghe"
+      ],
+      "linkedin": "https://www.linkedin.com/in/wltweerasinghe",
+      "twitter": "https://x.com/wltweerasinghe",
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "W L T Weerasinghe | Student &amp; Full-stack Developer",
+      "location": "you",
+      "status": "ok"
+    },
+    {
+      "name": "Razvan-Andrei Borca",
+      "url": "https://www.borcarazvan.tech/",
+      "listedTitle": "Junior Software Engineer | Computer Engineering Student",
+      "emails": [
+        "razvanborca592@yahoo.com"
+      ],
+      "github": [
+        "https://github.com/RazvanAndrei2005"
+      ],
+      "linkedin": "https://www.linkedin.com/in/borca-razvan-andrei",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Java",
+        "Spring",
+        "Azure",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Răzvan Borca — Junior IT Engineer",
+      "location": "API design and databases to full application logic",
       "status": "ok"
     }
   ]
