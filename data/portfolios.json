@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-09T04:37:31.384Z",
+    "scrapedAt": "2026-11-09T15:07:58.985Z",
     "total": 2103,
     "successful": 1791,
     "failed": 312,
@@ -44680,27 +44680,6 @@
       "status": "ok"
     },
     {
-      "name": "Luca Celebrano",
-      "url": "https://lukecele-research.vercel.app",
-      "listedTitle": "Medicine & Bioinformatics | Computational Oncology & 3D Twins",
-      "emails": [
-        "l.celebrano@studenti.unina.it"
-      ],
-      "github": [
-        "https://github.com/Lukecele",
-        "https://github.com/arbincept"
-      ],
-      "linkedin": "https://www.linkedin.com/in/luca-celebrano",
-      "twitter": null,
-      "stack": [
-        "Python"
-      ],
-      "experience": null,
-      "title": "Luca's Cave | Luca Celebrano",
-      "location": "mathematical biophysics of pharmacological sanctuaries to computational translational analysis of ra",
-      "status": "ok"
-    },
-    {
       "name": "Luis Peche Aparcana",
       "url": "https://luispeche.vercel.app",
       "listedTitle": "Backend & AI Developer | Java, Python & Aws",
@@ -44843,6 +44822,27 @@
       "experience": "4+ years",
       "title": "Sugatraj Sarwade – Full Stack Developer | React, Python &amp; AI",
       "location": "Pune, India",
+      "status": "ok"
+    },
+    {
+      "name": "Luca Celebrano",
+      "url": "https://lucacelebrano.me",
+      "listedTitle": "Medicine & Bioinformatics | Computational Oncology & 3D Twins",
+      "emails": [
+        "l.celebrano@studenti.unina.it"
+      ],
+      "github": [
+        "https://github.com/Lukecele",
+        "https://github.com/arbincept"
+      ],
+      "linkedin": "https://www.linkedin.com/in/luca-celebrano",
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "Luca's Cave | Luca Celebrano",
+      "location": "mathematical biophysics of pharmacological sanctuaries to computational translational analysis of ra",
       "status": "ok"
     }
   ]
