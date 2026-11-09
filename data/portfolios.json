@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-08T21:39:32.687Z",
-    "total": 2114,
-    "successful": 1799,
-    "failed": 315,
-    "withEmail": 899,
-    "withGithub": 1219,
-    "withStack": 1490,
-    "withLinkedin": 1111,
-    "withTwitter": 485
+    "scrapedAt": "2026-11-09T04:37:31.384Z",
+    "total": 2103,
+    "successful": 1791,
+    "failed": 312,
+    "withEmail": 896,
+    "withGithub": 1215,
+    "withStack": 1485,
+    "withLinkedin": 1106,
+    "withTwitter": 484
   },
   "portfolios": [
     {
@@ -1862,20 +1862,6 @@
       "stack": [],
       "experience": null,
       "title": "Afaq Awan Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Afjal Ansari",
-      "url": "https://md-afjal-ansari.onrender.com",
-      "listedTitle": "Mern-Stack Developer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Md Afjal Ansari",
       "location": null,
       "status": "ok"
     },
@@ -9482,28 +9468,6 @@
       "status": "ok"
     },
     {
-      "name": "Enes Hacısağır",
-      "url": "https://enesehs.github.io",
-      "listedTitle": "",
-      "emails": [],
-      "github": [
-        "https://github.com/enesehs"
-      ],
-      "linkedin": "https://www.linkedin.com/in/enes-hacisagir",
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Enesehs | Unreal Engine Game Developer",
-      "location": "technology",
-      "status": "ok"
-    },
-    {
       "name": "Erdal Taşkesen",
       "url": "https://www.erdaltaskesen.com",
       "listedTitle": "",
@@ -10062,20 +10026,6 @@
       "stack": [],
       "experience": null,
       "title": null,
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Fernando Andres Raggio",
-      "url": "https://raggiodev.vercel.app",
-      "listedTitle": "Full Stack Developer & Cibersecurity",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Portfolio | Raggio Fernando Andres (raggiodev)",
       "location": null,
       "status": "ok"
     },
@@ -20887,28 +20837,6 @@
       "status": "ok"
     },
     {
-      "name": "Phyo Min Thein",
-      "url": "https://phyominthein.com",
-      "listedTitle": "Full Stack Developer | AI Engineer",
-      "emails": [],
-      "github": [
-        "https://github.com/kweephyo-pmt"
-      ],
-      "linkedin": "https://linkedin.com/in/phyominthein-dev",
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "Firebase",
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Phyo Min Thein | Full-Stack Developer & Portfolio",
-      "location": "Thailand",
-      "status": "ok"
-    },
-    {
       "name": "Pierre Nel",
       "url": "https://pierre.io",
       "listedTitle": "Full Stack Developer | Ux/Ui Designer",
@@ -24930,13 +24858,6 @@
       "error": "timeout_prone_batch"
     },
     {
-      "name": "Suraj Yadav",
-      "url": "https://suraj-yadav0.github.io/terminal-portfolio/",
-      "listedTitle": "Software Engineer | Ubuntu Touch Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
       "name": "Syed Muhammad Abdullah Ahsan",
       "url": "https://linktr.ee/abdullahahsan",
       "listedTitle": "",
@@ -25087,13 +25008,6 @@
       "name": "Tibor Ignéczi",
       "url": "https://igneczitibor.hu",
       "listedTitle": "Full Stack Developer",
-      "status": "skipped",
-      "error": "timeout_prone_batch"
-    },
-    {
-      "name": "Tien Truong Mars Truong",
-      "url": "https://marstruong.com",
-      "listedTitle": "Flutter Developer |Software Developer",
       "status": "skipped",
       "error": "timeout_prone_batch"
     },
@@ -33669,44 +33583,6 @@
       "status": "ok"
     },
     {
-      "name": "Manoj Kumar Mandal",
-      "url": "https://manojmandal.com",
-      "listedTitle": "Full Stack Engineer | AI Engineer | Generative AI | SaaS",
-      "emails": [
-        "manojkumarcse432@gmail.com"
-      ],
-      "github": [
-        "https://github.com/techieonvacation"
-      ],
-      "linkedin": "https://www.linkedin.com/in/manojkumarmandal",
-      "twitter": "https://x.com/techieonvacation",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "PHP",
-        "Node.js",
-        "Express",
-        "GCP",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Firebase",
-        "Tailwind",
-        "GraphQL",
-        "React Native",
-        "Figma",
-        "WordPress"
-      ],
-      "experience": "3+ years",
-      "title": "Manoj Mandal – Sr. Full Stack &amp; AI Automation Engineer",
-      "location": "New Delhi, India",
-      "status": "ok"
-    },
-    {
       "name": "Jason Flatford",
       "url": "https://jasonflatford.com",
       "listedTitle": "Product & Engineering Leader",
@@ -35029,32 +34905,6 @@
       "status": "ok"
     },
     {
-      "name": "Stimmie",
-      "url": "https://www.stimmie.dev",
-      "listedTitle": "Software Engineer | Next.js",
-      "emails": [
-        "semariquit@gmail.com"
-      ],
-      "github": [],
-      "linkedin": "https://www.linkedin.com/in/stimmie",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "Astro",
-        "Python",
-        "Go",
-        "Java",
-        "PHP",
-        "Docker",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "Home",
-      "location": "the keyboard I",
-      "status": "ok"
-    },
-    {
       "name": "Stimmie – web portfolio",
       "url": "https://web.stimmie.dev",
       "listedTitle": "Freelance Developer | Nuxt",
@@ -35529,22 +35379,6 @@
       ],
       "experience": null,
       "title": "Prakhar Patel - Senior Software Engineer",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Atanu Biswas",
-      "url": "https://atanu-portfolio-devsecops-production.up.railway.app",
-      "listedTitle": "DevSecOps Engineer | DevOps Specialist",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "Kubernetes"
-      ],
-      "experience": null,
-      "title": "Atanu Biswas | DevSecOps Engineer",
       "location": null,
       "status": "ok"
     },
@@ -40977,30 +40811,6 @@
       "status": "ok"
     },
     {
-      "name": "Ajay Prajapat",
-      "url": "https://ajayprajapat.com",
-      "listedTitle": "Founder | Full Stack Engineer | Software Architecture | Applied AI",
-      "emails": [
-        "ajayprajapat@live.com"
-      ],
-      "github": [
-        "https://github.com/ajayprajapat"
-      ],
-      "linkedin": "https://www.linkedin.com/in/ajayprajapat",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Vue",
-        "Angular",
-        "Go",
-        "Node.js"
-      ],
-      "experience": null,
-      "title": "Ajay Prajapat | Founder-led Advisory, Mentorship &amp; B2B Diagnostics",
-      "location": "the first conversation",
-      "status": "ok"
-    },
-    {
       "name": "Abdul Jaber",
       "url": "https://ajseven.me",
       "listedTitle": "",
@@ -44193,13 +44003,6 @@
       "status": "ok"
     },
     {
-      "name": "Abu Jafor",
-      "url": "https://portfolio-website-bc28.vercel.app",
-      "listedTitle": "Frontend Developer | React, Next.js",
-      "status": "error",
-      "error": "HTTP 402"
-    },
-    {
       "name": "Ayush Anand Srivastava",
       "url": "https://www.ayushdoesdev.in",
       "listedTitle": "Backend & GenAI Systems Engineer | Technical Lead",
@@ -44324,29 +44127,6 @@
       "status": "ok"
     },
     {
-      "name": "Alex Koncept",
-      "url": "https://alexkoncept.github.io/",
-      "listedTitle": "Creative Technologist | Tech, AI & Watchmaking",
-      "emails": [
-        "contact@alexkoncept.com"
-      ],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [
-        "React",
-        "JavaScript",
-        "Python",
-        "Tailwind",
-        ".NET",
-        "WordPress"
-      ],
-      "experience": null,
-      "title": "Alex Koncept – Universe",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Arsh Javed",
       "url": "https://arshjaved.in",
       "listedTitle": "Product Engineer",
@@ -44362,34 +44142,6 @@
       "experience": null,
       "title": "arsh",
       "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Baqir Naqvi",
-      "url": "https://www.baqirnaqvi.dev/",
-      "listedTitle": "Senior Full Stack Engineer | SaaS, Payments & AI",
-      "emails": [
-        "b.naqvi99@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Baqir-Naqvi"
-      ],
-      "linkedin": null,
-      "twitter": "https://x.com/Baqir_Naqvi98",
-      "stack": [
-        "React",
-        "Next.js",
-        "Python",
-        "Express",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        "React Native"
-      ],
-      "experience": null,
-      "title": "Baqir Naqvi | SaaS, Payments &amp; AI Engineering",
-      "location": "initial build to a usable web experience with tone controls, analytics and consent tooling",
       "status": "ok"
     },
     {
@@ -44469,40 +44221,6 @@
       "status": "ok"
     },
     {
-      "name": "Sugatraj Sarwade",
-      "url": "https://www.sugatrajsarwade.com/",
-      "listedTitle": "Full Stack Developer | Python, FastAPI, React",
-      "emails": [
-        "sugatraj.sarwade@gmail.com"
-      ],
-      "github": [
-        "https://github.com/SugaSensei"
-      ],
-      "linkedin": "https://linkedin.com/in/sugatraj-sarwade",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MySQL",
-        "Redis",
-        "Firebase",
-        "Tailwind",
-        "GraphQL",
-        "React Native"
-      ],
-      "experience": "4+ years",
-      "title": "Sugatraj Sarwade – Full Stack Developer | React, Python &amp; AI",
-      "location": "Pune, India",
-      "status": "ok"
-    },
-    {
       "name": "Biprodas Roy",
       "url": "https://www.biprodas.dev",
       "listedTitle": "Senior Software Engineer | NestJS, Next.js, AWS | AI Engineer",
@@ -44535,33 +44253,6 @@
       "experience": null,
       "title": "Biprodas Roy · Software Engineer",
       "location": "scalable APIs to polished interfaces",
-      "status": "ok"
-    },
-    {
-      "name": "Prince Kumar",
-      "url": "https://prince-kumar-portfolio-five.vercel.app/",
-      "listedTitle": "Java Backend Developer",
-      "emails": [
-        "developer.prince.kumar@gmail.com"
-      ],
-      "github": [
-        "https://github.com/prince2404"
-      ],
-      "linkedin": "https://linkedin.com/in/nameisprince",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Go",
-        "Java",
-        "Spring",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MySQL"
-      ],
-      "experience": null,
-      "title": "Prince Kumar | Java Backend Developer",
-      "location": "those documents and uses it to write clear, helpful answers for people looking for guidance",
       "status": "ok"
     },
     {
@@ -44733,76 +44424,6 @@
       "status": "ok"
     },
     {
-      "name": "Debanjan Kakati",
-      "url": "https://portfolio-os-tau-five.vercel.app/",
-      "listedTitle": "Full Stack Developer | AI/ML Engineer",
-      "emails": [],
-      "github": [],
-      "linkedin": null,
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Debanjan Kakati · Portfolio OS",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Haylee Pulisciano",
-      "url": "https://hellohaylee.com/",
-      "listedTitle": "Software Developer | Full Stack Web Development",
-      "emails": [
-        "hkpulisciano@gmail.com"
-      ],
-      "github": [
-        "https://github.com/hayleeekay"
-      ],
-      "linkedin": "https://www.linkedin.com/in/haylee-pulisciano",
-      "twitter": null,
-      "stack": [
-        "Angular",
-        "Astro",
-        "Python",
-        "Go",
-        "Java"
-      ],
-      "experience": null,
-      "title": "Hello, I&#39;m Haylee!",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Luis Peche Aparcana",
-      "url": "https://luispeche.vercel.app/",
-      "listedTitle": "Backend & AI Developer | Java, Python & Aws",
-      "emails": [
-        "pecheaparcana1998@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Rpeche-pk"
-      ],
-      "linkedin": "https://www.linkedin.com/in/luis-peche",
-      "twitter": null,
-      "stack": [
-        "Angular",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Node.js",
-        "Spring",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Firebase",
-        ".NET"
-      ],
-      "experience": "2+ years",
-      "title": "Home - LuisPeche",
-      "location": "my portfolio",
-      "status": "ok"
-    },
-    {
       "name": "Salih Karakuş",
       "url": "https://karakus.me",
       "listedTitle": "Software Engineer",
@@ -44842,76 +44463,6 @@
       ],
       "experience": null,
       "title": "Tiffany Bond | Software Engineer Portfolio",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Hitarth Anand Rohra",
-      "url": "https://www.hitaarthh.com/",
-      "listedTitle": "Software Engineer | Building Intelligent Systems",
-      "emails": [],
-      "github": [
-        "https://github.com/hitaarthh"
-      ],
-      "linkedin": "https://linkedin.com/in/hitarth-rohra",
-      "twitter": "https://twitter.com/hitaarthh",
-      "stack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "Go",
-        "Java",
-        "Spring",
-        "AWS",
-        "PostgreSQL",
-        "MongoDB"
-      ],
-      "experience": null,
-      "title": "Hitarth Rohra",
-      "location": "New Delhi, India",
-      "status": "ok"
-    },
-    {
-      "name": "Luca Celebrano",
-      "url": "https://lukecele-research.vercel.app/",
-      "listedTitle": "Medicine & Bioinformatics | Computational Oncology & 3D Twins",
-      "emails": [
-        "l.celebrano@studenti.unina.it"
-      ],
-      "github": [
-        "https://github.com/Lukecele",
-        "https://github.com/seandavi",
-        "https://github.com/arbincept"
-      ],
-      "linkedin": "https://www.linkedin.com/in/luca-celebrano",
-      "twitter": null,
-      "stack": [],
-      "experience": null,
-      "title": "Caverna di Luca | Luca Celebrano",
-      "location": null,
-      "status": "ok"
-    },
-    {
-      "name": "Sarfarosh Alam",
-      "url": "https://sarfarosh.vercel.app/",
-      "listedTitle": "Full Stack Developer | React, TypeScript",
-      "emails": [
-        "sarfaroshalam51@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Sarfarosh-0"
-      ],
-      "linkedin": "https://www.linkedin.com/in/sarfarosh-xxi",
-      "twitter": null,
-      "stack": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "MongoDB"
-      ],
-      "experience": null,
-      "title": "Sarfarosh | Full Stack Developer",
       "location": null,
       "status": "ok"
     },
@@ -44974,35 +44525,6 @@
       "status": "ok"
     },
     {
-      "name": "Razvan-Andrei Borca",
-      "url": "https://www.borcarazvan.tech/",
-      "listedTitle": "Junior Software Engineer | Computer Engineering Student",
-      "emails": [
-        "razvanborca592@yahoo.com"
-      ],
-      "github": [
-        "https://github.com/RazvanAndrei2005"
-      ],
-      "linkedin": "https://www.linkedin.com/in/borca-razvan-andrei",
-      "twitter": null,
-      "stack": [
-        "JavaScript",
-        "Python",
-        "Rust",
-        "Java",
-        "Spring",
-        "Azure",
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "Flutter"
-      ],
-      "experience": null,
-      "title": "Răzvan Borca — Junior IT Engineer",
-      "location": "API design and databases to full application logic",
-      "status": "ok"
-    },
-    {
       "name": "Guillermo Navarro",
       "url": "https://guille0197.github.io/portafolio",
       "listedTitle": "Software Engineer | Full Stack Developer | AWS & SaaS",
@@ -45036,6 +44558,291 @@
       "experience": "6+ years",
       "title": "Guillermo Navarro | Software Engineer, Full Stack &amp; AWS",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Alex Koncept",
+      "url": "https://alexkoncept.github.io",
+      "listedTitle": "Creative Technologist | Tech, AI & Watchmaking",
+      "emails": [
+        "contact@alexkoncept.com"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Alex Koncept – Universe",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Baqir Naqvi",
+      "url": "https://www.baqirnaqvi.dev",
+      "listedTitle": "Senior Full Stack Engineer | SaaS, Payments & AI",
+      "emails": [
+        "b.naqvi99@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Baqir-Naqvi"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/Baqir_Naqvi98",
+      "stack": [
+        "React",
+        "Next.js",
+        "Python",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Baqir Naqvi | SaaS, Payments &amp; AI Engineering",
+      "location": "initial build to a usable web experience with tone controls, analytics and consent tooling",
+      "status": "ok"
+    },
+    {
+      "name": "Debanjan Kakati",
+      "url": "https://portfolio-os-tau-five.vercel.app",
+      "listedTitle": "Full Stack Developer | AI/ML Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Debanjan Kakati · Portfolio OS",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Haylee Pulisciano",
+      "url": "https://hellohaylee.com",
+      "listedTitle": "Software Developer | Full Stack Web Development",
+      "emails": [
+        "hkpulisciano@gmail.com"
+      ],
+      "github": [
+        "https://github.com/hayleeekay"
+      ],
+      "linkedin": "https://www.linkedin.com/in/haylee-pulisciano",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Astro",
+        "TypeScript",
+        "Java",
+        "PHP",
+        "Laravel",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Hello, I&#39;m Haylee!",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Hitarth Anand Rohra",
+      "url": "https://www.hitaarthh.com",
+      "listedTitle": "Software Engineer | Building Intelligent Systems",
+      "emails": [],
+      "github": [
+        "https://github.com/hitaarthh"
+      ],
+      "linkedin": "https://linkedin.com/in/hitarth-rohra",
+      "twitter": "https://twitter.com/hitaarthh",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "Java",
+        "Spring",
+        "AWS",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Hitarth Rohra",
+      "location": "New Delhi, India",
+      "status": "ok"
+    },
+    {
+      "name": "Luca Celebrano",
+      "url": "https://lukecele-research.vercel.app",
+      "listedTitle": "Medicine & Bioinformatics | Computational Oncology & 3D Twins",
+      "emails": [
+        "l.celebrano@studenti.unina.it"
+      ],
+      "github": [
+        "https://github.com/Lukecele",
+        "https://github.com/arbincept"
+      ],
+      "linkedin": "https://www.linkedin.com/in/luca-celebrano",
+      "twitter": null,
+      "stack": [
+        "Python"
+      ],
+      "experience": null,
+      "title": "Luca's Cave | Luca Celebrano",
+      "location": "mathematical biophysics of pharmacological sanctuaries to computational translational analysis of ra",
+      "status": "ok"
+    },
+    {
+      "name": "Luis Peche Aparcana",
+      "url": "https://luispeche.vercel.app",
+      "listedTitle": "Backend & AI Developer | Java, Python & Aws",
+      "emails": [
+        "pecheaparcana1998@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Rpeche-pk"
+      ],
+      "linkedin": "https://www.linkedin.com/in/luis-peche",
+      "twitter": null,
+      "stack": [
+        "Angular",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        ".NET"
+      ],
+      "experience": "2+ years",
+      "title": "Luis Peche Aparcana | Backend &amp; AI Developer",
+      "location": "my portfolio",
+      "status": "ok"
+    },
+    {
+      "name": "Prince Kumar",
+      "url": "https://prince-kumar-portfolio-five.vercel.app",
+      "listedTitle": "Java Backend Developer",
+      "emails": [
+        "developer.prince.kumar@gmail.com"
+      ],
+      "github": [
+        "https://github.com/prince2404"
+      ],
+      "linkedin": "https://linkedin.com/in/nameisprince",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Go",
+        "Java",
+        "Spring",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "experience": null,
+      "title": "Prince Kumar | Java Backend Developer",
+      "location": "those documents and uses it to write clear, helpful answers for people looking for guidance",
+      "status": "ok"
+    },
+    {
+      "name": "Razvan-Andrei Borca",
+      "url": "https://www.borcarazvan.tech",
+      "listedTitle": "Junior Software Engineer | Computer Engineering Student",
+      "emails": [
+        "razvanborca592@yahoo.com"
+      ],
+      "github": [
+        "https://github.com/RazvanAndrei2005"
+      ],
+      "linkedin": "https://www.linkedin.com/in/borca-razvan-andrei",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Java",
+        "Spring",
+        "Azure",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Răzvan Borca — Junior IT Engineer",
+      "location": "API design and databases to full application logic",
+      "status": "ok"
+    },
+    {
+      "name": "Sarfarosh Alam",
+      "url": "https://sarfarosh.vercel.app",
+      "listedTitle": "Full Stack Developer | React, TypeScript",
+      "emails": [
+        "sarfaroshalam51@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Sarfarosh-0"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sarfarosh-xxi",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Sarfarosh | Full Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sugatraj Sarwade",
+      "url": "https://www.sugatrajsarwade.com",
+      "listedTitle": "Full Stack Developer | Python, FastAPI, React",
+      "emails": [
+        "sugatraj.sarwade@gmail.com"
+      ],
+      "github": [
+        "https://github.com/SugaSensei"
+      ],
+      "linkedin": "https://linkedin.com/in/sugatraj-sarwade",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL",
+        "React Native"
+      ],
+      "experience": "4+ years",
+      "title": "Sugatraj Sarwade – Full Stack Developer | React, Python &amp; AI",
+      "location": "Pune, India",
       "status": "ok"
     }
   ]
