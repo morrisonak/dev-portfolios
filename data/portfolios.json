@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-10T14:18:08.241Z",
-    "total": 2106,
-    "successful": 1794,
+    "scrapedAt": "2026-11-10T22:49:11.565Z",
+    "total": 2109,
+    "successful": 1797,
     "failed": 312,
-    "withEmail": 897,
-    "withGithub": 1216,
-    "withStack": 1486,
-    "withLinkedin": 1107,
-    "withTwitter": 484
+    "withEmail": 899,
+    "withGithub": 1218,
+    "withStack": 1489,
+    "withLinkedin": 1109,
+    "withTwitter": 485
   },
   "portfolios": [
     {
@@ -44912,6 +44912,87 @@
       "experience": null,
       "title": "Thierry Bungaroo · Cybersecurity student",
       "location": "player reports or automatic detection, goes to the AI",
+      "status": "ok"
+    },
+    {
+      "name": "Anurag Shre",
+      "url": "https://anuragshre.vercel.app/",
+      "listedTitle": "Software Engineer | Full Stack & AI",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React"
+      ],
+      "experience": null,
+      "title": "The Sovereign's Library",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nathan Watkins",
+      "url": "https://portfolio.n8builds.dev",
+      "listedTitle": "Full-Stack Engineer",
+      "emails": [
+        "contact@n8builds.dev"
+      ],
+      "github": [
+        "https://github.com/n8watkins",
+        "https://github.com/emmabostian"
+      ],
+      "linkedin": "https://www.linkedin.com/in/n8watkins",
+      "twitter": "https://x.com/n8watkins",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Nathan Watkins | Full-Stack Developer",
+      "location": "Emma Bostian",
+      "status": "ok"
+    },
+    {
+      "name": "Sachin Kumar",
+      "url": "https://sachingg.me",
+      "listedTitle": "Cybersecurity Enthusiast",
+      "emails": [
+        "contact@sachingg.me"
+      ],
+      "github": [
+        "https://github.com/sachinkumar-gg",
+        "https://github.com/vedang-21",
+        "https://github.com/FOSS-Club-MPSTME"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sachinkumarofsec",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Tailwind",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Sachin Kumar | Backend Developer &amp; AppSec Researcher",
+      "location": null,
       "status": "ok"
     }
   ]
