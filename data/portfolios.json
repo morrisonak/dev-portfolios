@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-09T15:07:58.985Z",
-    "total": 2103,
-    "successful": 1791,
+    "scrapedAt": "2026-11-10T14:18:08.241Z",
+    "total": 2106,
+    "successful": 1794,
     "failed": 312,
-    "withEmail": 896,
-    "withGithub": 1215,
-    "withStack": 1485,
-    "withLinkedin": 1106,
+    "withEmail": 897,
+    "withGithub": 1216,
+    "withStack": 1486,
+    "withLinkedin": 1107,
     "withTwitter": 484
   },
   "portfolios": [
@@ -30145,33 +30145,6 @@
       "status": "ok"
     },
     {
-      "name": "Thierry Bungaroo",
-      "url": "https://crackedontiti.github.io",
-      "listedTitle": "Software Developer & Software Engineer",
-      "emails": [],
-      "github": [
-        "https://github.com/CrackedOnTiti",
-        "https://github.com/PernotYlan"
-      ],
-      "linkedin": "https://www.linkedin.com/in/thierry-bungaroo",
-      "twitter": null,
-      "stack": [
-        "Python",
-        "Rust",
-        "Flask",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "Redis",
-        "Flutter",
-        ".NET"
-      ],
-      "experience": null,
-      "title": "CrackedOnTiti",
-      "location": "scratch over a semester",
-      "status": "ok"
-    },
-    {
       "name": "Ayush Acharya",
       "url": "https://ayushacharya.vercel.app",
       "listedTitle": "Passionate - Full Stack Software Developer",
@@ -44843,6 +44816,102 @@
       "experience": null,
       "title": "Luca's Cave | Luca Celebrano",
       "location": "mathematical biophysics of pharmacological sanctuaries to computational translational analysis of ra",
+      "status": "ok"
+    },
+    {
+      "name": "Dhawal Mahajan",
+      "url": "https://dhawalmahajan.vercel.app",
+      "listedTitle": "Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Dhawal Mahajan",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Gabriel Rossi",
+      "url": "https://rossidev.vercel.app",
+      "listedTitle": "Fullstack Developer",
+      "emails": [
+        "rossi17006@gmail.com",
+        "seu@email.com"
+      ],
+      "github": [
+        "https://github.com/knowball-oracle",
+        "https://github.com/GabrielRossi01",
+        "https://github.com/acessly"
+      ],
+      "linkedin": "https://www.linkedin.com/in/gabriel-oliveira-rossi",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Gabriel Rossi - Developer &amp; Problem Solver",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Nihindu Dulavin",
+      "url": "https://nihindu-dulavin-portfolio.netlify.app/",
+      "listedTitle": "Full Stack Developer | Student",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "Nihindu Dulavin",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Thierry Bungaroo",
+      "url": "https://crackedontiti.dev",
+      "listedTitle": "Software Developer & Software Engineer",
+      "emails": [],
+      "github": [
+        "https://github.com/CrackedOnTiti"
+      ],
+      "linkedin": "https://www.linkedin.com/in/thierry-bungaroo",
+      "twitter": null,
+      "stack": [
+        "Svelte",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Flask",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Flutter"
+      ],
+      "experience": null,
+      "title": "Thierry Bungaroo · Cybersecurity student",
+      "location": "player reports or automatic detection, goes to the AI",
       "status": "ok"
     }
   ]
