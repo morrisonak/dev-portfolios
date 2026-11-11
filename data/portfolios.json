@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-10T22:49:11.565Z",
+    "scrapedAt": "2026-11-11T04:40:27.489Z",
     "total": 2109,
     "successful": 1797,
     "failed": 312,
@@ -44498,42 +44498,6 @@
       "status": "ok"
     },
     {
-      "name": "Guillermo Navarro",
-      "url": "https://guille0197.github.io/portafolio",
-      "listedTitle": "Software Engineer | Full Stack Developer | AWS & SaaS",
-      "emails": [
-        "gnavarro0197@gmail.com"
-      ],
-      "github": [
-        "https://github.com/Guille0197"
-      ],
-      "linkedin": "https://www.linkedin.com/in/guillermo-antonio-navarro",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Angular",
-        "Next.js",
-        "Astro",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Swift",
-        "Node.js",
-        "Spring",
-        "AWS",
-        "Azure",
-        "Docker",
-        "PostgreSQL",
-        "React Native",
-        "Figma"
-      ],
-      "experience": "6+ years",
-      "title": "Guillermo Navarro | Software Engineer, Full Stack &amp; AWS",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Alex Koncept",
       "url": "https://alexkoncept.github.io",
       "listedTitle": "Creative Technologist | Tech, AI & Watchmaking",
@@ -44992,6 +44956,42 @@
       ],
       "experience": null,
       "title": "Sachin Kumar | Backend Developer &amp; AppSec Researcher",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Guillermo Navarro",
+      "url": "https://gnavarro.dev/",
+      "listedTitle": "Software Engineer | Full Stack Developer | AWS & SaaS",
+      "emails": [
+        "gnavarro0197@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Guille0197"
+      ],
+      "linkedin": "https://www.linkedin.com/in/guillermo-antonio-navarro",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Swift",
+        "Node.js",
+        "Spring",
+        "AWS",
+        "Azure",
+        "Docker",
+        "PostgreSQL",
+        "React Native",
+        "Figma"
+      ],
+      "experience": "6+ years",
+      "title": "Guillermo Navarro | Software Engineer, Full Stack &amp; AWS",
       "location": null,
       "status": "ok"
     }
