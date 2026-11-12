@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-11T04:40:27.489Z",
-    "total": 2109,
-    "successful": 1797,
+    "scrapedAt": "2026-11-12T00:01:14.991Z",
+    "total": 2112,
+    "successful": 1800,
     "failed": 312,
-    "withEmail": 899,
-    "withGithub": 1218,
-    "withStack": 1489,
-    "withLinkedin": 1109,
+    "withEmail": 902,
+    "withGithub": 1221,
+    "withStack": 1492,
+    "withLinkedin": 1112,
     "withTwitter": 485
   },
   "portfolios": [
@@ -44992,6 +44992,94 @@
       ],
       "experience": "6+ years",
       "title": "Guillermo Navarro | Software Engineer, Full Stack &amp; AWS",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Adnan Ali",
+      "url": "https://www.adnanali.tech/",
+      "listedTitle": "Full Stack Engineer | AI & LLM Integrations",
+      "emails": [
+        "adnanali4131@gmail.com"
+      ],
+      "github": [
+        "https://github.com/adnanali4131"
+      ],
+      "linkedin": "https://www.linkedin.com/in/adnan-ali-b75089247",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Express",
+        "AWS",
+        "GCP",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Firebase",
+        "Tailwind",
+        "GraphQL"
+      ],
+      "experience": null,
+      "title": "Senior Full Stack &amp; AI/LLM Engineer | Adnan Ali",
+      "location": "your first release to your next stage of growth",
+      "status": "ok"
+    },
+    {
+      "name": "Ali Raza",
+      "url": "https://alirazaai.page/",
+      "listedTitle": "Product Manager & AI Builder | AI Prototypes, Analytics, LLM Evaluation",
+      "emails": [
+        "axraza55@gmail.com",
+        "your@email.com"
+      ],
+      "github": [
+        "https://github.com/aliraza2025"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ali-raza-2548880",
+      "twitter": null,
+      "stack": [
+        "Next.js",
+        "Python",
+        "Go"
+      ],
+      "experience": null,
+      "title": "Ali Raza · Product Manager · Data Analyst · AI Builder",
+      "location": "Ali Raza, based in Hayward, SF Bay Area, California, USA",
+      "status": "ok"
+    },
+    {
+      "name": "Prarit Sidana",
+      "url": "https://praritsidana.com/",
+      "listedTitle": "AI Engineer | Full-Stack Developer",
+      "emails": [
+        "1995praritsidana@gmail.com"
+      ],
+      "github": [
+        "https://github.com/prarit0097"
+      ],
+      "linkedin": "https://www.linkedin.com/in/prarit-sidana",
+      "twitter": null,
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "Django",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": "7+ years",
+      "title": "Prarit Sidana | AI Engineer &amp; Full-Stack Developer",
       "location": null,
       "status": "ok"
     }
