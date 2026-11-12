@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-12T00:01:14.991Z",
-    "total": 2112,
-    "successful": 1800,
+    "scrapedAt": "2026-11-12T14:36:07.798Z",
+    "total": 2114,
+    "successful": 1802,
     "failed": 312,
     "withEmail": 902,
     "withGithub": 1221,
-    "withStack": 1492,
+    "withStack": 1493,
     "withLinkedin": 1112,
     "withTwitter": 485
   },
@@ -45080,6 +45080,44 @@
       ],
       "experience": "7+ years",
       "title": "Prarit Sidana | AI Engineer &amp; Full-Stack Developer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Jackson MacGregor",
+      "url": "https://jacksonm.dev",
+      "listedTitle": "Systems | Rust, Python | Linux",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [],
+      "experience": null,
+      "title": "JacksonM.dev",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Sujeeth Sundarajan Rajkumar",
+      "url": "https://sujeethsr.com",
+      "listedTitle": "AI Engineer | Software Engineer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "experience": null,
+      "title": "Sujeeth Sundarajan Rajkumar — AI Engineer",
       "location": null,
       "status": "ok"
     }
