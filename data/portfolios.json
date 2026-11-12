@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-12T14:36:07.798Z",
-    "total": 2114,
-    "successful": 1802,
+    "scrapedAt": "2026-11-12T23:11:58.376Z",
+    "total": 2116,
+    "successful": 1804,
     "failed": 312,
-    "withEmail": 902,
-    "withGithub": 1221,
-    "withStack": 1493,
-    "withLinkedin": 1112,
+    "withEmail": 904,
+    "withGithub": 1223,
+    "withStack": 1495,
+    "withLinkedin": 1113,
     "withTwitter": 485
   },
   "portfolios": [
@@ -45119,6 +45119,49 @@
       "experience": null,
       "title": "Sujeeth Sundarajan Rajkumar — AI Engineer",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "DeenFoool",
+      "url": "https://deenfoool.github.io/portfolio/",
+      "listedTitle": "Software Developer | Windows Apps, Web Tools & Games",
+      "emails": [
+        "salumbek.den@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Deenfoool"
+      ],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ],
+      "experience": null,
+      "title": "DeenFoool — приложения, веб-инструменты и игры",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Robert Melcher",
+      "url": "https://merox.dev",
+      "listedTitle": "Linux & Infrastructure Engineer | Homelab, Kubernetes",
+      "emails": [
+        "hello@merox.dev"
+      ],
+      "github": [
+        "https://github.com/meroxdotdev"
+      ],
+      "linkedin": "https://www.linkedin.com/in/robert-melcher-92a1a9157",
+      "twitter": null,
+      "stack": [
+        "Go",
+        "Kubernetes"
+      ],
+      "experience": null,
+      "title": "Robert Melcher, Linux and infrastructure engineer | merox",
+      "location": "git at home, and notes on what breaks in both",
       "status": "ok"
     }
   ]
