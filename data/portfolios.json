@@ -1,6 +1,6 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-12T23:11:58.376Z",
+    "scrapedAt": "2026-11-13T23:13:29.199Z",
     "total": 2116,
     "successful": 1804,
     "failed": 312,
@@ -44563,33 +44563,6 @@
       "status": "ok"
     },
     {
-      "name": "Haylee Pulisciano",
-      "url": "https://hellohaylee.com",
-      "listedTitle": "Software Developer | Full Stack Web Development",
-      "emails": [
-        "hkpulisciano@gmail.com"
-      ],
-      "github": [
-        "https://github.com/hayleeekay"
-      ],
-      "linkedin": "https://www.linkedin.com/in/haylee-pulisciano",
-      "twitter": null,
-      "stack": [
-        "React",
-        "Angular",
-        "Astro",
-        "TypeScript",
-        "Java",
-        "PHP",
-        "Laravel",
-        "React Native"
-      ],
-      "experience": null,
-      "title": "Hello, I&#39;m Haylee!",
-      "location": null,
-      "status": "ok"
-    },
-    {
       "name": "Hitarth Anand Rohra",
       "url": "https://www.hitaarthh.com",
       "listedTitle": "Software Engineer | Building Intelligent Systems",
@@ -45162,6 +45135,33 @@
       "experience": null,
       "title": "Robert Melcher, Linux and infrastructure engineer | merox",
       "location": "git at home, and notes on what breaks in both",
+      "status": "ok"
+    },
+    {
+      "name": "Haylee Pulisciano",
+      "url": "https://hellohaylee.com/?utm_source=github&utm_medium=referral&utm_campaign=portfolio&utm_content=developer-portfolios",
+      "listedTitle": "Software Developer | Full Stack Web Development",
+      "emails": [
+        "hkpulisciano@gmail.com"
+      ],
+      "github": [
+        "https://github.com/hayleeekay"
+      ],
+      "linkedin": "https://www.linkedin.com/in/haylee-pulisciano",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Angular",
+        "Astro",
+        "TypeScript",
+        "Java",
+        "PHP",
+        "Laravel",
+        "React Native"
+      ],
+      "experience": null,
+      "title": "Hello, I&#39;m Haylee!",
+      "location": null,
       "status": "ok"
     }
   ]
