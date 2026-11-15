@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-14T12:56:47.754Z",
-    "total": 2119,
-    "successful": 1806,
+    "scrapedAt": "2026-11-15T04:46:00.758Z",
+    "total": 2120,
+    "successful": 1807,
     "failed": 313,
-    "withEmail": 906,
-    "withGithub": 1225,
-    "withStack": 1497,
+    "withEmail": 907,
+    "withGithub": 1226,
+    "withStack": 1498,
     "withLinkedin": 1115,
-    "withTwitter": 485
+    "withTwitter": 486
   },
   "portfolios": [
     {
@@ -45234,6 +45234,37 @@
       "listedTitle": "Data & AI Engineer",
       "status": "error",
       "error": "HTTP 429"
+    },
+    {
+      "name": "Sohan Bhat",
+      "url": "https://sohanbhat.me",
+      "listedTitle": "Machine Learning | Web Apps | Robotics",
+      "emails": [
+        "sohanrambhat@gmail.com"
+      ],
+      "github": [
+        "https://github.com/sohan-bhat",
+        "https://github.com/FRC2714"
+      ],
+      "linkedin": null,
+      "twitter": "https://x.com/The_Sohan_Bhat",
+      "stack": [
+        "React",
+        "Svelte",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Kotlin",
+        "Node.js",
+        "Express"
+      ],
+      "experience": null,
+      "title": "Sohan Bhat",
+      "location": "scratch, web apps, and robots",
+      "status": "ok"
     }
   ]
 }
