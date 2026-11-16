@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-15T22:27:35.093Z",
-    "total": 2110,
-    "successful": 1800,
+    "scrapedAt": "2026-11-16T14:44:47.688Z",
+    "total": 2113,
+    "successful": 1803,
     "failed": 310,
-    "withEmail": 901,
-    "withGithub": 1220,
-    "withStack": 1491,
-    "withLinkedin": 1110,
+    "withEmail": 904,
+    "withGithub": 1221,
+    "withStack": 1494,
+    "withLinkedin": 1113,
     "withTwitter": 484
   },
   "portfolios": [
@@ -45068,6 +45068,79 @@
       "experience": null,
       "title": "Yevhen Makes",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Harsh Tiwari",
+      "url": "https://portfolio-geld-zuersts-projects.vercel.app/",
+      "listedTitle": "Full Stack Developer | AI Enthusiast",
+      "emails": [
+        "harsh.tiwari7112@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Geld-zuerst"
+      ],
+      "linkedin": "https://www.linkedin.com/in/harshkumartiwari7112",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "Python",
+        "Django"
+      ],
+      "experience": null,
+      "title": "Harsh Tiwari — Builder &amp; Learner",
+      "location": "the ground up",
+      "status": "ok"
+    },
+    {
+      "name": "Oleg Vishnevsky",
+      "url": "https://lovelyfriendly.com/",
+      "listedTitle": "Design Director | Design Engineer",
+      "emails": [
+        "vvvvishnevsky@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/olegvishnevsky",
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        ".NET"
+      ],
+      "experience": null,
+      "title": "Oleg Vishnevsky — AI-driven Engineer, Digital Lead, Expert in Visual &amp; UX, Design Director",
+      "location": "the visual side",
+      "status": "ok"
+    },
+    {
+      "name": "Vishwa Gaurav Shukla",
+      "url": "https://vishwagauravshukla.vercel.app",
+      "listedTitle": "Full Stack Software Engineer | AI Driven Full Stack Software Engineer",
+      "emails": [
+        "shuklavishwagaurav@gmail.com"
+      ],
+      "github": [],
+      "linkedin": "https://www.linkedin.com/in/vgs-profile",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Laravel",
+        "Azure",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Vishwa Gaurav Shukla | Full Stack Software Engineer (React, Node, AI)",
+      "location": "seo",
       "status": "ok"
     }
   ]
