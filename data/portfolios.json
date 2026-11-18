@@ -1,9 +1,9 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-16T14:44:47.688Z",
-    "total": 2113,
+    "scrapedAt": "2026-11-18T00:30:12.758Z",
+    "total": 2114,
     "successful": 1803,
-    "failed": 310,
+    "failed": 311,
     "withEmail": 904,
     "withGithub": 1221,
     "withStack": 1494,
@@ -45142,6 +45142,13 @@
       "title": "Vishwa Gaurav Shukla | Full Stack Software Engineer (React, Node, AI)",
       "location": "seo",
       "status": "ok"
+    },
+    {
+      "name": "Sanoj D",
+      "url": "https://sanoj.dev",
+      "listedTitle": "AI Engineer | Machine Learning",
+      "status": "error",
+      "error": "HTTP 403"
     }
   ]
 }
