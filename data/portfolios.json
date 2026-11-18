@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-18T00:30:12.758Z",
-    "total": 2114,
-    "successful": 1803,
+    "scrapedAt": "2026-11-18T15:04:23.358Z",
+    "total": 2116,
+    "successful": 1805,
     "failed": 311,
-    "withEmail": 904,
-    "withGithub": 1221,
-    "withStack": 1494,
-    "withLinkedin": 1113,
-    "withTwitter": 484
+    "withEmail": 905,
+    "withGithub": 1222,
+    "withStack": 1496,
+    "withLinkedin": 1114,
+    "withTwitter": 485
   },
   "portfolios": [
     {
@@ -45149,6 +45149,55 @@
       "listedTitle": "AI Engineer | Machine Learning",
       "status": "error",
       "error": "HTTP 403"
+    },
+    {
+      "name": "Falak Gala",
+      "url": "https://falakgala.dev",
+      "listedTitle": "AI Engineer | Full-Stack & Next.js Developer",
+      "emails": [
+        "hi@falakgala.dev"
+      ],
+      "github": [
+        "https://github.com/FALAK097",
+        "https://github.com/Falak097"
+      ],
+      "linkedin": "https://www.linkedin.com/in/falak-gala",
+      "twitter": "https://x.com/FalakGala097",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Swift",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Falak Gala — Software, AI &amp; Next.js Product Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Lucas GUELL",
+      "url": "https://lucasguell.com",
+      "listedTitle": "Full Stack Developer & Data Analyst",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Python"
+      ],
+      "experience": null,
+      "title": "Lucas GUELL - Full Stack Developer & Data Analyst",
+      "location": null,
+      "status": "ok"
     }
   ]
 }
