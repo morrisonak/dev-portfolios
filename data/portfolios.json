@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-18T15:04:23.358Z",
-    "total": 2116,
-    "successful": 1805,
+    "scrapedAt": "2026-11-18T23:52:10.918Z",
+    "total": 2118,
+    "successful": 1807,
     "failed": 311,
-    "withEmail": 905,
-    "withGithub": 1222,
-    "withStack": 1496,
-    "withLinkedin": 1114,
-    "withTwitter": 485
+    "withEmail": 907,
+    "withGithub": 1224,
+    "withStack": 1498,
+    "withLinkedin": 1116,
+    "withTwitter": 486
   },
   "portfolios": [
     {
@@ -45197,6 +45197,74 @@
       "experience": null,
       "title": "Lucas GUELL - Full Stack Developer & Data Analyst",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Aniruddha Sarkar",
+      "url": "https://aniruddhasarkar.vercel.app",
+      "listedTitle": "AI Inference Engineer | Robotics & Deep Reinforcement Learning",
+      "emails": [
+        "aniruddhas588@gmail.com"
+      ],
+      "github": [
+        "https://github.com/Aniruddha120",
+        "https://github.com/praxiomlabs"
+      ],
+      "linkedin": "https://www.linkedin.com/in/sarkar-aniruddha",
+      "twitter": "https://twitter.com/SarkarEternity",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Docker",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "Aniruddha Sarkar — Backend &amp; AI Application Developer",
+      "location": "VOC emissions and ambient temperature",
+      "status": "ok"
+    },
+    {
+      "name": "Ashzaeen Fatmi Khan",
+      "url": "https://www.ashzaeen.com",
+      "listedTitle": "Software Developer | Product Thinker",
+      "emails": [
+        "afk6801@mavs.uta.edu"
+      ],
+      "github": [
+        "https://github.com/Ashzaeen",
+        "https://github.com/ashzaeen"
+      ],
+      "linkedin": "https://www.linkedin.com/in/ashzaeen",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "Swift",
+        "Kotlin",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Spring",
+        "AWS",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        "Figma"
+      ],
+      "experience": null,
+      "title": "Ashzaeen Fatmi Khan - Personal Portfolio",
+      "location": "it",
       "status": "ok"
     }
   ]
