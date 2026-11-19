@@ -1,12 +1,12 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-18T23:52:10.918Z",
-    "total": 2118,
-    "successful": 1807,
+    "scrapedAt": "2026-11-19T15:13:41.407Z",
+    "total": 2120,
+    "successful": 1809,
     "failed": 311,
-    "withEmail": 907,
+    "withEmail": 908,
     "withGithub": 1224,
-    "withStack": 1498,
+    "withStack": 1500,
     "withLinkedin": 1116,
     "withTwitter": 486
   },
@@ -45265,6 +45265,42 @@
       "experience": null,
       "title": "Ashzaeen Fatmi Khan - Personal Portfolio",
       "location": "it",
+      "status": "ok"
+    },
+    {
+      "name": "Clockwise3000",
+      "url": "https://clockwise3000.online",
+      "listedTitle": "Full Stack Developer | 3D Artist/Modeler",
+      "emails": [
+        "hire@clockwise3000.online"
+      ],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "JavaScript",
+        "PHP"
+      ],
+      "experience": null,
+      "title": "Clockwise3000 Personal Website",
+      "location": "the website or downloadable",
+      "status": "ok"
+    },
+    {
+      "name": "GallantTarry",
+      "url": "https://xn--udsye.art",
+      "listedTitle": "TuKuai OS | Full Stack Developer",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "Vue",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "少侠别走",
+      "location": null,
       "status": "ok"
     }
   ]
