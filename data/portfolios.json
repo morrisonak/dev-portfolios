@@ -1,13 +1,13 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-20T14:52:34.422Z",
-    "total": 2123,
-    "successful": 1812,
+    "scrapedAt": "2026-11-20T23:39:45.564Z",
+    "total": 2124,
+    "successful": 1813,
     "failed": 311,
-    "withEmail": 911,
-    "withGithub": 1227,
-    "withStack": 1503,
-    "withLinkedin": 1119,
+    "withEmail": 912,
+    "withGithub": 1228,
+    "withStack": 1504,
+    "withLinkedin": 1120,
     "withTwitter": 488
   },
   "portfolios": [
@@ -45388,6 +45388,31 @@
       ],
       "experience": null,
       "title": "Abhishek Dhiman",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Rachit Mangawa",
+      "url": "https://rachit-mangawa.github.io/",
+      "listedTitle": "Software Engineer | Systems & AI",
+      "emails": [
+        "rachit.mangawa.work@gmail.com"
+      ],
+      "github": [
+        "https://github.com/rachit-mangawa",
+        "https://github.com/tensorflow"
+      ],
+      "linkedin": "https://www.linkedin.com/in/rachit-mangawa",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Docker"
+      ],
+      "experience": null,
+      "title": "Rachit Mangawa | Software Engineer · Systems &amp; AI Portfolio",
       "location": null,
       "status": "ok"
     }
