@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-19T15:13:41.407Z",
-    "total": 2120,
-    "successful": 1809,
+    "scrapedAt": "2026-11-20T00:16:39.679Z",
+    "total": 2122,
+    "successful": 1811,
     "failed": 311,
-    "withEmail": 908,
-    "withGithub": 1224,
-    "withStack": 1500,
-    "withLinkedin": 1116,
-    "withTwitter": 486
+    "withEmail": 910,
+    "withGithub": 1226,
+    "withStack": 1502,
+    "withLinkedin": 1118,
+    "withTwitter": 487
   },
   "portfolios": [
     {
@@ -45301,6 +45301,69 @@
       "experience": null,
       "title": "少侠别走",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Joshua Ogo",
+      "url": "https://byteprowler.vercel.app",
+      "listedTitle": "Full Stack Developer | Frontend Developer",
+      "emails": [
+        "guest@domain-nexus.com",
+        "joshuaexcellency1@gmail.com"
+      ],
+      "github": [
+        "https://github.com/byteprowler"
+      ],
+      "linkedin": "https://linkedin.com/in/ogo-joshua",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Vue",
+        "Svelte",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "Tailwind"
+      ],
+      "experience": null,
+      "title": "ByteProwler | Frontend Developer",
+      "location": "layout systems to API connections and backend routes, I build interfaces that feel sharp, usable, an",
+      "status": "ok"
+    },
+    {
+      "name": "Mariusz Szatkowski",
+      "url": "https://wppoland.com/en/",
+      "listedTitle": "WordPress & Software Developer | WooCommerce, Astro, AI integrations",
+      "emails": [
+        "hello@wppoland.com"
+      ],
+      "github": [
+        "https://github.com/wppoland"
+      ],
+      "linkedin": "https://www.linkedin.com/in/mariuszszatkowski",
+      "twitter": "https://x.com/wppoland",
+      "stack": [
+        "React",
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "JavaScript",
+        "Rust",
+        "Go",
+        "PHP",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Tailwind",
+        "GraphQL",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": "20+ years",
+      "title": "WordPress Developer &amp; Freelancer | WPPoland",
+      "location": "Gdynia, Poland, EU",
       "status": "ok"
     }
   ]
