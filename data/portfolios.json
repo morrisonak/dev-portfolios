@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-20T00:16:39.679Z",
-    "total": 2122,
-    "successful": 1811,
+    "scrapedAt": "2026-11-20T14:52:34.422Z",
+    "total": 2123,
+    "successful": 1812,
     "failed": 311,
-    "withEmail": 910,
-    "withGithub": 1226,
-    "withStack": 1502,
-    "withLinkedin": 1118,
-    "withTwitter": 487
+    "withEmail": 911,
+    "withGithub": 1227,
+    "withStack": 1503,
+    "withLinkedin": 1119,
+    "withTwitter": 488
   },
   "portfolios": [
     {
@@ -45364,6 +45364,31 @@
       "experience": "20+ years",
       "title": "WordPress Developer &amp; Freelancer | WPPoland",
       "location": "Gdynia, Poland, EU",
+      "status": "ok"
+    },
+    {
+      "name": "Abhishek Dhiman",
+      "url": "https://codedhiman.pages.dev/",
+      "listedTitle": "Backend and AI Engineer",
+      "emails": [
+        "abhishek.v.dhiman@gmail.com"
+      ],
+      "github": [
+        "https://github.com/abhishek-dhnma"
+      ],
+      "linkedin": "https://www.linkedin.com/in/codedhiman",
+      "twitter": "https://x.com/codedhiman",
+      "stack": [
+        "Python",
+        "Java",
+        "Spring",
+        "Azure",
+        "MongoDB",
+        "Redis"
+      ],
+      "experience": null,
+      "title": "Abhishek Dhiman",
+      "location": null,
       "status": "ok"
     }
   ]
