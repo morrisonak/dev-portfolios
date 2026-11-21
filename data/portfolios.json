@@ -1,14 +1,14 @@
 {
   "meta": {
-    "scrapedAt": "2026-11-20T23:39:45.564Z",
-    "total": 2124,
-    "successful": 1813,
+    "scrapedAt": "2026-11-21T14:11:16.587Z",
+    "total": 2127,
+    "successful": 1816,
     "failed": 311,
-    "withEmail": 912,
-    "withGithub": 1228,
-    "withStack": 1504,
-    "withLinkedin": 1120,
-    "withTwitter": 488
+    "withEmail": 914,
+    "withGithub": 1230,
+    "withStack": 1507,
+    "withLinkedin": 1122,
+    "withTwitter": 489
   },
   "portfolios": [
     {
@@ -45414,6 +45414,89 @@
       "experience": null,
       "title": "Rachit Mangawa | Software Engineer · Systems &amp; AI Portfolio",
       "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Ali Haider",
+      "url": "https://alihaiderdev.netlify.app/",
+      "listedTitle": "Senior Full Stack Developer | WordPress, WooCommerce, React, Next.js",
+      "emails": [
+        "ah712200@gmail.com"
+      ],
+      "github": [
+        "https://github.com/alihaider0315"
+      ],
+      "linkedin": "https://www.linkedin.com/in/alihaider0315",
+      "twitter": "https://x.com/alihaider3299",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "PHP",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Firebase",
+        "Tailwind",
+        ".NET",
+        "WordPress"
+      ],
+      "experience": "6+ years",
+      "title": "Ali Haider — WordPress & Full Stack Developer",
+      "location": "Karachi, Pakistan",
+      "status": "ok"
+    },
+    {
+      "name": "Armandeep Singh",
+      "url": "https://ummmmarmaaan.github.io/",
+      "listedTitle": "Full Stack Developer | React, Next.js & TypeScript",
+      "emails": [],
+      "github": [],
+      "linkedin": null,
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js"
+      ],
+      "experience": null,
+      "title": "Armandeep Singh — Software Engineer",
+      "location": null,
+      "status": "ok"
+    },
+    {
+      "name": "Pavan Vasita",
+      "url": "https://pavan-web-portfolio.vercel.app",
+      "listedTitle": "Web Developer | WordPress Developer",
+      "emails": [
+        "pvnasita04@gmail.com"
+      ],
+      "github": [
+        "https://github.com/pavantech48"
+      ],
+      "linkedin": "https://www.linkedin.com/in/pavan-kumar-vasita",
+      "twitter": null,
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "PHP",
+        "Node.js",
+        "Express",
+        "Laravel",
+        "MongoDB",
+        "MySQL",
+        "Tailwind",
+        "WordPress"
+      ],
+      "experience": null,
+      "title": "Pavan Vasita — Web Developer &amp; WordPress Developer in Udaipur",
+      "location": "Udaipur, Rajasthan",
       "status": "ok"
     }
   ]
